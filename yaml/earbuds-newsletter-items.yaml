@@ -246,102 +246,102 @@ issues:
   podcasts:
 
   - title: PRIDE Daily
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.instagram.com/pridedailypod
+    xmlUrl: https://feeds.acast.com/public/shows/66a4d90970177ec184ae4c9f
 
   - title: Queer News
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://e3radio.fm/
+    xmlUrl: https://queernews.libsyn.com/rss
 
   - title: I'm Feeling Queer Today!
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://shows.acast.com/im-feeling-queer-today
+    xmlUrl: https://feeds.acast.com/public/shows/6565fad78eb9a90011b98dda
 
-  - title: OUTCAST WORLD
-    htmlUrl: null
-    xmlUrl: null
+  - title: OUTCAST WORLD - The queer group chat
+    htmlUrl: https://shows.acast.com/outcast-world
+    xmlUrl: https://feeds.acast.com/public/shows/6812b45b6ac0e5213bb8335e
 
   - title: But We Loved
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.iheart.com/podcast/174494262
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4365acca-1f65-435c-8b71-b145011c4011/9cc026bb-9d6a-4b51-a571-b145011d1507/podcast.rss
 
 - name: Personal History Podcast Recommendations
   opml: earbuds-personal-history-podcast-recommendations.opml
-  date: '2025-06-02'
+  date: '2025-06-01'
   htmlUrl: https://newsletter.earbuds.audio/p/personal-history-podcast-recommendations
   podcasts:
 
   - title: The Man Who Calculated Death
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://art19.com/shows/the-man-who-calculated-death
+    xmlUrl: https://rss.art19.com/the-man-who-calculated-death
 
   - title: The Nightingale of Iran
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.nightingaleofiran.com/
+    xmlUrl: https://publicfeeds.net/f/5934/feed-rss.xml
 
-  - title: 'Stolen: Surviving St. Michael''s'
-    htmlUrl: null
-    xmlUrl: null
+  - title: Stolen
+    htmlUrl: https://feeds.megaphone.fm/stolen-jermain-spot
+    xmlUrl: https://podcasterwallet.com/?pcid=1382351
 
   - title: Lucky Boy
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://shows.acast.com/lucky-boy
+    xmlUrl: https://feeds.acast.com/public/shows/688b423b811827610936a2c0
 
   - title: Your Own Backyard
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://yourownbackyardpodcast.com/
+    xmlUrl: https://yourownbackyard.libsyn.com/rss
 
 - name: Australia's Best Finance Podcast Recommendations 🇦🇺
   opml: earbuds-australias-best-finance-podcast-recommendations.opml
-  date: '2025-05-26'
+  date: '2025-05-25'
   htmlUrl: https://newsletter.earbuds.audio/p/australia-finance-podcast-recommendations
   podcasts:
 
   - title: Money and Investing with Andrew Baxter
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://podcast.moneyandinvesting.com.au/
+    xmlUrl: https://podcast.moneyandinvesting.com.au/feed.xml
 
-  - title: Property Hub - Investment Insights Inspiration
-    htmlUrl: null
-    xmlUrl: null
+  - title: Property Hub - Investment Insights & Inspiration
+    htmlUrl: https://bushymartin.com.au/
+    xmlUrl: https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/89973d26-82d7-4a68-b6f6-af8f017aed9e/579ff1d9-993d-4e4c-a8e3-af8f017aedb6/podcast.rss
 
   - title: You Have My Interest - Getting Personal With Property Finance
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://everlend.com.au/
+    xmlUrl: https://anchor.fm/s/cd73caa8/podcast/rss
 
   - title: She's On The Money
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.shesonthemoney.com.au/
+    xmlUrl: https://www.omnycontent.com/d/playlist/fa326977-3de5-4283-9b8b-af3500c58607/0c6189e6-78f6-4f47-b25d-af4600179991/1dc0ac03-61e1-486c-b9be-af460017999b/podcast.rss
 
   - title: How Do They Afford That?
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://fearandgreed.com.au/
+    xmlUrl: https://www.omnycontent.com/d/playlist/2fb3740d-3436-44af-8cc0-a91900716aa5/13d6619c-963c-4221-9e01-af0a00927432/1d728945-f17e-49ee-9598-af0a009354ca/podcast.rss
 
 - name: 5 Podcast Recommendations Breaking Cultural & Hierarchical Barriers
   opml: earbuds-5-podcast-recommendations-breaking-cultural-hierarchical-barriers.opml
-  date: '2025-05-19'
+  date: '2025-05-18'
   htmlUrl: https://newsletter.earbuds.audio/p/5-podcast-recommendations-breaking-cultural-hierarchical-barriers
   podcasts:
 
   - title: The Mel Robbins Podcast
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/UCwaTX1J
 
   - title: We Can Do Hard Things
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://wecandohardthingspodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/wcdht
 
   - title: Beauty in the Break
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://beautyinthebreak.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/2448921.rss
 
-  - title: My Feelings Over Tea
-    htmlUrl: null
-    xmlUrl: null
+  - title: My Feelings Over Tea Podcast
+    htmlUrl: http://myfeelingsovertea.libsyn.com/website
+    xmlUrl: https://myfeelingsovertea.libsyn.com/rss
 
   - title: A Millennial Mind
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://amillennialmind.libsyn.com/website
+    xmlUrl: https://feeds.megaphone.fm/APL2510885305
 
 - name: 5 Sex-Positive Podcast Recommendations
   opml: earbuds-5-sex-positive-podcast-recommendations.opml
