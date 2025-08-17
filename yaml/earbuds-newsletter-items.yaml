@@ -345,85 +345,81 @@ issues:
 
 - name: 5 Sex-Positive Podcast Recommendations
   opml: earbuds-5-sex-positive-podcast-recommendations.opml
-  date: '2025-05-12'
+  date: '2025-05-11'
   htmlUrl: https://newsletter.earbuds.audio/p/5-sex-positive-podcast-recommendations
   podcasts:
 
   - title: Come As You Are
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.pushkin.fm/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/b6e1189f-bdb5-4e06-b09e-aea9011f6386/77150e8c-82fb-4c95-83e7-aea9011fd818/podcast.rss
 
-  - title: Sex Ed with DB
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'Sex Ed with DB: smart, science-backed sex education'
+    htmlUrl: http://www.sexedwithdb.com/
+    xmlUrl: https://sexedwithdb.libsyn.com/rss
 
-  - title: LOVERS by Shan
-    htmlUrl: null
-    xmlUrl: null
+  - title: LOVERS by shan
+    htmlUrl: http://loversbyshan.com/
+    xmlUrl: https://audioboom.com/channels/5085699.rss
 
   - title: Brown Girls Do It Too
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.bbc.co.uk/programmes/p08k5cp0
+    xmlUrl: https://podcasts.files.bbci.co.uk/p08k5cp0.rss
 
   - title: Queer Sex Ed Podcast
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.queersexed.org/
+    xmlUrl: https://queersexed.libsyn.com/rss
 
 - name: The Future Sounds Better with these Science Podcasts 🔭
   opml: earbuds-the-future-sounds-better-with-these-science-podcasts.opml
-  date: '2025-05-05'
+  date: '2025-05-04'
   htmlUrl: https://newsletter.earbuds.audio/p/future-science-podcasts-2025
   podcasts:
 
-  - title: Balancing the Future
-    htmlUrl: null
-    xmlUrl: null
+  - title: Balancing The Future
+    htmlUrl: https://www.mt.com/nz/en/home/library/podcast/laboratory-division/balancing-the-future-laboratory-podcast.html
+    xmlUrl: https://feeds.transistor.fm/balancing-the-future
 
   - title: Ologies with Alie Ward
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/FO6kxYGj
 
-  - title: Science in Action
-    htmlUrl: null
-    xmlUrl: null
+  - title: Science In Action
+    htmlUrl: http://www.bbc.co.uk/programmes/p002vsnb
+    xmlUrl: https://podcasts.files.bbci.co.uk/p002vsnb.rss
 
   - title: Science Friday
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.wnycstudios.org/podcasts/science-friday
+    xmlUrl: https://feeds.feedburner.com/science-friday/
 
   - title: New Scientist Weekly
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://shows.acast.com/new-scientist-weekly-extra
+    xmlUrl: https://feeds.megaphone.fm/ARML8211293878
 
 - name: Earth Day 🌎 Podcast Recommendations 2025
   opml: earbuds-earth-day-podcast-recommendations-2025.opml
-  date: '2025-04-28'
+  date: '2025-04-27'
   htmlUrl: https://newsletter.earbuds.audio/p/earth-day-podcast-recommendations-2025
   podcasts:
 
-  - title: Why this theme?
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: 'Bioneers: Revolution from the Heart of Nature'
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'Bioneers: Revolution From the Heart of Nature'
+    htmlUrl: https://bioneers.org/
+    xmlUrl: https://feeds.megaphone.fm/bioneers
 
   - title: The Nature Of with Willow Defebaugh
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://the-nature-of.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/kjVlTFLO
 
   - title: The Native Seed Pod
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.nativeseedpod.org/podcast/
+    xmlUrl: https://cultural-conservancy-gbl5.squarespace.com/podcast?format=rss
 
   - title: Future Ecologies
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.futureecologies.net/
+    xmlUrl: https://feeds.captivate.fm/future-ecologies/
 
   - title: Threshold
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.thresholdpodcast.org/
+    xmlUrl: https://feeds.captivate.fm/threshold/
 
 - name: Zibby Owens' Top Podcast Picks for Wisdom & Inspiration 🎧
   opml: earbuds-zibby-owens-top-podcast-picks-for-wisdom-inspiration.opml
