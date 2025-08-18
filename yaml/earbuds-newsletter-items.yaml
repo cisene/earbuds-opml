@@ -683,29 +683,29 @@ issues:
 
 - name: Podcasts on Love and Dating 💘 & Happy 8th to EarBuds
   opml: earbuds-podcasts-on-love-and-dating-happy-8th-to-earbuds.opml
-  date: '2025-02-17'
+  date: '2025-02-16'
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-love-dating-relationships-valentines
   podcasts:
 
   - title: Girls Gotta Eat
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://art19.com/shows/girls-gotta-eat
+    xmlUrl: https://feeds.libsyn.com/115736/rss
 
   - title: We Can Do Hard Things
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://wecandohardthingspodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/wcdht
 
   - title: The Deep by Zoe Marshall
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://shows.acast.com/the-deep-zoe-marshall
+    xmlUrl: https://feeds.acast.com/public/shows/678debaf5dd9c67f17f269b2
 
   - title: The Receipts Podcast
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://shows.acast.com/the-receipts-podcast
+    xmlUrl: https://feeds.acast.com/public/shows/67dbd903782fc3c7c6b02a0b
 
-  - title: Love-ly
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'Love-ly: Exploring Modern Relationships'
+    htmlUrl: http://immigrantlypod.com/
+    xmlUrl: https://feeds.megaphone.fm/ALMIR5388284817
 
 - name: Podcasts for Black History Month 🎙️
   opml: earbuds-podcasts-for-black-history-month.opml
