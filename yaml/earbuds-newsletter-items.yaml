@@ -631,25 +631,25 @@ issues:
 
 - name: Climate & Justice Podcast Recommendations🪸
   opml: earbuds-climate-justice-podcast-recommendations.opml
-  date: '2025-03-05'
+  date: '2025-03-02'
   htmlUrl: https://newsletter.earbuds.audio/p/climate-social-justice-podcast-recommendations
   podcasts:
 
-  - title: Have You Heard George’s Podcast?
-    htmlUrl: null
-    xmlUrl: null
+  - title: Have You Heard George's Podcast?
+    htmlUrl: http://www.bbc.co.uk/programmes/p07915kd
+    xmlUrl: https://podcasts.files.bbci.co.uk/p07915kd.rss
 
   - title: Invisibilia
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.npr.org/podcasts/510307/invisibilia
+    xmlUrl: https://feeds.npr.org/510307/podcast.xml
 
   - title: From The Embers
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.cbaa.org.au/fromtheembers
+    xmlUrl: https://www.omnycontent.com/d/playlist/e9d8aa70-1cf5-4283-a556-ab8a00513c19/1fbb0379-6715-48dd-8751-ab9d003d4f19/6003fa61-2c2d-40e7-ab52-ab9d00590bc3/podcast.rss
 
-  - title: The BlindBoy Podcast
-    htmlUrl: null
-    xmlUrl: null
+  - title: The Blindboy Podcast
+    htmlUrl: https://twitter.com/Rubberbandits
+    xmlUrl: https://feeds.acast.com/public/shows/9d5c107b-68d6-4c1b-8c80-45ee6a84c947
 
   - title: Scene On Radio
     htmlUrl: null
