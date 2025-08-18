@@ -709,29 +709,29 @@ issues:
 
 - name: Podcasts for Black History Month 🎙️
   opml: earbuds-podcasts-for-black-history-month.opml
-  date: 1970-01-01
+  date: 2025-02-09
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-black-history-month-2025
   podcasts:
 
-  - title: Black Healing Remixed
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'BEAM: Black Healing Remixed - The Podcast'
+    htmlUrl: https://beam.community/podcast/
+    xmlUrl: https://audioboom.com/channels/5114126.rss
 
   - title: Therapy for Black Girls
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://therapyforblackgirls.com/podcast
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2a22ac04-0eb4-4aad-8dc2-ae270179efb9/2d42d89c-4962-4760-a616-ae270179efd5/podcast.rss
 
   - title: Hope & Hard Pills
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://hope-hard-pills.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/YQPf92Yx
 
   - title: FANTI
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://maximumfun.org/podcasts/fanti/
+    xmlUrl: https://feeds.simplecast.com/4jxztCzv
 
   - title: Vibe Check
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/tA_4bn2c
 
 - name: International Podcast Recommendations 🌎
   opml: earbuds-international-podcast-recommendations.opml
