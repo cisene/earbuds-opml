@@ -651,35 +651,35 @@ issues:
     htmlUrl: https://twitter.com/Rubberbandits
     xmlUrl: https://feeds.acast.com/public/shows/9d5c107b-68d6-4c1b-8c80-45ee6a84c947
 
-  - title: Scene On Radio
-    htmlUrl: null
-    xmlUrl: null
+  - title: Scene on Radio
+    htmlUrl: http://www.sceneonradio.org/
+    xmlUrl: https://feeds.sceneonradio.org/SceneOnRadio
 
 - name: Podcasts That''ll Rewire Your Brain, Curated by Miriam Tinberg 🧠
-  opml: earbuds-podcasts-thatll-rewire-your-brain-curated-by-miriam-tinberg.opml
+  opml: earbuds-podcasts-thatll-rewire-your-brain.opml
   date: '2025-02-24'
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-that-ll-rewire-your-brain-curated-by-miriam-tinberg
   podcasts:
 
-  - title: The Best of “How To”
-    htmlUrl: null
-    xmlUrl: null
+  - title: How to Age Up
+    htmlUrl: https://www.theatlantic.com/podcasts/how-to-build-a-happy-life/
+    xmlUrl: https://feeds.megaphone.fm/howto
 
   - title: Longform
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://longform.org/
+    xmlUrl: https://feeds.megaphone.fm/VMP6079657536
 
   - title: The Gray Area with Sean Illing
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.vox.com/vox-conversations-podcast
+    xmlUrl: https://feeds.megaphone.fm/theezrakleinshow
 
   - title: A Slight Change of Plans with Maya Shankar
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.pushkin.fm/podcasts/a-slight-change-of-plans
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/d548f2c1-d522-4aa8-9ff3-ae3900375d41/podcast.rss
 
   - title: Diabolical Lies
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.diabolicalliespod.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/2836327.rss
 
 - name: Podcasts on Love and Dating 💘 & Happy 8th to EarBuds
   opml: earbuds-podcasts-on-love-and-dating-happy-8th-to-earbuds.opml
