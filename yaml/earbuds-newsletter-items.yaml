@@ -739,17 +739,17 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/international-podcast-recommendations
   podcasts:
 
-  - title: Sea of Rage
-    htmlUrl: null
-    xmlUrl: null
+  - title: Europod • English
+    htmlUrl: https://www.europod.eu/
+    xmlUrl: https://feeds.acast.com/public/shows/612f5f5922efc20019aa50f1
 
   - title: T42
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://rss.com/podcasts/t42
+    xmlUrl: https://anchor.fm/s/1007726c0/podcast/rss
 
   - title: Aborsh
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.aborsh.com/podcast/
+    xmlUrl: https://www.aborsh.com/podcast?format=rss
 
   - title: The Lebo Lion Show
     htmlUrl: null
