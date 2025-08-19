@@ -735,7 +735,7 @@ issues:
 
 - name: International Podcast Recommendations 🌎
   opml: earbuds-international-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2025-02-02
   htmlUrl: https://newsletter.earbuds.audio/p/international-podcast-recommendations
   podcasts:
 
@@ -752,38 +752,38 @@ issues:
     xmlUrl: https://www.aborsh.com/podcast?format=rss
 
   - title: The Lebo Lion Show
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.youtube.com/@LeboLionSA
+    xmlUrl: https://www.youtube.com/playlist?list=PLmFP0zqBgmkaybE-2aFCwHI1y3torfLgL
 
   - title: Barefoot Boys
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://luminary.link/barefoot
+    xmlUrl: https://rss.pdrl.fm/2d456a/feeds.acast.com/public/shows/64d6349d8f0a1d0011a5f0ec
 
 - name: Podcasts recommendations on neurodiversity 🧠
   opml: earbuds-podcasts-recommendations-on-neurodiversity.opml
-  date: 1970-01-01
+  date: 2025-01-26
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-recommendations-neurodiversity
   podcasts:
 
   - title: The Unfinished Idea
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://feeds.megaphone.fm/TSF1839726867
+    xmlUrl: https://podcasterwallet.com/?pcid=7045757
 
-  - title: You're Wrong about ADHD
-    htmlUrl: null
-    xmlUrl: null
+  - title: You're Wrong About ADHD
+    htmlUrl: https://youre-wrong-about-adhd.captivate.fm/
+    xmlUrl: https://feeds.captivate.fm/youre-wrong-about-adhd/
 
   - title: The Hidden 20%
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://shows.acast.com/hidden-20
+    xmlUrl: https://feeds.acast.com/public/shows/657b32c48f98e20016664592
 
   - title: Skip The Small Talk with Ellie Middleton
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://podcasters.spotify.com/pod/show/elliemidds
+    xmlUrl: https://anchor.fm/s/fb36e510/podcast/rss
 
-  - title: 'Embracing Neuro-Diversity: The Podcast'
-    htmlUrl: null
-    xmlUrl: null
+  - title: Learning Curves and Coffee | Embracing Neuro-Diversity
+    htmlUrl: https://www.embrace-neuro-diversity.com/
+    xmlUrl: https://anchor.fm/s/d472f5b8/podcast/rss
 
 - name: Podcasts about Moving Abroad 🛩️
   opml: earbuds-podcasts-about-moving-abroad.opml
