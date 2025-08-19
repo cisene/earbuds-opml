@@ -1019,31 +1019,31 @@ issues:
     htmlUrl: http://sidequestingpod.com/
     xmlUrl: https://feeds.megaphone.fm/SBP5496629043
 
-- name: Best Interview Episodes on Celebrity (& Celeb-Adjacent) Podcasts⭐
+- name: Best Interview Episodes on Celebrity (& Celeb-Adjacent) Podcasts ⭐
   opml: earbuds-best-interview-episodes-on-celebrity-celeb-adjacent-podcasts.opml
-  date: 1970-01-01
+  date: 2024-11-18
   htmlUrl: https://newsletter.earbuds.audio/p/best-interview-podcast-episodes-celebrities
   podcasts:
 
   - title: Talk Easy with Sam Fragoso
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.talkeasypod.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/c36fcce4-b3bb-4fef-bf5f-b24901757a28/379dee35-c408-449a-b225-b24901757a46/podcast.rss
 
-  - title: It’s Been a Minute
-    htmlUrl: null
-    xmlUrl: null
+  - title: It's Been a Minute
+    htmlUrl: https://www.npr.org/podcasts/510317/its-been-a-minute
+    xmlUrl: https://feeds.npr.org/510317/podcast.xml
 
   - title: Fake Doctors, Real Friends with Zach and Donald
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.iheart.com/podcast/1119-fake-doctors-real-friends-60367049/
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0C6FC944-EAA5-4022-8E77-AE3300346D76/45A735B6-E1B8-49F9-A595-AE3300346D84/podcast.rss
 
   - title: The Worst Podcast
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://play.acast.com/s/the-worst-podcast
+    xmlUrl: https://feeds.acast.com/public/shows/7ecaf7f7-01bb-4aff-9f1b-857cd75d5f1c
 
   - title: On with Kara Swisher
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://nymag.com/
+    xmlUrl: https://feeds.megaphone.fm/VMP1684715893
 
 - name: The Perfect Holiday Gift for Podcasters. Love, EarBuds🎁
   opml: earbuds-the-perfect-holiday-gift-for-podcasters-love-earbuds.opml
