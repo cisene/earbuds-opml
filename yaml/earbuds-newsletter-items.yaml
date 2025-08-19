@@ -995,29 +995,29 @@ issues:
 
 - name: Fantasy Audio Drama Podcast Recommendations 🔮
   opml: earbuds-fantasy-audio-drama-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2024-11-24
   htmlUrl: https://newsletter.earbuds.audio/p/fantasy-audio-drama-podcast-recommendations-2024
   podcasts:
 
   - title: Stories from Ylelmore
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://itmepodcast.com/storiesfromylelmore/
+    xmlUrl: https://itmepodcast.com/storiesfromylelmore/?format=rss
 
   - title: Mage Hand High Five
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://redcircle.com/shows/mage-hand-high-five
+    xmlUrl: https://feeds.redcircle.com/efe20aa8-52fc-475e-a8d9-fefc474ce17f
 
   - title: Inn Between
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.thegoblinshead.com/
+    xmlUrl: https://feeds.libsyn.com/122656
 
   - title: Desperado
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://desperadoradio.com/
+    xmlUrl: https://feeds.captivate.fm/desperado/
 
   - title: Sidequesting
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://sidequestingpod.com/
+    xmlUrl: https://feeds.megaphone.fm/SBP5496629043
 
 - name: Best Interview Episodes on Celebrity (& Celeb-Adjacent) Podcasts⭐
   opml: earbuds-best-interview-episodes-on-celebrity-celeb-adjacent-podcasts.opml
