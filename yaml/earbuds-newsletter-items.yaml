@@ -863,31 +863,31 @@ issues:
     htmlUrl: https://www.relationscapes.org/
     xmlUrl: https://www.relationscapes.org/feed.xml
 
-- name: Get ready for 2025 with these podcasts🎇
+- name: Get ready for 2025 with these podcasts 🎇
   opml: earbuds-get-ready-for-2025-with-these-podcasts.opml
-  date: 1970-01-01
+  date: 2024-12-29
   htmlUrl: https://newsletter.earbuds.audio/p/new-year-2025-podcasts
   podcasts:
 
   - title: Heal Your Gut, Save Your Brain
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://shows.acast.com/drnandipodcast
+    xmlUrl: https://feeds.acast.com/public/shows/66d8b52f9c7d98a7f89aecaa
 
   - title: The Broken Brain
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://brokenbrain.libsyn.com/webpage
+    xmlUrl: https://brokenbrain.libsyn.com/rss
 
   - title: Live Happy Now
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://pfelps.podbean.com/
+    xmlUrl: https://feed.podbean.com/PFelps/feed.xml
 
   - title: The One You Feed
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://art19.com/shows/the-one-you-feed-podcast
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/1d49cbad-dffb-4b8f-bea4-aea001380113/2f40a9d9-0fdd-49fb-8444-aea001380134/podcast.rss
 
   - title: Wealth of Health
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://podcasters.spotify.com/pod/show/wealth-of-health
+    xmlUrl: https://anchor.fm/s/fdce266c/podcast/rss
 
 - name: History podcasts that challenge perceptions 🤔
   opml: earbuds-history-podcasts-that-challenge-perceptions.opml
