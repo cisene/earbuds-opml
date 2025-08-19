@@ -1045,37 +1045,31 @@ issues:
     htmlUrl: http://nymag.com/
     xmlUrl: https://feeds.megaphone.fm/VMP1684715893
 
-- name: The Perfect Holiday Gift for Podcasters. Love, EarBuds🎁
-  opml: earbuds-the-perfect-holiday-gift-for-podcasters-love-earbuds.opml
-  date: 1970-01-01
-  htmlUrl: https://newsletter.earbuds.audio/p/perfect-holiday-gift-podcasters-2024
-  podcasts: null
-
-- name: 🍽️Podcasts on (Usually) Off-The-Table Topics
+- name: Podcasts on (Usually) Off-The-Table Topics 🍽️
   opml: earbuds-podcasts-on-usually-off-the-table-topics.opml
-  date: 1970-01-01
+  date: 2024-11-10
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-off-table-topics
   podcasts:
 
-  - title: The Business of Home Podcast
-    htmlUrl: null
-    xmlUrl: null
+  - title: Business of Home Podcast
+    htmlUrl: https://businessofhome.com/podcasts.rss
+    xmlUrl: https://feeds.simplecast.com/FMUd4fE9
 
   - title: Honestly with Bari Weiss
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.thefp.com/podcasts
+    xmlUrl: https://feeds.megaphone.fm/RSV2347142881
 
-  - title: Jem’s Coffee Shop
-    htmlUrl: null
-    xmlUrl: null
+  - title: Jem's Coffee Shop
+    htmlUrl: https://podcasters.spotify.com/pod/show/jemscoffeeshop
+    xmlUrl: https://anchor.fm/s/2c3d1bbc/podcast/rss
 
   - title: Seek Your Summit with Jenn
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.jenndrummond.com/
+    xmlUrl: https://anchor.fm/s/a5c2ac2c/podcast/rss
 
   - title: On the Table with Ashley
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.buzzsprout.com/2282727
+    xmlUrl: https://feeds.buzzsprout.com/2282727.rss
 
 - name: Podcasts for Hope in a Polarized World
   opml: earbuds-podcasts-for-hope-in-a-polarized-world.opml
