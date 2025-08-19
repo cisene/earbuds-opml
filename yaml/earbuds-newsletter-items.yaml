@@ -943,29 +943,29 @@ issues:
 
 - name: The impact of AI on podcasting
   opml: earbuds-the-impact-of-ai-on-podcasting.opml
-  date: 1970-01-01
+  date: 2024-12-08
   htmlUrl: https://newsletter.earbuds.audio/p/ai-impact-on-podcasting-2024
   podcasts:
 
-  - title: 'The Forefront: Ideas for Cities'
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'The Forefront: Ideas for cities'
+    htmlUrl: https://www.buzzsprout.com/1834470
+    xmlUrl: https://feeds.buzzsprout.com/1834470.rss
 
   - title: The Joy of Why
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://quantamagazine.org/tag/the-joy-of-why
+    xmlUrl: https://joy.quantamagazine.org/
 
   - title: There Are No Girls on the Internet
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.iheart.com/podcast/1119-there-are-no-girls-on-the-65877505/
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/AD016D13-045E-48F3-9AA5-AE280172B27D/34CC8D15-19F1-45D8-A158-AE280172B294/podcast.rss
 
   - title: The Vergecast
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.theverge.com/the-vergecast
+    xmlUrl: https://feeds.megaphone.fm/vergecast
 
   - title: Pioneers of AI
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://art19.com/shows/pioneers-of-ai
+    xmlUrl: https://rss.art19.com/pioneers-of-ai
 
 - name: Podcasts from Europe🇪🇺
   opml: earbuds-podcasts-from-europe.opml
