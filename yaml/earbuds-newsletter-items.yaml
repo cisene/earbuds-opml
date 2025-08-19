@@ -891,29 +891,29 @@ issues:
 
 - name: History podcasts that challenge perceptions 🤔
   opml: earbuds-history-podcasts-that-challenge-perceptions.opml
-  date: 1970-01-01
+  date: 2024-12-22
   htmlUrl: https://newsletter.earbuds.audio/p/history-podcasts-challenge-perceptions
   podcasts:
 
-  - title: History’s Heroes
-    htmlUrl: null
-    xmlUrl: null
+  - title: History's Heroes
+    htmlUrl: http://www.bbc.co.uk/programmes/m001mcbp
+    xmlUrl: https://podcasts.files.bbci.co.uk/m001mcbp.rss
 
-  - title: Black History Buff Podcast
-    htmlUrl: null
-    xmlUrl: null
+  - title: The Black History Buff Podcast
+    htmlUrl: https://www.spreaker.com/show/the-black-history-buff-podcast
+    xmlUrl: https://www.spreaker.com/show/3390969/episodes/feed
 
-  - title: Betwixt The Sheets
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'Betwixt The Sheets: The History of Sex, Scandal & Society'
+    htmlUrl: https://play.acast.com/s/betwixt-the-sheets
+    xmlUrl: https://feeds.acast.com/public/shows/60032060-080e-42c5-ac26-f93fc2b4d612
 
   - title: Cautionary Tales with Tim Harford
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.pushkin.fm/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7f5a4714-6b10-4ccf-a424-ae390037ac70/podcast.rss
 
-  - title: What’s Her Name
-    htmlUrl: null
-    xmlUrl: null
+  - title: What'shername
+    htmlUrl: https://www.whatshernamepodcast.com/
+    xmlUrl: https://whatshernamepodcast.com/feed/
 
 - name: 🌲Let's unwind with outdoor adventure podcasts
   opml: earbuds-lets-unwind-with-outdoor-adventure-podcasts.opml
