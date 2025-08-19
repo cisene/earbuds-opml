@@ -813,29 +813,29 @@ issues:
 
 - name: Podcasts That Make Productivity Fun✍️
   opml: earbuds-podcasts-that-make-productivity-fun.opml
-  date: 1970-01-01
+  date: 2025-01-12
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-recommendations-productivity
   podcasts:
 
   - title: Deep Questions with Cal Newport
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.buzzsprout.com/1121972
+    xmlUrl: https://feeds.simplecast.com/_IjaDYAj
 
   - title: Creative Pep Talk
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.creativepeptalk.com/
+    xmlUrl: https://feeds.megaphone.fm/TPG2212080179
 
   - title: Peripheral Thinking
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.tenpercentbetter.co/peripheralthinking
+    xmlUrl: https://feeds.captivate.fm/peripheral-thinking/
 
   - title: You Are Not A Frog
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://youarenotafrog.com/
+    xmlUrl: https://feeds.captivate.fm/you-are-not-a-frog/
 
   - title: Undo – How history's outliers got stuff done
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.undo.fm/
+    xmlUrl: https://feeds.transistor.fm/undo
 
 - name: Podcasts on families, stories, and relationships
   opml: earbuds-podcasts-on-families-stories-and-relationships.opml
