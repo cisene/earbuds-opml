@@ -915,31 +915,31 @@ issues:
     htmlUrl: https://www.whatshernamepodcast.com/
     xmlUrl: https://whatshernamepodcast.com/feed/
 
-- name: 🌲Let's unwind with outdoor adventure podcasts
+- name: Let's unwind with outdoor adventure podcasts 🌲
   opml: earbuds-lets-unwind-with-outdoor-adventure-podcasts.opml
-  date: 1970-01-01
+  date: 2024-12-15
   htmlUrl: https://newsletter.earbuds.audio/p/outdoor-adventure-podcasts
   podcasts:
 
-  - title: For The Love Of Climbing
-    htmlUrl: null
-    xmlUrl: null
+  - title: For the Love of Climbing
+    htmlUrl: http://blubrry.com/fortheloveofclimbing/
+    xmlUrl: https://feeds.blubrry.com/feeds/fortheloveofclimbing.xml
 
   - title: Plug Tone Outdoors
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://plugtoneaudio.podbean.com/
+    xmlUrl: https://feed.podbean.com/plugtoneaudio/feed.xml
 
   - title: 'For The Love Of: Trade-offs we make in pursuit of our passions'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.fortheloveofpod.com/
+    xmlUrl: https://anchor.fm/s/106abddb0/podcast/rss
 
   - title: 'Written in Stone: Climbing History'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://written-in-stone.podbean.com/
+    xmlUrl: https://feed.podbean.com/written-in-stone/feed.xml
 
   - title: Wild Ideas Worth Living
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.rei.com/wildideasworthliving
+    xmlUrl: https://feeds.simplecast.com/pyeGnjub
 
 - name: The impact of AI on podcasting
   opml: earbuds-the-impact-of-ai-on-podcasting.opml
