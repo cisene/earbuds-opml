@@ -967,31 +967,31 @@ issues:
     htmlUrl: https://art19.com/shows/pioneers-of-ai
     xmlUrl: https://rss.art19.com/pioneers-of-ai
 
-- name: Podcasts from Europe🇪🇺
+- name: Podcasts from Europe 🇪🇺
   opml: earbuds-podcasts-from-europe.opml
-  date: 1970-01-01
+  date: 2024-12-01
   htmlUrl: https://newsletter.earbuds.audio/p/european-podcast-recs-2024
   podcasts:
 
   - title: Sounds like Europe, cross-border podcasting
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.podiumpodcast.com/podcasts/sounds-like-europe-cross-border-podcasting-podium-os/
+    xmlUrl: https://www.omnycontent.com/d/playlist/2446592a-b80e-4d28-a4fd-ae4c0140ac11/072a56d1-1bf9-4c2e-880a-b0dd00f222f0/982eb10e-06cf-4d4b-8d4a-b0dd00f30ffb/podcast.rss
 
-  - title: The Europeans
-    htmlUrl: null
-    xmlUrl: null
+  - title: The Europeans | European news, politics and culture
+    htmlUrl: https://europeanspodcast.com/
+    xmlUrl: https://feed.podbean.com/helloqg/feed.xml
 
   - title: EU Confidential
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.politico.eu/eu-confidential-podcast/
+    xmlUrl: https://feeds.megaphone.fm/ASD6061651607
 
-  - title: Les Pieds sur Terre
-    htmlUrl: null
-    xmlUrl: null
+  - title: Les Pieds sur terre
+    htmlUrl: https://www.franceculture.fr/emissions/les-pieds-sur-terre
+    xmlUrl: https://radiofrance-podcast.net/podcast09/rss_10078.xml
 
-  - title: Europod
-    htmlUrl: null
-    xmlUrl: null
+  - title: '#108 The fall of press freedom in Greece'
+    htmlUrl: https://www.europod.eu/
+    xmlUrl: https://feeds.acast.com/public/shows/63e60dfe76a4a40010b5de25
 
 - name: Fantasy Audio Drama Podcast Recommendations 🔮
   opml: earbuds-fantasy-audio-drama-podcast-recommendations.opml
