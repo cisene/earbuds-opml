@@ -787,29 +787,29 @@ issues:
 
 - name: Podcasts about Moving Abroad 🛩️
   opml: earbuds-podcasts-about-moving-abroad.opml
-  date: 1970-01-01
+  date: 2025-01-19
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-about-moving-abroad
   podcasts:
 
-  - title: Worlds Collide - The Podcast About Moving Abroad
-    htmlUrl: null
-    xmlUrl: null
+  - title: Worlds Collide The Podcast about moving abroad
+    htmlUrl: https://worldscollidepodcast.wixsite.com/my-site-1
+    xmlUrl: https://feeds.captivate.fm/worlds-collide-trailer/
 
   - title: Transcontinental Overload
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://transcontinentaloverload.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/872791.rss
 
   - title: The Bittersweet Life
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.thebittersweetlife.net/
+    xmlUrl: https://bittersweetlife.libsyn.com/rss
 
   - title: The Move Abroad Coach Podcast
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://moveabroadcoach.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/2181764.rss
 
-  - title: American Citizens Abroad
-    htmlUrl: null
-    xmlUrl: null
+  - title: The American Citizens Abroad Podcast
+    htmlUrl: https://americancitizensabroad.podbean.com/
+    xmlUrl: https://feed.podbean.com/americancitizensabroad/feed.xml
 
 - name: Podcasts That Make Productivity Fun✍️
   opml: earbuds-podcasts-that-make-productivity-fun.opml
