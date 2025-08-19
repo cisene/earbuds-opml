@@ -811,7 +811,7 @@ issues:
     htmlUrl: https://americancitizensabroad.podbean.com/
     xmlUrl: https://feed.podbean.com/americancitizensabroad/feed.xml
 
-- name: Podcasts That Make Productivity Fun✍️
+- name: Podcasts That Make Productivity Fun ✍️
   opml: earbuds-podcasts-that-make-productivity-fun.opml
   date: 2025-01-12
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-recommendations-productivity
@@ -839,29 +839,29 @@ issues:
 
 - name: Podcasts on families, stories, and relationships
   opml: earbuds-podcasts-on-families-stories-and-relationships.opml
-  date: 1970-01-01
+  date: 2025-01-05
   htmlUrl: https://newsletter.earbuds.audio/p/family-podcast-recommendations
   podcasts:
 
   - title: Refamulating
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.refamulating.com/
+    xmlUrl: https://feeds.megaphone.fm/IMP4033665427
 
   - title: Slow Burn
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://slate.com/slowburn
+    xmlUrl: https://feeds.megaphone.fm/watergate
 
   - title: Radiolab
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.wnycstudios.org/podcasts/radiolab/projects/podcasts
+    xmlUrl: https://feeds.feedburner.com/radiolab
 
   - title: What The Trans!?
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://whatthetrans.com/
+    xmlUrl: https://whatthetrans.libsyn.com/rss
 
   - title: Relationscapes
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.relationscapes.org/
+    xmlUrl: https://www.relationscapes.org/feed.xml
 
 - name: Get ready for 2025 with these podcasts🎇
   opml: earbuds-get-ready-for-2025-with-these-podcasts.opml
