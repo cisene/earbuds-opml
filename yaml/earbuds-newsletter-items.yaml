@@ -1073,29 +1073,29 @@ issues:
 
 - name: Podcasts for Hope in a Polarized World
   opml: earbuds-podcasts-for-hope-in-a-polarized-world.opml
-  date: 1970-01-01
+  date: 2024-11-03
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-hope-election-2024
   podcasts:
 
   - title: Blue Sky
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.theoptimisminstitute.com/
+    xmlUrl: https://feeds.libsyn.com/575845/rss
 
   - title: What Could Go Right?
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://theprogressnetwork.org/
+    xmlUrl: https://feeds.megaphone.fm/TPG9895805104
 
   - title: Future Hindsight
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://sites.libsyn.com/113012/site
+    xmlUrl: https://futurehindsight.libsyn.com/rss
 
   - title: Bewildered
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://marthabeck.com/episodes/
+    xmlUrl: https://www.omnycontent.com/d/playlist/47725718-aefe-4447-bbf4-af5e00d5d464/a9257f90-5617-455c-821c-af5f0146046e/256daa0f-c773-4205-9967-af5f0146049d/podcast.rss
 
   - title: Arts Educators Save the World
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.artseducatorspodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/MSSL7124809073
 
 - name: Podcasts for the Season of the Witch 🐈‍⬛
   opml: earbuds-podcasts-for-the-season-of-the-witch.opml
