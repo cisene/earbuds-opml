@@ -1229,33 +1229,29 @@ issues:
 
 - name: Plot Twist! Podcast Recommendations
   opml: earbuds-plot-twist-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2024-09-22
   htmlUrl: https://newsletter.earbuds.audio/p/plot-twist-podcast-recommendations
   podcasts:
 
   - title: Ransom
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://art19.com/shows/ransom
+    xmlUrl: https://rss.pdrl.fm/967b25/podcastone.com/podcast?categoryID2=2369
 
   - title: Love and Radio
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://loveandradio.org/
+    xmlUrl: http://feed.loveandradio.org/loveplusradio
 
   - title: Believe in Magic
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.bbc.co.uk/programmes/p0fhzh45
+    xmlUrl: https://podcasts.files.bbci.co.uk/p0fhzh45.rss
 
-  - title: Canary
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'Canary: The Washington Post Investigates'
+    htmlUrl: https://www.washingtonpost.com/graphics/podcasts/canary/?utm_source=podcasts&utm_medium=referral&utm_campaign=canary
+    xmlUrl: https://podcast.posttv.com/itunes/canary.xml
 
   - title: Sweet Bobby
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: 'The Breakout: Unleashing Personal Growth'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://shows.acast.com/sweet-bobby-new
+    xmlUrl: https://feeds.acast.com/public/shows/64e5c027d3554a001131c921
 
 - name: Podcasts That Spark New Ideas 💡
   opml: earbuds-podcasts-that-spark-new-ideas.opml
