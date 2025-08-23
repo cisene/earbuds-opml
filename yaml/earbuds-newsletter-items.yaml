@@ -1177,33 +1177,29 @@ issues:
 
 - name: Horror Podcasts from Black Creators
   opml: earbuds-horror-podcasts-from-black-creators.opml
-  date: 1970-01-01
+  date: 2024-10-06
   htmlUrl: https://newsletter.earbuds.audio/p/horror-podcasts-from-black-creators
   podcasts:
 
   - title: 'Afflicted: A Horror Thriller Audio Drama'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://afflictedaudio.com/
+    xmlUrl: https://feeds.megaphone.fm/afflicted
 
-  - title: A Tale From The Stoop
-    htmlUrl: null
-    xmlUrl: null
+  - title: The Stoop
+    htmlUrl: http://www.thestoop.org/
+    xmlUrl: https://feed.thestoop.org/
 
-  - title: Santa Baby
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'Kiss: The Audio Series'
+    htmlUrl: https://msha.ke/shhhjuslisten
+    xmlUrl: https://anchor.fm/s/de3a230/podcast/rss
 
   - title: Out of the Ashes
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.unknownsquared.com/
+    xmlUrl: https://feeds.megaphone.fm/ROMN5512421577
 
   - title: Morbid Forest
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Cultivating Resilience
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://themorbidforest.podbean.com/
+    xmlUrl: https://anchor.fm/s/61690814/podcast/rss
 
 - name: Podcasts Highlighting Ukrainian Culture & History
   opml: earbuds-podcasts-highlighting-ukrainian-culture-history.opml
