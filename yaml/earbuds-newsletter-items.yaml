@@ -1255,63 +1255,55 @@ issues:
 
 - name: Podcasts That Spark New Ideas 💡
   opml: earbuds-podcasts-that-spark-new-ideas.opml
-  date: 1970-01-01
+  date: 2024-09-15
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-that-spark-new-ideas
   podcasts:
 
   - title: Best New Ideas in Money
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.marketwatch.com/podcasts/best-new-ideas-in-money
+    xmlUrl: https://video-api.barrons.com/podcast/rss/marketwatch/best-new-ideas-in-money?partner=itunes
 
-  - title: Solutions From the Multiverse
-    htmlUrl: null
-    xmlUrl: null
+  - title: Solutions From The Multiverse
+    htmlUrl: https://www.solutionsfromthemultiverse.com/
+    xmlUrl: https://feeds.buzzsprout.com/2032704.rss
 
   - title: Fixable
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://audiocollective.ted.com/
+    xmlUrl: https://feeds.feedburner.com/ted_fixable
 
   - title: TED Radio Hour
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.npr.org/podcasts/510298/ted-radio-hour
+    xmlUrl: https://feeds.npr.org/510298/podcast.xml
 
-  - title: The Future of Everything
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Feed the Queue
-    htmlUrl: null
-    xmlUrl: null
+  - title: Bold Names
+    htmlUrl: https://www.wsj.com/podcasts/wsj-the-future-of-everything
+    xmlUrl: https://video-api.wsj.com/podcast/rss/wsj/wsj-the-future-of-everything
 
 - name: Conspiracyland Podcast Recommendations
   opml: earbuds-conspiracyland-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2024-09-09
   htmlUrl: https://newsletter.earbuds.audio/p/conspiracy-theories-and-women
   podcasts:
 
-  - title: ICYMI + Never Post
-    htmlUrl: null
-    xmlUrl: null
+  - title: ICYMI
+    htmlUrl: https://slate.com/podcasts/icymi
+    xmlUrl: https://feeds.megaphone.fm/icymi
 
   - title: My Momma Told Me
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.iheart.com/podcast/1119-my-momma-told-me-with-lan-69919303/
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/F33F3702-0AC1-4A7D-A427-AE270036F0FC/AB4E462A-BF77-4B81-B3DB-AE270036F114/podcast.rss
 
   - title: QAA Podcast
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.patreon.com/QAA
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:492135420/sounds.rss
 
   - title: 'Rachel Maddow Presents: Ultra'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.nbcnews.com/
+    xmlUrl: https://podcastfeeds.nbcnews.com/rachel-maddow-presents-ultra
 
   - title: Conspiracy, She Wrote
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Rip Current
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://shows.acast.com/conspiracy-she-wrote
+    xmlUrl: https://feeds.acast.com/public/shows/66908cbe5d66becbc60bc306
 
 - name: Podcasts Exploring Cultural Identity and Legacy
   opml: earbuds-podcasts-exploring-cultural-identity-and-legacy.opml
