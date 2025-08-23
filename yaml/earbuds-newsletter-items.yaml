@@ -1203,33 +1203,29 @@ issues:
 
 - name: Podcasts Highlighting Ukrainian Culture & History
   opml: earbuds-podcasts-highlighting-ukrainian-culture-history.opml
-  date: 1970-01-01
+  date: 2024-09-29
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-ukraine-culture-history
   podcasts:
 
-  - title: ' Kyiv’s 20ft Radio'
-    htmlUrl: null
-    xmlUrl: null
+  - title: The Quietus Radio
+    htmlUrl: https://radio.thequietus.com/
+    xmlUrl: https://radio.thequietus.com/feed/podcast/
 
   - title: The Process with Jude Brewer
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.judebrewer.com/
+    xmlUrl: https://feeds.megaphone.fm/TPG9352481144
 
   - title: Voices of Ukraine
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://mu21592i.podbean.com/
+    xmlUrl: https://feed.podbean.com/mu21592i/feed.xml
 
   - title: Ukraine Without Hype
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.patreon.com/ukrainewithouthype
+    xmlUrl: https://anchor.fm/s/3ca9dcec/podcast/rss
 
   - title: Empire
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Talks with Dr Shafer
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://feeds.megaphone.fm/empirepodcast
+    xmlUrl: https://podcasterwallet.com/?pcid=5636450
 
 - name: Plot Twist! Podcast Recommendations
   opml: earbuds-plot-twist-podcast-recommendations.opml
