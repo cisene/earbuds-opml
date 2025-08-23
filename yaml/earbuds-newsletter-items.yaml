@@ -1099,29 +1099,29 @@ issues:
 
 - name: Podcasts for the Season of the Witch 🐈‍⬛
   opml: earbuds-podcasts-for-the-season-of-the-witch.opml
-  date: 1970-01-01
+  date: 2024-10-27
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-halloween-scary-2024
   podcasts:
 
-  - title: 'The White Vault: Goshawk'
-    htmlUrl: null
-    xmlUrl: null
+  - title: The White Vault
+    htmlUrl: http://thewhitevault.com/
+    xmlUrl: https://feeds.megaphone.fm/SBP7754210900
 
   - title: That Scares Me Too
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://foolandscholar.com/
+    xmlUrl: https://feeds.megaphone.fm/SBP4822137863
 
   - title: 'Afflicted: A Horror Thriller Audio Drama'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://afflictedaudio.com/
+    xmlUrl: https://feeds.megaphone.fm/afflicted
 
   - title: 'Re: Dracula'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://redracula.live/
+    xmlUrl: https://feeds.simplecast.com/MrfL0mVE
 
-  - title: Grim, Grimmer, Grimmest
-    htmlUrl: null
-    xmlUrl: null
+  - title: Grimm, Grimmer, Grimmest
+    htmlUrl: https://pinna.fm/library/kids-shows/pinna-podcasts/grimm-grimmer-grimmest
+    xmlUrl: https://feeds.megaphone.fm/PNA9230679490
 
   - title: Attach Your Résumé
     htmlUrl: null
