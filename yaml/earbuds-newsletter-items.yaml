@@ -1123,35 +1123,31 @@ issues:
     htmlUrl: https://pinna.fm/library/kids-shows/pinna-podcasts/grimm-grimmer-grimmest
     xmlUrl: https://feeds.megaphone.fm/PNA9230679490
 
-  - title: Attach Your Résumé
-    htmlUrl: null
-    xmlUrl: null
-
-- name: Podcasts for Creatives Investing Wisely📈
+- name: Podcasts for Creatives Investing Wisely 📈
   opml: earbuds-podcasts-for-creatives-investing-wisely.opml
-  date: 1970-01-01
+  date: 2024-10-21
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-creatives-investing
   podcasts:
 
   - title: CCA Podcasts
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://conservest.com/
+    xmlUrl: https://feeds.buzzsprout.com/2357587.rss
 
   - title: Estate Planning Strategies
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://estateplanningdaily.libsyn.com/website
+    xmlUrl: https://estateplanningdaily.libsyn.com/rss
 
-  - title: The Creative Penn Podcast for Writers
-    htmlUrl: null
-    xmlUrl: null
+  - title: The Creative Penn Podcast For Writers
+    htmlUrl: https://www.thecreativepenn.com/blog/
+    xmlUrl: https://www.thecreativepenn.com/feed/podcast/
 
-  - title: Millennial Investing - The Investor’s Podcast Network
-    htmlUrl: null
-    xmlUrl: null
+  - title: The Intrinsic Value Podcast - The Investor’s Podcast Network
+    htmlUrl: https://www.theinvestorspodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/PPLLC9062165992
 
   - title: Shoot It Straight
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://shows.acast.com/shoot-it-straight
+    xmlUrl: https://feeds.acast.com/public/shows/6307aac26756a30015c2f099
 
   - title: The Sam Sanders Show
     htmlUrl: null
