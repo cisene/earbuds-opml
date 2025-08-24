@@ -1645,63 +1645,55 @@ issues:
 
 - name: 'Queer Histories Through Time: Podcast Recommendations'
   opml: earbuds-queer-histories-through-time-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2024-06-02
   htmlUrl: https://newsletter.earbuds.audio/p/queer-stories-pride-2024
   podcasts:
 
   - title: But We Loved
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.iheart.com/podcast/174494262
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4365acca-1f65-435c-8b71-b145011c4011/9cc026bb-9d6a-4b51-a571-b145011d1507/podcast.rss
 
   - title: Making Gay History
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.spreaker.com/podcast/making-gay-history--2168682
+    xmlUrl: https://www.spreaker.com/show/2168682/episodes/feed
 
-  - title: Nuances
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'Nuances: Our Asian Stories'
+    htmlUrl: https://nuancespod.com/
+    xmlUrl: https://feed.podbean.com/nuancespod/feed.xml
 
   - title: Second Sunday
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://play.prx.org/listen?uf=https%3A%2F%2Fpublicfeeds.net%2Ff%2F4779%2Ffeed-rss.xml
+    xmlUrl: https://publicfeeds.net/f/4779/feed-rss.xml
 
   - title: 'Lost Spaces: Memories from Gay Bars, Lesbian Clubs, and LGBTQ+ Parties'
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: '[Werking Title] with Eliza Lambert will feature conversations with audio creators '
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Hello, John Doe
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.lostspacespodcast.com/
+    xmlUrl: https://anchor.fm/s/f523460/podcast/rss
 
 - name: Podcast Recommendations from Birmingham, U.K.
   opml: earbuds-podcast-recommendations-from-birmingham-u-k.opml
-  date: 1970-01-01
+  date: 2024-05-27
   htmlUrl: https://newsletter.earbuds.audio/p/birmingham-uk-podcast-recommendations
   podcasts:
 
   - title: The Trojan Horse Affair
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://trojan-horse.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/B9KgArY4
 
-  - title: The Trouble with Politics
-    htmlUrl: null
-    xmlUrl: null
+  - title: The Documentary Podcast
+    htmlUrl: https://www.bbc.co.uk/programmes/p02nq0lx
+    xmlUrl: https://podcasts.files.bbci.co.uk/p02nq0lx.rss
+
+  - title: The Trouble With Politics
+    htmlUrl: https://the-trouble-with-politics.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/RZ3_Bj9r
 
   - title: Redemption Man
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://shows.acast.com/unedited-pilot-season-2023
+    xmlUrl: https://feeds.acast.com/public/shows/unedited-pilot-season-2023
 
   - title: What Happened to Ricky Reel?
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: 'THIIIRD Waves: With My Naija Sisters'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.bbc.co.uk/programmes/m001dptq
+    xmlUrl: https://podcasts.files.bbci.co.uk/m001dptq.rss
 
 - name: 'Literary Fiction for Your Ears: Podcast Recommendations'
   opml: earbuds-literary-fiction-for-your-ears-podcast-recommendations.opml
