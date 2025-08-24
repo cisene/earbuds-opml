@@ -1411,39 +1411,31 @@ issues:
 
 - name: Listen to a podcast, learn a new language
   opml: earbuds-listen-to-a-podcast-learn-a-new-language.opml
-  date: 1970-01-01
+  date: 2024-08-04
   htmlUrl: https://newsletter.earbuds.audio/p/listen-podcast-learn-new-language
   podcasts:
 
-  - title: Easy German
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'Easy German: Learn German with native speakers | Deutsch lernen mit Muttersprachlern'
+    htmlUrl: https://www.easygerman.fm/
+    xmlUrl: https://proxyfeed.svmaudio.com/feeds/easygerman/feed.xml
 
-  - title: French Baratin
-    htmlUrl: null
-    xmlUrl: null
+  - title: French Baratin - Real conversations in French for advanced learners, débats en français authentique, B2 et +, FLE, French language podcast
+    htmlUrl: https://podcast.ausha.co/french-baratin
+    xmlUrl: https://feed.ausha.co/Ln46Vf3gQEe0
 
   - title: Il podcast di Italiano Avanzato
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.italianoavanzato.com/
+    xmlUrl: https://www.spreaker.com/show/5373983/episodes/feed
 
-  - title: Españolistos
-    htmlUrl: null
-    xmlUrl: null
+  - title: Españolistos | Learn Spanish With Fun Conversations!
+    htmlUrl: https://soundcloud.com/espanolistos
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:250273737/sounds.rss
 
-  - title: All Ears English
-    htmlUrl: null
-    xmlUrl: null
+  - title: All Ears English Podcast
+    htmlUrl: https://www.allearsenglish.com/
+    xmlUrl: https://feeds.megaphone.fm/allearsenglish
 
-  - title: The Bachelor of Buckingham Palace
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: The Bachelor of Buckingham Palace
-    htmlUrl: null
-    xmlUrl: null
-
-- name: Podcasts you can see (AKA shows about art🎨)
+- name: Podcasts you can see (AKA shows about art 🎨)
   opml: earbuds-podcasts-you-can-see-aka-shows-about-art.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-you-can-see-art
