@@ -1307,33 +1307,29 @@ issues:
 
 - name: Podcasts Exploring Cultural Identity and Legacy
   opml: earbuds-podcasts-exploring-cultural-identity-and-legacy.opml
-  date: 1970-01-01
+  date: 2024-09-02
   htmlUrl: https://newsletter.earbuds.audio/p/cultural-identity-podcast-recommendations
   podcasts:
 
   - title: Movement with Meklit Hadero
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://movementstories.com/
+    xmlUrl: https://publicfeeds.net/f/356/feed-rss.xml
 
   - title: Code Switch
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.npr.org/podcasts/510312/codeswitch
+    xmlUrl: https://feeds.npr.org/510312/podcast.xml
 
   - title: The Allusionist
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://art19.com/shows/the-allusionist
+    xmlUrl: https://rss.art19.com/the-allusionist
 
-  - title: Broken Boxes
-    htmlUrl: null
-    xmlUrl: null
+  - title: Broken Boxes Podcast
+    htmlUrl: https://www.brokenboxespodcast.com/
+    xmlUrl: https://feeds.buzzsprout.com/2391538.rss
 
   - title: Immigrantly
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: COMMONS
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://immigrantlypod.com/
+    xmlUrl: https://feeds.megaphone.fm/ALMIR7476721196
 
 - name: Scripted Cozy Mystery Podcasts☕
   opml: earbuds-scripted-cozy-mystery-podcasts.opml
