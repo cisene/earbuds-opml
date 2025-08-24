@@ -1697,33 +1697,29 @@ issues:
 
 - name: 'Literary Fiction for Your Ears: Podcast Recommendations'
   opml: earbuds-literary-fiction-for-your-ears-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2024-05-20
   htmlUrl: https://newsletter.earbuds.audio/p/literary-fiction-ears-podcast-recommendations
   podcasts:
 
   - title: Mabel
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.mabelpodcast.com/
+    xmlUrl: https://mabel.libsyn.com/rss
 
   - title: Modes of Thought in Anterran Literature
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.wlfdr.com/mot
+    xmlUrl: https://feeds.megaphone.fm/modes-of-thought
 
   - title: Gone
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://gonepodcast.podbean.com/
+    xmlUrl: https://gonepodcast.podbean.com/feed.xml
 
   - title: The Silt Verses
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.thesiltverses.com/
+    xmlUrl: https://access.acast.com/rss/5fec690f8211cf453a1b89e2/
 
   - title: Wyrd Woman
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Trap Street
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.amyleelillard.com/t/wyrd-woman
+    xmlUrl: https://feeds.captivate.fm/wyrd-woman/
 
 - name: 'Celebrities: Podcasts Going Deeper Than The Headlines'
   opml: earbuds-celebrities-podcasts-going-deeper-than-the-headlines.opml
@@ -1755,7 +1751,7 @@ issues:
     htmlUrl: null
     xmlUrl: null
 
-- name: Spring Into Comedy Podcasts🌼
+- name: Spring Into Comedy Podcasts 🌼
   opml: earbuds-spring-into-comedy-podcasts.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/comedy-podcast-recommendations-spring-2024
