@@ -1385,33 +1385,29 @@ issues:
 
 - name: Summer Fiction Podcast Session ☀️
   opml: earbuds-summer-fiction-podcast-session.opml
-  date: 1970-01-01
+  date: 2024-08-11
   htmlUrl: https://newsletter.earbuds.audio/p/summer-fiction-podcast-session
   podcasts:
 
   - title: Play On Podcasts
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://playonpodcasts.com/
+    xmlUrl: https://feeds.megaphone.fm/playon
 
-  - title: Josie’s Lonely Hearts Clubs
-    htmlUrl: null
-    xmlUrl: null
+  - title: Josie's Lonely Hearts Club
+    htmlUrl: https://goodstoryguild.co/listen/josie_lonely_hearts
+    xmlUrl: https://feed.cdnstream1.com/zjb/feed/download/d5/01/14/d5011443-17be-47cf-9120-a8b64ae5ebf6.xml
 
   - title: I Seduce The Dragon
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.istdpod.com/
+    xmlUrl: https://feeds.megaphone.fm/iseducethedragon
 
-  - title: World Gone Wrong
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'World Gone Wrong: a fictional chat show about friendship at the end of the world'
+    htmlUrl: https://www.audaciousmachinecreative.com/
+    xmlUrl: https://feeds.megaphone.fm/worldgonewrong
 
   - title: The Truth
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Unsung
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://thetruthpodcast.com/
+    xmlUrl: http://feeds.thetruthpodcast.com/thetruthapm
 
 - name: Listen to a podcast, learn a new language
   opml: earbuds-listen-to-a-podcast-learn-a-new-language.opml
