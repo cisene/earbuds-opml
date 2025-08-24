@@ -1513,27 +1513,27 @@ issues:
     htmlUrl: https://www.audacy.com/podcast/about-a-boy-the-story-of-vladimir-putin-d1700
     xmlUrl: https://feeds.megaphone.fm/puck-putin
 
-- name: Podcasts About Our Solar System, Curated by Latif Nasser
-  opml: earbuds-podcasts-about-our-solar-system-curated-by-latif-nasser.opml
-  date: 1970-01-01
+- name: Podcasts About Our Solar System
+  opml: earbuds-podcasts-about-our-solar-system.opml
+  date: 2024-07-07
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-solar-system-radiolab
   podcasts:
 
   - title: Radiolab
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.wnycstudios.org/podcasts/radiolab/projects/podcasts
+    xmlUrl: https://feeds.feedburner.com/radiolab
 
   - title: The Habitat
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.gimletmedia.com/the-habitat
+    xmlUrl: https://feeds.megaphone.fm/thehabitat
 
   - title: Unexplainable
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://feeds.megaphone.fm/VMP9331026707
+    xmlUrl: https://podcasterwallet.com/?pcid=1382958
 
   - title: Moonrise
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.washingtonpost.com/moonrise?utm_source=podcasts&utm_medium=referral&utm_campaign=moonrise
+    xmlUrl: https://podcast.posttv.com/itunes/moonrise.xml
 
   - title: The Last Archive
     htmlUrl: null
@@ -3159,7 +3159,7 @@ issues:
     htmlUrl: null
     xmlUrl: null
 
-- name: Entertainment in the Spotlight🎥
+- name: Entertainment in the Spotlight 🎥
   opml: earbuds-entertainment-in-the-spotlight.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/entertainment-spotlight
@@ -3185,7 +3185,7 @@ issues:
     htmlUrl: null
     xmlUrl: null
 
-- name: Documentary-style podcast recommendations💭
+- name: Documentary-style podcast recommendations 💭
   opml: earbuds-documentary-style-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/documentarystyle-podcast-recommendations
@@ -3199,7 +3199,7 @@ issues:
     htmlUrl: null
     xmlUrl: null
 
-- name: 'Thinky Documentaries: Podcast Recommendations💭'
+- name: 'Thinky Documentaries: Podcast Recommendations 💭'
   opml: earbuds-thinky-documentaries-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/thinky-documentaries-podcast-recommendations
@@ -3231,7 +3231,7 @@ issues:
     htmlUrl: null
     xmlUrl: null
 
-- name: 'Climate in Disguise: Podcast Recommendations🌏'
+- name: 'Climate in Disguise: Podcast Recommendations 🌏'
   opml: earbuds-climate-in-disguise-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/climate-disguise-podcast-recommendations
@@ -3285,7 +3285,7 @@ issues:
     htmlUrl: null
     xmlUrl: null
 
-- name: Spooky Funny Fun Podcast Recommendations for Halloween🎃
+- name: Spooky Funny Fun Podcast Recommendations for Halloween 🎃
   opml: earbuds-spooky-funny-fun-podcast-recommendations-for-halloween.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/spooky-funny-fun-podcast-recommendations-halloween
@@ -3325,7 +3325,7 @@ issues:
     htmlUrl: null
     xmlUrl: null
 
-- name: 'Inside Cults: Podcast Recommendations😬'
+- name: 'Inside Cults: Podcast Recommendations 😬'
   opml: earbuds-inside-cults-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/inside-cults-podcast-recommendations
@@ -3343,7 +3343,7 @@ issues:
     htmlUrl: null
     xmlUrl: null
 
-- name: Climate Podcasts That'll Change You🌍
+- name: Climate Podcasts That'll Change You 🌍
   opml: earbuds-climate-podcasts-thatll-change-you.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/climate-podcasts-thatll-change
@@ -3409,7 +3409,7 @@ issues:
     htmlUrl: null
     xmlUrl: null
 
-- name: 'More Than Interviews with Musicians: Podcast Recommendations🎹'
+- name: 'More Than Interviews with Musicians: Podcast Recommendations 🎹'
   opml: earbuds-more-than-interviews-with-musicians-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/interviews-musicians-podcast-recommendations
@@ -3462,7 +3462,7 @@ issues:
     xmlUrl: null
 
 - name: 'When Someone You ❤️ Has Breast Cancer: Podcast Recommendations'
-  opml: earbuds-when-someone-you-has-breast-cancer-podcast-recommendations.opml
+  opml: earbuds-when-someone-you-love-has-breast-cancer-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/someone-breast-cancer-podcast-recommendations
   podcasts:
@@ -3513,7 +3513,7 @@ issues:
     htmlUrl: null
     xmlUrl: null
 
-- name: Podcasts of Nigerian Origin🇳🇬
+- name: Podcasts of Nigerian Origin 🇳🇬
   opml: earbuds-podcasts-of-nigerian-origin.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-nigerian-origin
@@ -3539,7 +3539,7 @@ issues:
     htmlUrl: null
     xmlUrl: null
 
-- name: '✨Spotlight On: Neurodivergent Podcasters'
+- name: '✨ Spotlight On: Neurodivergent Podcasters'
   opml: earbuds-spotlight-on-neurodivergent-podcasters.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/spotlight-neurodivergent-podcasters
@@ -3565,7 +3565,7 @@ issues:
     htmlUrl: null
     xmlUrl: null
 
-- name: Books & Reading📚 Podcast Recommendations
+- name: Books & Reading 📚 Podcast Recommendations
   opml: earbuds-books-reading-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/books-reading-podcast-recommendations
