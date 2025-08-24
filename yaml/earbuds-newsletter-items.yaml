@@ -1463,33 +1463,29 @@ issues:
 
 - name: Listen to Los Angeles... Through These Podcasts
   opml: earbuds-listen-to-los-angeles-through-these-podcasts.opml
-  date: 1970-01-01
+  date: 2024-07-21
   htmlUrl: https://newsletter.earbuds.audio/p/los-angeles-podcasts-2024
   podcasts:
 
   - title: Imperfect Paradise
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://laist.com/podcasts
+    xmlUrl: https://www.omnycontent.com/d/playlist/acc8cc57-ff7c-44c5-9bd6-ab0900fbdc43/805dd567-4759-402e-bf5d-ae1501778d4f/5ab2b792-cfcf-46ed-8c37-ae150189e85a/podcast.rss
 
   - title: 'L.A. Meekly: A Los Angeles History Podcast'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.lameeklypodcast.com/
+    xmlUrl: https://lameekly.libsyn.com/rss
 
   - title: Smogland Radio
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://lapublicpress.org/category/smogland-radio/
+    xmlUrl: https://lapublicpress.org/category/smogland-radio/feed/
 
   - title: On Our Watch
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.kqed.org/podcasts/onourwatch
+    xmlUrl: https://feeds.megaphone.fm/KQINC9216694402
 
   - title: 'Party Crews: The Untold Story'
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: 'Blame it on the Fame: Milli Vanilli'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.iheart.com/podcast/1119-party-crews-the-untold-st-109462389/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/d6733035-9b48-4d75-bc6f-afa80132462a/d8143fdf-6b9b-4c9c-9ec3-afa801332a4a/podcast.rss
 
 - name: What's up with Russia? Podcast Recommendations
   opml: earbuds-whats-up-with-russia-podcast-recommendations.opml
