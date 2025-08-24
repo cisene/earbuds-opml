@@ -1536,50 +1536,34 @@ issues:
     xmlUrl: https://podcast.posttv.com/itunes/moonrise.xml
 
   - title: The Last Archive
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: This is Propaganda
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.pushkin.fm/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4eda6e56-1ab6-413a-9572-ae32006cd780/78052c02-4128-4b89-9cf9-ae32006cd792/podcast.rss
 
 - name: Podcasts Celebrating Canada's Indigenous History Month
   opml: earbuds-podcasts-celebrating-canadas-indigenous-history-month.opml
-  date: 1970-01-01
+  date: 2024-06-30
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-for-canada-indigenous-history-month
   podcasts:
 
   - title: Matriarch Movement
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.matriarchmovement.ca/
+    xmlUrl: https://feeds.megaphone.fm/matriarch-movement
 
-  - title: Pretendians
-    htmlUrl: null
-    xmlUrl: null
+  - title: Cool Mules | Canadaland Investigates
+    htmlUrl: https://www.canadaland.com/shows/pretendians/
+    xmlUrl: https://feeds.acast.com/public/shows/61b765491695623702e95066
 
   - title: Actors and Ancestors
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.actorsandancestors.com/
+    xmlUrl: https://feeds.acast.com/public/shows/660374744b688d00161709b9
 
   - title: The Aunties Dandelion
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://the-aunties-dandelion.simplecast.com/
+    xmlUrl: https://feeds.acast.com/public/shows/674f5856f1e80b0eeba3b6b3
 
   - title: unikkaat / unipkaat ungipaghat / nallunairutet Circumpolar Waves
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: '[Werking Title] with Eliza Lambert '
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: 'Featuring conversations with audio creators '
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: 'Pull the Thread: The Wild Life'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.buzzsprout.com/1171082
+    xmlUrl: https://feeds.buzzsprout.com/1171082.rss
 
 - name: Audio Drama Podcasts Created by Black Women
   opml: earbuds-audio-drama-podcasts-created-by-black-women.opml
