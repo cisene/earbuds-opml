@@ -1354,44 +1354,36 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/mockerymanor
 
   - title: Arden
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Everyday Better with Leah Smart
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://ardenpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/ardenpod
 
 - name: Podcasts featuring women throughout history
   opml: earbuds-podcasts-featuring-women-throughout-history.opml
-  date: 1970-01-01
+  date: 2024-08-18
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-women-history-2024
   podcasts:
 
-  - title: Vulgar History
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'Vulgar History: Revolution'
+    htmlUrl: http://vulgarhistory.com/
+    xmlUrl: https://feeds.megaphone.fm/SBP7158825889
 
-  - title: You’re Wrong About
-    htmlUrl: null
-    xmlUrl: null
+  - title: You're Wrong About
+    htmlUrl: https://www.buzzsprout.com/1112270
+    xmlUrl: https://feeds.buzzsprout.com/1112270.rss
 
   - title: Noble Blood
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.iheart.com/podcast/139-noble-blood-46601390
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/55B20558-9ADD-4D0B-8C42-AE300188D1AA/0BFDBA5F-FCCA-4C2F-8772-AE300188D1B8/podcast.rss
 
   - title: Crimes of the Centuries
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.centuriespod.com/
+    xmlUrl: https://audioboom.com/channels/5034723.rss
 
   - title: Door Key
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.facebook.com/groups/1040108179952433
+    xmlUrl: https://feeds.buzzsprout.com/2008007.rss
 
-  - title: The Brown Girls Guide to Politics
-    htmlUrl: null
-    xmlUrl: null
-
-- name: Summer Fiction Podcast Session☀️
+- name: Summer Fiction Podcast Session ☀️
   opml: earbuds-summer-fiction-podcast-session.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/summer-fiction-podcast-session
