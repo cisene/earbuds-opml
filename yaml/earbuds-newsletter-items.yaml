@@ -1567,41 +1567,29 @@ issues:
 
 - name: Audio Drama Podcasts Created by Black Women
   opml: earbuds-audio-drama-podcasts-created-by-black-women.opml
-  date: 1970-01-01
+  date: 2024-06-24
   htmlUrl: https://newsletter.earbuds.audio/p/audio-drama-podcasts-black-women
   podcasts:
 
   - title: Harlem Queen
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.yhanewashingtonsmith.com/
+    xmlUrl: https://feeds.megaphone.fm/harlemqueen
 
   - title: Private Affairs
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.privateaffairspod.com/
+    xmlUrl: https://feeds.acast.com/public/shows/61e8aa7d9d44930014880b1a
 
-  - title: Creencias
-    htmlUrl: null
-    xmlUrl: null
+  - title: Creencias by Podcasters Unlimited
+    htmlUrl: https://sites.libsyn.com/442161
+    xmlUrl: https://feeds.libsyn.com/442161/creenciaspodcastersunlimited
 
-  - title: What’s Poppin’ Penny?
-    htmlUrl: null
-    xmlUrl: null
+  - title: What's Poppin' Penny?
+    htmlUrl: http://whatspoppinpenny.com/
+    xmlUrl: https://feeds.buzzsprout.com/2256958.rss
 
-  - title: Past Due
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: '[Werking Title] with Eliza Lambert '
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: 'Featuring conversations with audio creators '
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: In Confianza
-    htmlUrl: null
-    xmlUrl: null
+  - title: Past Due Audio Series
+    htmlUrl: https://msha.ke/shhhjuslisten
+    xmlUrl: https://anchor.fm/s/dc32ff0/podcast/rss
 
 - name: The latest and greatest in podcasts for kids
   opml: earbuds-the-latest-and-greatest-in-podcasts-for-kids.opml
