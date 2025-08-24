@@ -1619,41 +1619,29 @@ issues:
 
 - name: Escape to Italy Through These Podcasts...
   opml: earbuds-escape-to-italy-through-these-podcasts.opml
-  date: 1970-01-01
+  date: 2024-06-10
   htmlUrl: https://newsletter.earbuds.audio/p/italy-travel-podcasts-summer-2024
   podcasts:
 
-  - title: ITALIAN, FOR SURE
-    htmlUrl: null
-    xmlUrl: null
+  - title: ITALIAN, FOR SURE | Conversations with Italians in Italy About Italian Culture
+    htmlUrl: http://www.italianforsure.com/
+    xmlUrl: https://feeds.megaphone.fm/italianforsure
 
   - title: Travel That Matters
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.curtco.com/travelthatmatters
+    xmlUrl: https://www.omnycontent.com/d/playlist/4fab3663-bc0e-42da-bca1-ab68000eb109/a81eab75-69e0-4876-93e6-ad34013b70d6/dc28538a-5032-4b91-88f6-ad3401592635/podcast.rss
 
-  - title: Foods That Matter
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'Foods That Matter: Food and Wine Fun Facts'
+    htmlUrl: 
+    xmlUrl: https://feeds.megaphone.fm/foodsthatmatter
 
   - title: Cars That Matter
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.curtco.com/carsthatmatter
+    xmlUrl: https://www.omnycontent.com/d/playlist/4fab3663-bc0e-42da-bca1-ab68000eb109/486bf95e-377b-4393-8066-aba4014dc1bf/ce2e91ba-1d8b-4933-88d7-aba4014dc21d/podcast.rss
 
   - title: Coffee Break Italian
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: '[Werking Title]* with Eliza Lambert '
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: 'Featuring conversations with audio creators '
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: 'Happily Never After: Dan & Nancy'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://coffeebreaklanguages.com/italian
+    xmlUrl: https://feeds.acast.com/public/shows/86766c5f-1580-450f-9376-bd74b57fcfbb
 
 - name: 'Queer Histories Through Time: Podcast Recommendations'
   opml: earbuds-queer-histories-through-time-podcast-recommendations.opml
