@@ -1437,37 +1437,29 @@ issues:
 
 - name: Podcasts you can see (AKA shows about art 🎨)
   opml: earbuds-podcasts-you-can-see-aka-shows-about-art.opml
-  date: 1970-01-01
+  date: 2024-07-28
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-you-can-see-art
   podcasts:
 
   - title: Last Seen
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.wbur.org/podcasts/lastseen
+    xmlUrl: https://rss.wbur.org/lastseen/podcast
 
-  - title: Stuff the British Stole
-    htmlUrl: null
-    xmlUrl: null
+  - title: Stuff The British Stole
+    htmlUrl: https://www.abc.net.au/listen/programs/stuff-the-british-stole/
+    xmlUrl: https://www.abc.net.au/feeds/12754606/podcast.xml
 
   - title: A Piece of Work
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.wnycstudios.org/podcasts/pieceofwork
+    xmlUrl: https://feeds.feedburner.com/apieceofwork
 
   - title: 'Immaterial: 5,000 Years of Art, One Material at a Time'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.metmuseum.org/perspectives/series/immaterial-podcast
+    xmlUrl: https://www.omnycontent.com/d/playlist/f35d3ffe-1d69-46d6-89e7-b10000ed4148/84881ecc-61d8-41ac-b084-b14200fd0e2b/d06cbe75-01c5-4314-b12e-b14200fd0e39/podcast.rss
 
   - title: 99% Invisible
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Paranormal Pajama Party
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Paranormal Pajama Party
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/BqbsxVfO
 
 - name: Listen to Los Angeles... Through These Podcasts
   opml: earbuds-listen-to-los-angeles-through-these-podcasts.opml
