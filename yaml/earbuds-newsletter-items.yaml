@@ -1331,27 +1331,27 @@ issues:
     htmlUrl: http://immigrantlypod.com/
     xmlUrl: https://feeds.megaphone.fm/ALMIR7476721196
 
-- name: Scripted Cozy Mystery Podcasts☕
+- name: Scripted Cozy Mystery Podcasts ☕
   opml: earbuds-scripted-cozy-mystery-podcasts.opml
-  date: 1970-01-01
+  date: 2024-08-25
   htmlUrl: https://newsletter.earbuds.audio/p/scripted-cozy-mystery-podcasts
   podcasts:
 
   - title: Mansfield Mysteries
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://mansfieldmysteries.podbean.com/
+    xmlUrl: https://feeds.megaphone.fm/mansfieldmysteries
 
-  - title: Death By Dying
-    htmlUrl: null
-    xmlUrl: null
+  - title: Death by Dying
+    htmlUrl: https://deathbydyingpod.com/
+    xmlUrl: https://feeds.megaphone.fm/deathbydying
 
   - title: Finding Pattersby
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://patterspod.com/
+    xmlUrl: https://feed.podbean.com/patterspod/feed.xml
 
   - title: Mockery Manor
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.longcatmedia.com/mockery-manor
+    xmlUrl: https://feeds.megaphone.fm/mockerymanor
 
   - title: Arden
     htmlUrl: null
