@@ -1489,33 +1489,29 @@ issues:
 
 - name: What's up with Russia? Podcast Recommendations
   opml: earbuds-whats-up-with-russia-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2024-07-15
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-about-russia-2024
   podcasts:
 
   - title: The Naked Pravda
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://meduza.io/en/podcasts/the-naked-pravda
+    xmlUrl: https://meduza.io/rss2/en/podcasts/the-naked-pravda
 
   - title: Russia on the Record
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://russia-on-the-record.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/_yWPSIEr
 
   - title: Next Year in Moscow
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://shows.acast.com/next-year-in-moscow
+    xmlUrl: https://feeds.acast.com/public/shows/63beed437ae74e001002382f
 
   - title: Another Russia
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://another-russia.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/E4J_wOzn
 
   - title: 'About a Boy: The Story of Vladimir Putin'
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Reckon True Stories
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.audacy.com/podcast/about-a-boy-the-story-of-vladimir-putin-d1700
+    xmlUrl: https://feeds.megaphone.fm/puck-putin
 
 - name: Podcasts About Our Solar System, Curated by Latif Nasser
   opml: earbuds-podcasts-about-our-solar-system-curated-by-latif-nasser.opml
