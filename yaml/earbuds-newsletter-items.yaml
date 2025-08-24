@@ -306,8 +306,8 @@ issues:
     xmlUrl: https://publicfeeds.net/f/5934/feed-rss.xml
 
   - title: Stolen
-    htmlUrl: https://feeds.megaphone.fm/stolen-jermain-spot
-    xmlUrl: https://podcasterwallet.com/?pcid=1382351
+    htmlUrl: 
+    xmlUrl: https://feeds.megaphone.fm/stolen-jermain-spot
 
   - title: Lucky Boy
     htmlUrl: https://shows.acast.com/lucky-boy
@@ -766,8 +766,8 @@ issues:
   podcasts:
 
   - title: The Unfinished Idea
-    htmlUrl: https://feeds.megaphone.fm/TSF1839726867
-    xmlUrl: https://podcasterwallet.com/?pcid=7045757
+    htmlUrl: 
+    xmlUrl: https://feeds.megaphone.fm/TSF1839726867
 
   - title: You're Wrong About ADHD
     htmlUrl: https://youre-wrong-about-adhd.captivate.fm/
@@ -1160,8 +1160,8 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/listening
 
   - title: Doctor Horror
-    htmlUrl: https://feeds.megaphone.fm/SBP3233104340
-    xmlUrl: https://podcasterwallet.com/?pcid=6955141
+    htmlUrl: 
+    xmlUrl: https://feeds.megaphone.fm/SBP3233104340
 
   - title: Hoes With Feelings
     htmlUrl: http://www.melissarichnyc.com/
@@ -1224,8 +1224,8 @@ issues:
     xmlUrl: https://anchor.fm/s/3ca9dcec/podcast/rss
 
   - title: Empire
-    htmlUrl: https://feeds.megaphone.fm/empirepodcast
-    xmlUrl: https://podcasterwallet.com/?pcid=5636450
+    htmlUrl: 
+    xmlUrl: https://feeds.megaphone.fm/empirepodcast
 
 - name: Plot Twist! Podcast Recommendations
   opml: earbuds-plot-twist-podcast-recommendations.opml
@@ -1528,8 +1528,8 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/thehabitat
 
   - title: Unexplainable
-    htmlUrl: https://feeds.megaphone.fm/VMP9331026707
-    xmlUrl: https://podcasterwallet.com/?pcid=1382958
+    htmlUrl: 
+    xmlUrl: https://feeds.megaphone.fm/VMP9331026707
 
   - title: Moonrise
     htmlUrl: https://www.washingtonpost.com/moonrise?utm_source=podcasts&utm_medium=referral&utm_campaign=moonrise
@@ -1593,41 +1593,29 @@ issues:
 
 - name: The latest and greatest in podcasts for kids
   opml: earbuds-the-latest-and-greatest-in-podcasts-for-kids.opml
-  date: 1970-01-01
+  date: 2024-06-16
   htmlUrl: https://newsletter.earbuds.audio/p/kids-podcasts-andi-smiley
   podcasts:
 
-  - title: Grim, Grimmer, Grimmest
-    htmlUrl: null
-    xmlUrl: null
+  - title: Grimm, Grimmer, Grimmest
+    htmlUrl: https://pinna.fm/library/kids-shows/pinna-podcasts/grimm-grimmer-grimmest
+    xmlUrl: https://feeds.megaphone.fm/PNA9230679490
 
   - title: 'Disney Frozen: Forces of Nature'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://abcaudio.com/podcasts/disneyfrozen/
+    xmlUrl: https://feeds.megaphone.fm/ESP3054801210
 
   - title: 'Snoop and Sniffy: Dog Detective Stories for Kids'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.gokidgo.com/snoopandsniffy
+    xmlUrl: https://feeds.megaphone.fm/SBP2630961872
 
-  - title: Koala Moon
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'Koala Moon: Kids Bedtime Stories & Sleep Stories for Kids Podcast'
+    htmlUrl: https://koalamoon.fm/
+    xmlUrl: https://feeds.megaphone.fm/HAPPY1668236391
 
   - title: Girl Tales
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: '[Werking Title]* with Eliza Lambert '
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: 'Featuring conversations with audio creators '
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: 'Ransom: Position of Trust'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://girltalespodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/CST7403212167
 
 - name: Escape to Italy Through These Podcasts...
   opml: earbuds-escape-to-italy-through-these-podcasts.opml
