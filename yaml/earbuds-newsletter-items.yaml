@@ -1723,33 +1723,29 @@ issues:
 
 - name: 'Celebrities: Podcasts Going Deeper Than The Headlines'
   opml: earbuds-celebrities-podcasts-going-deeper-than-the-headlines.opml
-  date: 1970-01-01
+  date: 2024-05-13
   htmlUrl: https://newsletter.earbuds.audio/p/celebrity-headline-podcast-recommendations
   podcasts:
 
   - title: 'Glamorous Trash: A Celebrity Memoir Podcast'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://chelsearosedevantez.com/
+    xmlUrl: https://feeds.megaphone.fm/GTLLC5365207749
 
   - title: Scam Goddess
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/4YELvXgu
 
   - title: Fixing Famous People with Chris DeRosa & Dominick Pupa
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://art19.com/shows/fixing-famous-people
+    xmlUrl: https://rss.art19.com/fixing-famous-people
 
   - title: Daily Fail
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.spreaker.com/show/daily-fail
+    xmlUrl: https://feeds.megaphone.fm/ADL8285083540
 
   - title: Reality Life with Kate Casey
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Byte Sized Biographies…
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://art19.com/shows/reality-life-with-kate-casey
+    xmlUrl: https://rss.art19.com/reality-life-with-kate-casey
 
 - name: Spring Into Comedy Podcasts 🌼
   opml: earbuds-spring-into-comedy-podcasts.opml
