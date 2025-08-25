@@ -1749,33 +1749,29 @@ issues:
 
 - name: Spring Into Comedy Podcasts 🌼
   opml: earbuds-spring-into-comedy-podcasts.opml
-  date: 1970-01-01
+  date: 2024-05-06
   htmlUrl: https://newsletter.earbuds.audio/p/comedy-podcast-recommendations-spring-2024
   podcasts:
 
   - title: That Was Wild
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://thatwaswild.net/
+    xmlUrl: https://anchor.fm/s/e25671a0/podcast/rss
 
   - title: Indecent with Kiki Andersen
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://ncpodcasts.com/indecent
+    xmlUrl: https://feeds.megaphone.fm/indecent
 
   - title: StraightioLab
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.iheart.com/podcast/263-straightiolab-97815943/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0c221bad-4dc8-419f-b554-aee6011ef1a7/f6ada493-0cfd-44b6-ac5c-aee6011ef1ee/podcast.rss
 
   - title: Weirdly Obsessed
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.patreon.com/WeirdlyObsessedPodcast
+    xmlUrl: https://feeds.buzzsprout.com/2300382.rss
 
-  - title: “Fine” Dining
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: 'HUMO: Murder and Silence in El Salvador'
-    htmlUrl: null
-    xmlUrl: null
+  - title: '"Fine" Dining'
+    htmlUrl: https://www.finediningpodcast.com/
+    xmlUrl: https://feeds.libsyn.com/432342/rss
 
 - name: Exploring "Woo Woo:" Podcast Recommendations
   opml: earbuds-exploring-woo-woo-podcast-recommendations.opml
