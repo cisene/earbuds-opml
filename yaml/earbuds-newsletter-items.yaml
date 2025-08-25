@@ -1775,25 +1775,29 @@ issues:
 
 - name: Exploring "Woo Woo:" Podcast Recommendations
   opml: earbuds-exploring-woo-woo-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2024-04-29
   htmlUrl: https://newsletter.earbuds.audio/p/woo-woo-podcast-recommendations
   podcasts:
 
-  - title: Highest Self Podcast
-    htmlUrl: null
-    xmlUrl: null
+  - title: The Magic Spark
+    htmlUrl: https://www.unicornwellnessstudio.com/podcasts/the-magic-spark
+    xmlUrl: https://app.kajabi.com/podcasts/2147496528/feed
+
+  - title: Highest Self Podcast®
+    htmlUrl: http://highestself.libsyn.com/website
+    xmlUrl: https://highestself.libsyn.com/rss
 
   - title: Holistic Spaces | the feng shui podcast by Mindful Design
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.holisticspaces.com/podcast/
+    xmlUrl: https://anjie-cho-qa6j.squarespace.com/podcast?format=rss
 
   - title: White Shores with Theresa Cheung
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://theresacheung.com/
+    xmlUrl: https://feeds.buzzsprout.com/361061.rss
 
   - title: Sounds A Bit “Woo Woo” To Me
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://soundsabitwoowootome.com/
+    xmlUrl: https://feeds.buzzsprout.com/1446319.rss
 
   - title: The Competition
     htmlUrl: null
