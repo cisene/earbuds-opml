@@ -1799,39 +1799,31 @@ issues:
     htmlUrl: https://soundsabitwoowootome.com/
     xmlUrl: https://feeds.buzzsprout.com/1446319.rss
 
-  - title: The Competition
-    htmlUrl: null
-    xmlUrl: null
-
 - name: 'Earth Day Podcasts: Climate Alert 🚨'
   opml: earbuds-earth-day-podcasts-climate-alert.opml
-  date: 1970-01-01
+  date: 2024-04-22
   htmlUrl: https://newsletter.earbuds.audio/p/climate-podcasts-earth-day-2024
   podcasts:
 
   - title: Threshold
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.thresholdpodcast.org/
+    xmlUrl: https://feeds.captivate.fm/threshold/
 
-  - title: For The Wild
-    htmlUrl: null
-    xmlUrl: null
+  - title: FOR THE WILD
+    htmlUrl: https://forthewild.world/listenhd/
+    xmlUrl: https://feeds.feedburner.com/UnlearnAndRewildHD
 
   - title: COAL + ICE Podcast
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://coalandice.org/
+    xmlUrl: https://feeds.buzzsprout.com/1920223.rss
 
   - title: Proof
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.americastestkitchen.com/proof
+    xmlUrl: https://feeds.megaphone.fm/ARML1836404539
 
   - title: 'Feet in 2 Worlds: Home, Interrupted'
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Owen and the Order of the Ancient Cedar
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://feetintwoworlds.podbean.com/
+    xmlUrl: https://feed.podbean.com/feetintwoworlds/feed.xml
 
 - name: Podcasts About AI in Politics and Democracy
   opml: earbuds-podcasts-about-ai-in-politics-and-democracy.opml
