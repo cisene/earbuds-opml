@@ -1905,33 +1905,29 @@ issues:
 
 - name: 'Sunshine After the Rain: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-sunshine-after-the-rain-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2024-03-25
   htmlUrl: https://newsletter.earbuds.audio/p/sunshine-after-rain-podcast-recommendations
   podcasts:
 
-  - title: Trials to Triumphs
-    htmlUrl: null
-    xmlUrl: null
+  - title: Trials To Triumphs
+    htmlUrl: https://oprah.com/
+    xmlUrl: https://feeds.simplecast.com/HjoxC_aK
 
   - title: Making Space with Hoda Kotb
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.today.com/
+    xmlUrl: https://podcastfeeds.nbcnews.com/making-space-with-hoda-kotb
 
-  - title: Oprah’s Super Soul
-    htmlUrl: null
-    xmlUrl: null
+  - title: Oprah's Super Soul
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/N0SFSFAS
 
   - title: Angie Martinez IRL
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.iheart.com/podcast/1119-angie-martinez-irl-99106442/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/09313230-a088-4537-b3d1-aeca00f910df/910ebdb0-f7f7-4c39-a376-aeca00f9f039/podcast.rss
 
   - title: Woman Evolve with Sarah Jakes Roberts
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Beyond All Repair
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://sites.libsyn.com/574595
+    xmlUrl: https://feeds.libsyn.com/574595/rss
 
 - name: Scientific Sleuthing Podcast Recommendations
   opml: earbuds-podcast-recommendations-scientific-sleuthing-podcast-recommendations.opml
