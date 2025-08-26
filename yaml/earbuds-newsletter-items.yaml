@@ -1853,33 +1853,29 @@ issues:
 
 - name: Podcast Recommendations to Inspire a Changing World
   opml: earbuds-podcast-recommendations-podcast-recommendations-to-inspire-a-changing-world.opml
-  date: 1970-01-01
+  date: 2024-04-08
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-inspire-changing-world
   podcasts:
 
   - title: System Catalysts
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.systemcatalysts.com/
+    xmlUrl: https://feeds.acast.com/public/shows/6447497c425b31001147b79e
 
-  - title: Outrage! + Optimism
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'Outrage + Optimism: The Climate Podcast'
+    htmlUrl: https://shows.acast.com/outrage-optimism
+    xmlUrl: https://feeds.acast.com/public/shows/6781112bec40818e0b501b6a
 
   - title: How to Save a Planet
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://gimletmedia.com/shows/howtosaveaplanet
+    xmlUrl: https://feeds.megaphone.fm/howtosaveaplanet
 
   - title: Better Heroes
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://feeds.acast.com/public/shows/ey-better-heroes
+    xmlUrl: https://feeds.acast.com/public/shows/63fe31e1a619900011ecffd7
 
   - title: Collective Impact Forum
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: The Tim Dillon Show
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://collective-impact-forum.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/n8GyQ_kE
 
 - name: Podcasts for Kitchen Inspiration
   opml: earbuds-podcast-recommendations-podcasts-for-kitchen-inspiration.opml
