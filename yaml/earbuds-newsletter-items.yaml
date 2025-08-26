@@ -1931,29 +1931,29 @@ issues:
 
 - name: Scientific Sleuthing Podcast Recommendations
   opml: earbuds-podcast-recommendations-scientific-sleuthing-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2024-03-18
   htmlUrl: https://newsletter.earbuds.audio/p/scientific-sleuthing-podcast-recommendations
   podcasts:
 
   - title: Knowable
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://knowablemagazine.org/
+    xmlUrl: https://knowable.libsyn.com/rss
 
   - title: The Life Scientific
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.bbc.co.uk/programmes/b015sqc7
+    xmlUrl: https://podcasts.files.bbci.co.uk/b015sqc7.rss
 
   - title: Science Stories
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.bbc.co.uk/programmes/b06vy2jd
+    xmlUrl: https://podcasts.files.bbci.co.uk/b06vy2jd.rss
 
   - title: Slate Debates
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://slate.com/podcasts
+    xmlUrl: https://feeds.megaphone.fm/slatelexiconvalley
 
   - title: FUTURES Podcast
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://futurespodcast.net/
+    xmlUrl: https://futures.libsyn.com/rss
 
 - name: Podcasts to Inspire Hope for National Optimism Month
   opml: earbuds-podcast-recommendations-podcasts-to-inspire-hope-for-national-optimism-month.opml
