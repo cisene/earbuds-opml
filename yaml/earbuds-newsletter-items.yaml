@@ -1,12 +1,12 @@
 global:
-  ownerName: Earbuds
+  ownerName: EarBuds Podcast Recommendations
   ownerEmail: info@earbuds.audio
   url: https://earbuds.audio/
-  title: Earbuds Newsletters
+  title: EarBuds Podcast Recommendations
 issues:
 
 - name: AI & the Future of Humanity
-  opml: earbuds-ai-the-future-of-humanity.opml
+  opml: earbuds-podcast-recommendations-ai-the-future-of-humanity.opml
   date: '2025-08-17'
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-ai-future-humanity
   podcasts:
@@ -32,7 +32,7 @@ issues:
     xmlUrl: https://feeds.simplecast.com/SOC3TXff
 
 - name: '5 podcasts on our bodies: resistance, empowerment, acceptance🗣️'
-  opml: earbuds-5-podcasts-on-our-bodies-resistance-empowerment-acceptance.opml
+  opml: earbuds-podcast-recommendations-5-podcasts-on-our-bodies-resistance-empowerment-acceptance.opml
   date: '2025-08-11'
   htmlUrl: https://newsletter.earbuds.audio/p/5-podcasts-on-our-bodies-resistance-empowerment-acceptance
   podcasts:
@@ -58,7 +58,7 @@ issues:
     xmlUrl: https://feeds.acast.com/public/shows/98ddd5a0-c00b-4f80-9a5b-d4584d0040ac
 
 - name: The Bad Bunny Podcast Recommendation List 📣🇵🇷
-  opml: earbuds-the-bad-bunny-podcast-recommendation-list.opml
+  opml: earbuds-podcast-recommendations-the-bad-bunny-podcast-recommendation-list.opml
   date: '2025-08-03'
   htmlUrl: https://newsletter.earbuds.audio/p/bad-bunny-podcast-recommendation-list
   podcasts:
@@ -84,7 +84,7 @@ issues:
     xmlUrl: https://www.omnycontent.com/d/playlist/ac0be969-d7df-460c-a66c-a6f900e1ebd1/253f0668-0463-4ab4-8eb3-a9fb004c97e7/095040de-af32-45ce-990f-a9fb004c97f5/podcast.rss
 
 - name: 5 Podcasts Exploring Personal Identity & Cultural Journeys 🌍
-  opml: earbuds-5-podcasts-exploring-personal-identity-cultural-journeys.opml
+  opml: earbuds-podcast-recommendations-5-podcasts-exploring-personal-identity-cultural-journeys.opml
   date: '2025-07-28'
   htmlUrl: https://newsletter.earbuds.audio/p/5-podcasts-exploring-personal-identity-cultural-journeys
   podcasts:
@@ -110,7 +110,7 @@ issues:
     xmlUrl: https://feeds.npr.org/510298/podcast.xml
 
 - name: 5 Tech Podcasts Demystifying Digital Life & Power Dynamics 🤖
-  opml: earbuds-5-tech-podcasts-demystifying-digital-life-power-dynamics.opml
+  opml: earbuds-podcast-recommendations-5-tech-podcasts-demystifying-digital-life-power-dynamics.opml
   date: '2025-07-21'
   htmlUrl: https://newsletter.earbuds.audio/p/5-technology-podcasts-july-2025
   podcasts:
@@ -136,7 +136,7 @@ issues:
     xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e76c966d-d567-47fc-ae4d-b29e0145a347/9934178f-d915-4089-bde9-b29e0145a756/podcast.rss
 
 - name: Unlock your creativity with these 5 podcasts🔓
-  opml: earbuds-unlock-your-creativity-with-these-5-podcasts.opml
+  opml: earbuds-podcast-recommendations-unlock-your-creativity-with-these-5-podcasts.opml
   date: '2025-07-14'
   htmlUrl: https://newsletter.earbuds.audio/p/unlock-creativity-podcast-recommendations
   podcasts:
@@ -162,7 +162,7 @@ issues:
     xmlUrl: https://feeds.acast.com/public/shows/655b38214c0cfb0012a0f672
 
 - name: 5 Reality-Bending Podcasts That Challenge Perception 🌀
-  opml: earbuds-5-reality-bending-podcasts-that-challenge-perception.opml
+  opml: earbuds-podcast-recommendations-5-reality-bending-podcasts-that-challenge-perception.opml
   date: '2025-07-07'
   htmlUrl: https://newsletter.earbuds.audio/p/5-reality-bending-podcasts-that-challenge-perception
   podcasts:
@@ -188,7 +188,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/PPY5621646923
 
 - name: '5 Law & Media Podcasts: Navigating the Court of Public Opinion 🏛️👩‍⚖️'
-  opml: earbuds-5-law-media-podcasts-navigating-the-court-of-public-opinion.opml
+  opml: earbuds-podcast-recommendations-5-law-media-podcasts-navigating-the-court-of-public-opinion.opml
   date: '2025-06-29'
   htmlUrl: https://newsletter.earbuds.audio/p/5-podcasts-law-crisis-communications
   podcasts:
@@ -214,7 +214,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/QCD9637821306/
 
 - name: Here are the podcasts that are shaping a queer future🔮
-  opml: earbuds-here-are-the-podcasts-that-are-shaping-a-queer-future.opml
+  opml: earbuds-podcast-recommendations-here-are-the-podcasts-that-are-shaping-a-queer-future.opml
   date: '2025-06-22'
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-recommendations-queer-futures-2025
   podcasts:
@@ -240,7 +240,7 @@ issues:
     xmlUrl: https://feeds.buzzsprout.com/1108100.rss
 
 - name: 5 Podcasts Rethinking Education This Summer☀️👩‍🏫
-  opml: earbuds-5-podcasts-rethinking-education-this-summer.opml
+  opml: earbuds-podcast-recommendations-5-podcasts-rethinking-education-this-summer.opml
   date: '2025-06-15'
   htmlUrl: https://newsletter.earbuds.audio/p/5-podcasts-teachers-students-learning
   podcasts:
@@ -266,7 +266,7 @@ issues:
     xmlUrl: https://api.substack.com/feed/podcast/262417.rss
 
 - name: 5 Podcasts for Pride
-  opml: earbuds-5-podcasts-for-pride.opml
+  opml: earbuds-podcast-recommendations-5-podcasts-for-pride.opml
   date: '2025-06-09'
   htmlUrl: https://newsletter.earbuds.audio/p/5-podcasts-for-pride-month-2025
   podcasts:
@@ -292,7 +292,7 @@ issues:
     xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4365acca-1f65-435c-8b71-b145011c4011/9cc026bb-9d6a-4b51-a571-b145011d1507/podcast.rss
 
 - name: Personal History Podcast Recommendations
-  opml: earbuds-personal-history-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-personal-history-podcast-recommendations.opml
   date: '2025-06-01'
   htmlUrl: https://newsletter.earbuds.audio/p/personal-history-podcast-recommendations
   podcasts:
@@ -318,7 +318,7 @@ issues:
     xmlUrl: https://yourownbackyard.libsyn.com/rss
 
 - name: Australia's Best Finance Podcast Recommendations 🇦🇺
-  opml: earbuds-australias-best-finance-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-australias-best-finance-podcast-recommendations.opml
   date: '2025-05-25'
   htmlUrl: https://newsletter.earbuds.audio/p/australia-finance-podcast-recommendations
   podcasts:
@@ -344,7 +344,7 @@ issues:
     xmlUrl: https://www.omnycontent.com/d/playlist/2fb3740d-3436-44af-8cc0-a91900716aa5/13d6619c-963c-4221-9e01-af0a00927432/1d728945-f17e-49ee-9598-af0a009354ca/podcast.rss
 
 - name: 5 Podcast Recommendations Breaking Cultural & Hierarchical Barriers
-  opml: earbuds-5-podcast-recommendations-breaking-cultural-hierarchical-barriers.opml
+  opml: earbuds-podcast-recommendations-5-podcast-recommendations-breaking-cultural-hierarchical-barriers.opml
   date: '2025-05-18'
   htmlUrl: https://newsletter.earbuds.audio/p/5-podcast-recommendations-breaking-cultural-hierarchical-barriers
   podcasts:
@@ -370,7 +370,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/APL2510885305
 
 - name: 5 Sex-Positive Podcast Recommendations
-  opml: earbuds-5-sex-positive-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-5-sex-positive-podcast-recommendations.opml
   date: '2025-05-11'
   htmlUrl: https://newsletter.earbuds.audio/p/5-sex-positive-podcast-recommendations
   podcasts:
@@ -396,7 +396,7 @@ issues:
     xmlUrl: https://queersexed.libsyn.com/rss
 
 - name: The Future Sounds Better with these Science Podcasts 🔭
-  opml: earbuds-the-future-sounds-better-with-these-science-podcasts.opml
+  opml: earbuds-podcast-recommendations-the-future-sounds-better-with-these-science-podcasts.opml
   date: '2025-05-04'
   htmlUrl: https://newsletter.earbuds.audio/p/future-science-podcasts-2025
   podcasts:
@@ -422,7 +422,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/ARML8211293878
 
 - name: Earth Day 🌎 Podcast Recommendations 2025
-  opml: earbuds-earth-day-podcast-recommendations-2025.opml
+  opml: earbuds-podcast-recommendations-earth-day-podcast-recommendations-2025.opml
   date: '2025-04-27'
   htmlUrl: https://newsletter.earbuds.audio/p/earth-day-podcast-recommendations-2025
   podcasts:
@@ -447,8 +447,8 @@ issues:
     htmlUrl: http://www.thresholdpodcast.org/
     xmlUrl: https://feeds.captivate.fm/threshold/
 
-- name: Zibby Owens' Top Podcast Picks for Wisdom & Inspiration 🎧
-  opml: earbuds-zibby-owens-top-podcast-picks-for-wisdom-inspiration.opml
+- name: Top Podcast Picks for Wisdom & Inspiration 🎧
+  opml: earbuds-podcast-recommendations-top-podcast-picks-for-wisdom-inspiration.opml
   date: '2025-04-21'
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-zibby-owens-wisdom
   podcasts:
@@ -474,7 +474,7 @@ issues:
     xmlUrl: https://feed.podbean.com/NextUpNarcissism/feed.xml
 
 - name: Find new music through these podcast recommendations👩‍🎤
-  opml: earbuds-find-new-music-through-these-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-find-new-music-through-these-podcast-recommendations.opml
   date: '2025-04-14'
   htmlUrl: https://newsletter.earbuds.audio/p/music-podcasts-2025
   podcasts:
@@ -500,7 +500,7 @@ issues:
     xmlUrl: https://rss.art19.com/off-book
 
 - name: 5 Podcast Recommendations for Gen Z Career Growth 🚀
-  opml: earbuds-5-podcast-recommendations-for-gen-z-career-growth.opml
+  opml: earbuds-podcast-recommendations-5-podcast-recommendations-for-gen-z-career-growth.opml
   date: '2025-04-07'
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-career-advice-gen-z
   podcasts:
@@ -526,7 +526,7 @@ issues:
     xmlUrl: https://yourcollegeboundkid.libsyn.com/rss
 
 - name: Storytelling podcasts celebrating Black women's voices & stories
-  opml: earbuds-storytelling-podcasts-celebrating-black-womens-voices-stories.opml
+  opml: earbuds-podcast-recommendations-storytelling-podcasts-celebrating-black-womens-voices-stories.opml
   date: '2025-03-31'
   htmlUrl: https://newsletter.earbuds.audio/p/storytelling-podcasts-black-women-2025
   podcasts:
@@ -552,7 +552,7 @@ issues:
     xmlUrl: https://podcast.global.com/show/4188899/episodes/feed
 
 - name: 5 Podcasts Sharing Life Inside Prison & Beyond 🎧
-  opml: earbuds-5-podcasts-sharing-life-inside-prison-beyond.opml
+  opml: earbuds-podcast-recommendations-5-podcasts-sharing-life-inside-prison-beyond.opml
   date: '2025-03-23'
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-recommendations-life-after-prison
   podcasts:
@@ -578,7 +578,7 @@ issues:
     xmlUrl: https://publicfeeds.net/f/9928/feed-rss.xml
 
 - name: 5 Podcasts on Health & Wellness
-  opml: earbuds-5-podcasts-on-health-wellness.opml
+  opml: earbuds-podcast-recommendations-5-podcasts-on-health-wellness.opml
   date: '2025-03-16'
   htmlUrl: https://newsletter.earbuds.audio/p/5-podcasts-on-health-wellness
   podcasts:
@@ -604,7 +604,7 @@ issues:
     xmlUrl: https://feeds.redcircle.com/8329c896-7c57-4f60-9576-334d85414c2f
 
 - name: Podcasts for Women's History Month
-  opml: earbuds-podcasts-for-womens-history-month.opml
+  opml: earbuds-podcast-recommendations-podcasts-for-womens-history-month.opml
   date: '2025-03-09'
   htmlUrl: https://newsletter.earbuds.audio/p/womens-history-month-podcasts-2025
   podcasts:
@@ -630,7 +630,7 @@ issues:
     xmlUrl: https://rss.art19.com/cramped
 
 - name: Climate & Justice Podcast Recommendations🪸
-  opml: earbuds-climate-justice-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-climate-justice-podcast-recommendations.opml
   date: '2025-03-02'
   htmlUrl: https://newsletter.earbuds.audio/p/climate-social-justice-podcast-recommendations
   podcasts:
@@ -655,8 +655,8 @@ issues:
     htmlUrl: http://www.sceneonradio.org/
     xmlUrl: https://feeds.sceneonradio.org/SceneOnRadio
 
-- name: Podcasts That''ll Rewire Your Brain, Curated by Miriam Tinberg 🧠
-  opml: earbuds-podcasts-thatll-rewire-your-brain.opml
+- name: Podcasts That''ll Rewire Your Brain 🧠
+  opml: earbuds-podcast-recommendations-podcasts-thatll-rewire-your-brain.opml
   date: '2025-02-24'
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-that-ll-rewire-your-brain-curated-by-miriam-tinberg
   podcasts:
@@ -682,7 +682,7 @@ issues:
     xmlUrl: https://api.substack.com/feed/podcast/2836327.rss
 
 - name: Podcasts on Love and Dating 💘 & Happy 8th to EarBuds
-  opml: earbuds-podcasts-on-love-and-dating-happy-8th-to-earbuds.opml
+  opml: earbuds-podcast-recommendations-podcasts-on-love-and-dating-happy-8th-to-earbuds.opml
   date: '2025-02-16'
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-love-dating-relationships-valentines
   podcasts:
@@ -708,7 +708,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/ALMIR5388284817
 
 - name: Podcasts for Black History Month 🎙️
-  opml: earbuds-podcasts-for-black-history-month.opml
+  opml: earbuds-podcast-recommendations-podcasts-for-black-history-month.opml
   date: 2025-02-09
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-black-history-month-2025
   podcasts:
@@ -734,7 +734,7 @@ issues:
     xmlUrl: https://feeds.simplecast.com/tA_4bn2c
 
 - name: International Podcast Recommendations 🌎
-  opml: earbuds-international-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-international-podcast-recommendations.opml
   date: 2025-02-02
   htmlUrl: https://newsletter.earbuds.audio/p/international-podcast-recommendations
   podcasts:
@@ -760,7 +760,7 @@ issues:
     xmlUrl: https://rss.pdrl.fm/2d456a/feeds.acast.com/public/shows/64d6349d8f0a1d0011a5f0ec
 
 - name: Podcasts recommendations on neurodiversity 🧠
-  opml: earbuds-podcasts-recommendations-on-neurodiversity.opml
+  opml: earbuds-podcast-recommendations-podcasts-recommendations-on-neurodiversity.opml
   date: 2025-01-26
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-recommendations-neurodiversity
   podcasts:
@@ -786,7 +786,7 @@ issues:
     xmlUrl: https://anchor.fm/s/d472f5b8/podcast/rss
 
 - name: Podcasts about Moving Abroad 🛩️
-  opml: earbuds-podcasts-about-moving-abroad.opml
+  opml: earbuds-podcast-recommendations-podcasts-about-moving-abroad.opml
   date: 2025-01-19
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-about-moving-abroad
   podcasts:
@@ -812,7 +812,7 @@ issues:
     xmlUrl: https://feed.podbean.com/americancitizensabroad/feed.xml
 
 - name: Podcasts That Make Productivity Fun ✍️
-  opml: earbuds-podcasts-that-make-productivity-fun.opml
+  opml: earbuds-podcast-recommendations-podcasts-that-make-productivity-fun.opml
   date: 2025-01-12
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-recommendations-productivity
   podcasts:
@@ -838,7 +838,7 @@ issues:
     xmlUrl: https://feeds.transistor.fm/undo
 
 - name: Podcasts on families, stories, and relationships
-  opml: earbuds-podcasts-on-families-stories-and-relationships.opml
+  opml: earbuds-podcast-recommendations-podcasts-on-families-stories-and-relationships.opml
   date: 2025-01-05
   htmlUrl: https://newsletter.earbuds.audio/p/family-podcast-recommendations
   podcasts:
@@ -864,7 +864,7 @@ issues:
     xmlUrl: https://www.relationscapes.org/feed.xml
 
 - name: Get ready for 2025 with these podcasts 🎇
-  opml: earbuds-get-ready-for-2025-with-these-podcasts.opml
+  opml: earbuds-podcast-recommendations-get-ready-for-2025-with-these-podcasts.opml
   date: 2024-12-29
   htmlUrl: https://newsletter.earbuds.audio/p/new-year-2025-podcasts
   podcasts:
@@ -890,7 +890,7 @@ issues:
     xmlUrl: https://anchor.fm/s/fdce266c/podcast/rss
 
 - name: History podcasts that challenge perceptions 🤔
-  opml: earbuds-history-podcasts-that-challenge-perceptions.opml
+  opml: earbuds-podcast-recommendations-history-podcasts-that-challenge-perceptions.opml
   date: 2024-12-22
   htmlUrl: https://newsletter.earbuds.audio/p/history-podcasts-challenge-perceptions
   podcasts:
@@ -916,7 +916,7 @@ issues:
     xmlUrl: https://whatshernamepodcast.com/feed/
 
 - name: Let's unwind with outdoor adventure podcasts 🌲
-  opml: earbuds-lets-unwind-with-outdoor-adventure-podcasts.opml
+  opml: earbuds-podcast-recommendations-lets-unwind-with-outdoor-adventure-podcasts.opml
   date: 2024-12-15
   htmlUrl: https://newsletter.earbuds.audio/p/outdoor-adventure-podcasts
   podcasts:
@@ -942,7 +942,7 @@ issues:
     xmlUrl: https://feeds.simplecast.com/pyeGnjub
 
 - name: The impact of AI on podcasting
-  opml: earbuds-the-impact-of-ai-on-podcasting.opml
+  opml: earbuds-podcast-recommendations-the-impact-of-ai-on-podcasting.opml
   date: 2024-12-08
   htmlUrl: https://newsletter.earbuds.audio/p/ai-impact-on-podcasting-2024
   podcasts:
@@ -968,7 +968,7 @@ issues:
     xmlUrl: https://rss.art19.com/pioneers-of-ai
 
 - name: Podcasts from Europe 🇪🇺
-  opml: earbuds-podcasts-from-europe.opml
+  opml: earbuds-podcast-recommendations-podcasts-from-europe.opml
   date: 2024-12-01
   htmlUrl: https://newsletter.earbuds.audio/p/european-podcast-recs-2024
   podcasts:
@@ -994,7 +994,7 @@ issues:
     xmlUrl: https://feeds.acast.com/public/shows/63e60dfe76a4a40010b5de25
 
 - name: Fantasy Audio Drama Podcast Recommendations 🔮
-  opml: earbuds-fantasy-audio-drama-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-fantasy-audio-drama-podcast-recommendations.opml
   date: 2024-11-24
   htmlUrl: https://newsletter.earbuds.audio/p/fantasy-audio-drama-podcast-recommendations-2024
   podcasts:
@@ -1020,7 +1020,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/SBP5496629043
 
 - name: Best Interview Episodes on Celebrity (& Celeb-Adjacent) Podcasts ⭐
-  opml: earbuds-best-interview-episodes-on-celebrity-celeb-adjacent-podcasts.opml
+  opml: earbuds-podcast-recommendations-best-interview-episodes-on-celebrity-celeb-adjacent-podcasts.opml
   date: 2024-11-18
   htmlUrl: https://newsletter.earbuds.audio/p/best-interview-podcast-episodes-celebrities
   podcasts:
@@ -1046,7 +1046,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/VMP1684715893
 
 - name: Podcasts on (Usually) Off-The-Table Topics 🍽️
-  opml: earbuds-podcasts-on-usually-off-the-table-topics.opml
+  opml: earbuds-podcast-recommendations-podcasts-on-usually-off-the-table-topics.opml
   date: 2024-11-10
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-off-table-topics
   podcasts:
@@ -1072,7 +1072,7 @@ issues:
     xmlUrl: https://feeds.buzzsprout.com/2282727.rss
 
 - name: Podcasts for Hope in a Polarized World
-  opml: earbuds-podcasts-for-hope-in-a-polarized-world.opml
+  opml: earbuds-podcast-recommendations-podcasts-for-hope-in-a-polarized-world.opml
   date: 2024-11-03
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-hope-election-2024
   podcasts:
@@ -1098,7 +1098,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/MSSL7124809073
 
 - name: Podcasts for the Season of the Witch 🐈‍⬛
-  opml: earbuds-podcasts-for-the-season-of-the-witch.opml
+  opml: earbuds-podcast-recommendations-podcasts-for-the-season-of-the-witch.opml
   date: 2024-10-27
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-halloween-scary-2024
   podcasts:
@@ -1124,7 +1124,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/PNA9230679490
 
 - name: Podcasts for Creatives Investing Wisely 📈
-  opml: earbuds-podcasts-for-creatives-investing-wisely.opml
+  opml: earbuds-podcast-recommendations-podcasts-for-creatives-investing-wisely.opml
   date: 2024-10-21
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-creatives-investing
   podcasts:
@@ -1150,7 +1150,7 @@ issues:
     xmlUrl: https://feeds.acast.com/public/shows/6307aac26756a30015c2f099
 
 - name: Charming Interviews For Hispanic Heritage Month
-  opml: earbuds-charming-interviews-for-hispanic-heritage-month.opml
+  opml: earbuds-podcast-recommendations-charming-interviews-for-hispanic-heritage-month.opml
   date: 2024-10-13
   htmlUrl: https://newsletter.earbuds.audio/p/interviews-podcasts-hispanic-heritage-month
   podcasts:
@@ -1176,7 +1176,7 @@ issues:
     xmlUrl: https://feeds.podcastmirror.com/other-men-need
 
 - name: Horror Podcasts from Black Creators
-  opml: earbuds-horror-podcasts-from-black-creators.opml
+  opml: earbuds-podcast-recommendations-horror-podcasts-from-black-creators.opml
   date: 2024-10-06
   htmlUrl: https://newsletter.earbuds.audio/p/horror-podcasts-from-black-creators
   podcasts:
@@ -1202,7 +1202,7 @@ issues:
     xmlUrl: https://anchor.fm/s/61690814/podcast/rss
 
 - name: Podcasts Highlighting Ukrainian Culture & History
-  opml: earbuds-podcasts-highlighting-ukrainian-culture-history.opml
+  opml: earbuds-podcast-recommendations-podcasts-highlighting-ukrainian-culture-history.opml
   date: 2024-09-29
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-ukraine-culture-history
   podcasts:
@@ -1228,7 +1228,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/empirepodcast
 
 - name: Plot Twist! Podcast Recommendations
-  opml: earbuds-plot-twist-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-plot-twist-podcast-recommendations.opml
   date: 2024-09-22
   htmlUrl: https://newsletter.earbuds.audio/p/plot-twist-podcast-recommendations
   podcasts:
@@ -1254,7 +1254,7 @@ issues:
     xmlUrl: https://feeds.acast.com/public/shows/64e5c027d3554a001131c921
 
 - name: Podcasts That Spark New Ideas 💡
-  opml: earbuds-podcasts-that-spark-new-ideas.opml
+  opml: earbuds-podcast-recommendations-podcasts-that-spark-new-ideas.opml
   date: 2024-09-15
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-that-spark-new-ideas
   podcasts:
@@ -1280,7 +1280,7 @@ issues:
     xmlUrl: https://video-api.wsj.com/podcast/rss/wsj/wsj-the-future-of-everything
 
 - name: Conspiracyland Podcast Recommendations
-  opml: earbuds-conspiracyland-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-conspiracyland-podcast-recommendations.opml
   date: 2024-09-09
   htmlUrl: https://newsletter.earbuds.audio/p/conspiracy-theories-and-women
   podcasts:
@@ -1306,7 +1306,7 @@ issues:
     xmlUrl: https://feeds.acast.com/public/shows/66908cbe5d66becbc60bc306
 
 - name: Podcasts Exploring Cultural Identity and Legacy
-  opml: earbuds-podcasts-exploring-cultural-identity-and-legacy.opml
+  opml: earbuds-podcast-recommendations-podcasts-exploring-cultural-identity-and-legacy.opml
   date: 2024-09-02
   htmlUrl: https://newsletter.earbuds.audio/p/cultural-identity-podcast-recommendations
   podcasts:
@@ -1332,7 +1332,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/ALMIR7476721196
 
 - name: Scripted Cozy Mystery Podcasts ☕
-  opml: earbuds-scripted-cozy-mystery-podcasts.opml
+  opml: earbuds-podcast-recommendations-scripted-cozy-mystery-podcasts.opml
   date: 2024-08-25
   htmlUrl: https://newsletter.earbuds.audio/p/scripted-cozy-mystery-podcasts
   podcasts:
@@ -1358,7 +1358,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/ardenpod
 
 - name: Podcasts featuring women throughout history
-  opml: earbuds-podcasts-featuring-women-throughout-history.opml
+  opml: earbuds-podcast-recommendations-podcasts-featuring-women-throughout-history.opml
   date: 2024-08-18
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-women-history-2024
   podcasts:
@@ -1384,7 +1384,7 @@ issues:
     xmlUrl: https://feeds.buzzsprout.com/2008007.rss
 
 - name: Summer Fiction Podcast Session ☀️
-  opml: earbuds-summer-fiction-podcast-session.opml
+  opml: earbuds-podcast-recommendations-summer-fiction-podcast-session.opml
   date: 2024-08-11
   htmlUrl: https://newsletter.earbuds.audio/p/summer-fiction-podcast-session
   podcasts:
@@ -1410,7 +1410,7 @@ issues:
     xmlUrl: http://feeds.thetruthpodcast.com/thetruthapm
 
 - name: Listen to a podcast, learn a new language
-  opml: earbuds-listen-to-a-podcast-learn-a-new-language.opml
+  opml: earbuds-podcast-recommendations-listen-to-a-podcast-learn-a-new-language.opml
   date: 2024-08-04
   htmlUrl: https://newsletter.earbuds.audio/p/listen-podcast-learn-new-language
   podcasts:
@@ -1436,7 +1436,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/allearsenglish
 
 - name: Podcasts you can see (AKA shows about art 🎨)
-  opml: earbuds-podcasts-you-can-see-aka-shows-about-art.opml
+  opml: earbuds-podcast-recommendations-podcasts-you-can-see-aka-shows-about-art.opml
   date: 2024-07-28
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-you-can-see-art
   podcasts:
@@ -1462,7 +1462,7 @@ issues:
     xmlUrl: https://feeds.simplecast.com/BqbsxVfO
 
 - name: Listen to Los Angeles... Through These Podcasts
-  opml: earbuds-listen-to-los-angeles-through-these-podcasts.opml
+  opml: earbuds-podcast-recommendations-listen-to-los-angeles-through-these-podcasts.opml
   date: 2024-07-21
   htmlUrl: https://newsletter.earbuds.audio/p/los-angeles-podcasts-2024
   podcasts:
@@ -1488,7 +1488,7 @@ issues:
     xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/d6733035-9b48-4d75-bc6f-afa80132462a/d8143fdf-6b9b-4c9c-9ec3-afa801332a4a/podcast.rss
 
 - name: What's up with Russia? Podcast Recommendations
-  opml: earbuds-whats-up-with-russia-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-whats-up-with-russia-podcast-recommendations.opml
   date: 2024-07-15
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-about-russia-2024
   podcasts:
@@ -1514,7 +1514,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/puck-putin
 
 - name: Podcasts About Our Solar System
-  opml: earbuds-podcasts-about-our-solar-system.opml
+  opml: earbuds-podcast-recommendations-podcasts-about-our-solar-system.opml
   date: 2024-07-07
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-solar-system-radiolab
   podcasts:
@@ -1540,7 +1540,7 @@ issues:
     xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4eda6e56-1ab6-413a-9572-ae32006cd780/78052c02-4128-4b89-9cf9-ae32006cd792/podcast.rss
 
 - name: Podcasts Celebrating Canada's Indigenous History Month
-  opml: earbuds-podcasts-celebrating-canadas-indigenous-history-month.opml
+  opml: earbuds-podcast-recommendations-podcasts-celebrating-canadas-indigenous-history-month.opml
   date: 2024-06-30
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-for-canada-indigenous-history-month
   podcasts:
@@ -1566,7 +1566,7 @@ issues:
     xmlUrl: https://feeds.buzzsprout.com/1171082.rss
 
 - name: Audio Drama Podcasts Created by Black Women
-  opml: earbuds-audio-drama-podcasts-created-by-black-women.opml
+  opml: earbuds-podcast-recommendations-audio-drama-podcasts-created-by-black-women.opml
   date: 2024-06-24
   htmlUrl: https://newsletter.earbuds.audio/p/audio-drama-podcasts-black-women
   podcasts:
@@ -1592,7 +1592,7 @@ issues:
     xmlUrl: https://anchor.fm/s/dc32ff0/podcast/rss
 
 - name: The latest and greatest in podcasts for kids
-  opml: earbuds-the-latest-and-greatest-in-podcasts-for-kids.opml
+  opml: earbuds-podcast-recommendations-the-latest-and-greatest-in-podcasts-for-kids.opml
   date: 2024-06-16
   htmlUrl: https://newsletter.earbuds.audio/p/kids-podcasts-andi-smiley
   podcasts:
@@ -1618,7 +1618,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/CST7403212167
 
 - name: Escape to Italy Through These Podcasts...
-  opml: earbuds-escape-to-italy-through-these-podcasts.opml
+  opml: earbuds-podcast-recommendations-escape-to-italy-through-these-podcasts.opml
   date: 2024-06-10
   htmlUrl: https://newsletter.earbuds.audio/p/italy-travel-podcasts-summer-2024
   podcasts:
@@ -1644,7 +1644,7 @@ issues:
     xmlUrl: https://feeds.acast.com/public/shows/86766c5f-1580-450f-9376-bd74b57fcfbb
 
 - name: 'Queer Histories Through Time: Podcast Recommendations'
-  opml: earbuds-queer-histories-through-time-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-queer-histories-through-time-podcast-recommendations.opml
   date: 2024-06-02
   htmlUrl: https://newsletter.earbuds.audio/p/queer-stories-pride-2024
   podcasts:
@@ -1670,7 +1670,7 @@ issues:
     xmlUrl: https://anchor.fm/s/f523460/podcast/rss
 
 - name: Podcast Recommendations from Birmingham, U.K.
-  opml: earbuds-podcast-recommendations-from-birmingham-u-k.opml
+  opml: earbuds-podcast-recommendations-podcast-recommendations-from-birmingham-u-k.opml
   date: 2024-05-27
   htmlUrl: https://newsletter.earbuds.audio/p/birmingham-uk-podcast-recommendations
   podcasts:
@@ -1696,7 +1696,7 @@ issues:
     xmlUrl: https://podcasts.files.bbci.co.uk/m001dptq.rss
 
 - name: 'Literary Fiction for Your Ears: Podcast Recommendations'
-  opml: earbuds-literary-fiction-for-your-ears-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-literary-fiction-for-your-ears-podcast-recommendations.opml
   date: 2024-05-20
   htmlUrl: https://newsletter.earbuds.audio/p/literary-fiction-ears-podcast-recommendations
   podcasts:
@@ -1722,7 +1722,7 @@ issues:
     xmlUrl: https://feeds.captivate.fm/wyrd-woman/
 
 - name: 'Celebrities: Podcasts Going Deeper Than The Headlines'
-  opml: earbuds-celebrities-podcasts-going-deeper-than-the-headlines.opml
+  opml: earbuds-podcast-recommendations-celebrities-podcasts-going-deeper-than-the-headlines.opml
   date: 2024-05-13
   htmlUrl: https://newsletter.earbuds.audio/p/celebrity-headline-podcast-recommendations
   podcasts:
@@ -1748,7 +1748,7 @@ issues:
     xmlUrl: https://rss.art19.com/reality-life-with-kate-casey
 
 - name: Spring Into Comedy Podcasts 🌼
-  opml: earbuds-spring-into-comedy-podcasts.opml
+  opml: earbuds-podcast-recommendations-spring-into-comedy-podcasts.opml
   date: 2024-05-06
   htmlUrl: https://newsletter.earbuds.audio/p/comedy-podcast-recommendations-spring-2024
   podcasts:
@@ -1774,7 +1774,7 @@ issues:
     xmlUrl: https://feeds.libsyn.com/432342/rss
 
 - name: Exploring "Woo Woo:" Podcast Recommendations
-  opml: earbuds-exploring-woo-woo-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-exploring-woo-woo-podcast-recommendations.opml
   date: 2024-04-29
   htmlUrl: https://newsletter.earbuds.audio/p/woo-woo-podcast-recommendations
   podcasts:
@@ -1800,7 +1800,7 @@ issues:
     xmlUrl: https://feeds.buzzsprout.com/1446319.rss
 
 - name: 'Earth Day Podcasts: Climate Alert 🚨'
-  opml: earbuds-earth-day-podcasts-climate-alert.opml
+  opml: earbuds-podcast-recommendations-earth-day-podcasts-climate-alert.opml
   date: 2024-04-22
   htmlUrl: https://newsletter.earbuds.audio/p/climate-podcasts-earth-day-2024
   podcasts:
@@ -1826,37 +1826,33 @@ issues:
     xmlUrl: https://feed.podbean.com/feetintwoworlds/feed.xml
 
 - name: Podcasts About AI in Politics and Democracy
-  opml: earbuds-podcasts-about-ai-in-politics-and-democracy.opml
-  date: 1970-01-01
+  opml: earbuds-podcast-recommendations-podcasts-about-ai-in-politics-and-democracy.opml
+  date: 2024-04-15
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-politics-ai-democracy
   podcasts:
 
-  - title: The Post Reports
-    htmlUrl: null
-    xmlUrl: null
+  - title: Post Reports
+    htmlUrl: https://podcast.posttv.com/itunes/post-reports.xml
+    xmlUrl: https://podcasterwallet.com/?pcid=432858
 
   - title: Decoder with Nilay Patel
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://theverge.com/
+    xmlUrl: https://feeds.megaphone.fm/recodedecode
 
   - title: Your Undivided Attention
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://your-undivided-attention.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/rZ0cYk12
 
-  - title: Tech On The Hill
-    htmlUrl: null
-    xmlUrl: null
+  - title: Tech Policy From The Hill
+    htmlUrl: https://www.netcaucus.org/series/podcasts-2/
+    xmlUrl: http://feeds.feedburner.com/NetCaucusPodcast
 
   - title: Future Hindsight
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: The Self-Help Junkie Podcast
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://sites.libsyn.com/113012/site
+    xmlUrl: https://futurehindsight.libsyn.com/rss
 
 - name: Podcast Recommendations to Inspire a Changing World
-  opml: earbuds-podcast-recommendations-to-inspire-a-changing-world.opml
+  opml: earbuds-podcast-recommendations-podcast-recommendations-to-inspire-a-changing-world.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-inspire-changing-world
   podcasts:
@@ -1886,7 +1882,7 @@ issues:
     xmlUrl: null
 
 - name: Podcasts for Kitchen Inspiration
-  opml: earbuds-podcasts-for-kitchen-inspiration.opml
+  opml: earbuds-podcast-recommendations-podcasts-for-kitchen-inspiration.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/kitchen-inspiration-podcast-recommendations
   podcasts:
@@ -1916,7 +1912,7 @@ issues:
     xmlUrl: null
 
 - name: 'Sunshine After the Rain: Podcast Recommendations'
-  opml: earbuds-sunshine-after-the-rain-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-sunshine-after-the-rain-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/sunshine-after-rain-podcast-recommendations
   podcasts:
@@ -1946,7 +1942,7 @@ issues:
     xmlUrl: null
 
 - name: Scientific Sleuthing Podcast Recommendations
-  opml: earbuds-scientific-sleuthing-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-scientific-sleuthing-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/scientific-sleuthing-podcast-recommendations
   podcasts:
@@ -1972,7 +1968,7 @@ issues:
     xmlUrl: null
 
 - name: Podcasts to Inspire Hope for National Optimism Month
-  opml: earbuds-podcasts-to-inspire-hope-for-national-optimism-month.opml
+  opml: earbuds-podcast-recommendations-podcasts-to-inspire-hope-for-national-optimism-month.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-inspire-hope-national-optimism-month
   podcasts:
@@ -1998,7 +1994,7 @@ issues:
     xmlUrl: null
 
 - name: 'Women’s History Month Podcast Recommendations: Voices in Tech'
-  opml: earbuds-women-s-history-month-podcast-recommendations-voices-in-tech.opml
+  opml: earbuds-podcast-recommendations-women-s-history-month-podcast-recommendations-voices-in-tech.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/womens-history-month-2024
   podcasts:
@@ -2024,7 +2020,7 @@ issues:
     xmlUrl: null
 
 - name: Presidential Politics Has Always Been Wild
-  opml: earbuds-presidential-politics-has-always-been-wild.opml
+  opml: earbuds-podcast-recommendations-presidential-politics-has-always-been-wild.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/presidential-politics-always-wild
   podcasts:
@@ -2050,7 +2046,7 @@ issues:
     xmlUrl: null
 
 - name: Eavesdropping on Black Perspectives
-  opml: earbuds-eavesdropping-on-black-perspectives.opml
+  opml: earbuds-podcast-recommendations-eavesdropping-on-black-perspectives.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/eavesdropping-black-perspectives
   podcasts:
@@ -2076,7 +2072,7 @@ issues:
     xmlUrl: null
 
 - name: 'Still Thinking About Rome?: Podcasts About Empires'
-  opml: earbuds-still-thinking-about-rome-podcasts-about-empires.opml
+  opml: earbuds-podcast-recommendations-still-thinking-about-rome-podcasts-about-empires.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/still-thinking-rome-podcasts-empires
   podcasts:
@@ -2106,7 +2102,7 @@ issues:
     xmlUrl: null
 
 - name: Five Fiction Pods Pushing Genre Boundaries
-  opml: earbuds-five-fiction-pods-pushing-genre-boundaries.opml
+  opml: earbuds-podcast-recommendations-five-fiction-pods-pushing-genre-boundaries.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/five-fiction-pods-pushing-genre-boundaries
   podcasts:
@@ -2132,7 +2128,7 @@ issues:
     xmlUrl: null
 
 - name: Story Behind the Story
-  opml: earbuds-story-behind-the-story.opml
+  opml: earbuds-podcast-recommendations-story-behind-the-story.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/story-behind-story
   podcasts:
@@ -2158,7 +2154,7 @@ issues:
     xmlUrl: null
 
 - name: Podcast Hosts That Make Podcasts Worth Listening To
-  opml: earbuds-podcast-hosts-that-make-podcasts-worth-listening-to.opml
+  opml: earbuds-podcast-recommendations-podcast-hosts-that-make-podcasts-worth-listening-to.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-hosts-make-podcasts-worth-listening
   podcasts:
@@ -2192,7 +2188,7 @@ issues:
     xmlUrl: null
 
 - name: 'Chess Nerds Are Awesome: Podcast Recommendations'
-  opml: earbuds-chess-nerds-are-awesome-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-chess-nerds-are-awesome-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/chess-nerds-awesome-podcast-recommendations
   podcasts:
@@ -2218,7 +2214,7 @@ issues:
     xmlUrl: null
 
 - name: Podcasts That Give the Full Story
-  opml: earbuds-podcasts-that-give-the-full-story.opml
+  opml: earbuds-podcast-recommendations-podcasts-that-give-the-full-story.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-give-full-story
   podcasts:
@@ -2244,7 +2240,7 @@ issues:
     xmlUrl: null
 
 - name: 'Podcasts On: How to Be Happy!'
-  opml: earbuds-podcasts-on-how-to-be-happy.opml
+  opml: earbuds-podcast-recommendations-podcasts-on-how-to-be-happy.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-happy
   podcasts:
@@ -2270,7 +2266,7 @@ issues:
     xmlUrl: null
 
 - name: Dismantling Diet Culture & Fatphobia
-  opml: earbuds-dismantling-diet-culture-fatphobia.opml
+  opml: earbuds-podcast-recommendations-dismantling-diet-culture-fatphobia.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/dismantling-diet-culture-fatphobia
   podcasts:
@@ -2296,7 +2292,7 @@ issues:
     xmlUrl: null
 
 - name: Kids With A Mic
-  opml: earbuds-kids-with-a-mic.opml
+  opml: earbuds-podcast-recommendations-kids-with-a-mic.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/kids-mic
   podcasts:
@@ -2318,7 +2314,7 @@ issues:
     xmlUrl: null
 
 - name: Podcasts About Climate Pioneers
-  opml: earbuds-podcasts-about-climate-pioneers.opml
+  opml: earbuds-podcast-recommendations-podcasts-about-climate-pioneers.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-climate-pioneers
   podcasts:
@@ -2340,7 +2336,7 @@ issues:
     xmlUrl: null
 
 - name: Hip Hop Artifacts Podcasts
-  opml: earbuds-hip-hop-artifacts-podcasts.opml
+  opml: earbuds-podcast-recommendations-hip-hop-artifacts-podcasts.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/hip-hop-artifacts-podcasts
   podcasts:
@@ -2366,7 +2362,7 @@ issues:
     xmlUrl: null
 
 - name: Podcasts Unearthing Hidden Stories
-  opml: earbuds-podcasts-unearthing-hidden-stories.opml
+  opml: earbuds-podcast-recommendations-podcasts-unearthing-hidden-stories.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-unearthing-hidden-stories
   podcasts:
@@ -2392,7 +2388,7 @@ issues:
     xmlUrl: null
 
 - name: 'Podcasts On: Breaking Barriers in Education'
-  opml: earbuds-podcasts-on-breaking-barriers-in-education.opml
+  opml: earbuds-podcast-recommendations-podcasts-on-breaking-barriers-in-education.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-breaking-barriers-education
   podcasts:
@@ -2414,7 +2410,7 @@ issues:
     xmlUrl: null
 
 - name: Top Podcasts from Europe That Americans Should Know
-  opml: earbuds-top-podcasts-from-europe-that-americans-should-know.opml
+  opml: earbuds-podcast-recommendations-top-podcasts-from-europe-that-americans-should-know.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/top-podcasts-europe-americans-know
   podcasts:
@@ -2436,7 +2432,7 @@ issues:
     xmlUrl: null
 
 - name: 'Healing Power of Imagination: Podcast Recommendations'
-  opml: earbuds-healing-power-of-imagination-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-healing-power-of-imagination-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/healing-power-imagination-podcast-recommendations
   podcasts:
@@ -2458,7 +2454,7 @@ issues:
     xmlUrl: null
 
 - name: Delightfully Engaging Kids' Podcasts
-  opml: earbuds-delightfully-engaging-kids-podcasts.opml
+  opml: earbuds-podcast-recommendations-delightfully-engaging-kids-podcasts.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/delightfully-engaging-kids-podcasts
   podcasts:
@@ -2480,7 +2476,7 @@ issues:
     xmlUrl: null
 
 - name: Latinx Podcast Scene
-  opml: earbuds-latinx-podcast-scene.opml
+  opml: earbuds-podcast-recommendations-latinx-podcast-scene.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/latinx-podcast-scene
   podcasts:
@@ -2498,19 +2494,19 @@ issues:
     xmlUrl: null
 
 - name: Haunted History Podcasts for Halloween
-  opml: earbuds-haunted-history-podcasts-for-halloween.opml
+  opml: earbuds-podcast-recommendations-haunted-history-podcasts-for-halloween.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/haunted-history-podcasts-halloween
   podcasts: null
 
 - name: Podcasts For Saving The Planet
-  opml: earbuds-podcasts-for-saving-the-planet.opml
+  opml: earbuds-podcast-recommendations-podcasts-for-saving-the-planet.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-saving-planet
   podcasts: null
 
 - name: Podcasts That Transport You
-  opml: earbuds-podcasts-that-transport-you.opml
+  opml: earbuds-podcast-recommendations-podcasts-that-transport-you.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-transport
   podcasts:
@@ -2528,7 +2524,7 @@ issues:
     xmlUrl: null
 
 - name: 'Why Rebellion is Necessary: Podcast Recommendations'
-  opml: earbuds-why-rebellion-is-necessary-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-why-rebellion-is-necessary-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/rebellion-necessary-podcast-recommendations
   podcasts:
@@ -2542,223 +2538,223 @@ issues:
     xmlUrl: null
 
 - name: 'Tackling Fear: Podcast Recommendations'
-  opml: earbuds-tackling-fear-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-tackling-fear-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/tackling-fear-podcast-recommendations
   podcasts: null
 
 - name: Stories of Resilient Women
-  opml: earbuds-stories-of-resilient-women.opml
+  opml: earbuds-podcast-recommendations-stories-of-resilient-women.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/stories-resilient-women
   podcasts: null
 
 - name: Tough & Tender Storytelling
-  opml: earbuds-tough-tender-storytelling.opml
+  opml: earbuds-podcast-recommendations-tough-tender-storytelling.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/tough-tender-storytelling
   podcasts: null
 
 - name: Spiritual Trauma Podcasts
-  opml: earbuds-spiritual-trauma-podcasts.opml
+  opml: earbuds-podcast-recommendations-spiritual-trauma-podcasts.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/spiritual-trauma-podcasts
   podcasts: null
 
 - name: 'To Grad School and Beyond: Podcast Recommendations'
-  opml: earbuds-to-grad-school-and-beyond-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-to-grad-school-and-beyond-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/grad-school-beyond-podcast-recommendations
   podcasts: null
 
 - name: Pop Music Commentary Podcasts
-  opml: earbuds-pop-music-commentary-podcasts.opml
+  opml: earbuds-podcast-recommendations-pop-music-commentary-podcasts.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/pop-music-commentary-podcasts
   podcasts: null
 
 - name: Blockbuster Podcasts for Summer☀️
-  opml: earbuds-blockbuster-podcasts-for-summer.opml
+  opml: earbuds-podcast-recommendations-blockbuster-podcasts-for-summer.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/blockbuster-podcasts-summer
   podcasts: null
 
 - name: 'American Education: Podcast Recommendations'
-  opml: earbuds-american-education-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-american-education-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/american-education-podcast-recommendations
   podcasts: null
 
 - name: Podcasts That Punch Up!✊
-  opml: earbuds-podcasts-that-punch-up.opml
+  opml: earbuds-podcast-recommendations-podcasts-that-punch-up.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-punch
   podcasts: null
 
 - name: The Science of Finding a Podcast
-  opml: earbuds-the-science-of-finding-a-podcast.opml
+  opml: earbuds-podcast-recommendations-the-science-of-finding-a-podcast.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/science-finding-podcast
   podcasts: null
 
 - name: 'Abortion Wars: Podcast Recommendations'
-  opml: earbuds-abortion-wars-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-abortion-wars-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/abortion-wars-podcast-recommendations
   podcasts: null
 
 - name: Top Food Review Podcasts
-  opml: earbuds-top-food-review-podcasts.opml
+  opml: earbuds-podcast-recommendations-top-food-review-podcasts.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/top-food-review-podcasts
   podcasts: null
 
 - name: Celebrating Juneteenth
-  opml: earbuds-celebrating-juneteenth.opml
+  opml: earbuds-podcast-recommendations-celebrating-juneteenth.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/celebrating-juneteenth
   podcasts: null
 
 - name: 'Music For Your 30s: Podcast Recommendations'
-  opml: earbuds-music-for-your-30s-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-music-for-your-30s-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/music-30s-podcast-recommendations
   podcasts: null
 
 - name: 'A Reflection On Love In Our Modern Era: Podcast Recommendations'
-  opml: earbuds-a-reflection-on-love-in-our-modern-era-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-a-reflection-on-love-in-our-modern-era-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/reflection-love-modern-era-podcast-recommendations
   podcasts: null
 
 - name: Our Bodies
-  opml: earbuds-our-bodies.opml
+  opml: earbuds-podcast-recommendations-our-bodies.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/bodies
   podcasts: null
 
 - name: 'Podcasts On: Sex, Death, & Spirituality'
-  opml: earbuds-podcasts-on-sex-death-spirituality.opml
+  opml: earbuds-podcast-recommendations-podcasts-on-sex-death-spirituality.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-sex-death-spirituality
   podcasts: null
 
 - name: 'Highly-Focused Oddball Entertainment: Podcast Recommendations'
-  opml: earbuds-highly-focused-oddball-entertainment-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-highly-focused-oddball-entertainment-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/highlyfocused-oddball-entertainment-podcast-recommendations
   podcasts: null
 
 - name: 'Podcasts On: Burnout'
-  opml: earbuds-podcasts-on-burnout.opml
+  opml: earbuds-podcast-recommendations-podcasts-on-burnout.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-burnout
   podcasts: null
 
 - name: 'In Loving Memory: Podcast Recommendations'
-  opml: earbuds-in-loving-memory-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-in-loving-memory-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/loving-memory-podcast-recommendations
   podcasts: null
 
 - name: 'Podcasts On: Beauty Standards'
-  opml: earbuds-podcasts-on-beauty-standards.opml
+  opml: earbuds-podcast-recommendations-podcasts-on-beauty-standards.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-beauty-standards
   podcasts: null
 
 - name: 'Beauty Standards: Podcast Recommendations'
-  opml: earbuds-beauty-standards-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-beauty-standards-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/beauty-standards-podcast-recommendations
   podcasts: null
 
 - name: 'Reframing the Unexpected: Podcast Recommendations'
-  opml: earbuds-reframing-the-unexpected-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-reframing-the-unexpected-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/reframing-unexpected-podcast-recommendations-0521
   podcasts: null
 
 - name: 'Games and Our Feelings: Podcast Recommendations'
-  opml: earbuds-games-and-our-feelings-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-games-and-our-feelings-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/games-feelings-podcast-recommendations
   podcasts: null
 
 - name: 'Changing Your Tech Point of View: Podcast Recommendations'
-  opml: earbuds-changing-your-tech-point-of-view-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-changing-your-tech-point-of-view-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/changing-tech-point-view-podcast-recommendations
   podcasts: null
 
 - name: Are you comically well? Podcast Recommendations
-  opml: earbuds-are-you-comically-well-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-are-you-comically-well-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/comically-well-podcast-recommendations
   podcasts: null
 
 - name: Comedic Wellness Podcast Recommendations
-  opml: earbuds-comedic-wellness-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-comedic-wellness-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/comedic-wellness-podcast-recommendations
   podcasts: null
 
 - name: 'Women''s History Month: Podcast Recommendations'
-  opml: earbuds-womens-history-month-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-womens-history-month-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/womens-history-month-podcast-recommendations
   podcasts: null
 
 - name: Mental Health & Mindfulness Podcasts for Kids
-  opml: earbuds-mental-health-mindfulness-podcasts-for-kids.opml
+  opml: earbuds-podcast-recommendations-mental-health-mindfulness-podcasts-for-kids.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/mental-health-mindfulness-podcasts-kids
   podcasts: null
 
 - name: 'Helping Kids Find Their Calm: Podcast Recommendations'
-  opml: earbuds-helping-kids-find-their-calm-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-helping-kids-find-their-calm-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/helping-kids-find-calm-podcast-recommendations
   podcasts: null
 
 - name: Female-focused Health & Well-being
-  opml: earbuds-female-focused-health-well-being.opml
+  opml: earbuds-podcast-recommendations-female-focused-health-well-being.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/femalefocused-health-wellbeing
   podcasts: null
 
 - name: 'Female Focused Health & Well-being: Podcast Recommendations'
-  opml: earbuds-female-focused-health-well-being-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-female-focused-health-well-being-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/female-focused-health-wellbeing-podcast-recommendations
   podcasts: null
 
 - name: 'Great Writing for the Ear: Podcast Recommendations'
-  opml: earbuds-great-writing-for-the-ear-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-great-writing-for-the-ear-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/great-writing-ear-podcast-recommendations-90ad
   podcasts: null
 
 - name: 'Black History Month: Pop Culture Podcasts'
-  opml: earbuds-black-history-month-pop-culture-podcasts.opml
+  opml: earbuds-podcast-recommendations-black-history-month-pop-culture-podcasts.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/black-history-month-pop-culture-podcasts-de28
   podcasts: null
 
 - name: 'Black History Transcends Time: Podcast Recommendations'
-  opml: earbuds-black-history-transcends-time-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-black-history-transcends-time-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/black-history-transcends-time-podcast-recommendations
   podcasts: null
 
 - name: Black History Transcends Time
-  opml: earbuds-black-history-transcends-time.opml
+  opml: earbuds-podcast-recommendations-black-history-transcends-time.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/black-history-transcends-time
   podcasts: null
 
 - name: Canadian Black History & Futures
-  opml: earbuds-canadian-black-history-futures.opml
+  opml: earbuds-podcast-recommendations-canadian-black-history-futures.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/canadian-black-history-futures-c278
   podcasts:
@@ -2784,7 +2780,7 @@ issues:
     xmlUrl: null
 
 - name: 'BLM: Black, History-Making Podcasters'
-  opml: earbuds-blm-black-history-making-podcasters.opml
+  opml: earbuds-podcast-recommendations-blm-black-history-making-podcasters.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/blm-black-historymaking-podcasters-30cc
   podcasts:
@@ -2814,7 +2810,7 @@ issues:
     xmlUrl: null
 
 - name: 'Light and Dark: Podcast Recommendations'
-  opml: earbuds-light-and-dark-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-light-and-dark-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/light-dark-podcast-recommendations-a25f
   podcasts:
@@ -2848,7 +2844,7 @@ issues:
     xmlUrl: null
 
 - name: Queens From History Who Made The Mark
-  opml: earbuds-queens-from-history-who-made-the-mark.opml
+  opml: earbuds-podcast-recommendations-queens-from-history-who-made-the-mark.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/queens-history-made-mark
   podcasts:
@@ -2878,7 +2874,7 @@ issues:
     xmlUrl: null
 
 - name: Game Show Podcast Recommendations
-  opml: earbuds-game-show-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-game-show-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/game-show-podcast-recommendations-0c3a
   podcasts:
@@ -2912,7 +2908,7 @@ issues:
     xmlUrl: null
 
 - name: 'You''re Getting Sleepy: Podcast Recommendations'
-  opml: earbuds-youre-getting-sleepy-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-youre-getting-sleepy-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/youre-getting-sleepy-podcast-recommendations-2335
   podcasts:
@@ -2950,7 +2946,7 @@ issues:
     xmlUrl: null
 
 - name: 'BIPOC Women in Business: Podcast Recommendations'
-  opml: earbuds-bipoc-women-in-business-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-bipoc-women-in-business-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/bipoc-women-business-podcast-recommendations
   podcasts:
@@ -2984,7 +2980,7 @@ issues:
     xmlUrl: null
 
 - name: The Story Behind Women's Healthcare🩺 [with the Vocaster]
-  opml: earbuds-the-story-behind-womens-healthcare-with-the-vocaster.opml
+  opml: earbuds-podcast-recommendations-the-story-behind-womens-healthcare-with-the-vocaster.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/story-behind-womens-healthcare-vocaster
   podcasts:
@@ -3018,7 +3014,7 @@ issues:
     xmlUrl: null
 
 - name: The Story Behind Women's Healthcare🩺
-  opml: earbuds-the-story-behind-womens-healthcare.opml
+  opml: earbuds-podcast-recommendations-the-story-behind-womens-healthcare.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/story-behind-womens-healthcare
   podcasts:
@@ -3048,13 +3044,13 @@ issues:
     xmlUrl: null
 
 - name: Thanks for entering the Focusrite Vocaster contest
-  opml: earbuds-thanks-for-entering-the-focusrite-vocaster-contest.opml
+  opml: earbuds-podcast-recommendations-thanks-for-entering-the-focusrite-vocaster-contest.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/thanks-entering-focusrite-vocaster-contest
   podcasts: null
 
 - name: 'Entertainment in the Spotlight: Podcast Picks🎥'
-  opml: earbuds-entertainment-in-the-spotlight-podcast-picks.opml
+  opml: earbuds-podcast-recommendations-entertainment-in-the-spotlight-podcast-picks.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/entertainment-spotlight-podcast-picks
   podcasts:
@@ -3084,7 +3080,7 @@ issues:
     xmlUrl: null
 
 - name: Entertainment in the Spotlight 🎥
-  opml: earbuds-entertainment-in-the-spotlight.opml
+  opml: earbuds-podcast-recommendations-entertainment-in-the-spotlight.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/entertainment-spotlight
   podcasts:
@@ -3110,7 +3106,7 @@ issues:
     xmlUrl: null
 
 - name: Documentary-style podcast recommendations 💭
-  opml: earbuds-documentary-style-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-documentary-style-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/documentarystyle-podcast-recommendations
   podcasts:
@@ -3124,7 +3120,7 @@ issues:
     xmlUrl: null
 
 - name: 'Thinky Documentaries: Podcast Recommendations 💭'
-  opml: earbuds-thinky-documentaries-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-thinky-documentaries-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/thinky-documentaries-podcast-recommendations
   podcasts:
@@ -3138,7 +3134,7 @@ issues:
     xmlUrl: null
 
 - name: Listen to Canadians, eh?🍁
-  opml: earbuds-listen-to-canadians-eh.opml
+  opml: earbuds-podcast-recommendations-listen-to-canadians-eh.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/listen-canadians-eh
   podcasts:
@@ -3156,7 +3152,7 @@ issues:
     xmlUrl: null
 
 - name: 'Climate in Disguise: Podcast Recommendations 🌏'
-  opml: earbuds-climate-in-disguise-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-climate-in-disguise-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/climate-disguise-podcast-recommendations
   podcasts:
@@ -3174,7 +3170,7 @@ issues:
     xmlUrl: null
 
 - name: 'For Bleat''s Sake: Animals Podcast Recommendations'
-  opml: earbuds-for-bleats-sake-animals-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-for-bleats-sake-animals-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/bleats-sake-animals-podcast-recommendations
   podcasts:
@@ -3192,7 +3188,7 @@ issues:
     xmlUrl: null
 
 - name: 'For Bleat''s Sake: Animals!'
-  opml: earbuds-for-bleats-sake-animals.opml
+  opml: earbuds-podcast-recommendations-for-bleats-sake-animals.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/bleats-sake-animals
   podcasts:
@@ -3210,7 +3206,7 @@ issues:
     xmlUrl: null
 
 - name: Spooky Funny Fun Podcast Recommendations for Halloween 🎃
-  opml: earbuds-spooky-funny-fun-podcast-recommendations-for-halloween.opml
+  opml: earbuds-podcast-recommendations-spooky-funny-fun-podcast-recommendations-for-halloween.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/spooky-funny-fun-podcast-recommendations-halloween
   podcasts:
@@ -3228,7 +3224,7 @@ issues:
     xmlUrl: null
 
 - name: 'Spooky Funny Fun Theme: Podcast Recommendations'
-  opml: earbuds-spooky-funny-fun-theme-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-spooky-funny-fun-theme-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/spooky-funny-fun-theme-podcast-recommendations
   podcasts:
@@ -3250,7 +3246,7 @@ issues:
     xmlUrl: null
 
 - name: 'Inside Cults: Podcast Recommendations 😬'
-  opml: earbuds-inside-cults-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-inside-cults-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/inside-cults-podcast-recommendations
   podcasts:
@@ -3268,7 +3264,7 @@ issues:
     xmlUrl: null
 
 - name: Climate Podcasts That'll Change You 🌍
-  opml: earbuds-climate-podcasts-thatll-change-you.opml
+  opml: earbuds-podcast-recommendations-climate-podcasts-thatll-change-you.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/climate-podcasts-thatll-change
   podcasts:
@@ -3290,7 +3286,7 @@ issues:
     xmlUrl: null
 
 - name: 'Listening is Powerful: Climate Podcasts That Will Leave You Changed'
-  opml: earbuds-listening-is-powerful-climate-podcasts-that-will-leave-you-changed.opml
+  opml: earbuds-podcast-recommendations-listening-is-powerful-climate-podcasts-that-will-leave-you-changed.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/listening-powerful-climate-podcasts-will-leave-changed
   podcasts:
@@ -3312,7 +3308,7 @@ issues:
     xmlUrl: null
 
 - name: 'Listening is Powerful: Podcast Recommendations🎧'
-  opml: earbuds-listening-is-powerful-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-listening-is-powerful-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/listening-powerful-podcast-recommendations
   podcasts:
@@ -3334,7 +3330,7 @@ issues:
     xmlUrl: null
 
 - name: 'More Than Interviews with Musicians: Podcast Recommendations 🎹'
-  opml: earbuds-more-than-interviews-with-musicians-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-more-than-interviews-with-musicians-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/interviews-musicians-podcast-recommendations
   podcasts:
@@ -3360,7 +3356,7 @@ issues:
     xmlUrl: null
 
 - name: 'More than Interview with Musicians: Podcast Recommendations'
-  opml: earbuds-more-than-interview-with-musicians-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-more-than-interview-with-musicians-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/interview-musicians-podcast-recommendations
   podcasts:
@@ -3386,7 +3382,7 @@ issues:
     xmlUrl: null
 
 - name: 'When Someone You ❤️ Has Breast Cancer: Podcast Recommendations'
-  opml: earbuds-when-someone-you-love-has-breast-cancer-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-when-someone-you-love-has-breast-cancer-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/someone-breast-cancer-podcast-recommendations
   podcasts:
@@ -3412,7 +3408,7 @@ issues:
     xmlUrl: null
 
 - name: 'More Than a Stereotype: Podcasts Celebrating Latine Heritage Month'
-  opml: earbuds-more-than-a-stereotype-podcasts-celebrating-latine-heritage-month.opml
+  opml: earbuds-podcast-recommendations-more-than-a-stereotype-podcasts-celebrating-latine-heritage-month.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/stereotype-podcasts-celebrating-latine-heritage-month
   podcasts:
@@ -3438,7 +3434,7 @@ issues:
     xmlUrl: null
 
 - name: Podcasts of Nigerian Origin 🇳🇬
-  opml: earbuds-podcasts-of-nigerian-origin.opml
+  opml: earbuds-podcast-recommendations-podcasts-of-nigerian-origin.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-nigerian-origin
   podcasts:
@@ -3464,7 +3460,7 @@ issues:
     xmlUrl: null
 
 - name: '✨ Spotlight On: Neurodivergent Podcasters'
-  opml: earbuds-spotlight-on-neurodivergent-podcasters.opml
+  opml: earbuds-podcast-recommendations-spotlight-on-neurodivergent-podcasters.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/spotlight-neurodivergent-podcasters
   podcasts:
@@ -3490,7 +3486,7 @@ issues:
     xmlUrl: null
 
 - name: Books & Reading 📚 Podcast Recommendations
-  opml: earbuds-books-reading-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-books-reading-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/books-reading-podcast-recommendations
   podcasts:
@@ -3516,7 +3512,7 @@ issues:
     xmlUrl: null
 
 - name: Books, Reading, Books (TEST)
-  opml: earbuds-books-reading-books-test.opml
+  opml: earbuds-podcast-recommendations-books-reading-books-test.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/books-reading-books-test
   podcasts:
@@ -3542,7 +3538,7 @@ issues:
     xmlUrl: null
 
 - name: Music Untold
-  opml: earbuds-music-untold.opml
+  opml: earbuds-podcast-recommendations-music-untold.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/music-untold
   podcasts:
@@ -3572,7 +3568,7 @@ issues:
     xmlUrl: null
 
 - name: Episodes to make you fall in love with podcasts
-  opml: earbuds-episodes-to-make-you-fall-in-love-with-podcasts.opml
+  opml: earbuds-podcast-recommendations-episodes-to-make-you-fall-in-love-with-podcasts.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/episodes-make-fall-love-podcasts
   podcasts:
@@ -3598,7 +3594,7 @@ issues:
     xmlUrl: null
 
 - name: How to Fall in Love with Podcasts
-  opml: earbuds-how-to-fall-in-love-with-podcasts.opml
+  opml: earbuds-podcast-recommendations-how-to-fall-in-love-with-podcasts.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/fall-love-podcasts
   podcasts:
@@ -3624,7 +3620,7 @@ issues:
     xmlUrl: null
 
 - name: Podcasts@Work
-  opml: earbuds-podcasts-work.opml
+  opml: earbuds-podcast-recommendations-podcasts-work.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcastswork
   podcasts:
@@ -3650,7 +3646,7 @@ issues:
     xmlUrl: null
 
 - name: Podcast@Work
-  opml: earbuds-podcast-work.opml
+  opml: earbuds-podcast-recommendations-podcast-work.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcastwork
   podcasts:
@@ -3676,7 +3672,7 @@ issues:
     xmlUrl: null
 
 - name: Self-Acceptance & Self-Love
-  opml: earbuds-self-acceptance-self-love.opml
+  opml: earbuds-podcast-recommendations-self-acceptance-self-love.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/selfacceptance-selflove
   podcasts:
@@ -3702,7 +3698,7 @@ issues:
     xmlUrl: null
 
 - name: Investigating Justice
-  opml: earbuds-investigating-justice.opml
+  opml: earbuds-podcast-recommendations-investigating-justice.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/investigating-justice
   podcasts:
@@ -3728,7 +3724,7 @@ issues:
     xmlUrl: null
 
 - name: Vibrant Matter
-  opml: earbuds-vibrant-matter.opml
+  opml: earbuds-podcast-recommendations-vibrant-matter.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/vibrant-matter
   podcasts:
@@ -3754,7 +3750,7 @@ issues:
     xmlUrl: null
 
 - name: Hopepunk Audio Dramas
-  opml: earbuds-hopepunk-audio-dramas.opml
+  opml: earbuds-podcast-recommendations-hopepunk-audio-dramas.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/hopepunk-audio-dramas
   podcasts:
@@ -3780,7 +3776,7 @@ issues:
     xmlUrl: null
 
 - name: Hip-Hop History and Hustle
-  opml: earbuds-hip-hop-history-and-hustle.opml
+  opml: earbuds-podcast-recommendations-hip-hop-history-and-hustle.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/hiphop-history-hustle
   podcasts:
@@ -3806,7 +3802,7 @@ issues:
     xmlUrl: null
 
 - name: True Crime All Day
-  opml: earbuds-true-crime-all-day.opml
+  opml: earbuds-podcast-recommendations-true-crime-all-day.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/true-crime-day
   podcasts:
@@ -3836,7 +3832,7 @@ issues:
     xmlUrl: null
 
 - name: Alzheimer's and Dementia Caregiving
-  opml: earbuds-alzheimers-and-dementia-caregiving.opml
+  opml: earbuds-podcast-recommendations-alzheimers-and-dementia-caregiving.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/alzheimers-dementia-caregiving
   podcasts:
@@ -3862,7 +3858,7 @@ issues:
     xmlUrl: null
 
 - name: The ~Podcast Musical~ Must Go On!
-  opml: earbuds-the-podcast-musical-must-go-on.opml
+  opml: earbuds-podcast-recommendations-the-podcast-musical-must-go-on.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-musical-must-go
   podcasts:
@@ -3888,7 +3884,7 @@ issues:
     xmlUrl: null
 
 - name: Women in Entertainment
-  opml: earbuds-women-in-entertainment.opml
+  opml: earbuds-podcast-recommendations-women-in-entertainment.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/women-entertainment
   podcasts:
@@ -3914,7 +3910,7 @@ issues:
     xmlUrl: null
 
 - name: Pride is a Riot
-  opml: earbuds-pride-is-a-riot.opml
+  opml: earbuds-podcast-recommendations-pride-is-a-riot.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/pride-riot
   podcasts:
@@ -3940,7 +3936,7 @@ issues:
     xmlUrl: null
 
 - name: Art Imitates Life (Imitates Podcasts)
-  opml: earbuds-art-imitates-life-imitates-podcasts.opml
+  opml: earbuds-podcast-recommendations-art-imitates-life-imitates-podcasts.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/art-imitates-life-imitates-podcasts
   podcasts:
@@ -3966,7 +3962,7 @@ issues:
     xmlUrl: null
 
 - name: Living in our Bodies
-  opml: earbuds-living-in-our-bodies.opml
+  opml: earbuds-podcast-recommendations-living-in-our-bodies.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/living-bodies
   podcasts:
@@ -3992,7 +3988,7 @@ issues:
     xmlUrl: null
 
 - name: Rewriting Black and Indigenous Histories
-  opml: earbuds-rewriting-black-and-indigenous-histories.opml
+  opml: earbuds-podcast-recommendations-rewriting-black-and-indigenous-histories.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/rewriting-black-indigenous-histories
   podcasts:
@@ -4018,7 +4014,7 @@ issues:
     xmlUrl: null
 
 - name: Raising Awareness About Disabilities
-  opml: earbuds-raising-awareness-about-disabilities.opml
+  opml: earbuds-podcast-recommendations-raising-awareness-about-disabilities.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/raising-awareness-disabilities
   podcasts:
@@ -4044,7 +4040,7 @@ issues:
     xmlUrl: null
 
 - name: Unexpected, Smart Business
-  opml: earbuds-unexpected-smart-business.opml
+  opml: earbuds-podcast-recommendations-unexpected-smart-business.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/unexpected-smart-business
   podcasts:
@@ -4070,7 +4066,7 @@ issues:
     xmlUrl: null
 
 - name: Stories of Indelible Women
-  opml: earbuds-stories-of-indelible-women.opml
+  opml: earbuds-podcast-recommendations-stories-of-indelible-women.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/stories-indelible-women
   podcasts:
@@ -4096,7 +4092,7 @@ issues:
     xmlUrl: null
 
 - name: Sounds, Songs & Their Stories
-  opml: earbuds-sounds-songs-their-stories.opml
+  opml: earbuds-podcast-recommendations-sounds-songs-their-stories.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/sounds-songs-stories
   podcasts:
@@ -4122,7 +4118,7 @@ issues:
     xmlUrl: null
 
 - name: Sounds, Stories, & Songs
-  opml: earbuds-sounds-stories-songs.opml
+  opml: earbuds-podcast-recommendations-sounds-stories-songs.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/sounds-stories-songs
   podcasts:
@@ -4148,7 +4144,7 @@ issues:
     xmlUrl: null
 
 - name: 'Libraries: Not Just Books'
-  opml: earbuds-libraries-not-just-books.opml
+  opml: earbuds-podcast-recommendations-libraries-not-just-books.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/libraries-not-just-books
   podcasts:
@@ -4174,7 +4170,7 @@ issues:
     xmlUrl: null
 
 - name: Podcasts About Britney
-  opml: earbuds-podcasts-about-britney.opml
+  opml: earbuds-podcast-recommendations-podcasts-about-britney.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-britney
   podcasts:
@@ -4200,7 +4196,7 @@ issues:
     xmlUrl: null
 
 - name: Mood-Boosting Stories
-  opml: earbuds-mood-boosting-stories.opml
+  opml: earbuds-podcast-recommendations-mood-boosting-stories.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/moodboosting-stories
   podcasts:
@@ -4226,7 +4222,7 @@ issues:
     xmlUrl: null
 
 - name: 💃🏽Women Leaders in Podcasting
-  opml: earbuds-women-leaders-in-podcasting.opml
+  opml: earbuds-podcast-recommendations-women-leaders-in-podcasting.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/women-leaders-podcasting
   podcasts:
@@ -4252,7 +4248,7 @@ issues:
     xmlUrl: null
 
 - name: Behind the Icons
-  opml: earbuds-behind-the-icons.opml
+  opml: earbuds-podcast-recommendations-behind-the-icons.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/behind-icons
   podcasts:
@@ -4278,7 +4274,7 @@ issues:
     xmlUrl: null
 
 - name: Precedented Times
-  opml: earbuds-precedented-times.opml
+  opml: earbuds-podcast-recommendations-precedented-times.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/precedented-times
   podcasts:
@@ -4304,7 +4300,7 @@ issues:
     xmlUrl: null
 
 - name: '🤖AI in Our Lives: Podcast Recommendations'
-  opml: earbuds-ai-in-our-lives-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-ai-in-our-lives-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/ai-lives-podcast-recommendations
   podcasts:
@@ -4330,7 +4326,7 @@ issues:
     xmlUrl: null
 
 - name: 📽️Film History Podcast Recommendations
-  opml: earbuds-film-history-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-film-history-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/film-history-podcast-recommendations
   podcasts:
@@ -4356,7 +4352,7 @@ issues:
     xmlUrl: null
 
 - name: Film History Podcasts
-  opml: earbuds-film-history-podcasts.opml
+  opml: earbuds-podcast-recommendations-film-history-podcasts.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/film-history-podcasts
   podcasts:
@@ -4382,7 +4378,7 @@ issues:
     xmlUrl: null
 
 - name: Wood You Celebrate With Us? EarBuds at 5 Years
-  opml: earbuds-wood-you-celebrate-with-us-earbuds-at-5-years.opml
+  opml: earbuds-podcast-recommendations-wood-you-celebrate-with-us-earbuds-at-5-years.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/wood-celebrate-us-earbuds-5-years
   podcasts:
@@ -4408,7 +4404,7 @@ issues:
     xmlUrl: null
 
 - name: Minds to Sit With
-  opml: earbuds-minds-to-sit-with.opml
+  opml: earbuds-podcast-recommendations-minds-to-sit-with.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/minds-sit
   podcasts:
@@ -4434,7 +4430,7 @@ issues:
     xmlUrl: null
 
 - name: Why Black History Matters
-  opml: earbuds-why-black-history-matters.opml
+  opml: earbuds-podcast-recommendations-why-black-history-matters.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/black-history-matters
   podcasts:
@@ -4460,7 +4456,7 @@ issues:
     xmlUrl: null
 
 - name: Asian Experiences in the U.S.
-  opml: earbuds-asian-experiences-in-the-u-s.opml
+  opml: earbuds-podcast-recommendations-asian-experiences-in-the-u-s.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/asian-experiences-us
   podcasts:
@@ -4478,7 +4474,7 @@ issues:
     xmlUrl: null
 
 - name: How Do You Feel?
-  opml: earbuds-how-do-you-feel.opml
+  opml: earbuds-podcast-recommendations-how-do-you-feel.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/feel
   podcasts:
@@ -4504,7 +4500,7 @@ issues:
     xmlUrl: null
 
 - name: Through an Expat Lens
-  opml: earbuds-through-an-expat-lens.opml
+  opml: earbuds-podcast-recommendations-through-an-expat-lens.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/expat-lens
   podcasts:
@@ -4534,7 +4530,7 @@ issues:
     xmlUrl: null
 
 - name: A Good Cry
-  opml: earbuds-a-good-cry.opml
+  opml: earbuds-podcast-recommendations-a-good-cry.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/good-cry
   podcasts:
@@ -4560,7 +4556,7 @@ issues:
     xmlUrl: null
 
 - name: Inspiration from Everyday Women
-  opml: earbuds-inspiration-from-everyday-women.opml
+  opml: earbuds-podcast-recommendations-inspiration-from-everyday-women.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/inspiration-everyday-women
   podcasts:
@@ -4586,7 +4582,7 @@ issues:
     xmlUrl: null
 
 - name: Memoirs
-  opml: earbuds-memoirs.opml
+  opml: earbuds-podcast-recommendations-memoirs.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/memoirs
   podcasts:
@@ -4612,7 +4608,7 @@ issues:
     xmlUrl: null
 
 - name: Motherhood
-  opml: earbuds-motherhood.opml
+  opml: earbuds-podcast-recommendations-motherhood.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/motherhood
   podcasts:
@@ -4638,7 +4634,7 @@ issues:
     xmlUrl: null
 
 - name: Divorce
-  opml: earbuds-divorce.opml
+  opml: earbuds-podcast-recommendations-divorce.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/divorce
   podcasts:
@@ -4664,7 +4660,7 @@ issues:
     xmlUrl: null
 
 - name: Caregivers Month
-  opml: earbuds-caregivers-month.opml
+  opml: earbuds-podcast-recommendations-caregivers-month.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/caregivers-month
   podcasts:
@@ -4690,7 +4686,7 @@ issues:
     xmlUrl: null
 
 - name: thanksgiving mini list
-  opml: earbuds-thanksgiving-mini-list.opml
+  opml: earbuds-podcast-recommendations-thanksgiving-mini-list.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/thanksgiving-mini-list
   podcasts:
@@ -4712,7 +4708,7 @@ issues:
     xmlUrl: null
 
 - name: Feeling Thankful
-  opml: earbuds-feeling-thankful.opml
+  opml: earbuds-podcast-recommendations-feeling-thankful.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/feeling-thankful
   podcasts:
@@ -4738,7 +4734,7 @@ issues:
     xmlUrl: null
 
 - name: Podcasts about the past
-  opml: earbuds-podcasts-about-the-past.opml
+  opml: earbuds-podcast-recommendations-podcasts-about-the-past.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-past
   podcasts:
@@ -4764,7 +4760,7 @@ issues:
     xmlUrl: null
 
 - name: Love and Meaning
-  opml: earbuds-love-and-meaning.opml
+  opml: earbuds-podcast-recommendations-love-and-meaning.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/love-meaning
   podcasts:
@@ -4790,7 +4786,7 @@ issues:
     xmlUrl: null
 
 - name: Native American Heritage Month
-  opml: earbuds-native-american-heritage-month.opml
+  opml: earbuds-podcast-recommendations-native-american-heritage-month.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/native-american-heritage-month
   podcasts:
@@ -4816,7 +4812,7 @@ issues:
     xmlUrl: null
 
 - name: Halloween mini list
-  opml: earbuds-halloween-mini-list.opml
+  opml: earbuds-podcast-recommendations-halloween-mini-list.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/halloween-mini-list
   podcasts:
@@ -4842,7 +4838,7 @@ issues:
     xmlUrl: null
 
 - name: Internet Culture
-  opml: earbuds-internet-culture.opml
+  opml: earbuds-podcast-recommendations-internet-culture.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/internet-culture
   podcasts:
@@ -4868,7 +4864,7 @@ issues:
     xmlUrl: null
 
 - name: Women Who Kill
-  opml: earbuds-women-who-kill.opml
+  opml: earbuds-podcast-recommendations-women-who-kill.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/women-kill
   podcasts:
@@ -4894,7 +4890,7 @@ issues:
     xmlUrl: null
 
 - name: PodFest Berlin
-  opml: earbuds-podfest-berlin.opml
+  opml: earbuds-podcast-recommendations-podfest-berlin.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podfest-berlin
   podcasts:
@@ -4920,7 +4916,7 @@ issues:
     xmlUrl: null
 
 - name: Movies that make us think
-  opml: earbuds-movies-that-make-us-think.opml
+  opml: earbuds-podcast-recommendations-movies-that-make-us-think.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/movies-make-us-think
   podcasts:
@@ -4946,7 +4942,7 @@ issues:
     xmlUrl: null
 
 - name: Podcasts for a Refreshing Take on Sustainability
-  opml: earbuds-podcasts-for-a-refreshing-take-on-sustainability.opml
+  opml: earbuds-podcast-recommendations-podcasts-for-a-refreshing-take-on-sustainability.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-refreshing-take-sustainability
   podcasts:
@@ -4968,7 +4964,7 @@ issues:
     xmlUrl: null
 
 - name: Podcast Recommendations for Thinking at the Movies
-  opml: earbuds-podcast-recommendations-for-thinking-at-the-movies.opml
+  opml: earbuds-podcast-recommendations-podcast-recommendations-for-thinking-at-the-movies.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-recommendations-thinking-movies
   podcasts:
@@ -4994,7 +4990,7 @@ issues:
     xmlUrl: null
 
 - name: Abortion Rights Update - Podcast Recommendations
-  opml: earbuds-abortion-rights-update-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-abortion-rights-update-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/abortion-rights-update-podcast-recommendations
   podcasts:
@@ -5020,7 +5016,7 @@ issues:
     xmlUrl: null
 
 - name: Celebrating Hispanic Heritage Month
-  opml: earbuds-celebrating-hispanic-heritage-month.opml
+  opml: earbuds-podcast-recommendations-celebrating-hispanic-heritage-month.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/celebrating-hispanic-heritage-month
   podcasts:
@@ -5046,7 +5042,7 @@ issues:
     xmlUrl: null
 
 - name: Celebrating Latinx Heritage Month - Advancing La Cultura
-  opml: earbuds-celebrating-latinx-heritage-month-advancing-la-cultura.opml
+  opml: earbuds-podcast-recommendations-celebrating-latinx-heritage-month-advancing-la-cultura.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/celebrating-latinx-heritage-month-advancing-la-cultura
   podcasts:
@@ -5072,7 +5068,7 @@ issues:
     xmlUrl: null
 
 - name: Podcasts Out of This World
-  opml: earbuds-podcasts-out-of-this-world.opml
+  opml: earbuds-podcast-recommendations-podcasts-out-of-this-world.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-world
   podcasts:
@@ -5098,7 +5094,7 @@ issues:
     xmlUrl: null
 
 - name: Mom Entrepreneurs
-  opml: earbuds-mom-entrepreneurs.opml
+  opml: earbuds-podcast-recommendations-mom-entrepreneurs.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/mom-entrepreneurs
   podcasts:
@@ -5128,7 +5124,7 @@ issues:
     xmlUrl: null
 
 - name: Understanding Our Digital Footprint
-  opml: earbuds-understanding-our-digital-footprint.opml
+  opml: earbuds-podcast-recommendations-understanding-our-digital-footprint.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/understanding-digital-footprint
   podcasts:
@@ -5154,13 +5150,13 @@ issues:
     xmlUrl: null
 
 - name: Free Speech in Podcasting
-  opml: earbuds-free-speech-in-podcasting.opml
+  opml: earbuds-podcast-recommendations-free-speech-in-podcasting.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/free-speech-podcasting
   podcasts: null
 
 - name: Science and Crime
-  opml: earbuds-science-and-crime.opml
+  opml: earbuds-podcast-recommendations-science-and-crime.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/science-crime
   podcasts:
@@ -5190,7 +5186,7 @@ issues:
     xmlUrl: null
 
 - name: Podcast Recommendations For Giving a Shit
-  opml: earbuds-podcast-recommendations-for-giving-a-shit.opml
+  opml: earbuds-podcast-recommendations-podcast-recommendations-for-giving-a-shit.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-recommendations-giving-shit
   podcasts:
@@ -5220,7 +5216,7 @@ issues:
     xmlUrl: null
 
 - name: The Field of Health Design
-  opml: earbuds-the-field-of-health-design.opml
+  opml: earbuds-podcast-recommendations-the-field-of-health-design.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/field-health-design
   podcasts:
@@ -5250,7 +5246,7 @@ issues:
     xmlUrl: null
 
 - name: 'Podcast Recommendations: Arts in the Spotlight'
-  opml: earbuds-podcast-recommendations-arts-in-the-spotlight.opml
+  opml: earbuds-podcast-recommendations-podcast-recommendations-arts-in-the-spotlight.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-recommendations-arts-spotlight
   podcasts:
@@ -5280,7 +5276,7 @@ issues:
     xmlUrl: null
 
 - name: Podcasts On The Olympics & Sports Stories
-  opml: earbuds-podcasts-on-the-olympics-sports-stories.opml
+  opml: earbuds-podcast-recommendations-podcasts-on-the-olympics-sports-stories.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-olympics-sports-stories
   podcasts:
@@ -5306,7 +5302,7 @@ issues:
     xmlUrl: null
 
 - name: Micro-casts - Short Podcasts
-  opml: earbuds-micro-casts-short-podcasts.opml
+  opml: earbuds-podcast-recommendations-micro-casts-short-podcasts.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/microcasts-short-podcasts
   podcasts:
@@ -5332,7 +5328,7 @@ issues:
     xmlUrl: null
 
 - name: The Best Movie Podcasts
-  opml: earbuds-the-best-movie-podcasts.opml
+  opml: earbuds-podcast-recommendations-the-best-movie-podcasts.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/best-movie-podcasts
   podcasts:
@@ -5358,7 +5354,7 @@ issues:
     xmlUrl: null
 
 - name: Southern and Jewish
-  opml: earbuds-southern-and-jewish.opml
+  opml: earbuds-podcast-recommendations-southern-and-jewish.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/southern-jewish
   podcasts:
@@ -5380,7 +5376,7 @@ issues:
     xmlUrl: null
 
 - name: Music, Murder, and History
-  opml: earbuds-music-murder-and-history.opml
+  opml: earbuds-podcast-recommendations-music-murder-and-history.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/music-murder-history
   podcasts:
@@ -5406,7 +5402,7 @@ issues:
     xmlUrl: null
 
 - name: Human Connection
-  opml: earbuds-human-connection.opml
+  opml: earbuds-podcast-recommendations-human-connection.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/human-connection
   podcasts:
@@ -5432,7 +5428,7 @@ issues:
     xmlUrl: null
 
 - name: Looking Behind Walls
-  opml: earbuds-looking-behind-walls.opml
+  opml: earbuds-podcast-recommendations-looking-behind-walls.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/looking-behind-walls
   podcasts:
@@ -5458,7 +5454,7 @@ issues:
     xmlUrl: null
 
 - name: Let's Talk About Alzheimers
-  opml: earbuds-lets-talk-about-alzheimers.opml
+  opml: earbuds-podcast-recommendations-lets-talk-about-alzheimers.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/lets-talk-alzheimers
   podcasts:
@@ -5484,7 +5480,7 @@ issues:
     xmlUrl: null
 
 - name: 'Underrepresented Voices: Diversity Matters'
-  opml: earbuds-underrepresented-voices-diversity-matters.opml
+  opml: earbuds-podcast-recommendations-underrepresented-voices-diversity-matters.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/underrepresented-voices-diversity-matters
   podcasts:
@@ -5510,7 +5506,7 @@ issues:
     xmlUrl: null
 
 - name: Understanding Conscious Evolution
-  opml: earbuds-understanding-conscious-evolution.opml
+  opml: earbuds-podcast-recommendations-understanding-conscious-evolution.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/understanding-conscious-evolution
   podcasts:
@@ -5540,7 +5536,7 @@ issues:
     xmlUrl: null
 
 - name: Podcasts for the Theater Lover
-  opml: earbuds-podcasts-for-the-theater-lover.opml
+  opml: earbuds-podcast-recommendations-podcasts-for-the-theater-lover.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-theater-lover
   podcasts:
@@ -5570,7 +5566,7 @@ issues:
     xmlUrl: null
 
 - name: Missing Live Theatre
-  opml: earbuds-missing-live-theatre.opml
+  opml: earbuds-podcast-recommendations-missing-live-theatre.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/missing-live-theatre
   podcasts:
@@ -5600,7 +5596,7 @@ issues:
     xmlUrl: null
 
 - name: Podcasts for Coffee Lovers
-  opml: earbuds-podcasts-for-coffee-lovers.opml
+  opml: earbuds-podcast-recommendations-podcasts-for-coffee-lovers.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-coffee-lovers
   podcasts:
@@ -5630,7 +5626,7 @@ issues:
     xmlUrl: null
 
 - name: Finding A Sense of Purpose
-  opml: earbuds-finding-a-sense-of-purpose.opml
+  opml: earbuds-podcast-recommendations-finding-a-sense-of-purpose.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/finding-sense-purpose
   podcasts:
@@ -5656,7 +5652,7 @@ issues:
     xmlUrl: null
 
 - name: Impress At (Zoom) Parties
-  opml: earbuds-impress-at-zoom-parties.opml
+  opml: earbuds-podcast-recommendations-impress-at-zoom-parties.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/impress-zoom-parties
   podcasts:
@@ -5682,7 +5678,7 @@ issues:
     xmlUrl: null
 
 - name: Healing Mental Health
-  opml: earbuds-healing-mental-health.opml
+  opml: earbuds-podcast-recommendations-healing-mental-health.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/healing-mental-health
   podcasts:
@@ -5708,13 +5704,13 @@ issues:
     xmlUrl: null
 
 - name: Vote for us
-  opml: earbuds-vote-for-us.opml
+  opml: earbuds-podcast-recommendations-vote-for-us.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/vote-us
   podcasts: null
 
 - name: The Millennial Spiral
-  opml: earbuds-the-millennial-spiral.opml
+  opml: earbuds-podcast-recommendations-the-millennial-spiral.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/millennial-spiral
   podcasts:
@@ -5744,7 +5740,7 @@ issues:
     xmlUrl: null
 
 - name: Hidden Forces
-  opml: earbuds-hidden-forces.opml
+  opml: earbuds-podcast-recommendations-hidden-forces.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/hidden-forces
   podcasts:
@@ -5774,7 +5770,7 @@ issues:
     xmlUrl: null
 
 - name: 'We Need Diversity: Podcast Recommendations'
-  opml: earbuds-we-need-diversity-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-we-need-diversity-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/need-diversity-podcast-recommendations
   podcasts:
@@ -5800,7 +5796,7 @@ issues:
     xmlUrl: null
 
 - name: 'Podcast Recommendations: Magical Stories'
-  opml: earbuds-podcast-recommendations-magical-stories.opml
+  opml: earbuds-podcast-recommendations-podcast-recommendations-magical-stories.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-recommendations-magical-stories
   podcasts:
@@ -5826,7 +5822,7 @@ issues:
     xmlUrl: null
 
 - name: 'Podcasts On: The Creative Musical Mind'
-  opml: earbuds-podcasts-on-the-creative-musical-mind.opml
+  opml: earbuds-podcast-recommendations-podcasts-on-the-creative-musical-mind.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-creative-musical-mind
   podcasts:
@@ -5852,7 +5848,7 @@ issues:
     xmlUrl: null
 
 - name: 'Podcast Recommendations: Inside The Creative Mind'
-  opml: earbuds-podcast-recommendations-inside-the-creative-mind.opml
+  opml: earbuds-podcast-recommendations-podcast-recommendations-inside-the-creative-mind.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-recommendations-inside-creative-mind
   podcasts:
@@ -5874,7 +5870,7 @@ issues:
     xmlUrl: null
 
 - name: 'Podcast Recommendations: Women''s History Month'
-  opml: earbuds-podcast-recommendations-womens-history-month.opml
+  opml: earbuds-podcast-recommendations-podcast-recommendations-womens-history-month.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-recommendations-womens-history-month
   podcasts:
@@ -5896,7 +5892,7 @@ issues:
     xmlUrl: null
 
 - name: What You Don't Know About Ageing
-  opml: earbuds-what-you-dont-know-about-ageing.opml
+  opml: earbuds-podcast-recommendations-what-you-dont-know-about-ageing.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/dont-know-ageing
   podcasts:
@@ -5922,7 +5918,7 @@ issues:
     xmlUrl: null
 
 - name: Emotionally Naked Podcasts
-  opml: earbuds-emotionally-naked-podcasts.opml
+  opml: earbuds-podcast-recommendations-emotionally-naked-podcasts.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/emotionally-naked-podcasts
   podcasts:
@@ -5948,7 +5944,7 @@ issues:
     xmlUrl: null
 
 - name: Emotionally Naked Podcasters
-  opml: earbuds-emotionally-naked-podcasters.opml
+  opml: earbuds-podcast-recommendations-emotionally-naked-podcasters.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/emotionally-naked-podcasters
   podcasts:
@@ -5986,55 +5982,55 @@ issues:
     xmlUrl: null
 
 - name: EarBuds 4th Anniversary Party
-  opml: earbuds-earbuds-4th-anniversary-party.opml
+  opml: earbuds-podcast-recommendations-earbuds-4th-anniversary-party.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-4th-anniversary-party
   podcasts: null
 
 - name: We're Going Through Changes
-  opml: earbuds-were-going-through-changes.opml
+  opml: earbuds-podcast-recommendations-were-going-through-changes.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/going-changes
   podcasts: null
 
 - name: Blackberry The Masses
-  opml: earbuds-blackberry-the-masses.opml
+  opml: earbuds-podcast-recommendations-blackberry-the-masses.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/blackberry-masses
   podcasts: null
 
 - name: The People Behind...
-  opml: earbuds-the-people-behind.opml
+  opml: earbuds-podcast-recommendations-the-people-behind.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/people-behind
   podcasts: null
 
 - name: Women Runners
-  opml: earbuds-women-runners.opml
+  opml: earbuds-podcast-recommendations-women-runners.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/women-runners
   podcasts: null
 
 - name: Social Justice
-  opml: earbuds-social-justice.opml
+  opml: earbuds-podcast-recommendations-social-justice.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/social-justice
   podcasts: null
 
 - name: Great British Podcasts
-  opml: earbuds-great-british-podcasts.opml
+  opml: earbuds-podcast-recommendations-great-british-podcasts.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/great-british-podcasts
   podcasts: null
 
 - name: Under-The-Radar Award Winners
-  opml: earbuds-under-the-radar-award-winners.opml
+  opml: earbuds-podcast-recommendations-under-the-radar-award-winners.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/undertheradar-award-winners
   podcasts: null
 
 - name: Stories from Oregon
-  opml: earbuds-stories-from-oregon.opml
+  opml: earbuds-podcast-recommendations-stories-from-oregon.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/stories-oregon
   podcasts:
@@ -6052,7 +6048,7 @@ issues:
     xmlUrl: null
 
 - name: Oregon Stories
-  opml: earbuds-oregon-stories.opml
+  opml: earbuds-podcast-recommendations-oregon-stories.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/oregon-stories
   podcasts:
@@ -6070,7 +6066,7 @@ issues:
     xmlUrl: null
 
 - name: Making Local News Better
-  opml: earbuds-making-local-news-better.opml
+  opml: earbuds-podcast-recommendations-making-local-news-better.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/making-local-news-better
   podcasts:
@@ -6088,7 +6084,7 @@ issues:
     xmlUrl: null
 
 - name: We Contain Multitudes
-  opml: earbuds-we-contain-multitudes.opml
+  opml: earbuds-podcast-recommendations-we-contain-multitudes.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/contain-multitudes
   podcasts:
@@ -6102,7 +6098,7 @@ issues:
     xmlUrl: null
 
 - name: A Surreal Wrap-Up
-  opml: earbuds-a-surreal-wrap-up.opml
+  opml: earbuds-podcast-recommendations-a-surreal-wrap-up.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/surreal-wrapup
   podcasts:
@@ -6116,7 +6112,7 @@ issues:
     xmlUrl: null
 
 - name: Retro Pop Culture
-  opml: earbuds-retro-pop-culture.opml
+  opml: earbuds-podcast-recommendations-retro-pop-culture.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/retro-pop-culture
   podcasts:
@@ -6130,7 +6126,7 @@ issues:
     xmlUrl: null
 
 - name: Strange Folk From History
-  opml: earbuds-strange-folk-from-history.opml
+  opml: earbuds-podcast-recommendations-strange-folk-from-history.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/strange-folk-history
   podcasts:
@@ -6148,7 +6144,7 @@ issues:
     xmlUrl: null
 
 - name: 'Podcast Recommendations: Trans* Perspectives and Experiences'
-  opml: earbuds-podcast-recommendations-trans-perspectives-and-experiences.opml
+  opml: earbuds-podcast-recommendations-podcast-recommendations-trans-perspectives-and-experiences.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-recommendations-trans-perspectives-experiences
   podcasts:
@@ -6166,7 +6162,7 @@ issues:
     xmlUrl: null
 
 - name: Trans* Perspectives and Experiences
-  opml: earbuds-trans-perspectives-and-experiences.opml
+  opml: earbuds-podcast-recommendations-trans-perspectives-and-experiences.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/trans-perspectives-experiences
   podcasts:
@@ -6184,7 +6180,7 @@ issues:
     xmlUrl: null
 
 - name: Decolonizing America
-  opml: earbuds-decolonizing-america.opml
+  opml: earbuds-podcast-recommendations-decolonizing-america.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/decolonizing-america
   podcasts:
@@ -6202,7 +6198,7 @@ issues:
     xmlUrl: null
 
 - name: 'Pod Recs: The Joys of Birdwatching'
-  opml: earbuds-pod-recs-the-joys-of-birdwatching.opml
+  opml: earbuds-podcast-recommendations-pod-recs-the-joys-of-birdwatching.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/pod-recs-joys-birdwatching
   podcasts:
@@ -6228,7 +6224,7 @@ issues:
     xmlUrl: null
 
 - name: The Joys of Birdwatching
-  opml: earbuds-the-joys-of-birdwatching.opml
+  opml: earbuds-podcast-recommendations-the-joys-of-birdwatching.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/joys-birdwatching
   podcasts:
@@ -6254,7 +6250,7 @@ issues:
     xmlUrl: null
 
 - name: Prison Reform Podcasts
-  opml: earbuds-prison-reform-podcasts.opml
+  opml: earbuds-podcast-recommendations-prison-reform-podcasts.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/prison-reform-podcasts
   podcasts:
@@ -6276,7 +6272,7 @@ issues:
     xmlUrl: null
 
 - name: 'Podcast Recos: Spooky Stories'
-  opml: earbuds-podcast-recos-spooky-stories.opml
+  opml: earbuds-podcast-recommendations-podcast-recos-spooky-stories.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-recos-spooky-stories
   podcasts:
@@ -6294,7 +6290,7 @@ issues:
     xmlUrl: null
 
 - name: Spooky Stories
-  opml: earbuds-spooky-stories.opml
+  opml: earbuds-podcast-recommendations-spooky-stories.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/spooky-stories
   podcasts:
@@ -6312,7 +6308,7 @@ issues:
     xmlUrl: null
 
 - name: Creativity from Unexpected Places
-  opml: earbuds-creativity-from-unexpected-places.opml
+  opml: earbuds-podcast-recommendations-creativity-from-unexpected-places.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/creativity-unexpected-places
   podcasts:
@@ -6334,7 +6330,7 @@ issues:
     xmlUrl: null
 
 - name: Sharing the Knowledge
-  opml: earbuds-sharing-the-knowledge.opml
+  opml: earbuds-podcast-recommendations-sharing-the-knowledge.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/sharing-knowledge
   podcasts:
@@ -6356,7 +6352,7 @@ issues:
     xmlUrl: null
 
 - name: 'Podcast Recommendations: Framing a Different World'
-  opml: earbuds-podcast-recommendations-framing-a-different-world.opml
+  opml: earbuds-podcast-recommendations-podcast-recommendations-framing-a-different-world.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-recommendations-framing-different-world
   podcasts:
@@ -6374,7 +6370,7 @@ issues:
     xmlUrl: null
 
 - name: Framing a Different World
-  opml: earbuds-framing-a-different-world.opml
+  opml: earbuds-podcast-recommendations-framing-a-different-world.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/framing-different-world
   podcasts:
@@ -6392,7 +6388,7 @@ issues:
     xmlUrl: null
 
 - name: Do What you Love
-  opml: earbuds-do-what-you-love.opml
+  opml: earbuds-podcast-recommendations-do-what-you-love.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/love
   podcasts:
@@ -6410,7 +6406,7 @@ issues:
     xmlUrl: null
 
 - name: Why Read Books?
-  opml: earbuds-why-read-books.opml
+  opml: earbuds-podcast-recommendations-why-read-books.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/read-books
   podcasts:
@@ -6428,7 +6424,7 @@ issues:
     xmlUrl: null
 
 - name: Planet of Stopped Clocks
-  opml: earbuds-planet-of-stopped-clocks.opml
+  opml: earbuds-podcast-recommendations-planet-of-stopped-clocks.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/planet-stopped-clocks
   podcasts:
@@ -6446,7 +6442,7 @@ issues:
     xmlUrl: null
 
 - name: Culture Cults
-  opml: earbuds-culture-cults.opml
+  opml: earbuds-podcast-recommendations-culture-cults.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/culture-cults
   podcasts:
@@ -6464,7 +6460,7 @@ issues:
     xmlUrl: null
 
 - name: Podcasts about Ireland
-  opml: earbuds-podcasts-about-ireland.opml
+  opml: earbuds-podcast-recommendations-podcasts-about-ireland.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-ireland
   podcasts:
@@ -6482,7 +6478,7 @@ issues:
     xmlUrl: null
 
 - name: Marginalia and Radical Curiosity
-  opml: earbuds-marginalia-and-radical-curiosity.opml
+  opml: earbuds-podcast-recommendations-marginalia-and-radical-curiosity.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/marginalia-radical-curiosity
   podcasts:
@@ -6504,7 +6500,7 @@ issues:
     xmlUrl: null
 
 - name: Marginalia
-  opml: earbuds-marginalia.opml
+  opml: earbuds-podcast-recommendations-marginalia.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/marginalia
   podcasts:
@@ -6526,7 +6522,7 @@ issues:
     xmlUrl: null
 
 - name: Podcasts for the Road
-  opml: earbuds-podcasts-for-the-road.opml
+  opml: earbuds-podcast-recommendations-podcasts-for-the-road.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-road
   podcasts:
@@ -6544,7 +6540,7 @@ issues:
     xmlUrl: null
 
 - name: 'Food: Power, History, Politics'
-  opml: earbuds-food-power-history-politics.opml
+  opml: earbuds-podcast-recommendations-food-power-history-politics.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/food-power-history-politics
   podcasts:
@@ -6562,7 +6558,7 @@ issues:
     xmlUrl: null
 
 - name: Asian Americans in Pop Culture
-  opml: earbuds-asian-americans-in-pop-culture.opml
+  opml: earbuds-podcast-recommendations-asian-americans-in-pop-culture.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/asian-americans-pop-culture
   podcasts:
@@ -6588,7 +6584,7 @@ issues:
     xmlUrl: null
 
 - name: Alternative Asian Americans
-  opml: earbuds-alternative-asian-americans.opml
+  opml: earbuds-podcast-recommendations-alternative-asian-americans.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/alternative-asian-americans
   podcasts:
@@ -6614,7 +6610,7 @@ issues:
     xmlUrl: null
 
 - name: Coming to America
-  opml: earbuds-coming-to-america.opml
+  opml: earbuds-podcast-recommendations-coming-to-america.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/coming-america
   podcasts:
@@ -6640,7 +6636,7 @@ issues:
     xmlUrl: null
 
 - name: Authentically Yours
-  opml: earbuds-authentically-yours.opml
+  opml: earbuds-podcast-recommendations-authentically-yours.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/authentically
   podcasts:
@@ -6662,7 +6658,7 @@ issues:
     xmlUrl: null
 
 - name: Future & AI
-  opml: earbuds-future-ai.opml
+  opml: earbuds-podcast-recommendations-future-ai.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/future-ai
   podcasts:
@@ -6684,7 +6680,7 @@ issues:
     xmlUrl: null
 
 - name: Facial Recognition and Privacy
-  opml: earbuds-facial-recognition-and-privacy.opml
+  opml: earbuds-podcast-recommendations-facial-recognition-and-privacy.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/facial-recognition-privacy
   podcasts:
@@ -6706,7 +6702,7 @@ issues:
     xmlUrl: null
 
 - name: Tales from the Dark Web
-  opml: earbuds-tales-from-the-dark-web.opml
+  opml: earbuds-podcast-recommendations-tales-from-the-dark-web.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/tales-dark-web
   podcasts:
@@ -6728,7 +6724,7 @@ issues:
     xmlUrl: null
 
 - name: Stories Across Asia
-  opml: earbuds-stories-across-asia.opml
+  opml: earbuds-podcast-recommendations-stories-across-asia.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/stories-across-asia
   podcasts:
@@ -6750,13 +6746,13 @@ issues:
     xmlUrl: null
 
 - name: Amplifying Black Voices
-  opml: earbuds-amplifying-black-voices.opml
+  opml: earbuds-podcast-recommendations-amplifying-black-voices.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/amplifying-black-voices
   podcasts: null
 
 - name: One-Stop Reality Escapes
-  opml: earbuds-one-stop-reality-escapes.opml
+  opml: earbuds-podcast-recommendations-one-stop-reality-escapes.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/onestop-reality-escapes
   podcasts:
@@ -6778,7 +6774,7 @@ issues:
     xmlUrl: null
 
 - name: Sports & Culture
-  opml: earbuds-sports-culture.opml
+  opml: earbuds-podcast-recommendations-sports-culture.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/sports-culture
   podcasts:
@@ -6800,7 +6796,7 @@ issues:
     xmlUrl: null
 
 - name: Movies In Your Head
-  opml: earbuds-movies-in-your-head.opml
+  opml: earbuds-podcast-recommendations-movies-in-your-head.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/movies-head
   podcasts:
@@ -6822,1417 +6818,1417 @@ issues:
     xmlUrl: null
 
 - name: Satire in Strange Times
-  opml: earbuds-satire-in-strange-times.opml
+  opml: earbuds-podcast-recommendations-satire-in-strange-times.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/satire-strange-times
   podcasts: null
 
 - name: Career Advice & Inspo
-  opml: earbuds-career-advice-inspo.opml
+  opml: earbuds-podcast-recommendations-career-advice-inspo.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/career-advice-inspo
   podcasts: null
 
 - name: Tech Startups - The Human Stories
-  opml: earbuds-tech-startups-the-human-stories.opml
+  opml: earbuds-podcast-recommendations-tech-startups-the-human-stories.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/tech-startups-human-stories
   podcasts: null
 
 - name: Women & Weed
-  opml: earbuds-women-weed.opml
+  opml: earbuds-podcast-recommendations-women-weed.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/women-weed
   podcasts: null
 
 - name: Lifelong Learning
-  opml: earbuds-lifelong-learning.opml
+  opml: earbuds-podcast-recommendations-lifelong-learning.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/lifelong-learning
   podcasts: null
 
 - name: Pain and Suffering
-  opml: earbuds-pain-and-suffering.opml
+  opml: earbuds-podcast-recommendations-pain-and-suffering.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/pain-suffering
   podcasts: null
 
 - name: Real Role Models
-  opml: earbuds-real-role-models.opml
+  opml: earbuds-podcast-recommendations-real-role-models.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/real-role-models
   podcasts: null
 
 - name: Your Next Big Idea
-  opml: earbuds-your-next-big-idea.opml
+  opml: earbuds-podcast-recommendations-your-next-big-idea.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/next-big-idea
   podcasts: null
 
 - name: Brain Food
-  opml: earbuds-brain-food.opml
+  opml: earbuds-podcast-recommendations-brain-food.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/brain-food
   podcasts: null
 
 - name: Welcome Ahalan
-  opml: earbuds-welcome-ahalan.opml
+  opml: earbuds-podcast-recommendations-welcome-ahalan.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/welcome-ahalan
   podcasts: null
 
 - name: Welcome Arabic
-  opml: earbuds-welcome-arabic.opml
+  opml: earbuds-podcast-recommendations-welcome-arabic.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/welcome-arabic
   podcasts: null
 
 - name: There is No Planet B
-  opml: earbuds-there-is-no-planet-b.opml
+  opml: earbuds-podcast-recommendations-there-is-no-planet-b.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/no-planet-b
   podcasts: null
 
 - name: Backstage Pass
-  opml: earbuds-backstage-pass.opml
+  opml: earbuds-podcast-recommendations-backstage-pass.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/backstage-pass
   podcasts: null
 
 - name: Dinner Conversations with Comedians
-  opml: earbuds-dinner-conversations-with-comedians.opml
+  opml: earbuds-podcast-recommendations-dinner-conversations-with-comedians.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/dinner-conversations-comedians
   podcasts: null
 
 - name: 'LOCATION CHANGE: EarBuds 3rd Birthday/Versary'
-  opml: earbuds-location-change-earbuds-3rd-birthday-versary.opml
+  opml: earbuds-podcast-recommendations-location-change-earbuds-3rd-birthday-versary.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/location-change-earbuds-3rd-birthdayversary
   podcasts: null
 
 - name: Your Favorite EarBuds Episodes
-  opml: earbuds-your-favorite-earbuds-episodes.opml
+  opml: earbuds-podcast-recommendations-your-favorite-earbuds-episodes.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/favorite-earbuds-episodes
   podcasts: null
 
 - name: LA EarBuds Party
-  opml: earbuds-la-earbuds-party.opml
+  opml: earbuds-podcast-recommendations-la-earbuds-party.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/la-earbuds-party
   podcasts: null
 
 - name: How to Not Be the Worst
-  opml: earbuds-how-to-not-be-the-worst.opml
+  opml: earbuds-podcast-recommendations-how-to-not-be-the-worst.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/not-worst
   podcasts: null
 
 - name: For Your Re-Consideration
-  opml: earbuds-for-your-re-consideration.opml
+  opml: earbuds-podcast-recommendations-for-your-re-consideration.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/reconsideration
   podcasts: null
 
 - name: Let's Watch a Movie
-  opml: earbuds-lets-watch-a-movie.opml
+  opml: earbuds-podcast-recommendations-lets-watch-a-movie.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/lets-watch-movie
   podcasts: null
 
 - name: Commute Cutters
-  opml: earbuds-commute-cutters.opml
+  opml: earbuds-podcast-recommendations-commute-cutters.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/commute-cutters
   podcasts: null
 
 - name: Awkward Conversations
-  opml: earbuds-awkward-conversations.opml
+  opml: earbuds-podcast-recommendations-awkward-conversations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/awkward-conversations
   podcasts: null
 
 - name: Funniest Podcasts Out There
-  opml: earbuds-funniest-podcasts-out-there.opml
+  opml: earbuds-podcast-recommendations-funniest-podcasts-out-there.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/funniest-podcasts
   podcasts: null
 
 - name: 'Music: A Worthy, Lifelong Companion'
-  opml: earbuds-music-a-worthy-lifelong-companion.opml
+  opml: earbuds-podcast-recommendations-music-a-worthy-lifelong-companion.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/music-worthy-lifelong-companion
   podcasts: null
 
 - name: Best Podcasts for Kids
-  opml: earbuds-best-podcasts-for-kids.opml
+  opml: earbuds-podcast-recommendations-best-podcasts-for-kids.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/best-podcasts-kids
   podcasts: null
 
 - name: Explore the Human Psyche
-  opml: earbuds-explore-the-human-psyche.opml
+  opml: earbuds-podcast-recommendations-explore-the-human-psyche.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/explore-human-psyche
   podcasts: null
 
 - name: LA's Rebel Radio Family
-  opml: earbuds-las-rebel-radio-family.opml
+  opml: earbuds-podcast-recommendations-las-rebel-radio-family.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/las-rebel-radio-family
   podcasts: null
 
 - name: Cultivate an Attitude of Gratitude
-  opml: earbuds-cultivate-an-attitude-of-gratitude.opml
+  opml: earbuds-podcast-recommendations-cultivate-an-attitude-of-gratitude.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/cultivate-attitude-gratitude
   podcasts: null
 
 - name: How to Improve Ourselves
-  opml: earbuds-how-to-improve-ourselves.opml
+  opml: earbuds-podcast-recommendations-how-to-improve-ourselves.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/improve
   podcasts: null
 
 - name: Object as Subject
-  opml: earbuds-object-as-subject.opml
+  opml: earbuds-podcast-recommendations-object-as-subject.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/object-subject
   podcasts: null
 
 - name: Latinx Collaboration Over Competition
-  opml: earbuds-latinx-collaboration-over-competition.opml
+  opml: earbuds-podcast-recommendations-latinx-collaboration-over-competition.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/latinx-collaboration-competition
   podcasts: null
 
 - name: Former Celebrity Apprentice Contestants
-  opml: earbuds-former-celebrity-apprentice-contestants.opml
+  opml: earbuds-podcast-recommendations-former-celebrity-apprentice-contestants.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/former-celebrity-apprentice-contestants
   podcasts: null
 
 - name: Museum Exploration
-  opml: earbuds-museum-exploration.opml
+  opml: earbuds-podcast-recommendations-museum-exploration.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/museum-exploration
   podcasts: null
 
 - name: Museums
-  opml: earbuds-museums.opml
+  opml: earbuds-podcast-recommendations-museums.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/museums
   podcasts: null
 
 - name: Intimacy
-  opml: earbuds-intimacy.opml
+  opml: earbuds-podcast-recommendations-intimacy.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/intimacy
   podcasts: null
 
 - name: Self-Help Gone Wrong
-  opml: earbuds-self-help-gone-wrong.opml
+  opml: earbuds-podcast-recommendations-self-help-gone-wrong.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/selfhelp-gone-wrong
   podcasts: null
 
 - name: '[Re-sent] Cyber Security'
-  opml: earbuds-re-sent-cyber-security.opml
+  opml: earbuds-podcast-recommendations-re-sent-cyber-security.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/resent-cyber-security
   podcasts: null
 
 - name: Cyber Security
-  opml: earbuds-cyber-security.opml
+  opml: earbuds-podcast-recommendations-cyber-security.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/cyber-security
   podcasts: null
 
 - name: Upgrade and Develop Yourself
-  opml: earbuds-upgrade-and-develop-yourself.opml
+  opml: earbuds-podcast-recommendations-upgrade-and-develop-yourself.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/upgrade-develop
   podcasts: null
 
 - name: Life-Changing Stories
-  opml: earbuds-life-changing-stories.opml
+  opml: earbuds-podcast-recommendations-life-changing-stories.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/lifechanging-stories
   podcasts: null
 
 - name: '[Re-sent] Ordinary People, Extraordinary Stories'
-  opml: earbuds-re-sent-ordinary-people-extraordinary-stories.opml
+  opml: earbuds-podcast-recommendations-re-sent-ordinary-people-extraordinary-stories.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/resent-ordinary-people-extraordinary-stories
   podcasts: null
 
 - name: Ordinary People, Extraordinary Stories
-  opml: earbuds-ordinary-people-extraordinary-stories.opml
+  opml: earbuds-podcast-recommendations-ordinary-people-extraordinary-stories.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/ordinary-people-extraordinary-stories
   podcasts: null
 
 - name: Have Better Conversations
-  opml: earbuds-have-better-conversations.opml
+  opml: earbuds-podcast-recommendations-have-better-conversations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/better-conversations
   podcasts: null
 
 - name: Newsworthy
-  opml: earbuds-newsworthy.opml
+  opml: earbuds-podcast-recommendations-newsworthy.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/newsworthy
   podcasts: null
 
 - name: Sports Analytics
-  opml: earbuds-sports-analytics.opml
+  opml: earbuds-podcast-recommendations-sports-analytics.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/sports-analytics
   podcasts: null
 
 - name: Why Sports Analytics Matter
-  opml: earbuds-why-sports-analytics-matter.opml
+  opml: earbuds-podcast-recommendations-why-sports-analytics-matter.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/sports-analytics-matter
   podcasts: null
 
 - name: Animation Sensation
-  opml: earbuds-animation-sensation.opml
+  opml: earbuds-podcast-recommendations-animation-sensation.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/animation-sensation
   podcasts: null
 
 - name: Preserve the Past
-  opml: earbuds-preserve-the-past.opml
+  opml: earbuds-podcast-recommendations-preserve-the-past.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/preserve-past
   podcasts: null
 
 - name: Archival Preservation
-  opml: earbuds-archival-preservation.opml
+  opml: earbuds-podcast-recommendations-archival-preservation.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/archival-preservation
   podcasts: null
 
 - name: Genetic Counseling
-  opml: earbuds-genetic-counseling.opml
+  opml: earbuds-podcast-recommendations-genetic-counseling.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/genetic-counseling
   podcasts: null
 
 - name: A Beautiful Mind
-  opml: earbuds-a-beautiful-mind.opml
+  opml: earbuds-podcast-recommendations-a-beautiful-mind.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/beautiful-mind
   podcasts: null
 
 - name: Interviews with Fascinating Women
-  opml: earbuds-interviews-with-fascinating-women.opml
+  opml: earbuds-podcast-recommendations-interviews-with-fascinating-women.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/interviews-fascinating-women
   podcasts: null
 
 - name: Your Podcast MBA
-  opml: earbuds-your-podcast-mba.opml
+  opml: earbuds-podcast-recommendations-your-podcast-mba.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-mba
   podcasts: null
 
 - name: Sex & Relationships
-  opml: earbuds-sex-relationships.opml
+  opml: earbuds-podcast-recommendations-sex-relationships.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/sex-relationships
   podcasts: null
 
 - name: Happy Crying
-  opml: earbuds-happy-crying.opml
+  opml: earbuds-podcast-recommendations-happy-crying.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/happy-crying
   podcasts: null
 
 - name: EarBuds Reserved WMN
-  opml: earbuds-earbuds-reserved-wmn.opml
+  opml: earbuds-podcast-recommendations-earbuds-reserved-wmn.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-reserved-wmn
   podcasts: null
 
 - name: Debate this
-  opml: earbuds-debate-this.opml
+  opml: earbuds-podcast-recommendations-debate-this.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/debate
   podcasts: null
 
 - name: EARBUDS RESERVED
-  opml: earbuds-earbuds-reserved.opml
+  opml: earbuds-podcast-recommendations-earbuds-reserved.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-reserved
   podcasts: null
 
 - name: New Worlds of Fiction
-  opml: earbuds-new-worlds-of-fiction.opml
+  opml: earbuds-podcast-recommendations-new-worlds-of-fiction.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/new-worlds-fiction
   podcasts: null
 
 - name: PodTales
-  opml: earbuds-podtales.opml
+  opml: earbuds-podcast-recommendations-podtales.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podtales
   podcasts: null
 
 - name: Gun Violence in America
-  opml: earbuds-gun-violence-in-america.opml
+  opml: earbuds-podcast-recommendations-gun-violence-in-america.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/gun-violence-america
   podcasts: null
 
 - name: Gunviolence in America
-  opml: earbuds-gunviolence-in-america.opml
+  opml: earbuds-podcast-recommendations-gunviolence-in-america.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/gunviolence-america
   podcasts: null
 
 - name: Empowerment and Inspiration
-  opml: earbuds-empowerment-and-inspiration.opml
+  opml: earbuds-podcast-recommendations-empowerment-and-inspiration.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/empowerment-inspiration
   podcasts: null
 
 - name: Wizarding World of Harry Potter
-  opml: earbuds-wizarding-world-of-harry-potter.opml
+  opml: earbuds-podcast-recommendations-wizarding-world-of-harry-potter.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/wizarding-world-harry-potter
   podcasts: null
 
 - name: Front Lines of Parenting
-  opml: earbuds-front-lines-of-parenting.opml
+  opml: earbuds-podcast-recommendations-front-lines-of-parenting.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/front-lines-parenting
   podcasts: null
 
 - name: Parenting
-  opml: earbuds-parenting.opml
+  opml: earbuds-podcast-recommendations-parenting.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/parenting
   podcasts: null
 
 - name: Snapshot of American Democracy
-  opml: earbuds-snapshot-of-american-democracy.opml
+  opml: earbuds-podcast-recommendations-snapshot-of-american-democracy.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/snapshot-american-democracy
   podcasts: null
 
 - name: Evolution of Comedy
-  opml: earbuds-evolution-of-comedy.opml
+  opml: earbuds-podcast-recommendations-evolution-of-comedy.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/evolution-comedy
   podcasts: null
 
 - name: Tips for Busy Creatives
-  opml: earbuds-tips-for-busy-creatives.opml
+  opml: earbuds-podcast-recommendations-tips-for-busy-creatives.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/tips-busy-creatives
   podcasts: null
 
 - name: Let's Talk About Sex
-  opml: earbuds-lets-talk-about-sex.opml
+  opml: earbuds-podcast-recommendations-lets-talk-about-sex.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/lets-talk-sex
   podcasts: null
 
 - name: Rebuilding Life After Prison
-  opml: earbuds-rebuilding-life-after-prison.opml
+  opml: earbuds-podcast-recommendations-rebuilding-life-after-prison.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/rebuilding-life-prison
   podcasts: null
 
 - name: Archives and Library Takeover
-  opml: earbuds-archives-and-library-takeover.opml
+  opml: earbuds-podcast-recommendations-archives-and-library-takeover.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/archives-library-takeover
   podcasts: null
 
 - name: Preserve your pod
-  opml: earbuds-preserve-your-pod.opml
+  opml: earbuds-podcast-recommendations-preserve-your-pod.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/preserve-pod
   podcasts: null
 
 - name: Interview Boogaloo
-  opml: earbuds-interview-boogaloo.opml
+  opml: earbuds-podcast-recommendations-interview-boogaloo.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/interview-boogaloo
   podcasts: null
 
 - name: Interview Mike
-  opml: earbuds-interview-mike.opml
+  opml: earbuds-podcast-recommendations-interview-mike.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/interview-mike
   podcasts: null
 
 - name: Pitch Your Podcast
-  opml: earbuds-pitch-your-podcast.opml
+  opml: earbuds-podcast-recommendations-pitch-your-podcast.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/pitch-podcast
   podcasts: null
 
 - name: On the Inside
-  opml: earbuds-on-the-inside.opml
+  opml: earbuds-podcast-recommendations-on-the-inside.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/inside
   podcasts: null
 
 - name: '#StayNoisy'
-  opml: earbuds-staynoisy.opml
+  opml: earbuds-podcast-recommendations-staynoisy.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/staynoisy
   podcasts: null
 
 - name: International Podcasts You'll Love
-  opml: earbuds-international-podcasts-youll-love.opml
+  opml: earbuds-podcast-recommendations-international-podcasts-youll-love.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/international-podcasts-youll-love
   podcasts: null
 
 - name: Upgrading Human Health
-  opml: earbuds-upgrading-human-health.opml
+  opml: earbuds-podcast-recommendations-upgrading-human-health.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/upgrading-human-health
   podcasts: null
 
 - name: Must-Listen Jamaican Podcasts
-  opml: earbuds-must-listen-jamaican-podcasts.opml
+  opml: earbuds-podcast-recommendations-must-listen-jamaican-podcasts.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/mustlisten-jamaican-podcasts
   podcasts: null
 
 - name: Adventures in Aging
-  opml: earbuds-adventures-in-aging.opml
+  opml: earbuds-podcast-recommendations-adventures-in-aging.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/adventures-aging
   podcasts: null
 
 - name: Memory
-  opml: earbuds-memory.opml
+  opml: earbuds-podcast-recommendations-memory.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/memory
   podcasts: null
 
 - name: 2/3/2019 email
-  opml: earbuds-2-3-2019-email.opml
+  opml: earbuds-podcast-recommendations-2-3-2019-email.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/232019-email
   podcasts: null
 
 - name: PPP
-  opml: earbuds-ppp.opml
+  opml: earbuds-podcast-recommendations-ppp.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/ppp
   podcasts: null
 
 - name: Podcast Power Pack
-  opml: earbuds-podcast-power-pack.opml
+  opml: earbuds-podcast-recommendations-podcast-power-pack.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-power-pack
   podcasts: null
 
 - name: We All
-  opml: earbuds-we-all.opml
+  opml: earbuds-podcast-recommendations-we-all.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/we-all
   podcasts: null
 
 - name: We All Fall Down
-  opml: earbuds-we-all-fall-down.opml
+  opml: earbuds-podcast-recommendations-we-all-fall-down.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/fall
   podcasts: null
 
 - name: Coffee Talk
-  opml: earbuds-coffee-talk.opml
+  opml: earbuds-podcast-recommendations-coffee-talk.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/coffee-talk
   podcasts: null
 
 - name: Epic Discussions
-  opml: earbuds-epic-discussions.opml
+  opml: earbuds-podcast-recommendations-epic-discussions.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/epic-discussions
   podcasts: null
 
 - name: Podcasts for Belly Laughs
-  opml: earbuds-podcasts-for-belly-laughs.opml
+  opml: earbuds-podcast-recommendations-podcasts-for-belly-laughs.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-belly-laughs
   podcasts: null
 
 - name: Therapy is Cool and Normal
-  opml: earbuds-therapy-is-cool-and-normal.opml
+  opml: earbuds-podcast-recommendations-therapy-is-cool-and-normal.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/therapy-cool-normal
   podcasts: null
 
 - name: American Girl
-  opml: earbuds-american-girl.opml
+  opml: earbuds-podcast-recommendations-american-girl.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/american-girl
   podcasts: null
 
 - name: 1-20-2019 email
-  opml: earbuds-1-20-2019-email.opml
+  opml: earbuds-podcast-recommendations-1-20-2019-email.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/1202019-email
   podcasts: null
 
 - name: 1-14-2019 Email
-  opml: earbuds-1-14-2019-email.opml
+  opml: earbuds-podcast-recommendations-1-14-2019-email.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/1142019-email
   podcasts: null
 
 - name: Mid-week mini list
-  opml: earbuds-mid-week-mini-list.opml
+  opml: earbuds-podcast-recommendations-mid-week-mini-list.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/midweek-mini-list
   podcasts: null
 
 - name: Blue Comedy Shows
-  opml: earbuds-blue-comedy-shows.opml
+  opml: earbuds-podcast-recommendations-blue-comedy-shows.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/blue-comedy-shows
   podcasts: null
 
 - name: Challenge Your Thought Process
-  opml: earbuds-challenge-your-thought-process.opml
+  opml: earbuds-podcast-recommendations-challenge-your-thought-process.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/challenge-thought-process
   podcasts: null
 
 - name: Sooo Mature Now
-  opml: earbuds-sooo-mature-now.opml
+  opml: earbuds-podcast-recommendations-sooo-mature-now.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/sooo-mature-now
   podcasts: null
 
 - name: Kapelman's Curriculum
-  opml: earbuds-kapelmans-curriculum.opml
+  opml: earbuds-podcast-recommendations-kapelmans-curriculum.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/kapelmans-curriculum
   podcasts: null
 
 - name: Pieces I Teach
-  opml: earbuds-pieces-i-teach.opml
+  opml: earbuds-podcast-recommendations-pieces-i-teach.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/pieces-teach
   podcasts: null
 
 - name: 2018's Best New Audio
-  opml: earbuds-2018s-best-new-audio.opml
+  opml: earbuds-podcast-recommendations-2018s-best-new-audio.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/2018s-best-new-audio
   podcasts: null
 
 - name: Wine and Crime Email
-  opml: earbuds-wine-and-crime-email.opml
+  opml: earbuds-podcast-recommendations-wine-and-crime-email.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/wine-crime-email
   podcasts: null
 
 - name: Life in the Grey
-  opml: earbuds-life-in-the-grey.opml
+  opml: earbuds-podcast-recommendations-life-in-the-grey.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/life-grey
   podcasts: null
 
 - name: 1st Gen
-  opml: earbuds-1st-gen.opml
+  opml: earbuds-podcast-recommendations-1st-gen.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/1st-gen
   podcasts: null
 
 - name: Real Estate Legends
-  opml: earbuds-real-estate-legends.opml
+  opml: earbuds-podcast-recommendations-real-estate-legends.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/real-estate-legends
   podcasts: null
 
 - name: Food, Family, Philanthropy
-  opml: earbuds-food-family-philanthropy.opml
+  opml: earbuds-podcast-recommendations-food-family-philanthropy.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/food-family-philanthropy
   podcasts: null
 
 - name: Fangirl
-  opml: earbuds-fangirl.opml
+  opml: earbuds-podcast-recommendations-fangirl.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/fangirl
   podcasts: null
 
 - name: Geeky Girls Rule
-  opml: earbuds-geeky-girls-rule.opml
+  opml: earbuds-podcast-recommendations-geeky-girls-rule.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/geeky-girls-rule
   podcasts: null
 
 - name: Absolutely Medieval!
-  opml: earbuds-absolutely-medieval.opml
+  opml: earbuds-podcast-recommendations-absolutely-medieval.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/absolutely-medieval
   podcasts: null
 
 - name: Spooky Scary
-  opml: earbuds-spooky-scary.opml
+  opml: earbuds-podcast-recommendations-spooky-scary.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/spooky-scary
   podcasts: null
 
 - name: Cannabis Friendly Podcasts
-  opml: earbuds-cannabis-friendly-podcasts.opml
+  opml: earbuds-podcast-recommendations-cannabis-friendly-podcasts.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/cannabis-friendly-podcasts
   podcasts: null
 
 - name: David's Picks
-  opml: earbuds-davids-picks.opml
+  opml: earbuds-podcast-recommendations-davids-picks.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/davids-picks
   podcasts: null
 
 - name: Super Women
-  opml: earbuds-super-women.opml
+  opml: earbuds-podcast-recommendations-super-women.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/super-women
   podcasts: null
 
 - name: Well, That's a Surprise!
-  opml: earbuds-well-thats-a-surprise.opml
+  opml: earbuds-podcast-recommendations-well-thats-a-surprise.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/well-thats-surprise
   podcasts: null
 
 - name: Last chance for discounted tix
-  opml: earbuds-last-chance-for-discounted-tix.opml
+  opml: earbuds-podcast-recommendations-last-chance-for-discounted-tix.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/last-chance-discounted-tix
   podcasts: null
 
 - name: Well, That Was a Surprise
-  opml: earbuds-well-that-was-a-surprise.opml
+  opml: earbuds-podcast-recommendations-well-that-was-a-surprise.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/well-surprise
   podcasts: null
 
 - name: Halloween Spooks
-  opml: earbuds-halloween-spooks.opml
+  opml: earbuds-podcast-recommendations-halloween-spooks.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/halloween-spooks
   podcasts: null
 
 - name: Outlier Pod Fest
-  opml: earbuds-outlier-pod-fest.opml
+  opml: earbuds-podcast-recommendations-outlier-pod-fest.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/outlier-pod-fest
   podcasts: null
 
 - name: Women in the House
-  opml: earbuds-women-in-the-house.opml
+  opml: earbuds-podcast-recommendations-women-in-the-house.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/women-house
   podcasts: null
 
 - name: Buried Secrets (and Bodies)
-  opml: earbuds-buried-secrets-and-bodies.opml
+  opml: earbuds-podcast-recommendations-buried-secrets-and-bodies.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/buried-secrets-bodies
   podcasts: null
 
 - name: Emerging Science of the Mind
-  opml: earbuds-emerging-science-of-the-mind.opml
+  opml: earbuds-podcast-recommendations-emerging-science-of-the-mind.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/emerging-science-mind
   podcasts: null
 
 - name: Local Jail Reform
-  opml: earbuds-local-jail-reform.opml
+  opml: earbuds-podcast-recommendations-local-jail-reform.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/local-jail-reform
   podcasts: null
 
 - name: Outlier PodFest - Special Offer for EarBuddies
-  opml: earbuds-outlier-podfest-special-offer-for-earbuddies.opml
+  opml: earbuds-podcast-recommendations-outlier-podfest-special-offer-for-earbuddies.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/outlier-podfest-special-offer-earbuddies
   podcasts: null
 
 - name: Creepy Unsolved Mysteries
-  opml: earbuds-creepy-unsolved-mysteries.opml
+  opml: earbuds-podcast-recommendations-creepy-unsolved-mysteries.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/creepy-unsolved-mysteries
   podcasts: null
 
 - name: Best Interview Pods
-  opml: earbuds-best-interview-pods.opml
+  opml: earbuds-podcast-recommendations-best-interview-pods.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/best-interview-pods
   podcasts: null
 
 - name: That's Pretty Ambitious
-  opml: earbuds-thats-pretty-ambitious.opml
+  opml: earbuds-podcast-recommendations-thats-pretty-ambitious.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/thats-pretty-ambitious
   podcasts: null
 
 - name: '[Re-sent] Music Won''t Save Us'
-  opml: earbuds-re-sent-music-wont-save-us.opml
+  opml: earbuds-podcast-recommendations-re-sent-music-wont-save-us.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/resent-music-wont-save-us
   podcasts: null
 
 - name: '[Re-sent] Patreon'
-  opml: earbuds-re-sent-patreon.opml
+  opml: earbuds-podcast-recommendations-re-sent-patreon.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/resent-patreon
   podcasts: null
 
 - name: Music Won't Save Us
-  opml: earbuds-music-wont-save-us.opml
+  opml: earbuds-podcast-recommendations-music-wont-save-us.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/music-wont-save-us
   podcasts: null
 
 - name: Patreon
-  opml: earbuds-patreon.opml
+  opml: earbuds-podcast-recommendations-patreon.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/patreon
   podcasts: null
 
 - name: '[Re-sent] Immersive Narrative Fiction'
-  opml: earbuds-re-sent-immersive-narrative-fiction.opml
+  opml: earbuds-podcast-recommendations-re-sent-immersive-narrative-fiction.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/resent-immersive-narrative-fiction
   podcasts: null
 
 - name: Immersive Narrative Fiction
-  opml: earbuds-immersive-narrative-fiction.opml
+  opml: earbuds-podcast-recommendations-immersive-narrative-fiction.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/immersive-narrative-fiction
   podcasts: null
 
 - name: Animating soundscapes for writers
-  opml: earbuds-animating-soundscapes-for-writers.opml
+  opml: earbuds-podcast-recommendations-animating-soundscapes-for-writers.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/animating-soundscapes-writers
   podcasts: null
 
 - name: '[Re-sent] Minority Mental Health'
-  opml: earbuds-re-sent-minority-mental-health.opml
+  opml: earbuds-podcast-recommendations-re-sent-minority-mental-health.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/resent-minority-mental-health
   podcasts: null
 
 - name: Minority Mental Health
-  opml: earbuds-minority-mental-health.opml
+  opml: earbuds-podcast-recommendations-minority-mental-health.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/minority-mental-health
   podcasts: null
 
 - name: '[Re-sent] Let''s Talk Mental Health'
-  opml: earbuds-re-sent-lets-talk-mental-health.opml
+  opml: earbuds-podcast-recommendations-re-sent-lets-talk-mental-health.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/resent-lets-talk-mental-health
   podcasts: null
 
 - name: EarBuds Live Invite
-  opml: earbuds-earbuds-live-invite.opml
+  opml: earbuds-podcast-recommendations-earbuds-live-invite.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-live-invite
   podcasts: null
 
 - name: Let's Talk Mental Health
-  opml: earbuds-lets-talk-mental-health.opml
+  opml: earbuds-podcast-recommendations-lets-talk-mental-health.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/lets-talk-mental-health
   podcasts: null
 
 - name: Leisure Activities
-  opml: earbuds-leisure-activities.opml
+  opml: earbuds-podcast-recommendations-leisure-activities.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/leisure-activities
   podcasts: null
 
 - name: Grab your EarBuds Live in Los Angeles Tickets!
-  opml: earbuds-grab-your-earbuds-live-in-los-angeles-tickets.opml
+  opml: earbuds-podcast-recommendations-grab-your-earbuds-live-in-los-angeles-tickets.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/grab-earbuds-live-los-angeles-tickets
   podcasts: null
 
 - name: Let's Go Local
-  opml: earbuds-lets-go-local.opml
+  opml: earbuds-podcast-recommendations-lets-go-local.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/lets-go-local
   podcasts: null
 
 - name: Comedy & Collectibles
-  opml: earbuds-comedy-collectibles.opml
+  opml: earbuds-podcast-recommendations-comedy-collectibles.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/comedy-collectibles
   podcasts: null
 
 - name: Gorgeous Indie Sci-Fi
-  opml: earbuds-gorgeous-indie-sci-fi.opml
+  opml: earbuds-podcast-recommendations-gorgeous-indie-sci-fi.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/gorgeous-indie-scifi
   podcasts: null
 
 - name: Humble Hype the Underrated
-  opml: earbuds-humble-hype-the-underrated.opml
+  opml: earbuds-podcast-recommendations-humble-hype-the-underrated.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/humble-hype-underrated
   podcasts: null
 
 - name: Popcorn and Videogames
-  opml: earbuds-popcorn-and-videogames.opml
+  opml: earbuds-podcast-recommendations-popcorn-and-videogames.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/popcorn-videogames
   podcasts: null
 
 - name: Popcorn and Video Games
-  opml: earbuds-popcorn-and-video-games.opml
+  opml: earbuds-podcast-recommendations-popcorn-and-video-games.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/popcorn-video-games
   podcasts: null
 
 - name: GDPR
-  opml: earbuds-gdpr.opml
+  opml: earbuds-podcast-recommendations-gdpr.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/gdpr
   podcasts: null
 
 - name: Dystopian Post Apocalypse
-  opml: earbuds-dystopian-post-apocalypse.opml
+  opml: earbuds-podcast-recommendations-dystopian-post-apocalypse.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/dystopian-post-apocalypse
   podcasts: null
 
 - name: Everything Bachelorette
-  opml: earbuds-everything-bachelorette.opml
+  opml: earbuds-podcast-recommendations-everything-bachelorette.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/everything-bachelorette
   podcasts: null
 
 - name: Come to EarBuds in LA!
-  opml: earbuds-come-to-earbuds-in-la.opml
+  opml: earbuds-podcast-recommendations-come-to-earbuds-in-la.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/come-earbuds-la
   podcasts: null
 
 - name: '[Re-sent] *NerdAlert*'
-  opml: earbuds-re-sent-nerdalert.opml
+  opml: earbuds-podcast-recommendations-re-sent-nerdalert.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/resent-nerdalert
   podcasts: null
 
 - name: '#NerdAlert'
-  opml: earbuds-nerdalert.opml
+  opml: earbuds-podcast-recommendations-nerdalert.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/nerdalert
   podcasts: null
 
 - name: '*Inside Writers'' Minds*'
-  opml: earbuds-inside-writers-minds.opml
+  opml: earbuds-podcast-recommendations-inside-writers-minds.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/inside-writers-minds
   podcasts: null
 
 - name: '[Re-sent] *Making Sense of Modernity*'
-  opml: earbuds-re-sent-making-sense-of-modernity.opml
+  opml: earbuds-podcast-recommendations-re-sent-making-sense-of-modernity.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/resent-making-sense-modernity
   podcasts: null
 
 - name: '*Making Sense of Modernity*'
-  opml: earbuds-making-sense-of-modernity.opml
+  opml: earbuds-podcast-recommendations-making-sense-of-modernity.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/making-sense-modernity
   podcasts: null
 
 - name: '*Cryptocurrency and Blockchain*'
-  opml: earbuds-cryptocurrency-and-blockchain.opml
+  opml: earbuds-podcast-recommendations-cryptocurrency-and-blockchain.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/cryptocurrency-blockchain
   podcasts: null
 
 - name: '[Re-sent] *Actual-Play Role-Playing*'
-  opml: earbuds-re-sent-actual-play-role-playing.opml
+  opml: earbuds-podcast-recommendations-re-sent-actual-play-role-playing.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/resent-actualplay-roleplaying
   podcasts: null
 
 - name: '*Actual-Play Role-Playing*'
-  opml: earbuds-actual-play-role-playing.opml
+  opml: earbuds-podcast-recommendations-actual-play-role-playing.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/actualplay-roleplaying
   podcasts: null
 
 - name: '[Re-sent] EarBuds Podcast Collective: *Y''all, Listen Here*'
-  opml: earbuds-re-sent-earbuds-podcast-collective-yall-listen-here.opml
+  opml: earbuds-podcast-recommendations-re-sent-earbuds-podcast-collective-yall-listen-here.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/resent-earbuds-podcast-collective-yall-listen
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Y''all, Listen Here*'
-  opml: earbuds-earbuds-podcast-collective-yall-listen-here.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-yall-listen-here.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-yall-listen
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Speaking Social Justice*'
-  opml: earbuds-earbuds-podcast-collective-speaking-social-justice.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-speaking-social-justice.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-speaking-social-justice
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Different Forms of Community*'
-  opml: earbuds-earbuds-podcast-collective-different-forms-of-community.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-different-forms-of-community.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-different-forms-community
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Empowering Women*'
-  opml: earbuds-earbuds-podcast-collective-empowering-women.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-empowering-women.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-empowering-women
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Migration Patterns*'
-  opml: earbuds-earbuds-podcast-collective-migration-patterns.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-migration-patterns.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-migration-patterns
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Sustainable Living +*'
-  opml: earbuds-earbuds-podcast-collective-sustainable-living.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-sustainable-living.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-sustainable-living
   podcasts: null
 
 - name: Happy ONE YEAR to EarBuds!
-  opml: earbuds-happy-one-year-to-earbuds.opml
+  opml: earbuds-podcast-recommendations-happy-one-year-to-earbuds.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/happy-one-year-earbuds
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *First Anniversary Gifts*'
-  opml: earbuds-earbuds-podcast-collective-first-anniversary-gifts.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-first-anniversary-gifts.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-first-anniversary-gifts
   podcasts: null
 
 - name: '[Re-sent] EarBuds Podcast Collective: *Reclaiming Your Sensual Self*'
-  opml: earbuds-re-sent-earbuds-podcast-collective-reclaiming-your-sensual-self.opml
+  opml: earbuds-podcast-recommendations-re-sent-earbuds-podcast-collective-reclaiming-your-sensual-self.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/resent-earbuds-podcast-collective-reclaiming-sensual-self
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Reclaiming Your Sensual Self*'
-  opml: earbuds-earbuds-podcast-collective-reclaiming-your-sensual-self.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-reclaiming-your-sensual-self.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-reclaiming-sensual-self
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Laughing & Learning with Ladies*'
-  opml: earbuds-earbuds-podcast-collective-laughing-learning-with-ladies.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-laughing-learning-with-ladies.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-laughing-learning-ladies
   podcasts: null
 
 - name: Laughing & Learning with Ladies
-  opml: earbuds-laughing-learning-with-ladies.opml
+  opml: earbuds-podcast-recommendations-laughing-learning-with-ladies.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/laughing-learning-ladies
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Leaving Your Comfort Zone*'
-  opml: earbuds-earbuds-podcast-collective-leaving-your-comfort-zone.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-leaving-your-comfort-zone.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-leaving-comfort-zone
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Passion Pirates*'
-  opml: earbuds-earbuds-podcast-collective-passion-pirates.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-passion-pirates.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-passion-pirates
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Go Sports!*'
-  opml: earbuds-earbuds-podcast-collective-go-sports.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-go-sports.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-go-sports
   podcasts: null
 
 - name: '[Re-sent] EarBuds Podcast Collective: *Mothers on a Quest*'
-  opml: earbuds-re-sent-earbuds-podcast-collective-mothers-on-a-quest.opml
+  opml: earbuds-podcast-recommendations-re-sent-earbuds-podcast-collective-mothers-on-a-quest.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/resent-earbuds-podcast-collective-mothers-quest
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Mothers on a Quest*'
-  opml: earbuds-earbuds-podcast-collective-mothers-on-a-quest.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-mothers-on-a-quest.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-mothers-quest
   podcasts: null
 
 - name: '[Re-sent] EarBuds Podcast Collective: *Food. Drink. Mirth*'
-  opml: earbuds-re-sent-earbuds-podcast-collective-food-drink-mirth.opml
+  opml: earbuds-podcast-recommendations-re-sent-earbuds-podcast-collective-food-drink-mirth.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/resent-earbuds-podcast-collective-food-drink-mirth
   podcasts: null
 
 - name: Love EarBuds? Become a contributing member!
-  opml: earbuds-love-earbuds-become-a-contributing-member.opml
+  opml: earbuds-podcast-recommendations-love-earbuds-become-a-contributing-member.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/love-earbuds-become-contributing-member
   podcasts: null
 
 - name: Become an EarBuds Member
-  opml: earbuds-become-an-earbuds-member.opml
+  opml: earbuds-podcast-recommendations-become-an-earbuds-member.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/become-earbuds-member
   podcasts: null
 
 - name: '[Re-sent] EarBuds Podcast Collective: *Women in STEM*'
-  opml: earbuds-re-sent-earbuds-podcast-collective-women-in-stem.opml
+  opml: earbuds-podcast-recommendations-re-sent-earbuds-podcast-collective-women-in-stem.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/resent-earbuds-podcast-collective-women-stem
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Food. Drink. Mirth*'
-  opml: earbuds-earbuds-podcast-collective-food-drink-mirth.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-food-drink-mirth.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-food-drink-mirth
   podcasts: null
 
 - name: '[Re-sent] EarBuds Podcast Collective: *Koseligcasts*'
-  opml: earbuds-re-sent-earbuds-podcast-collective-koseligcasts.opml
+  opml: earbuds-podcast-recommendations-re-sent-earbuds-podcast-collective-koseligcasts.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/resent-earbuds-podcast-collective-koseligcasts
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Women in STEM*'
-  opml: earbuds-earbuds-podcast-collective-women-in-stem.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-women-in-stem.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-women-stem
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Koseligcasts*'
-  opml: earbuds-earbuds-podcast-collective-koseligcasts.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-koseligcasts.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-koseligcasts
   podcasts: null
 
 - name: 'Link Correction: Transcend Podcast'
-  opml: earbuds-link-correction-transcend-podcast.opml
+  opml: earbuds-podcast-recommendations-link-correction-transcend-podcast.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/link-correction-transcend-podcast
   podcasts: null
 
 - name: '*Transcend* Podcast Preview and Survey'
-  opml: earbuds-transcend-podcast-preview-and-survey.opml
+  opml: earbuds-podcast-recommendations-transcend-podcast-preview-and-survey.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/transcend-podcast-preview-survey
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Best Podcast Episodes of 2017*'
-  opml: earbuds-earbuds-podcast-collective-best-podcast-episodes-of-2017.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-best-podcast-episodes-of-2017.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-best-podcast-episodes-2017
   podcasts: null
 
 - name: Can't wait to see you at EarBuds Live in LA!
-  opml: earbuds-cant-wait-to-see-you-at-earbuds-live-in-la.opml
+  opml: earbuds-podcast-recommendations-cant-wait-to-see-you-at-earbuds-live-in-la.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/cant-wait-see-earbuds-live-la
   podcasts: null
 
 - name: Can't wait to see you, *|MERGE1|*!
-  opml: earbuds-cant-wait-to-see-you-merge1.opml
+  opml: earbuds-podcast-recommendations-cant-wait-to-see-you-merge1.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/cant-wait-see-merge1
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Can We Get Along?*'
-  opml: earbuds-earbuds-podcast-collective-can-we-get-along.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-can-we-get-along.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-can-get-along
   podcasts: null
 
 - name: 'EarBuds Live in LA - December 9th: *TICKETS*'
-  opml: earbuds-earbuds-live-in-la-december-9th-tickets.opml
+  opml: earbuds-podcast-recommendations-earbuds-live-in-la-december-9th-tickets.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-live-la-december-9th-tickets
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Celebrate Teachers & Books*'
-  opml: earbuds-earbuds-podcast-collective-celebrate-teachers-books.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-celebrate-teachers-books.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-celebrate-teachers-books
   podcasts: null
 
 - name: '[Re-sent] EarBuds Podcast Collective: *Historical Breakdowns*'
-  opml: earbuds-re-sent-earbuds-podcast-collective-historical-breakdowns.opml
+  opml: earbuds-podcast-recommendations-re-sent-earbuds-podcast-collective-historical-breakdowns.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/resent-earbuds-podcast-collective-historical-breakdowns
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Historical Breakdowns*'
-  opml: earbuds-earbuds-podcast-collective-historical-breakdowns.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-historical-breakdowns.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-historical-breakdowns
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Spooky Grab Bag*'
-  opml: earbuds-earbuds-podcast-collective-spooky-grab-bag.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-spooky-grab-bag.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-spooky-grab-bag
   podcasts: null
 
 - name: 'EarBuds Mini-List: *D.C. Podcasts*'
-  opml: earbuds-earbuds-mini-list-d-c-podcasts.opml
+  opml: earbuds-podcast-recommendations-earbuds-mini-list-d-c-podcasts.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-minilist-dc-podcasts
   podcasts: null
 
 - name: '[Re-sent] Event Announcement: *EarBuds Live in LA*'
-  opml: earbuds-re-sent-event-announcement-earbuds-live-in-la.opml
+  opml: earbuds-podcast-recommendations-re-sent-event-announcement-earbuds-live-in-la.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/resent-event-announcement-earbuds-live-la
   podcasts: null
 
 - name: 'Event Announcement: *EarBuds Live in LA*'
-  opml: earbuds-event-announcement-earbuds-live-in-la.opml
+  opml: earbuds-podcast-recommendations-event-announcement-earbuds-live-in-la.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/event-announcement-earbuds-live-la
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Diabetes Awareness Month*'
-  opml: earbuds-earbuds-podcast-collective-diabetes-awareness-month.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-diabetes-awareness-month.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-diabetes-awareness-month
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Fictional Podcasts*'
-  opml: earbuds-earbuds-podcast-collective-fictional-podcasts.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-fictional-podcasts.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-fictional-podcasts
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *History & Humor*'
-  opml: earbuds-earbuds-podcast-collective-history-humor.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-history-humor.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-history-humor
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *History with a Sense of Humor*'
-  opml: earbuds-earbuds-podcast-collective-history-with-a-sense-of-humor.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-history-with-a-sense-of-humor.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-history-sense-humor
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Podcasts Just for Kids!*'
-  opml: earbuds-earbuds-podcast-collective-podcasts-just-for-kids.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-podcasts-just-for-kids.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-podcasts-just-kids
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Mind Blowing Science*'
-  opml: earbuds-earbuds-podcast-collective-mind-blowing-science.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-mind-blowing-science.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-mind-blowing-science
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *The Prison System*'
-  opml: earbuds-earbuds-podcast-collective-the-prison-system.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-the-prison-system.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-prison-system
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Black Hollywood*'
-  opml: earbuds-earbuds-podcast-collective-black-hollywood.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-black-hollywood.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-black-hollywood
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *(Not So) Great Expectations*'
-  opml: earbuds-earbuds-podcast-collective-not-so-great-expectations.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-not-so-great-expectations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-not-great-expectations
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Power to the Period*'
-  opml: earbuds-earbuds-podcast-collective-power-to-the-period.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-power-to-the-period.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-power-period
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Mysteries*'
-  opml: earbuds-earbuds-podcast-collective-mysteries.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-mysteries.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-mysteries
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Mancasts*'
-  opml: earbuds-earbuds-podcast-collective-mancasts.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-mancasts.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-mancasts
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Funny, Female-Hosted Podcasts*'
-  opml: earbuds-earbuds-podcast-collective-funny-female-hosted-podcasts.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-funny-female-hosted-podcasts.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-funny-femalehosted-podcasts
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Unreliable Narrators*'
-  opml: earbuds-earbuds-podcast-collective-unreliable-narrators.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-unreliable-narrators.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-unreliable-narrators
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Food & Cooking*'
-  opml: earbuds-earbuds-podcast-collective-food-cooking.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-food-cooking.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-food-cooking
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Religion and Society*'
-  opml: earbuds-earbuds-podcast-collective-religion-and-society.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-religion-and-society.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-religion-society
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Religion*'
-  opml: earbuds-earbuds-podcast-collective-religion.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-religion.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-religion
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Mirth, Chortle, and Guffaw*'
-  opml: earbuds-earbuds-podcast-collective-mirth-chortle-and-guffaw.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-mirth-chortle-and-guffaw.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-mirth-chortle-guffaw
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Understanding Grief*'
-  opml: earbuds-earbuds-podcast-collective-understanding-grief.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-understanding-grief.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-understanding-grief
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Future of Media*'
-  opml: earbuds-earbuds-podcast-collective-future-of-media.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-future-of-media.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-future-media
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Empathy*'
-  opml: earbuds-earbuds-podcast-collective-empathy.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-empathy.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-empathy
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *What Are We Thinking?*'
-  opml: earbuds-earbuds-podcast-collective-what-are-we-thinking.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-what-are-we-thinking.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-thinking
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Unexpected Pairings*'
-  opml: earbuds-earbuds-podcast-collective-unexpected-pairings.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-unexpected-pairings.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-unexpected-pairings
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Audio Dramarama*'
-  opml: earbuds-earbuds-podcast-collective-audio-dramarama.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-audio-dramarama.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-audio-dramarama
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Relationships*'
-  opml: earbuds-earbuds-podcast-collective-relationships.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-relationships.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-relationships
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *TV on the Radio!*'
-  opml: earbuds-earbuds-podcast-collective-tv-on-the-radio.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-tv-on-the-radio.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-tv-radio
   podcasts: null
 
 - name: TEST - EarBuds *TV on the Radio*
-  opml: earbuds-test-earbuds-tv-on-the-radio.opml
+  opml: earbuds-podcast-recommendations-test-earbuds-tv-on-the-radio.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/test-earbuds-tv-radio
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Born to Explore: Space*'
-  opml: earbuds-earbuds-podcast-collective-born-to-explore-space.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-born-to-explore-space.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-born-explore-space
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Flirting with Experimental*'
-  opml: earbuds-earbuds-podcast-collective-flirting-with-experimental.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-flirting-with-experimental.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-flirting-experimental
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Mad Scientist Playlist*'
-  opml: earbuds-earbuds-podcast-collective-mad-scientist-playlist.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-mad-scientist-playlist.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-mad-scientist-playlist
   podcasts: null
 
 - name: 'EarBuds Podcasting: Lead Reminder'
-  opml: earbuds-earbuds-podcasting-lead-reminder.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcasting-lead-reminder.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcasting-lead-reminder
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Race and Society*'
-  opml: earbuds-earbuds-podcast-collective-race-and-society.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-race-and-society.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-race-society
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Women''s Travel*'
-  opml: earbuds-earbuds-podcast-collective-womens-travel.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-womens-travel.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-womens-travel
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Design & Innovation*'
-  opml: earbuds-earbuds-podcast-collective-design-innovation.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-design-innovation.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-design-innovation
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Justice League*'
-  opml: earbuds-earbuds-podcast-collective-justice-league.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-justice-league.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-justice-league
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Mississippi*'
-  opml: earbuds-earbuds-podcast-collective-mississippi.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-mississippi.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-mississippi
   podcasts: null
 
 - name: 'Just Dance: Podcast Recommendations'
-  opml: earbuds-just-dance-podcast-recommendations.opml
+  opml: earbuds-podcast-recommendations-just-dance-podcast-recommendations.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/just-dance-podcast-recommendations
   podcasts:
@@ -8258,7 +8254,7 @@ issues:
     xmlUrl: null
 
 - name: Someone You ❤️ Has Breast Cancer
-  opml: earbuds-someone-you-love-has-breast-cancer.opml
+  opml: earbuds-podcast-recommendations-someone-you-love-has-breast-cancer.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/someone-breast-cancer
   podcasts:
@@ -8284,7 +8280,7 @@ issues:
     xmlUrl: null
 
 - name: AI in Our Lives
-  opml: earbuds-ai-in-our-lives.opml
+  opml: earbuds-podcast-recommendations-ai-in-our-lives.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/ai-lives
   podcasts:
@@ -8310,7 +8306,7 @@ issues:
     xmlUrl: null
 
 - name: Wood You Celebrate With Us? EarBuds Turns 5!
-  opml: earbuds-wood-you-celebrate-with-us-earbuds-turns-5.opml
+  opml: earbuds-podcast-recommendations-wood-you-celebrate-with-us-earbuds-turns-5.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/wood-celebrate-us-earbuds-turns-5
   podcasts:
@@ -8336,7 +8332,7 @@ issues:
     xmlUrl: null
 
 - name: Podcasts about the past (copy 01)
-  opml: earbuds-podcasts-about-the-past-copy-01.opml
+  opml: earbuds-podcast-recommendations-podcasts-about-the-past-copy-01.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-past-copy-01
   podcasts:
@@ -8362,7 +8358,7 @@ issues:
     xmlUrl: null
 
 - name: Native American Heritage Month (copy 02)
-  opml: earbuds-native-american-heritage-month-copy-02.opml
+  opml: earbuds-podcast-recommendations-native-american-heritage-month-copy-02.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/native-american-heritage-month-copy-02
   podcasts:
@@ -8388,7 +8384,7 @@ issues:
     xmlUrl: null
 
 - name: Native American Heritage Month (copy 01)
-  opml: earbuds-native-american-heritage-month-copy-01.opml
+  opml: earbuds-podcast-recommendations-native-american-heritage-month-copy-01.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/native-american-heritage-month-copy-01
   podcasts:
@@ -8406,7 +8402,7 @@ issues:
     xmlUrl: null
 
 - name: Internet Culture (copy 01)
-  opml: earbuds-internet-culture-copy-01.opml
+  opml: earbuds-podcast-recommendations-internet-culture-copy-01.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/internet-culture-copy-01
   podcasts:
@@ -8436,7 +8432,7 @@ issues:
     xmlUrl: null
 
 - name: PodFest Berlin (copy 01)
-  opml: earbuds-podfest-berlin-copy-01.opml
+  opml: earbuds-podcast-recommendations-podfest-berlin-copy-01.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podfest-berlin-copy-01
   podcasts:
@@ -8462,7 +8458,7 @@ issues:
     xmlUrl: null
 
 - name: Abortion Rights Update
-  opml: earbuds-abortion-rights-update.opml
+  opml: earbuds-podcast-recommendations-abortion-rights-update.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/abortion-rights-update
   podcasts:
@@ -8488,7 +8484,7 @@ issues:
     xmlUrl: null
 
 - name: Celebrating Latinx Heritage Month - Advancing La Cultura (copy 01)
-  opml: earbuds-celebrating-latinx-heritage-month-advancing-la-cultura-copy-01.opml
+  opml: earbuds-podcast-recommendations-celebrating-latinx-heritage-month-advancing-la-cultura-copy-01.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/celebrating-latinx-heritage-month-advancing-la-cultura-copy-01
   podcasts:
@@ -8514,7 +8510,7 @@ issues:
     xmlUrl: null
 
 - name: Podcasts Out of This World (copy 01)
-  opml: earbuds-podcasts-out-of-this-world-copy-01.opml
+  opml: earbuds-podcast-recommendations-podcasts-out-of-this-world-copy-01.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-world-copy-01
   podcasts:
@@ -8540,7 +8536,7 @@ issues:
     xmlUrl: null
 
 - name: Mom Entrepreneurs  (copy 01)
-  opml: earbuds-mom-entrepreneurs-copy-01.opml
+  opml: earbuds-podcast-recommendations-mom-entrepreneurs-copy-01.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/mom-entrepreneurs-copy-01
   podcasts:
@@ -8570,7 +8566,7 @@ issues:
     xmlUrl: null
 
 - name: Understanding Our Digital Footprint (copy 01)
-  opml: earbuds-understanding-our-digital-footprint-copy-01.opml
+  opml: earbuds-podcast-recommendations-understanding-our-digital-footprint-copy-01.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/understanding-digital-footprint-copy-01
   podcasts:
@@ -8596,7 +8592,7 @@ issues:
     xmlUrl: null
 
 - name: Science and Crime (copy 02)
-  opml: earbuds-science-and-crime-copy-02.opml
+  opml: earbuds-podcast-recommendations-science-and-crime-copy-02.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/science-crime-copy-02
   podcasts:
@@ -8626,7 +8622,7 @@ issues:
     xmlUrl: null
 
 - name: Science and Crime (copy 01)
-  opml: earbuds-science-and-crime-copy-01.opml
+  opml: earbuds-podcast-recommendations-science-and-crime-copy-01.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/science-crime-copy-01
   podcasts:
@@ -8656,7 +8652,7 @@ issues:
     xmlUrl: null
 
 - name: Podcast Recommendations For Giving a Shit (copy 01)
-  opml: earbuds-podcast-recommendations-for-giving-a-shit-copy-01.opml
+  opml: earbuds-podcast-recommendations-podcast-recommendations-for-giving-a-shit-copy-01.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-recommendations-giving-shit-copy-01
   podcasts:
@@ -8682,7 +8678,7 @@ issues:
     xmlUrl: null
 
 - name: Arts In The Spotlight
-  opml: earbuds-arts-in-the-spotlight.opml
+  opml: earbuds-podcast-recommendations-arts-in-the-spotlight.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/arts-spotlight
   podcasts:
@@ -8708,7 +8704,7 @@ issues:
     xmlUrl: null
 
 - name: Podcasts On The Olympics & Sports Stories (copy 01)
-  opml: earbuds-podcasts-on-the-olympics-sports-stories-copy-01.opml
+  opml: earbuds-podcast-recommendations-podcasts-on-the-olympics-sports-stories-copy-01.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-olympics-sports-stories-copy-01
   podcasts:
@@ -8738,7 +8734,7 @@ issues:
     xmlUrl: null
 
 - name: The Best Movie Podcasts (copy 01)
-  opml: earbuds-the-best-movie-podcasts-copy-01.opml
+  opml: earbuds-podcast-recommendations-the-best-movie-podcasts-copy-01.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/best-movie-podcasts-copy-01
   podcasts:
@@ -8764,7 +8760,7 @@ issues:
     xmlUrl: null
 
 - name: Southern and Jewish (copy 01)
-  opml: earbuds-southern-and-jewish-copy-01.opml
+  opml: earbuds-podcast-recommendations-southern-and-jewish-copy-01.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/southern-jewish-copy-01
   podcasts:
@@ -8790,7 +8786,7 @@ issues:
     xmlUrl: null
 
 - name: Human Connection (copy 01)
-  opml: earbuds-human-connection-copy-01.opml
+  opml: earbuds-podcast-recommendations-human-connection-copy-01.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/human-connection-copy-01
   podcasts:
@@ -8816,7 +8812,7 @@ issues:
     xmlUrl: null
 
 - name: Looking Behind Walls (copy 02)
-  opml: earbuds-looking-behind-walls-copy-02.opml
+  opml: earbuds-podcast-recommendations-looking-behind-walls-copy-02.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/looking-behind-walls-copy-02
   podcasts:
@@ -8842,7 +8838,7 @@ issues:
     xmlUrl: null
 
 - name: Looking Behind Walls (copy 01)
-  opml: earbuds-looking-behind-walls-copy-01.opml
+  opml: earbuds-podcast-recommendations-looking-behind-walls-copy-01.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/looking-behind-walls-copy-01
   podcasts:
@@ -8868,7 +8864,7 @@ issues:
     xmlUrl: null
 
 - name: Underrepresented Voices
-  opml: earbuds-underrepresented-voices.opml
+  opml: earbuds-podcast-recommendations-underrepresented-voices.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/underrepresented-voices
   podcasts:
@@ -8894,13 +8890,13 @@ issues:
     xmlUrl: null
 
 - name: 'Podcasts On Underrepresented Voices: Diversity Matters'
-  opml: earbuds-podcasts-on-underrepresented-voices-diversity-matters.opml
+  opml: earbuds-podcast-recommendations-podcasts-on-underrepresented-voices-diversity-matters.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-underrepresented-voices-diversity-matters
   podcasts: null
 
 - name: Mental Health
-  opml: earbuds-mental-health.opml
+  opml: earbuds-podcast-recommendations-mental-health.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/mental-health
   podcasts:
@@ -8930,7 +8926,7 @@ issues:
     xmlUrl: null
 
 - name: Culture Needs Diversity
-  opml: earbuds-culture-needs-diversity.opml
+  opml: earbuds-podcast-recommendations-culture-needs-diversity.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/culture-needs-diversity
   podcasts:
@@ -8956,103 +8952,103 @@ issues:
     xmlUrl: null
 
 - name: Magical Stories
-  opml: earbuds-magical-stories.opml
+  opml: earbuds-podcast-recommendations-magical-stories.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/magical-stories
   podcasts: null
 
 - name: Inside The Creative (Musical) Mind
-  opml: earbuds-inside-the-creative-musical-mind.opml
+  opml: earbuds-podcast-recommendations-inside-the-creative-musical-mind.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/inside-creative-musical-mind
   podcasts: null
 
 - name: TO Unopened in last campaigns
-  opml: earbuds-to-unopened-in-last-campaigns.opml
+  opml: earbuds-podcast-recommendations-to-unopened-in-last-campaigns.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/unopened-last-campaigns
   podcasts: null
 
 - name: Women's History Month
-  opml: earbuds-womens-history-month.opml
+  opml: earbuds-podcast-recommendations-womens-history-month.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/womens-history-month
   podcasts: null
 
 - name: What You Don't Know About Aging
-  opml: earbuds-what-you-dont-know-about-aging.opml
+  opml: earbuds-podcast-recommendations-what-you-dont-know-about-aging.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/dont-know-aging
   podcasts: null
 
 - name: Emotionally Naked Strangers
-  opml: earbuds-emotionally-naked-strangers.opml
+  opml: earbuds-podcast-recommendations-emotionally-naked-strangers.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/emotionally-naked-strangers
   podcasts: null
 
 - name: Test
-  opml: earbuds-test.opml
+  opml: earbuds-podcast-recommendations-test.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/test
   podcasts: null
 
 - name: The People Behind The Mic
-  opml: earbuds-the-people-behind-the-mic.opml
+  opml: earbuds-podcast-recommendations-the-people-behind-the-mic.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/people-behind-mic
   podcasts: null
 
 - name: Women Who Run
-  opml: earbuds-women-who-run.opml
+  opml: earbuds-podcast-recommendations-women-who-run.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/women-run
   podcasts: null
 
 - name: Ladies Who Run
-  opml: earbuds-ladies-who-run.opml
+  opml: earbuds-podcast-recommendations-ladies-who-run.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/ladies-run
   podcasts: null
 
 - name: SPORTS
-  opml: earbuds-sports.opml
+  opml: earbuds-podcast-recommendations-sports.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/sports
   podcasts: null
 
 - name: Satire
-  opml: earbuds-satire.opml
+  opml: earbuds-podcast-recommendations-satire.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/satire
   podcasts: null
 
 - name: Intimact
-  opml: earbuds-intimact.opml
+  opml: earbuds-podcast-recommendations-intimact.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/intimact
   podcasts: null
 
 - name: 'EarBuds Podcast Collective: *Alternative Perspectives on Reality*'
-  opml: earbuds-earbuds-podcast-collective-alternative-perspectives-on-reality.opml
+  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-alternative-perspectives-on-reality.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-alternative-perspectives-reality
   podcasts: null
 
 - name: Event Ahoy!
-  opml: earbuds-event-ahoy.opml
+  opml: earbuds-podcast-recommendations-event-ahoy.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/event-ahoy
   podcasts: null
 
 - name: Welcome!
-  opml: earbuds-welcome.opml
+  opml: earbuds-podcast-recommendations-welcome.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/welcome
   podcasts: null
 
 - name: EarBuds Call for Podcast Leads
-  opml: earbuds-earbuds-call-for-podcast-leads.opml
+  opml: earbuds-podcast-recommendations-earbuds-call-for-podcast-leads.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-call-podcast-leads
   podcasts: null
