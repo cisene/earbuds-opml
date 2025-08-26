@@ -1879,33 +1879,29 @@ issues:
 
 - name: Podcasts for Kitchen Inspiration
   opml: earbuds-podcast-recommendations-podcasts-for-kitchen-inspiration.opml
-  date: 1970-01-01
+  date: 2024-03-31
   htmlUrl: https://newsletter.earbuds.audio/p/kitchen-inspiration-podcast-recommendations
   podcasts:
 
   - title: Chewing
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.chewing.xyz/
+    xmlUrl: https://chewingpodcast.libsyn.com/rss
 
   - title: Toasted Sister Podcast
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://toastedsisterpodcast.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:13105426/sounds.rss
 
   - title: Be My Guest with Ina Garten
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.discovery.com/
+    xmlUrl: https://feeds.acast.com/public/shows/64e68a7dc9cc6a0011b44974
 
   - title: Upper Middlebrow
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://uppermiddlebrow.com/blog/
+    xmlUrl: https://uppermiddlebrow.com/feed/podcast/
 
   - title: As We Eat
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Hearsay
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://redcircle.com/shows/as-we-eat8938
+    xmlUrl: https://feeds.redcircle.com/9d953738-2dbb-4f4f-b374-88bb024ec63d
 
 - name: 'Sunshine After the Rain: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-sunshine-after-the-rain-podcast-recommendations.opml
