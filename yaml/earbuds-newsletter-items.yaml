@@ -2087,25 +2087,25 @@ issues:
 
 - name: 'Still Thinking About Rome?: Podcasts About Empires'
   opml: earbuds-podcast-recommendations-still-thinking-about-rome-podcasts-about-empires.opml
-  date: 1970-01-01
+  date: 2024-02-04
   htmlUrl: https://newsletter.earbuds.audio/p/still-thinking-rome-podcasts-empires
   podcasts:
 
   - title: You're Dead to Me
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.bbc.co.uk/programmes/p07mdbhg
+    xmlUrl: https://podcasts.files.bbci.co.uk/p07mdbhg.rss
 
   - title: Noble Blood
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.iheart.com/podcast/139-noble-blood-46601390
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/55B20558-9ADD-4D0B-8C42-AE300188D1AA/0BFDBA5F-FCCA-4C2F-8772-AE300188D1B8/podcast.rss
 
   - title: The Happiness Lab with Dr. Laurie Santos
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.pushkin.fm/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/d623ef0b-3fee-4c26-b815-ae32006cd739/podcast.rss
 
   - title: Stuff The British Stole
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.abc.net.au/listen/programs/stuff-the-british-stole/
+    xmlUrl: https://www.abc.net.au/feeds/12754606/podcast.xml
 
   - title: Empire
     htmlUrl: null
