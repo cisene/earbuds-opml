@@ -2139,29 +2139,29 @@ issues:
 
 - name: Story Behind the Story
   opml: earbuds-podcast-recommendations-story-behind-the-story.opml
-  date: 1970-01-01
+  date: 2024-01-21
   htmlUrl: https://newsletter.earbuds.audio/p/story-behind-story
   podcasts:
 
   - title: 'Rachel Maddow Presents: Déjà News'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.nbcnews.com/
+    xmlUrl: https://podcastfeeds.nbcnews.com/rachel-maddow-presents-deja-news
 
   - title: KILLED
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://audiochuck.com/
+    xmlUrl: https://feeds.simplecast.com/e8KuTkTk
 
   - title: Local News Matters
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://localnewsmatterspodcast.com/
+    xmlUrl: https://feeds.libsyn.com/456642/rss
 
   - title: Longform
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://longform.org/
+    xmlUrl: https://feeds.megaphone.fm/VMP6079657536
 
   - title: The Journalism Salute
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://redcircle.com/shows/the-journalism-salute
+    xmlUrl: https://feeds.redcircle.com/3321739a-247a-4730-a995-15faa82f68d4
 
 - name: Podcast Hosts That Make Podcasts Worth Listening To
   opml: earbuds-podcast-recommendations-podcast-hosts-that-make-podcasts-worth-listening-to.opml
