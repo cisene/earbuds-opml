@@ -2165,37 +2165,29 @@ issues:
 
 - name: Podcast Hosts That Make Podcasts Worth Listening To
   opml: earbuds-podcast-recommendations-podcast-hosts-that-make-podcasts-worth-listening-to.opml
-  date: 1970-01-01
+  date: 2024-01-14
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-hosts-make-podcasts-worth-listening
   podcasts:
 
-  - title: Your Mama's Kitchen
-    htmlUrl: null
-    xmlUrl: null
+  - title: Your Mama’s Kitchen
+    htmlUrl: https://art19.com/shows/your-mamas-kitchen
+    xmlUrl: https://rss.art19.com/your-mamas-kitchen
 
   - title: Good Life Project
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.goodlifeproject.com/podcast/
+    xmlUrl: https://feeds.acast.com/public/shows/61de0665cc27c20014ea15cf
 
-  - title: Don't Blame Me/But Am I Wrong?
-    htmlUrl: null
-    xmlUrl: null
+  - title: Don't Blame Me! / But Am I Wrong?
+    htmlUrl: https://www.dontblameme.show/
+    xmlUrl: https://feeds.megaphone.fm/SBP7783217921
 
   - title: Keys To The Kingdom
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://plus.acast.com/s/keystothekingdom
+    xmlUrl: https://access.acast.com/rss/64ff30ab23cdab001176a618/
 
   - title: Reality Gays with Mattie and Poodle
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: 'Discover a new show:'
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: 'On the EarBuds Blog:'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.realitygays.com/
+    xmlUrl: https://feeds.megaphone.fm/reality-gays
 
 - name: 'Chess Nerds Are Awesome: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-chess-nerds-are-awesome-podcast-recommendations.opml
