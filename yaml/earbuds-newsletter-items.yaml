@@ -2035,29 +2035,29 @@ issues:
 
 - name: Presidential Politics Has Always Been Wild
   opml: earbuds-podcast-recommendations-presidential-politics-has-always-been-wild.opml
-  date: 1970-01-01
+  date: 2024-02-19
   htmlUrl: https://newsletter.earbuds.audio/p/presidential-politics-always-wild
   podcasts:
 
   - title: 'American Presidents: Totalus Rankium'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://totalusrankiumap.podbean.com/
+    xmlUrl: https://totalusrankiumap.podbean.com/feed.xml
 
-  - title: The History Chicks
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'The History Chicks : A Women’s History Podcast'
+    htmlUrl: https://thehistorychicks.com/
+    xmlUrl: https://feeds.megaphone.fm/QCD2921626995
 
   - title: Plodding Through The Presidents
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.ploddingthroughthepresidents.com/podcast
+    xmlUrl: https://feeds.megaphone.fm/ARML7069797889
 
   - title: Queens Podcast
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://queenshistorypodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/ARML9284247102
 
-  - title: Civics & Coffee
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'Civics & Coffee: A History Podcast'
+    htmlUrl: https://www.civicsandcoffee.com/
+    xmlUrl: https://feeds.buzzsprout.com/1268555.rss
 
 - name: Eavesdropping on Black Perspectives
   opml: earbuds-podcast-recommendations-eavesdropping-on-black-perspectives.opml
