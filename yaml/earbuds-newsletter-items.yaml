@@ -24,7 +24,7 @@ issues:
     xmlUrl: https://rss.art19.com/the-newest-olympian
 
   - title: Who? Weekly
-    htmlUrl: http://www.whoweekly.us/
+    htmlUrl: https://www.whoweekly.us/
     xmlUrl: https://feeds.megaphone.fm/who-weekly
 
   - title: Buffering the Vampire Slayer | A Buffy the Vampire Slayer Podcast
@@ -64,7 +64,7 @@ issues:
   podcasts:
 
   - title: The Story of Woman
-    htmlUrl: http://www.thestoryofwomanpodcast.com/
+    htmlUrl: https://www.thestoryofwomanpodcast.com/
     xmlUrl: https://feeds.megaphone.fm/the-story-of-woman
 
   - title: Code Switch
@@ -76,7 +76,7 @@ issues:
     xmlUrl: https://www.omnycontent.com/d/playlist/2a15ad0f-779b-4334-bfba-af1d00e28029/d729c59d-9a7c-4e3a-8e0d-af1d00e50f2d/8884db02-3309-4a58-9b6a-af1d00e50f44/podcast.rss
 
   - title: Eat the Rules with Summer Innanen
-    htmlUrl: http://fearlessrebelleradio.libsyn.com/webpage
+    htmlUrl: https://fearlessrebelleradio.libsyn.com/webpage
     xmlUrl: https://fearlessrebelleradio.libsyn.com/rss
 
   - title: Happy Place
@@ -98,15 +98,15 @@ issues:
     xmlUrl: https://feeds.npr.org/510019/podcast.xml
 
   - title: Minoritea Report
-    htmlUrl: http://minoriteareport.libsyn.com/minoriteareportpodcast
+    htmlUrl: https://minoriteareport.libsyn.com/minoriteareportpodcast
     xmlUrl: https://minoriteareport.libsyn.com/rss
 
   - title: Sidetracked with Annie and Nick
-    htmlUrl: http://www.bbc.co.uk/programmes/p0gfmzbn
+    htmlUrl: https://www.bbc.co.uk/programmes/p0gfmzbn
     xmlUrl: https://podcasts.files.bbci.co.uk/p0gfmzbn.rss
 
   - title: The Wheelhouse
-    htmlUrl: http://www.wnpr.org/programs/wheelhouse
+    htmlUrl: https://www.wnpr.org/programs/wheelhouse
     xmlUrl: https://www.omnycontent.com/d/playlist/ac0be969-d7df-460c-a66c-a6f900e1ebd1/253f0668-0463-4ab4-8eb3-a9fb004c97e7/095040de-af32-45ce-990f-a9fb004c97f5/podcast.rss
 
 - name: 5 Podcasts Exploring Personal Identity & Cultural Journeys 🌍
@@ -120,11 +120,11 @@ issues:
     xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/437c6987-8699-45e2-bc45-b300016a0df4/3e4abd45-f29b-40e4-bb42-b300016a1765/podcast.rss
 
   - title: The Why Factor
-    htmlUrl: http://www.bbc.co.uk/programmes/p00xtky9
+    htmlUrl: https://www.bbc.co.uk/programmes/p00xtky9
     xmlUrl: https://podcasts.files.bbci.co.uk/p00xtky9.rss
 
   - title: Still Processing
-    htmlUrl: http://www.nytimes.com/podcasts/still-processing
+    htmlUrl: https://www.nytimes.com/podcasts/still-processing
     xmlUrl: https://feeds.simplecast.com/YXhATe6k
 
   - title: Invisibilia
@@ -210,7 +210,7 @@ issues:
     xmlUrl: https://feeds.buzzsprout.com/2419373.rss
 
   - title: Limetown
-    htmlUrl: http://www.limetown.com/
+    htmlUrl: https://www.limetown.com/
     xmlUrl: https://feeds.megaphone.fm/PPY5621646923
 
 - name: '5 Law & Media Podcasts: Navigating the Court of Public Opinion 🏛️👩‍⚖️'
@@ -221,14 +221,14 @@ issues:
 
   - title: On the Media
     htmlUrl: https://www.wnycstudios.org/podcasts/otm
-    xmlUrl: http://feeds.feedburner.com/onthemedia
+    xmlUrl: https://feeds.feedburner.com/onthemedia
 
   - title: The Brandinc PR Podcast
     htmlUrl: https://brandincpr.com/
     xmlUrl: https://anchor.fm/s/fb565008/podcast/rss
 
   - title: 'The Intersection: Where the Court of Public Opinion and the Court of Law Collide'
-    htmlUrl: http://sitrick.com/
+    htmlUrl: https://sitrick.com/
     xmlUrl: https://feeds.acast.com/public/shows/67589ee06d1777b3685629bd
 
   - title: We Fixed It. You're Welcome.
@@ -254,7 +254,7 @@ issues:
     xmlUrl: https://rss.art19.com/this-is-actually-happening-podcast
 
   - title: 10% Happier with Dan Harris
-    htmlUrl: http://www.danharris.com/
+    htmlUrl: https://www.danharris.com/
     xmlUrl: https://feeds.libsyn.com/570160/rss
 
   - title: How to Survive the End of the World
@@ -272,7 +272,7 @@ issues:
   podcasts:
 
   - title: Leading Equity
-    htmlUrl: http://www.leadingequitycenter.com/
+    htmlUrl: https://www.leadingequitycenter.com/
     xmlUrl: https://leadingequity.libsyn.com/rss
 
   - title: Sold a Story
@@ -280,11 +280,11 @@ issues:
     xmlUrl: https://feeds.publicradio.org/public_feeds/sold-a-story
 
   - title: Those Who Can't Teach Anymore
-    htmlUrl: http://sites.libsyn.com/437358/thosewhoecantteachanymore
+    htmlUrl: https://sites.libsyn.com/437358/thosewhoecantteachanymore
     xmlUrl: https://feeds.megaphone.fm/ARML8552723244
 
   - title: The Better Leaders Better Schools Podcast with Daniel Bauer
-    htmlUrl: http://betterleadersbetterschools.com/podcast
+    htmlUrl: https://betterleadersbetterschools.com/podcast
     xmlUrl: https://better.libsyn.com/rss
 
   - title: Teaching through Emotions
@@ -340,7 +340,7 @@ issues:
     xmlUrl: https://feeds.acast.com/public/shows/688b423b811827610936a2c0
 
   - title: Your Own Backyard
-    htmlUrl: http://yourownbackyardpodcast.com/
+    htmlUrl: https://yourownbackyardpodcast.com/
     xmlUrl: https://yourownbackyard.libsyn.com/rss
 
 - name: Australia's Best Finance Podcast Recommendations 🇦🇺
@@ -380,7 +380,7 @@ issues:
     xmlUrl: https://feeds.simplecast.com/UCwaTX1J
 
   - title: We Can Do Hard Things
-    htmlUrl: http://wecandohardthingspodcast.com/
+    htmlUrl: https://wecandohardthingspodcast.com/
     xmlUrl: https://feeds.megaphone.fm/wcdht
 
   - title: Beauty in the Break
@@ -388,11 +388,11 @@ issues:
     xmlUrl: https://feeds.buzzsprout.com/2448921.rss
 
   - title: My Feelings Over Tea Podcast
-    htmlUrl: http://myfeelingsovertea.libsyn.com/website
+    htmlUrl: https://myfeelingsovertea.libsyn.com/website
     xmlUrl: https://myfeelingsovertea.libsyn.com/rss
 
   - title: A Millennial Mind
-    htmlUrl: http://amillennialmind.libsyn.com/website
+    htmlUrl: https://amillennialmind.libsyn.com/website
     xmlUrl: https://feeds.megaphone.fm/APL2510885305
 
 - name: 5 Sex-Positive Podcast Recommendations
@@ -406,19 +406,19 @@ issues:
     xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/b6e1189f-bdb5-4e06-b09e-aea9011f6386/77150e8c-82fb-4c95-83e7-aea9011fd818/podcast.rss
 
   - title: 'Sex Ed with DB: smart, science-backed sex education'
-    htmlUrl: http://www.sexedwithdb.com/
+    htmlUrl: https://www.sexedwithdb.com/
     xmlUrl: https://sexedwithdb.libsyn.com/rss
 
   - title: LOVERS by shan
-    htmlUrl: http://loversbyshan.com/
+    htmlUrl: https://loversbyshan.com/
     xmlUrl: https://audioboom.com/channels/5085699.rss
 
   - title: Brown Girls Do It Too
-    htmlUrl: http://www.bbc.co.uk/programmes/p08k5cp0
+    htmlUrl: https://www.bbc.co.uk/programmes/p08k5cp0
     xmlUrl: https://podcasts.files.bbci.co.uk/p08k5cp0.rss
 
   - title: Queer Sex Ed Podcast
-    htmlUrl: http://www.queersexed.org/
+    htmlUrl: https://www.queersexed.org/
     xmlUrl: https://queersexed.libsyn.com/rss
 
 - name: The Future Sounds Better with these Science Podcasts 🔭
@@ -436,7 +436,7 @@ issues:
     xmlUrl: https://feeds.simplecast.com/FO6kxYGj
 
   - title: Science In Action
-    htmlUrl: http://www.bbc.co.uk/programmes/p002vsnb
+    htmlUrl: https://www.bbc.co.uk/programmes/p002vsnb
     xmlUrl: https://podcasts.files.bbci.co.uk/p002vsnb.rss
 
   - title: Science Friday
@@ -470,7 +470,7 @@ issues:
     xmlUrl: https://feeds.captivate.fm/future-ecologies/
 
   - title: Threshold
-    htmlUrl: http://www.thresholdpodcast.org/
+    htmlUrl: https://www.thresholdpodcast.org/
     xmlUrl: https://feeds.captivate.fm/threshold/
 
 - name: Top Podcast Picks for Wisdom & Inspiration 🎧
@@ -492,7 +492,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/GEMINIMEDIA6854858301
 
   - title: Totally Booked with Zibby
-    htmlUrl: http://www.zibbymedia.com/
+    htmlUrl: https://www.zibbymedia.com/
     xmlUrl: https://access.acast.com/rss/dd9bf09f-c85c-5b84-8fc6-ac7c8574cacc/
 
   - title: 'Next Up: Narcissism'
@@ -506,7 +506,7 @@ issues:
   podcasts:
 
   - title: Song Exploder
-    htmlUrl: http://www.songexploder.net/
+    htmlUrl: https://www.songexploder.net/
     xmlUrl: https://feed.songexploder.net/SongExploder
 
   - title: 'Authentic: The Story Of Tablo'
@@ -518,7 +518,7 @@ issues:
     xmlUrl: https://feeds.simplecast.com/BqbsxVfO
 
   - title: Archive 81
-    htmlUrl: http://archive81.com/
+    htmlUrl: https://archive81.com/
     xmlUrl: https://archive81.libsyn.com/rss
 
   - title: 'Off Book: The Improvised Musical'
@@ -548,7 +548,7 @@ issues:
     xmlUrl: https://feeds.acast.com/public/shows/67a23ec29a67c6bc4ec757ac
 
   - title: Your College Bound Kid | Admission Tips, Admission Trends & Admission Interviews
-    htmlUrl: http://yourcollegeboundkid.com/
+    htmlUrl: https://yourcollegeboundkid.com/
     xmlUrl: https://yourcollegeboundkid.libsyn.com/rss
 
 - name: Storytelling podcasts celebrating Black women's voices & stories
@@ -626,7 +626,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/feelbetterlivemore
 
   - title: hol+ by Dr. Taz MD
-    htmlUrl: http://holplus.co/podcast/
+    htmlUrl: https://holplus.co/podcast/
     xmlUrl: https://feeds.redcircle.com/8329c896-7c57-4f60-9576-334d85414c2f
 
 - name: Podcasts for Women's History Month
@@ -662,7 +662,7 @@ issues:
   podcasts:
 
   - title: Have You Heard George's Podcast?
-    htmlUrl: http://www.bbc.co.uk/programmes/p07915kd
+    htmlUrl: https://www.bbc.co.uk/programmes/p07915kd
     xmlUrl: https://podcasts.files.bbci.co.uk/p07915kd.rss
 
   - title: Invisibilia
@@ -678,7 +678,7 @@ issues:
     xmlUrl: https://feeds.acast.com/public/shows/9d5c107b-68d6-4c1b-8c80-45ee6a84c947
 
   - title: Scene on Radio
-    htmlUrl: http://www.sceneonradio.org/
+    htmlUrl: https://www.sceneonradio.org/
     xmlUrl: https://feeds.sceneonradio.org/SceneOnRadio
 
 - name: Podcasts That''ll Rewire Your Brain 🧠
@@ -692,7 +692,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/howto
 
   - title: Longform
-    htmlUrl: http://longform.org/
+    htmlUrl: https://longform.org/
     xmlUrl: https://feeds.megaphone.fm/VMP6079657536
 
   - title: The Gray Area with Sean Illing
@@ -718,7 +718,7 @@ issues:
     xmlUrl: https://feeds.libsyn.com/115736/rss
 
   - title: We Can Do Hard Things
-    htmlUrl: http://wecandohardthingspodcast.com/
+    htmlUrl: https://wecandohardthingspodcast.com/
     xmlUrl: https://feeds.megaphone.fm/wcdht
 
   - title: The Deep by Zoe Marshall
@@ -730,7 +730,7 @@ issues:
     xmlUrl: https://feeds.acast.com/public/shows/67dbd903782fc3c7c6b02a0b
 
   - title: 'Love-ly: Exploring Modern Relationships'
-    htmlUrl: http://immigrantlypod.com/
+    htmlUrl: https://immigrantlypod.com/
     xmlUrl: https://feeds.megaphone.fm/ALMIR5388284817
 
 - name: Podcasts for Black History Month 🎙️
@@ -782,7 +782,7 @@ issues:
     xmlUrl: https://www.youtube.com/playlist?list=PLmFP0zqBgmkaybE-2aFCwHI1y3torfLgL
 
   - title: Barefoot Boys
-    htmlUrl: http://luminary.link/barefoot
+    htmlUrl: https://luminary.link/barefoot
     xmlUrl: https://rss.pdrl.fm/2d456a/feeds.acast.com/public/shows/64d6349d8f0a1d0011a5f0ec
 
 - name: Podcasts recommendations on neurodiversity 🧠
@@ -826,7 +826,7 @@ issues:
     xmlUrl: https://feeds.buzzsprout.com/872791.rss
 
   - title: The Bittersweet Life
-    htmlUrl: http://www.thebittersweetlife.net/
+    htmlUrl: https://www.thebittersweetlife.net/
     xmlUrl: https://bittersweetlife.libsyn.com/rss
 
   - title: The Move Abroad Coach Podcast
@@ -848,7 +848,7 @@ issues:
     xmlUrl: https://feeds.simplecast.com/_IjaDYAj
 
   - title: Creative Pep Talk
-    htmlUrl: http://www.creativepeptalk.com/
+    htmlUrl: https://www.creativepeptalk.com/
     xmlUrl: https://feeds.megaphone.fm/TPG2212080179
 
   - title: Peripheral Thinking
@@ -900,7 +900,7 @@ issues:
     xmlUrl: https://feeds.acast.com/public/shows/66d8b52f9c7d98a7f89aecaa
 
   - title: The Broken Brain
-    htmlUrl: http://brokenbrain.libsyn.com/webpage
+    htmlUrl: https://brokenbrain.libsyn.com/webpage
     xmlUrl: https://brokenbrain.libsyn.com/rss
 
   - title: Live Happy Now
@@ -922,7 +922,7 @@ issues:
   podcasts:
 
   - title: History's Heroes
-    htmlUrl: http://www.bbc.co.uk/programmes/m001mcbp
+    htmlUrl: https://www.bbc.co.uk/programmes/m001mcbp
     xmlUrl: https://podcasts.files.bbci.co.uk/m001mcbp.rss
 
   - title: The Black History Buff Podcast
@@ -948,7 +948,7 @@ issues:
   podcasts:
 
   - title: For the Love of Climbing
-    htmlUrl: http://blubrry.com/fortheloveofclimbing/
+    htmlUrl: https://blubrry.com/fortheloveofclimbing/
     xmlUrl: https://feeds.blubrry.com/feeds/fortheloveofclimbing.xml
 
   - title: Plug Tone Outdoors
@@ -1034,7 +1034,7 @@ issues:
     xmlUrl: https://feeds.redcircle.com/efe20aa8-52fc-475e-a8d9-fefc474ce17f
 
   - title: Inn Between
-    htmlUrl: http://www.thegoblinshead.com/
+    htmlUrl: https://www.thegoblinshead.com/
     xmlUrl: https://feeds.libsyn.com/122656
 
   - title: Desperado
@@ -1042,7 +1042,7 @@ issues:
     xmlUrl: https://feeds.captivate.fm/desperado/
 
   - title: Sidequesting
-    htmlUrl: http://sidequestingpod.com/
+    htmlUrl: https://sidequestingpod.com/
     xmlUrl: https://feeds.megaphone.fm/SBP5496629043
 
 - name: Best Interview Episodes on Celebrity (& Celeb-Adjacent) Podcasts ⭐
@@ -1052,7 +1052,7 @@ issues:
   podcasts:
 
   - title: Talk Easy with Sam Fragoso
-    htmlUrl: http://www.talkeasypod.com/
+    htmlUrl: https://www.talkeasypod.com/
     xmlUrl: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/c36fcce4-b3bb-4fef-bf5f-b24901757a28/379dee35-c408-449a-b225-b24901757a46/podcast.rss
 
   - title: It's Been a Minute
@@ -1068,7 +1068,7 @@ issues:
     xmlUrl: https://feeds.acast.com/public/shows/7ecaf7f7-01bb-4aff-9f1b-857cd75d5f1c
 
   - title: On with Kara Swisher
-    htmlUrl: http://nymag.com/
+    htmlUrl: https://nymag.com/
     xmlUrl: https://feeds.megaphone.fm/VMP1684715893
 
 - name: Podcasts on (Usually) Off-The-Table Topics 🍽️
@@ -1112,7 +1112,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/TPG9895805104
 
   - title: Future Hindsight
-    htmlUrl: http://sites.libsyn.com/113012/site
+    htmlUrl: https://sites.libsyn.com/113012/site
     xmlUrl: https://futurehindsight.libsyn.com/rss
 
   - title: Bewildered
@@ -1130,7 +1130,7 @@ issues:
   podcasts:
 
   - title: The White Vault
-    htmlUrl: http://thewhitevault.com/
+    htmlUrl: https://thewhitevault.com/
     xmlUrl: https://feeds.megaphone.fm/SBP7754210900
 
   - title: That Scares Me Too
@@ -1138,7 +1138,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/SBP4822137863
 
   - title: 'Afflicted: A Horror Thriller Audio Drama'
-    htmlUrl: http://afflictedaudio.com/
+    htmlUrl: https://afflictedaudio.com/
     xmlUrl: https://feeds.megaphone.fm/afflicted
 
   - title: 'Re: Dracula'
@@ -1160,7 +1160,7 @@ issues:
     xmlUrl: https://feeds.buzzsprout.com/2357587.rss
 
   - title: Estate Planning Strategies
-    htmlUrl: http://estateplanningdaily.libsyn.com/website
+    htmlUrl: https://estateplanningdaily.libsyn.com/website
     xmlUrl: https://estateplanningdaily.libsyn.com/rss
 
   - title: The Creative Penn Podcast For Writers
@@ -1190,15 +1190,15 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/SBP3233104340
 
   - title: Hoes With Feelings
-    htmlUrl: http://www.melissarichnyc.com/
+    htmlUrl: https://www.melissarichnyc.com/
     xmlUrl: https://anchor.fm/s/d8c928a8/podcast/rss
 
   - title: Talk Easy with Sam Fragoso
-    htmlUrl: http://www.talkeasypod.com/
+    htmlUrl: https://www.talkeasypod.com/
     xmlUrl: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/c36fcce4-b3bb-4fef-bf5f-b24901757a28/379dee35-c408-449a-b225-b24901757a46/podcast.rss
 
   - title: Other Men Need Help
-    htmlUrl: http://www.othermenneedhelp.com/
+    htmlUrl: https://www.othermenneedhelp.com/
     xmlUrl: https://feeds.podcastmirror.com/other-men-need
 
 - name: Horror Podcasts from Black Creators
@@ -1208,11 +1208,11 @@ issues:
   podcasts:
 
   - title: 'Afflicted: A Horror Thriller Audio Drama'
-    htmlUrl: http://afflictedaudio.com/
+    htmlUrl: https://afflictedaudio.com/
     xmlUrl: https://feeds.megaphone.fm/afflicted
 
   - title: The Stoop
-    htmlUrl: http://www.thestoop.org/
+    htmlUrl: https://www.thestoop.org/
     xmlUrl: https://feed.thestoop.org/
 
   - title: 'Kiss: The Audio Series'
@@ -1220,7 +1220,7 @@ issues:
     xmlUrl: https://anchor.fm/s/de3a230/podcast/rss
 
   - title: Out of the Ashes
-    htmlUrl: http://www.unknownsquared.com/
+    htmlUrl: https://www.unknownsquared.com/
     xmlUrl: https://feeds.megaphone.fm/ROMN5512421577
 
   - title: Morbid Forest
@@ -1246,7 +1246,7 @@ issues:
     xmlUrl: https://feed.podbean.com/mu21592i/feed.xml
 
   - title: Ukraine Without Hype
-    htmlUrl: http://www.patreon.com/ukrainewithouthype
+    htmlUrl: https://www.patreon.com/ukrainewithouthype
     xmlUrl: https://anchor.fm/s/3ca9dcec/podcast/rss
 
   - title: Empire
@@ -1265,10 +1265,10 @@ issues:
 
   - title: Love and Radio
     htmlUrl: https://loveandradio.org/
-    xmlUrl: http://feed.loveandradio.org/loveplusradio
+    xmlUrl: https://feed.loveandradio.org/loveplusradio
 
   - title: Believe in Magic
-    htmlUrl: http://www.bbc.co.uk/programmes/p0fhzh45
+    htmlUrl: https://www.bbc.co.uk/programmes/p0fhzh45
     xmlUrl: https://podcasts.files.bbci.co.uk/p0fhzh45.rss
 
   - title: 'Canary: The Washington Post Investigates'
@@ -1294,7 +1294,7 @@ issues:
     xmlUrl: https://feeds.buzzsprout.com/2032704.rss
 
   - title: Fixable
-    htmlUrl: http://audiocollective.ted.com/
+    htmlUrl: https://audiocollective.ted.com/
     xmlUrl: https://feeds.feedburner.com/ted_fixable
 
   - title: TED Radio Hour
@@ -1354,7 +1354,7 @@ issues:
     xmlUrl: https://feeds.buzzsprout.com/2391538.rss
 
   - title: Immigrantly
-    htmlUrl: http://immigrantlypod.com/
+    htmlUrl: https://immigrantlypod.com/
     xmlUrl: https://feeds.megaphone.fm/ALMIR7476721196
 
 - name: Scripted Cozy Mystery Podcasts ☕
@@ -1380,7 +1380,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/mockerymanor
 
   - title: Arden
-    htmlUrl: http://ardenpodcast.com/
+    htmlUrl: https://ardenpodcast.com/
     xmlUrl: https://feeds.megaphone.fm/ardenpod
 
 - name: Podcasts featuring women throughout history
@@ -1390,7 +1390,7 @@ issues:
   podcasts:
 
   - title: 'Vulgar History: Revolution'
-    htmlUrl: http://vulgarhistory.com/
+    htmlUrl: https://vulgarhistory.com/
     xmlUrl: https://feeds.megaphone.fm/SBP7158825889
 
   - title: You're Wrong About
@@ -1402,11 +1402,11 @@ issues:
     xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/55B20558-9ADD-4D0B-8C42-AE300188D1AA/0BFDBA5F-FCCA-4C2F-8772-AE300188D1B8/podcast.rss
 
   - title: Crimes of the Centuries
-    htmlUrl: http://www.centuriespod.com/
+    htmlUrl: https://www.centuriespod.com/
     xmlUrl: https://audioboom.com/channels/5034723.rss
 
   - title: Door Key
-    htmlUrl: http://www.facebook.com/groups/1040108179952433
+    htmlUrl: https://www.facebook.com/groups/1040108179952433
     xmlUrl: https://feeds.buzzsprout.com/2008007.rss
 
 - name: Summer Fiction Podcast Session ☀️
@@ -1416,7 +1416,7 @@ issues:
   podcasts:
 
   - title: Play On Podcasts
-    htmlUrl: http://playonpodcasts.com/
+    htmlUrl: https://playonpodcasts.com/
     xmlUrl: https://feeds.megaphone.fm/playon
 
   - title: Josie's Lonely Hearts Club
@@ -1432,8 +1432,8 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/worldgonewrong
 
   - title: The Truth
-    htmlUrl: http://thetruthpodcast.com/
-    xmlUrl: http://feeds.thetruthpodcast.com/thetruthapm
+    htmlUrl: https://thetruthpodcast.com/
+    xmlUrl: https://feeds.thetruthpodcast.com/thetruthapm
 
 - name: Listen to a podcast, learn a new language
   opml: earbuds-podcast-recommendations-listen-to-a-podcast-learn-a-new-language.opml
@@ -1610,7 +1610,7 @@ issues:
     xmlUrl: https://feeds.libsyn.com/442161/creenciaspodcastersunlimited
 
   - title: What's Poppin' Penny?
-    htmlUrl: http://whatspoppinpenny.com/
+    htmlUrl: https://whatspoppinpenny.com/
     xmlUrl: https://feeds.buzzsprout.com/2256958.rss
 
   - title: Past Due Audio Series
@@ -1650,7 +1650,7 @@ issues:
   podcasts:
 
   - title: ITALIAN, FOR SURE | Conversations with Italians in Italy About Italian Culture
-    htmlUrl: http://www.italianforsure.com/
+    htmlUrl: https://www.italianforsure.com/
     xmlUrl: https://feeds.megaphone.fm/italianforsure
 
   - title: Travel That Matters
@@ -1728,7 +1728,7 @@ issues:
   podcasts:
 
   - title: Mabel
-    htmlUrl: http://www.mabelpodcast.com/
+    htmlUrl: https://www.mabelpodcast.com/
     xmlUrl: https://mabel.libsyn.com/rss
 
   - title: Modes of Thought in Anterran Literature
@@ -1810,7 +1810,7 @@ issues:
     xmlUrl: https://app.kajabi.com/podcasts/2147496528/feed
 
   - title: Highest Self Podcast®
-    htmlUrl: http://highestself.libsyn.com/website
+    htmlUrl: https://highestself.libsyn.com/website
     xmlUrl: https://highestself.libsyn.com/rss
 
   - title: Holistic Spaces | the feng shui podcast by Mindful Design
@@ -1818,7 +1818,7 @@ issues:
     xmlUrl: https://anjie-cho-qa6j.squarespace.com/podcast?format=rss
 
   - title: White Shores with Theresa Cheung
-    htmlUrl: http://theresacheung.com/
+    htmlUrl: https://theresacheung.com/
     xmlUrl: https://feeds.buzzsprout.com/361061.rss
 
   - title: Sounds A Bit “Woo Woo” To Me
@@ -1832,7 +1832,7 @@ issues:
   podcasts:
 
   - title: Threshold
-    htmlUrl: http://www.thresholdpodcast.org/
+    htmlUrl: https://www.thresholdpodcast.org/
     xmlUrl: https://feeds.captivate.fm/threshold/
 
   - title: FOR THE WILD
@@ -1840,7 +1840,7 @@ issues:
     xmlUrl: https://feeds.feedburner.com/UnlearnAndRewildHD
 
   - title: COAL + ICE Podcast
-    htmlUrl: http://coalandice.org/
+    htmlUrl: https://coalandice.org/
     xmlUrl: https://feeds.buzzsprout.com/1920223.rss
 
   - title: Proof
@@ -1871,10 +1871,10 @@ issues:
 
   - title: Tech Policy From The Hill
     htmlUrl: https://www.netcaucus.org/series/podcasts-2/
-    xmlUrl: http://feeds.feedburner.com/NetCaucusPodcast
+    xmlUrl: https://feeds.feedburner.com/NetCaucusPodcast
 
   - title: Future Hindsight
-    htmlUrl: http://sites.libsyn.com/113012/site
+    htmlUrl: https://sites.libsyn.com/113012/site
     xmlUrl: https://futurehindsight.libsyn.com/rss
 
 - name: Podcast Recommendations to Inspire a Changing World
@@ -1910,7 +1910,7 @@ issues:
   podcasts:
 
   - title: Chewing
-    htmlUrl: http://www.chewing.xyz/
+    htmlUrl: https://www.chewing.xyz/
     xmlUrl: https://chewingpodcast.libsyn.com/rss
 
   - title: Toasted Sister Podcast
@@ -1952,7 +1952,7 @@ issues:
     xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/09313230-a088-4537-b3d1-aeca00f910df/910ebdb0-f7f7-4c39-a376-aeca00f9f039/podcast.rss
 
   - title: Woman Evolve with Sarah Jakes Roberts
-    htmlUrl: http://sites.libsyn.com/574595
+    htmlUrl: https://sites.libsyn.com/574595
     xmlUrl: https://feeds.libsyn.com/574595/rss
 
 - name: Scientific Sleuthing Podcast Recommendations
@@ -1966,19 +1966,19 @@ issues:
     xmlUrl: https://knowable.libsyn.com/rss
 
   - title: The Life Scientific
-    htmlUrl: http://www.bbc.co.uk/programmes/b015sqc7
+    htmlUrl: https://www.bbc.co.uk/programmes/b015sqc7
     xmlUrl: https://podcasts.files.bbci.co.uk/b015sqc7.rss
 
   - title: Science Stories
-    htmlUrl: http://www.bbc.co.uk/programmes/b06vy2jd
+    htmlUrl: https://www.bbc.co.uk/programmes/b06vy2jd
     xmlUrl: https://podcasts.files.bbci.co.uk/b06vy2jd.rss
 
   - title: Slate Debates
-    htmlUrl: http://slate.com/podcasts
+    htmlUrl: https://slate.com/podcasts
     xmlUrl: https://feeds.megaphone.fm/slatelexiconvalley
 
   - title: FUTURES Podcast
-    htmlUrl: http://futurespodcast.net/
+    htmlUrl: https://futurespodcast.net/
     xmlUrl: https://futures.libsyn.com/rss
 
 - name: Podcasts to Inspire Hope for National Optimism Month
@@ -2052,7 +2052,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/ARML7069797889
 
   - title: Queens Podcast
-    htmlUrl: http://queenshistorypodcast.com/
+    htmlUrl: https://queenshistorypodcast.com/
     xmlUrl: https://feeds.megaphone.fm/ARML9284247102
 
   - title: 'Civics & Coffee: A History Podcast'
@@ -2070,7 +2070,7 @@ issues:
     xmlUrl: https://rss.alivepodcastnetwork.com/impostrix-podcast
 
   - title: 'Tea With Tanya: Transforming. Every. Aspect.'
-    htmlUrl: http://teawithtanyapodcast.com/
+    htmlUrl: https://teawithtanyapodcast.com/
     xmlUrl: https://feeds.buzzsprout.com/1573948.rss
 
   - title: Bitch I Can’t
@@ -2092,7 +2092,7 @@ issues:
   podcasts:
 
   - title: You're Dead to Me
-    htmlUrl: http://www.bbc.co.uk/programmes/p07mdbhg
+    htmlUrl: https://www.bbc.co.uk/programmes/p07mdbhg
     xmlUrl: https://podcasts.files.bbci.co.uk/p07mdbhg.rss
 
   - title: Noble Blood
@@ -2108,38 +2108,34 @@ issues:
     xmlUrl: https://www.abc.net.au/feeds/12754606/podcast.xml
 
   - title: Empire
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Need help marketing your podcast?
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.goalhanger.com/
+    xmlUrl: https://feeds.megaphone.fm/empirepodcast
 
 - name: Five Fiction Pods Pushing Genre Boundaries
   opml: earbuds-podcast-recommendations-five-fiction-pods-pushing-genre-boundaries.opml
-  date: 1970-01-01
+  date: 2024-01-28
   htmlUrl: https://newsletter.earbuds.audio/p/five-fiction-pods-pushing-genre-boundaries
   podcasts:
 
   - title: The Shadows
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.cbc.ca/radio/podcasts/the-shadows/https://www.cbc.ca/radiointeractives/podcasts/the-shadows
+    xmlUrl: https://www.cbc.ca/podcasting/includes/theshadows.xml
 
   - title: Dirty Diana
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://qcodemedia.com/dirty-diana
+    xmlUrl: https://feeds.megaphone.fm/QCD8759112200
 
   - title: Academy
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://wondery.com/shows/academy
+    xmlUrl: https://rss.art19.com/academy
 
   - title: Dark Woods
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://dark-woods.simplecast.com/
+    xmlUrl: https://feeds.megaphone.fm/SBP5209429460
 
   - title: The Two Princes
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://gimletmedia.com/shows/the-two-princes
+    xmlUrl: https://feeds.megaphone.fm/tp-spot
 
 - name: Story Behind the Story
   opml: earbuds-podcast-recommendations-story-behind-the-story.opml
