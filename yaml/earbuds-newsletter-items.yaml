@@ -2217,29 +2217,29 @@ issues:
 
 - name: Podcasts That Give the Full Story
   opml: earbuds-podcast-recommendations-podcasts-that-give-the-full-story.opml
-  date: 1970-01-01
+  date: 2024-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-give-full-story
   podcasts:
 
   - title: To All the Men I've Tolerated Before
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.spreaker.com/show/to-all-the-men-ive-tolerated-before
+    xmlUrl: https://www.spreaker.com/show/5688404/episodes/feed
 
   - title: Pop Culture Makes Me Jealous
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.popculturemakesmejealous.com/
+    xmlUrl: https://popculturemakesmejealous.libsyn.com/rss
 
-  - title: Fixing Famous People
-    htmlUrl: null
-    xmlUrl: null
+  - title: Fixing Famous People with Chris DeRosa & Dominick Pupa
+    htmlUrl: https://art19.com/shows/fixing-famous-people
+    xmlUrl: https://rss.art19.com/fixing-famous-people
 
   - title: The Bar is Ankle High
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.thebarisanklehigh.com/
+    xmlUrl: https://feed.podbean.com/thebarisanklehigh/feed.xml
 
-  - title: The Slut Show with Ellen Moore
-    htmlUrl: null
-    xmlUrl: null
+  - title: The Slut Show With Ellen Moore
+    htmlUrl: https://byellenmoore.podbean.com/
+    xmlUrl: https://feed.podbean.com/theslutshow/feed.xml
 
 - name: 'Podcasts On: How to Be Happy!'
   opml: earbuds-podcast-recommendations-podcasts-on-how-to-be-happy.opml
