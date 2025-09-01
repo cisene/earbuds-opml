@@ -2004,34 +2004,34 @@ issues:
     xmlUrl: https://feeds.simplecast.com/mDS2jisg
 
   - title: The One You Feed
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://art19.com/shows/the-one-you-feed-podcast
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/1d49cbad-dffb-4b8f-bea4-aea001380113/2f40a9d9-0fdd-49fb-8444-aea001380134/podcast.rss
 
 - name: 'Women’s History Month Podcast Recommendations: Voices in Tech'
   opml: earbuds-podcast-recommendations-women-s-history-month-podcast-recommendations-voices-in-tech.opml
-  date: 1970-01-01
+  date: 2024-03-03
   htmlUrl: https://newsletter.earbuds.audio/p/womens-history-month-2024
   podcasts:
 
-  - title: Tech Won’t Save Us
-    htmlUrl: null
-    xmlUrl: null
+  - title: Tech Won't Save Us
+    htmlUrl: https://techwontsave.us/
+    xmlUrl: https://feeds.megaphone.fm/TBIEA4386204774
 
   - title: The Radical AI Podcast
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://podcasts.apple.com/us/podcast/the-radical-ai-podcast/id1505229145
+    xmlUrl: https://feed.podbean.com/radicalai/feed.xml
 
   - title: The Women Who Code Podcast
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://womenwhocode.podbean.com/
+    xmlUrl: https://feed.podbean.com/womenwhocode/feed.xml
 
   - title: Elevate - Women in Tech
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://halzak.com/
+    xmlUrl: https://anchor.fm/s/de763138/podcast/rss
 
   - title: The Good Robot
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://thegoodrobotpodcast.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/1786427.rss
 
 - name: Presidential Politics Has Always Been Wild
   opml: earbuds-podcast-recommendations-presidential-politics-has-always-been-wild.opml
