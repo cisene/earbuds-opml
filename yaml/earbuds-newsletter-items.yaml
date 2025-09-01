@@ -2061,29 +2061,29 @@ issues:
 
 - name: Eavesdropping on Black Perspectives
   opml: earbuds-podcast-recommendations-eavesdropping-on-black-perspectives.opml
-  date: 1970-01-01
+  date: 2024-02-11
   htmlUrl: https://newsletter.earbuds.audio/p/eavesdropping-black-perspectives
   podcasts:
 
-  - title: Impostrix
-    htmlUrl: null
-    xmlUrl: null
+  - title: Impostrix Podcast
+    htmlUrl: https://alivepodcastnetwork.com/
+    xmlUrl: https://rss.alivepodcastnetwork.com/impostrix-podcast
 
-  - title: Tea with Tanya
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'Tea With Tanya: Transforming. Every. Aspect.'
+    htmlUrl: http://teawithtanyapodcast.com/
+    xmlUrl: https://feeds.buzzsprout.com/1573948.rss
 
-  - title: Bitch, I Can't
-    htmlUrl: null
-    xmlUrl: null
+  - title: Bitch I Can’t
+    htmlUrl: https://podcasters.spotify.com/pod/show/bitch-i-cant
+    xmlUrl: https://anchor.fm/s/c34f2928/podcast/rss
 
-  - title: Men are the P.R.I.Z.E.
-    htmlUrl: null
-    xmlUrl: null
+  - title: Men Are The P.R.I.Z.E. Podcast
+    htmlUrl: https://www.ngbn.tv/channels/men-are-the-prize/men-are-the-prize/
+    xmlUrl: https://anchor.fm/s/79742704/podcast/rss
 
-  - title: More Than Graphics
-    htmlUrl: null
-    xmlUrl: null
+  - title: More Than Graphics Podcast
+    htmlUrl: https://www.mtgthepodcast.com/
+    xmlUrl: https://anchor.fm/s/b2ea06c/podcast/rss
 
 - name: 'Still Thinking About Rome?: Podcasts About Empires'
   opml: earbuds-podcast-recommendations-still-thinking-about-rome-podcasts-about-empires.opml
