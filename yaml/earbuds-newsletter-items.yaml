@@ -5,6 +5,32 @@ global:
   title: EarBuds Podcast Recommendations
 issues:
 
+- name: 5 Podcasts To Feed Your Nostalgia
+  opml: earbuds-podcast-recommendations-5-podcasts-to-feed-your-nostalgia.opml
+  date: 2025-09-01
+  htmlUrl: https://newsletter.earbuds.audio/p/5-podcasts-feed-nostalgia
+  podcasts:
+
+  - title: Jay & Miles X-Plain the X-Men
+    htmlUrl: https://www.xplainthexmen.com/
+    xmlUrl: https://www.xplainthexmen.com/feed/podcast/
+
+  - title: Noble Blood
+    htmlUrl: https://www.iheart.com/podcast/139-noble-blood-46601390
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/55B20558-9ADD-4D0B-8C42-AE300188D1AA/0BFDBA5F-FCCA-4C2F-8772-AE300188D1B8/podcast.rss
+
+  - title: The Newest Olympian
+    htmlUrl: https://art19.com/shows/the-newest-olympian
+    xmlUrl: https://rss.art19.com/the-newest-olympian
+
+  - title: Who? Weekly
+    htmlUrl: http://www.whoweekly.us/
+    xmlUrl: https://feeds.megaphone.fm/who-weekly
+
+  - title: Buffering the Vampire Slayer | A Buffy the Vampire Slayer Podcast
+    htmlUrl: https://www.bufferingcast.com/
+    xmlUrl: https://feeds.megaphone.fm/SBP9328962318
+
 - name: AI & the Future of Humanity
   opml: earbuds-podcast-recommendations-ai-the-future-of-humanity.opml
   date: '2025-08-17'
