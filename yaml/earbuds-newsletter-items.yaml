@@ -2191,29 +2191,29 @@ issues:
 
 - name: 'Chess Nerds Are Awesome: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-chess-nerds-are-awesome-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2024-01-07
   htmlUrl: https://newsletter.earbuds.audio/p/chess-nerds-awesome-podcast-recommendations
   podcasts:
 
   - title: 'Rooked: The Cheaters'' Gambit'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://rookedpodcast.firstory.io/
+    xmlUrl: https://feed.firstory.me/rss/user/clb16unyd07fl01vf3f8adk3s
 
-  - title: 'chessfeels: conversations about chess, psychology &amp; mental health'
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'chessfeels: conversations about chess, psychology & mental health'
+    htmlUrl: https://chessfeels.transistor.fm/
+    xmlUrl: https://feeds.transistor.fm/chessfeels-conversations-about-chess-psychology-mental-health
 
   - title: Perpetual Chess Podcast
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.perpetualchesspod.com/
+    xmlUrl: https://feeds.megaphone.fm/BLU4811105299
 
   - title: Ladies Knight Chess
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://ladiesknight.org/
+    xmlUrl: https://ladiesknight.org/feed/podcast/
 
   - title: C-Squared Podcast
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://rss.com/podcasts/csquared
+    xmlUrl: https://media.rss.com/csquared/feed.xml
 
 - name: Podcasts That Give the Full Story
   opml: earbuds-podcast-recommendations-podcasts-that-give-the-full-story.opml
