@@ -2299,21 +2299,25 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/kids-mic
   podcasts:
 
+  - title: The Activators!
+    htmlUrl: https://the-activators.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/_v_yZAxT
+
   - title: Kids Law
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.kidslaw.info/
+    xmlUrl: https://feeds.buzzsprout.com/1577473.rss
 
   - title: Dream Big Podcast for Kids
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://dreambigpodcast.com/
+    xmlUrl: https://dreambigpodcast.libsyn.com/rss
 
   - title: Kid CEO
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://podcasters.spotify.com/pod/show/kidceo
+    xmlUrl: https://anchor.fm/s/9df8b90/podcast/rss
 
-  - title: 'Seraphina Speaks: For Children Who Think'
-    htmlUrl: null
-    xmlUrl: null
+  - title: Seraphina Speaks
+    htmlUrl: https://seraphinaspeakspodcast.substack.com/
+    xmlUrl: https://seraphinaspeaks.libsyn.com/rss
 
 - name: Podcasts About Climate Pioneers
   opml: earbuds-podcast-recommendations-podcasts-about-climate-pioneers.opml
