@@ -2347,29 +2347,29 @@ issues:
 
 - name: Hip Hop Artifacts Podcasts
   opml: earbuds-podcast-recommendations-hip-hop-artifacts-podcasts.opml
-  date: 1970-01-01
+  date: 2023-11-26
   htmlUrl: https://newsletter.earbuds.audio/p/hip-hop-artifacts-podcasts
   podcasts:
 
-  - title: Quick note
-    htmlUrl: null
-    xmlUrl: null
+  - title: THE DOSSIER
+    htmlUrl: https://www.criminalmindedmedia.com/
+    xmlUrl: https://feeds.megaphone.fm/cmm
 
   - title: What Had Happened Was
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://mikeeagle.net/stoneyisland
+    xmlUrl: https://feeds.megaphone.fm/whhw
 
   - title: Small Doses with Amanda Seales
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.spreaker.com/podcast/small-doses-with-amanda-seales--6509436
+    xmlUrl: https://www.spreaker.com/show/6509436/episodes/feed
 
   - title: 'ODB: A Son Unique'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://art19.com/shows/odb-a-son-unique
+    xmlUrl: https://rss.art19.com/odb-a-son-unique
 
   - title: The Almanac of Rap
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.donwill.me/aor/
+    xmlUrl: https://feeds.megaphone.fm/almanac-of-rap
 
 - name: Podcasts Unearthing Hidden Stories
   opml: earbuds-podcast-recommendations-podcasts-unearthing-hidden-stories.opml
