@@ -2243,29 +2243,29 @@ issues:
 
 - name: 'Podcasts On: How to Be Happy!'
   opml: earbuds-podcast-recommendations-podcasts-on-how-to-be-happy.opml
-  date: 1970-01-01
+  date: 2023-12-25
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-happy
   podcasts:
 
-  - title: Self Love &amp; Sweat The Podcast
-    htmlUrl: null
-    xmlUrl: null
+  - title: Self Love & Sweat The Podcast
+    htmlUrl: https://selflovesweatthepodcast.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/957238.rss
 
-  - title: Happy Healthy Human
-    htmlUrl: null
-    xmlUrl: null
+  - title: Change Made Easy
+    htmlUrl: https://podcasters.spotify.com/pod/show/paul-levitin
+    xmlUrl: https://anchor.fm/s/3dcf3824/podcast/rss
 
-  - title: The Happiness Lab
-    htmlUrl: null
-    xmlUrl: null
+  - title: The Happiness Lab with Dr. Laurie Santos
+    htmlUrl: https://www.pushkin.fm/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/d623ef0b-3fee-4c26-b815-ae32006cd739/podcast.rss
 
-  - title: How to Build a Happy Life
-    htmlUrl: null
-    xmlUrl: null
+  - title: How to Age Up
+    htmlUrl: https://www.theatlantic.com/podcasts/how-to-build-a-happy-life/
+    xmlUrl: https://feeds.megaphone.fm/howto
 
   - title: Sexology
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://redcircle.com/shows/sexology
+    xmlUrl: https://feeds.redcircle.com/6427fce6-3083-4af6-992b-125c03769816
 
 - name: Dismantling Diet Culture & Fatphobia
   opml: earbuds-podcast-recommendations-dismantling-diet-culture-fatphobia.opml
@@ -3393,7 +3393,7 @@ issues:
     htmlUrl: null
     xmlUrl: null
 
-  - title: 'Handle With CARE: Cancer &amp; Beyond'
+  - title: 'Handle With CARE: Cancer & Beyond'
     htmlUrl: null
     xmlUrl: null
 
@@ -3431,7 +3431,7 @@ issues:
     htmlUrl: null
     xmlUrl: null
 
-  - title: How to Talk to [Mamí &amp; Papí about Anything
+  - title: How to Talk to [Mamí & Papí about Anything
     htmlUrl: null
     xmlUrl: null
 
@@ -3839,7 +3839,7 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/alzheimers-dementia-caregiving
   podcasts:
 
-  - title: 'AlzAuthors: Untangling Alzheimer''s &amp; Dementia'
+  - title: 'AlzAuthors: Untangling Alzheimer''s & Dementia'
     htmlUrl: null
     xmlUrl: null
 
@@ -4623,7 +4623,7 @@ issues:
     htmlUrl: null
     xmlUrl: null
 
-  - title: Death, Sex, &amp; Money
+  - title: Death, Sex, & Money
     htmlUrl: null
     xmlUrl: null
 
@@ -4683,7 +4683,7 @@ issues:
     htmlUrl: null
     xmlUrl: null
 
-  - title: 'AlzAuthors: Untangling Alzheimer''s &amp; Dementia'
+  - title: 'AlzAuthors: Untangling Alzheimer''s & Dementia'
     htmlUrl: null
     xmlUrl: null
 
@@ -5351,7 +5351,7 @@ issues:
     htmlUrl: null
     xmlUrl: null
 
-  - title: 'Shat the Movies: 80s &amp; 90s Best Film Review'
+  - title: 'Shat the Movies: 80s & 90s Best Film Review'
     htmlUrl: null
     xmlUrl: null
 
@@ -5911,7 +5911,7 @@ issues:
     htmlUrl: null
     xmlUrl: null
 
-  - title: Death, Sex &amp; Money
+  - title: Death, Sex & Money
     htmlUrl: null
     xmlUrl: null
 
@@ -8757,7 +8757,7 @@ issues:
     htmlUrl: null
     xmlUrl: null
 
-  - title: 'Shat the Movies: 80s &amp; 90s Best Film Review'
+  - title: 'Shat the Movies: 80s & 90s Best Film Review'
     htmlUrl: null
     xmlUrl: null
 
