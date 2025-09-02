@@ -2399,25 +2399,29 @@ issues:
 
 - name: 'Podcasts On: Breaking Barriers in Education'
   opml: earbuds-podcast-recommendations-podcasts-on-breaking-barriers-in-education.opml
-  date: 1970-01-01
+  date: 2023-11-12
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-breaking-barriers-education
   podcasts:
 
+  - title: 'Beyond Awareness: Disability Awareness That Matters'
+    htmlUrl: https://www.dianapastoracarson.com/podcasts/beyond-awareness-disability-awareness-that-matters
+    xmlUrl: https://app.kajabi.com/podcasts/2147489868/feed
+
   - title: Born Fabulous
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.bornfabulouspodcast.com/
+    xmlUrl: https://feeds.buzzsprout.com/263564.rss
 
   - title: The Integrated Schools Podcast
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://redcircle.com/shows/the-integrated-schools-podcast
+    xmlUrl: https://feeds.redcircle.com/49087ad7-aab0-44e2-a4ec-1d264cf4e86f
 
   - title: Think Inclusive
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://rss.com/podcasts/think-inclusive-pod
+    xmlUrl: https://media.rss.com/think-inclusive-pod/feed.xml
 
   - title: Inclusion Stories
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://rss.com/podcasts/inclusion-stories-pod
+    xmlUrl: https://media.rss.com/inclusion-stories-pod/feed.xml
 
 - name: Top Podcasts from Europe That Americans Should Know
   opml: earbuds-podcast-recommendations-top-podcasts-from-europe-that-americans-should-know.opml
