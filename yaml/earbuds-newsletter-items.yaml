@@ -2373,29 +2373,29 @@ issues:
 
 - name: Podcasts Unearthing Hidden Stories
   opml: earbuds-podcast-recommendations-podcasts-unearthing-hidden-stories.opml
-  date: 1970-01-01
+  date: 2023-11-19
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-unearthing-hidden-stories
   podcasts:
 
-  - title: How gene-editing technology is changing our food
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'A CRISPR Bite: How gene-editing technology is changing our food'
+    htmlUrl: https://a-crispr-bite.simplecast.com/
+    xmlUrl: https://feeds.buzzsprout.com/2240386.rss
 
   - title: The Heist
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://publicintegrity.podbean.com/
+    xmlUrl: https://feed.podbean.com/publicintegrity/feed.xml
 
-  - title: 'Adoption: The Making of Me'
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'Adoption: The Making of Me. An Oral History of Adoptee Stories'
+    htmlUrl: https://bleav.com/shows/adoption-the-making-of-me-an-oral-history-of-adoptee-stories/
+    xmlUrl: https://feeds.simplecast.com/ACtt4r7J
 
   - title: Obscured
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://sites.libsyn.com/486204
+    xmlUrl: https://feeds.libsyn.com/486204/rss
 
-  - title: Don't Drink the Milk
-    htmlUrl: null
-    xmlUrl: null
+  - title: Don't Drink the Milk – The curious history of things
+    htmlUrl: https://www.dw.com/en/dont-drink-the-milk/program-66631697?maca=en-podcast_dont_drink_the_milk-35517-xml-mrss
+    xmlUrl: https://rss.dw.com/xml/podcast_dont_drink_the_milk
 
 - name: 'Podcasts On: Breaking Barriers in Education'
   opml: earbuds-podcast-recommendations-podcasts-on-breaking-barriers-in-education.opml
