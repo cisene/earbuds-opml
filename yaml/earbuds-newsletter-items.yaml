@@ -2269,29 +2269,29 @@ issues:
 
 - name: Dismantling Diet Culture & Fatphobia
   opml: earbuds-podcast-recommendations-dismantling-diet-culture-fatphobia.opml
-  date: 1970-01-01
+  date: 2023-12-17
   htmlUrl: https://newsletter.earbuds.audio/p/dismantling-diet-culture-fatphobia
   podcasts:
 
   - title: Maintenance Phase
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://maintenancephase.com/
+    xmlUrl: https://feeds.buzzsprout.com/1411126.rss
 
-  - title: This Is Not About Your Body
-    htmlUrl: null
-    xmlUrl: null
+  - title: This Is (Not) About Your Body
+    htmlUrl: https://rss.com/podcasts/jessikneeland
+    xmlUrl: https://media.rss.com/jessikneeland/feed.xml
 
   - title: Weight For It
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.spreaker.com/show/weight-for-it
+    xmlUrl: https://publicfeeds.net/f/4548/feed-rss.xml
 
   - title: Good Girls Talk About Sex
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.goodgirlstalk.com/
+    xmlUrl: https://goodgirlstalkaboutsex.libsyn.com/rss
 
   - title: Life After Diets
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://lifeafterdiets.libsyn.com/
+    xmlUrl: https://lifeafterdiets.libsyn.com/rss
 
 - name: Kids With A Mic
   opml: earbuds-podcast-recommendations-kids-with-a-mic.opml
