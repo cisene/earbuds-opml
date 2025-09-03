@@ -2581,21 +2581,29 @@ issues:
 
 - name: Podcasts That Transport You
   opml: earbuds-podcast-recommendations-podcasts-that-transport-you.opml
-  date: 1970-01-01
+  date: 2023-09-24
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-transport
   podcasts:
 
-  - title: Valley Heat
-    htmlUrl: null
+  - title: Six Sermons
+    htmlUrl: https://www.audible.com/pd/Six-Sermons-Audiobook/B0CCK3MGTC
     xmlUrl: null
+
+  - title: Valley Heat
+    htmlUrl: https://valleyheatpodcast.com/
+    xmlUrl: https://feeds.simplecast.com/kKMR_wuB
 
   - title: Townsizing
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.discovery.com/
+    xmlUrl: https://feeds.acast.com/public/shows/64e693eab6c1d30011ba6e1a
 
-  - title: 'ICYMI: SquadCast is now part of Descript'
-    htmlUrl: null
-    xmlUrl: null
+  - title: Welcome to Provincetown
+    htmlUrl: https://feeds.acast.com/public/shows/welcometoprovincetown
+    xmlUrl: https://feeds.acast.com/public/shows/64eca294e4c76d0011b15bb9
+
+  - title: Rumble Strip
+    htmlUrl: https://rumblestripvermont.com/
+    xmlUrl: https://feeds.simplecast.com/QhjMcSa3
 
 - name: 'Why Rebellion is Necessary: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-why-rebellion-is-necessary-podcast-recommendations.opml
