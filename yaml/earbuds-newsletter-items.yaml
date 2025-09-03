@@ -2607,17 +2607,29 @@ issues:
 
 - name: 'Why Rebellion is Necessary: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-why-rebellion-is-necessary-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2023-09-23
   htmlUrl: https://newsletter.earbuds.audio/p/rebellion-necessary-podcast-recommendations
   podcasts:
 
-  - title: '[REDACTED] History'
-    htmlUrl: null
-    xmlUrl: null
+  - title: Historias Unknown
+    htmlUrl: https://www.spreaker.com/podcast/historias-unknown--6253658
+    xmlUrl: https://www.spreaker.com/show/6253658/episodes/feed
 
-  - title: It's A Continent
-    htmlUrl: null
-    xmlUrl: null
+  - title: Redacted History
+    htmlUrl: https://www.tiktok.com/@blackkout___
+    xmlUrl: https://feeds.megaphone.fm/ARML1766556837
+
+  - title: It's a Continent
+    htmlUrl: https://www.itsacontinent.com/
+    xmlUrl: https://feeds.megaphone.fm/WIZD2114847582
+
+  - title: That Wasn't In My Textbook
+    htmlUrl: http://thatwwasntinmytextbook.com/
+    xmlUrl: https://feeds.simplecast.com/kpBuO_YD
+
+  - title: To Be A Rebel
+    htmlUrl: https://podcasters.spotify.com/pod/show/david-loos
+    xmlUrl: https://anchor.fm/s/d600b5f0/podcast/rss
 
 - name: 'Tackling Fear: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-tackling-fear-podcast-recommendations.opml
