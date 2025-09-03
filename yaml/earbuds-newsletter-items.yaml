@@ -2477,25 +2477,29 @@ issues:
 
 - name: Delightfully Engaging Kids' Podcasts
   opml: earbuds-podcast-recommendations-delightfully-engaging-kids-podcasts.opml
-  date: 1970-01-01
+  date: 2023-10-22
   htmlUrl: https://newsletter.earbuds.audio/p/delightfully-engaging-kids-podcasts
   podcasts:
 
-  - title: 'REACH: A Space Podcast for Kids'
-    htmlUrl: null
-    xmlUrl: null
+  - title: Storypillar
+    htmlUrl: http://www.storypillar.com/
+    xmlUrl: https://media.rss.com/storypillar/feed.xml
+
+  - title: REACH A Space Podcast for Kids
+    htmlUrl: https://cms.megaphone.fm/channel/ARML5464919441
+    xmlUrl: https://feeds.megaphone.fm/ARML5464919441
 
   - title: Robin's Curious Travels
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://rss.com/podcasts/robins-curious-travels
+    xmlUrl: https://media.rss.com/robins-curious-travels/feed.xml
 
   - title: Once Upon a Meadow
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.onceuponameadow.com/
+    xmlUrl: https://feeds.libsyn.com/455538/rss
 
-  - title: BunnAmigos
-    htmlUrl: null
-    xmlUrl: null
+  - title: BunnAmigos Podcast
+    htmlUrl: https://shows.acast.com/bunnamigos-podcast
+    xmlUrl: https://feeds.acast.com/public/shows/63e6b1f999435400119a4e7e
 
 - name: Latinx Podcast Scene
   opml: earbuds-podcast-recommendations-latinx-podcast-scene.opml
