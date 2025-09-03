@@ -2503,21 +2503,25 @@ issues:
 
 - name: Latinx Podcast Scene
   opml: earbuds-podcast-recommendations-latinx-podcast-scene.opml
-  date: 1970-01-01
+  date: 2023-10-16
   htmlUrl: https://newsletter.earbuds.audio/p/latinx-podcast-scene
   podcasts:
 
+  - title: Radio Menea
+    htmlUrl: http://radiomenea.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:209340290/sounds.rss
+
   - title: 'Party Crews: The Untold Story'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.iheart.com/podcast/1119-party-crews-the-untold-st-109462389/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/d6733035-9b48-4d75-bc6f-afa80132462a/d8143fdf-6b9b-4c9c-9ec3-afa801332a4a/podcast.rss
 
   - title: Family Crest
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.spreaker.com/podcast/family-crest--5938014
+    xmlUrl: https://feeds.megaphone.fm/REDBULLMEDIAHOUSE1364284860
 
   - title: Snap Judgment
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://snapjudgment.org/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:3009842/sounds.rss
 
 - name: Haunted History Podcasts for Halloween
   opml: earbuds-podcast-recommendations-haunted-history-podcasts-for-halloween.opml
