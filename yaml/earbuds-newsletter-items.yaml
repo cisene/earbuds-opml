@@ -2451,25 +2451,29 @@ issues:
 
 - name: 'Healing Power of Imagination: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-healing-power-of-imagination-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2023-10-29
   htmlUrl: https://newsletter.earbuds.audio/p/healing-power-imagination-podcast-recommendations
   podcasts:
 
+  - title: 'Stories From: The Low Season'
+    htmlUrl: https://stories-from-the-low-season.simplecast.com/
+    xmlUrl: https://feeds.megaphone.fm/storiesfrom
+
   - title: The Far Meridian
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.thefarmeridian.com/feed/
+    xmlUrl: https://feeds.megaphone.fm/thefarmeridian
 
   - title: Within the Wires
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://withinthewires.com/
+    xmlUrl: https://feeds.megaphone.fm/SBP8915264938
 
-  - title: The Memory Palace
-    htmlUrl: null
-    xmlUrl: null
+  - title: the memory palace
+    htmlUrl: http://thememorypalace.us/
+    xmlUrl: http://feeds.thememorypalace.us/thememorypalace
 
   - title: 'abandoned: The All-American Ruins Podcast'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.allamericanruins.com/
+    xmlUrl: https://rss.pdrl.fm/6ea805/feeds.megaphone.fm/ARML6765460506
 
 - name: Delightfully Engaging Kids' Podcasts
   opml: earbuds-podcast-recommendations-delightfully-engaging-kids-podcasts.opml
