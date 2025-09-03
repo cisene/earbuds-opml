@@ -2425,25 +2425,29 @@ issues:
 
 - name: Top Podcasts from Europe That Americans Should Know
   opml: earbuds-podcast-recommendations-top-podcasts-from-europe-that-americans-should-know.opml
-  date: 1970-01-01
+  date: 2023-11-05
   htmlUrl: https://newsletter.earbuds.audio/p/top-podcasts-europe-americans-know
   podcasts:
 
-  - title: Can I Tell You a Secret?
-    htmlUrl: null
-    xmlUrl: null
+  - title: Blum
+    htmlUrl: https://www.spreaker.com/podcast/blum--5881806
+    xmlUrl: https://www.spreaker.com/show/5881806/episodes/feed
+
+  - title: Can I tell you a secret?
+    htmlUrl: https://www.theguardian.com/society/series/canitellyouasecret
+    xmlUrl: https://www.theguardian.com/society/series/canitellyouasecret/podcast.xml
 
   - title: 'Unreal: A Critical History of Reality TV'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.bbc.co.uk/programmes/p0c5w0zm
+    xmlUrl: https://podcasts.files.bbci.co.uk/p0c5w0zm.rss
 
   - title: La Matemática de la Historia
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://applink.podimo.com/lamatematicahistoria
+    xmlUrl: https://feed.podimo.com/lamatematicahistoria
 
   - title: Misterio en la Moraleja
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.ivoox.com/podcast-misterio-en-la-moraleja_sq_f12350574_1.html
+    xmlUrl: https://www.ivoox.com/feed_fg_f12350574_filtro_1.xml
 
 - name: 'Healing Power of Imagination: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-healing-power-of-imagination-podcast-recommendations.opml
