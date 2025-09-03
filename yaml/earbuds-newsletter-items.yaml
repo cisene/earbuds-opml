@@ -2523,11 +2523,35 @@ issues:
     htmlUrl: http://snapjudgment.org/
     xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:3009842/sounds.rss
 
+  - title: Classy with Jonathan Menjivar
+    htmlUrl: http://pineapple.fm/
+    xmlUrl: https://feeds.megaphone.fm/classy
+
 - name: Haunted History Podcasts for Halloween
   opml: earbuds-podcast-recommendations-haunted-history-podcasts-for-halloween.opml
-  date: 1970-01-01
+  date: 2023-10-08
   htmlUrl: https://newsletter.earbuds.audio/p/haunted-history-podcasts-halloween
-  podcasts: null
+  podcasts:
+
+  - title: American Hauntings Podcast
+    htmlUrl: https://redcircle.com/shows/american-hauntings-podcast
+    xmlUrl: https://feeds.redcircle.com/8717bf90-b6d6-4010-9e8f-691fff82886b
+
+  - title: Susto
+    htmlUrl: https://www.spreaker.com/podcast/susto--6235512
+    xmlUrl: https://www.spreaker.com/show/6235512/episodes/feed
+
+  - title: Real Life Ghost Stories
+    htmlUrl: https://www.reallifeghoststoriespodcast.com/
+    xmlUrl: https://feeds.acast.com/public/shows/65a7ac718209d8001644344d
+
+  - title: Pleasing Terrors
+    htmlUrl: http://pleasingterrors.libsyn.com/podcast
+    xmlUrl: https://pleasingterrors.libsyn.com/rss
+
+  - title: 'One Strange Thing: Paranormal & True-Weird Mysteries'
+    htmlUrl: https://onestrangethingpodcast.com/
+    xmlUrl: https://feeds.libsyn.com/532817/rss
 
 - name: Podcasts For Saving The Planet
   opml: earbuds-podcast-recommendations-podcasts-for-saving-the-planet.opml
