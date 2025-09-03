@@ -2555,9 +2555,29 @@ issues:
 
 - name: Podcasts For Saving The Planet
   opml: earbuds-podcast-recommendations-podcasts-for-saving-the-planet.opml
-  date: 1970-01-01
+  date: 2023-10-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-saving-planet
-  podcasts: null
+  podcasts:
+
+  - title: Nature Breaking
+    htmlUrl: https://www.worldwildlife.org/pages/podcast-nature-breaking
+    xmlUrl: https://feeds.libsyn.com/426134/rss
+
+  - title: 'Zero: The Climate Race'
+    htmlUrl: https://www.iheart.com/podcast/1119-zero-109889882
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/37c6caa7-d377-4c08-b479-af9d012ed5ad/a7faefb0-28ec-4b1d-85f3-af9d012ed5c9/podcast.rss
+
+  - title: A Matter of Degrees
+    htmlUrl: https://www.degreespod.com/
+    xmlUrl: https://feeds.megaphone.fm/FRQNCY1934622158
+
+  - title: The Latitude
+    htmlUrl: https://latitudemedia.com/
+    xmlUrl: https://feeds.megaphone.fm/climavores
+
+  - title: Bartholomewtown
+    htmlUrl: http://www.ripodcast.com/
+    xmlUrl: https://feeds.buzzsprout.com/163601.rss
 
 - name: Podcasts That Transport You
   opml: earbuds-podcast-recommendations-podcasts-that-transport-you.opml
