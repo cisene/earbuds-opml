@@ -2737,9 +2737,29 @@ issues:
 
 - name: 'To Grad School and Beyond: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-to-grad-school-and-beyond-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2023-08-13
   htmlUrl: https://newsletter.earbuds.audio/p/grad-school-beyond-podcast-recommendations
   podcasts:
+
+  - title: Hello PhD
+    htmlUrl: https://hellophd.com/
+    xmlUrl: https://hellophd.com/feed/podcast/
+
+  - title: Blk + In Grad School
+    htmlUrl: http://blkingradschool.com/podcast
+    xmlUrl: https://feeds.blubrry.com/feeds/blkingradschool.xml
+
+  - title: The PhD Life Raft Podcast
+    htmlUrl: https://thephdliferaft.com/
+    xmlUrl: https://thephdliferaft.libsyn.com/rss
+
+  - title: Dear Grad Student
+    htmlUrl: http://deargradstudent.com/
+    xmlUrl: https://feeds.buzzsprout.com/1212179.rss
+
+  - title: What are YOU going to do with THAT?
+    htmlUrl: http://www.what2dowiththat.com/
+    xmlUrl: https://feeds.acast.com/public/shows/whatareyougoingtodowiththat
 
 - name: Pop Music Commentary Podcasts
   opml: earbuds-podcast-recommendations-pop-music-commentary-podcasts.opml
