@@ -2815,9 +2815,29 @@ issues:
 
 - name: 'American Education: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-american-education-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2023-07-24
   htmlUrl: https://newsletter.earbuds.audio/p/american-education-podcast-recommendations
   podcasts:
+
+  - title: The Modern West
+    htmlUrl: https://themodernwest.org/
+    xmlUrl: http://feeds.feedburner.com/themodernwest
+
+  - title: Nice White Parents
+    htmlUrl: https://nice-white-parents.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/Z4wHC1c2
+
+  - title: Those Who Can't Teach Anymore
+    htmlUrl: http://sites.libsyn.com/437358/thosewhoecantteachanymore
+    xmlUrl: https://feeds.megaphone.fm/ARML8552723244
+
+  - title: Sold a Story
+    htmlUrl: https://features.apmreports.org/sold-a-story/
+    xmlUrl: https://feeds.publicradio.org/public_feeds/sold-a-story
+
+  - title: The Teacher Career Coach Podcast
+    htmlUrl: https://www.buzzsprout.com/1393981
+    xmlUrl: https://feeds.buzzsprout.com/2366601.rss
 
 - name: Podcasts That Punch Up! ✊
   opml: earbuds-podcast-recommendations-podcasts-that-punch-up.opml
