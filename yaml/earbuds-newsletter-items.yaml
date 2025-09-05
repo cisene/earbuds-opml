@@ -2919,9 +2919,29 @@ issues:
 
 - name: Top Food Review Podcasts
   opml: earbuds-podcast-recommendations-top-food-review-podcasts.opml
-  date: 1970-01-01
+  date: 2023-06-26
   htmlUrl: https://newsletter.earbuds.audio/p/top-food-review-podcasts
   podcasts:
+
+  - title: The Sloppy Boys
+    htmlUrl: https://shows.acast.com/6111bf311faf1400136ed3d1
+    xmlUrl: https://feeds.acast.com/public/shows/6111bf311faf1400136ed3d1
+
+  - title: 'Candy Is Dandy: The Candy Review Podcast'
+    htmlUrl: https://sites.libsyn.com/423440
+    xmlUrl: https://feeds.libsyn.com/423440/rss
+
+  - title: Doughboys
+    htmlUrl: https://headgum.com/doughboys
+    xmlUrl: https://rss.art19.com/doughboys
+
+  - title: Sundae Funday
+    htmlUrl: https://podcasters.spotify.com/pod/show/sundae-funday
+    xmlUrl: https://anchor.fm/s/da6eeb5c/podcast/rss
+
+  - title: The Snack Show with Jami Fallon
+    htmlUrl: https://thatsoundsfunnetwork.com/
+    xmlUrl: https://anchor.fm/s/7ce4fe54/podcast/rss
 
 - name: Celebrating Juneteenth
   opml: earbuds-podcast-recommendations-celebrating-juneteenth.opml
