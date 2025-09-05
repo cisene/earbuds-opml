@@ -2633,9 +2633,29 @@ issues:
 
 - name: 'Tackling Fear: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-tackling-fear-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2023-09-10
   htmlUrl: https://newsletter.earbuds.audio/p/tackling-fear-podcast-recommendations
   podcasts:
+
+  - title: Near Death
+    htmlUrl: https://dyingformedia.com/
+    xmlUrl: https://feeds.megaphone.fm/AGOFY5701066356
+
+  - title: Last Day
+    htmlUrl: https://www.lemonadamedia.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/be240bb3-cb38-49f0-9e2d-ad11012d5620/bd8f5027-0c82-49da-aa60-ad11012d562a/podcast.rss
+
+  - title: How Dare You.
+    htmlUrl: http://www.thehowdareyoushow.com/
+    xmlUrl: https://feeds.megaphone.fm/WWO1316707400
+
+  - title: Queen of Hearts
+    htmlUrl: http://www.wondery.com/shows/queen-of-hearts/
+    xmlUrl: https://rss.art19.com/queen-of-hearts
+
+  - title: Normalize This
+    htmlUrl: https://www.springhillcompany.com/
+    xmlUrl: https://feeds.megaphone.fm/normalizethis
 
 - name: Stories of Resilient Women
   opml: earbuds-podcast-recommendations-stories-of-resilient-women.opml
