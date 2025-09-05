@@ -2659,9 +2659,29 @@ issues:
 
 - name: Stories of Resilient Women
   opml: earbuds-podcast-recommendations-stories-of-resilient-women.opml
-  date: 1970-01-01
+  date: 2023-09-03
   htmlUrl: https://newsletter.earbuds.audio/p/stories-resilient-women
   podcasts:
+
+  - title: In Her Ellement
+    htmlUrl: https://in-her-ellement.captivate.fm/
+    xmlUrl: https://feeds.captivate.fm/in-her-ellement/
+
+  - title: Work-Life Harmonized
+    htmlUrl: https://pdrl.fm/af9c6b/worklifeharmonized.podbean.com
+    xmlUrl: https://feed.podbean.com/worklifeharmonized/feed.xml
+
+  - title: Hotter Than Ever
+    htmlUrl: https://hotter-than-ever.captivate.fm/
+    xmlUrl: https://feeds.captivate.fm/hotter-than-ever/
+
+  - title: Modern Love
+    htmlUrl: https://www.nytimes.com/column/modern-love-podcast
+    xmlUrl: https://feeds.simplecast.com/0N8Hs1MH
+
+  - title: The Heart
+    htmlUrl: http://theheartradio.org/
+    xmlUrl: http://feeds.theheartradio.org/TheHeartRadio
 
 - name: Tough & Tender Storytelling
   opml: earbuds-podcast-recommendations-tough-tender-storytelling.opml
