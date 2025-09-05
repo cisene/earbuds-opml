@@ -2841,9 +2841,29 @@ issues:
 
 - name: Podcasts That Punch Up! ✊
   opml: earbuds-podcast-recommendations-podcasts-that-punch-up.opml
-  date: 1970-01-01
+  date: 2023-07-17
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-punch
   podcasts:
+
+  - title: What a Creep
+    htmlUrl: https://www.spreaker.com/show/what-a-creep
+    xmlUrl: https://www.spreaker.com/show/5394615/episodes/feed
+
+  - title: Fad Camp
+    htmlUrl: https://headstuffpodcasts.com/show/fad-camp
+    xmlUrl: https://feeds.megaphone.fm/PODS2666006651
+
+  - title: Daily Fail
+    htmlUrl: https://www.spreaker.com/show/daily-fail
+    xmlUrl: https://feeds.megaphone.fm/ADL8285083540
+
+  - title: CANCELLED
+    htmlUrl: https://www.mamamia.com.au/podcasts/cancelled-podcast/
+    xmlUrl: https://www.omnycontent.com/d/playlist/3ea926be-9be7-482a-8ac3-a44f016e43d1/2b745da0-f611-404c-9c4d-ad7a002f9e4d/af46df75-a073-4cec-89e9-ad7a0030108e/podcast.rss
+
+  - title: Fixing Famous People with Chris DeRosa & Dominick Pupa
+    htmlUrl: https://art19.com/shows/fixing-famous-people
+    xmlUrl: https://rss.art19.com/fixing-famous-people
 
 - name: The Science of Finding a Podcast
   opml: earbuds-podcast-recommendations-the-science-of-finding-a-podcast.opml
