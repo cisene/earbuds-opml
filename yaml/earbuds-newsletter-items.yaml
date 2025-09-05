@@ -2789,9 +2789,29 @@ issues:
 
 - name: Blockbuster Podcasts for Summer ☀️
   opml: earbuds-podcast-recommendations-blockbuster-podcasts-for-summer.opml
-  date: 1970-01-01
+  date: 2023-07-30
   htmlUrl: https://newsletter.earbuds.audio/p/blockbuster-podcasts-summer
   podcasts:
+
+  - title: Piecing It Together Podcast
+    htmlUrl: https://www.piecingpod.com/
+    xmlUrl: https://feeds.captivate.fm/piecing-it-together/
+
+  - title: This Is The Greatest Song I’ve Ever Heard In My Entire Life
+    htmlUrl: https://gr8songpod.podbean.com/
+    xmlUrl: https://feed.podbean.com/gr8songpod/feed.xml
+
+  - title: Soundtrack Your Life | A Film and TV Podcast
+    htmlUrl: https://www.soundtrackyourlife.net/
+    xmlUrl: https://www.spreaker.com/show/6394808/episodes/feed
+
+  - title: When Cinephiles Attack
+    htmlUrl: https://www.instagram.com/cinephileattack
+    xmlUrl: http://cast.rocks/hosting/26769/feeds/FOA1H.xml
+
+  - title: 'Self Evident: Asian America''s Stories'
+    htmlUrl: https://selfevidentshow.com/
+    xmlUrl: https://selfevidentshow.libsyn.com/rss
 
 - name: 'American Education: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-american-education-podcast-recommendations.opml
