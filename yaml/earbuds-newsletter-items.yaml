@@ -2867,9 +2867,29 @@ issues:
 
 - name: The Science of Finding a Podcast
   opml: earbuds-podcast-recommendations-the-science-of-finding-a-podcast.opml
-  date: 1970-01-01
+  date: 2023-07-10
   htmlUrl: https://newsletter.earbuds.audio/p/science-finding-podcast
   podcasts:
+
+  - title: When Science Finds a Way
+    htmlUrl: https://wellcome.org/
+    xmlUrl: https://feeds.libsyn.com/476853/rss
+
+  - title: To Live and Die in LA
+    htmlUrl: http://livediela.com/
+    xmlUrl: https://feeds.megaphone.fm/to-live-and-die-in-la
+
+  - title: Love and Radio
+    htmlUrl: https://loveandradio.org/
+    xmlUrl: http://feed.loveandradio.org/loveplusradio
+
+  - title: Ear Hustle
+    htmlUrl: https://www.earhustlesq.com/
+    xmlUrl: https://feeds.earhustlesq.com/earhustlesq
+
+  - title: Death, Sex & Money
+    htmlUrl: https://slate.com/podcasts/death-sex-money
+    xmlUrl: https://feeds.megaphone.fm/SLT2123367297
 
 - name: 'Abortion Wars: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-abortion-wars-podcast-recommendations.opml
