@@ -2893,9 +2893,29 @@ issues:
 
 - name: 'Abortion Wars: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-abortion-wars-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2023-07-03
   htmlUrl: https://newsletter.earbuds.audio/p/abortion-wars-podcast-recommendations
   podcasts:
+
+  - title: 'Cover Up: The Pill Plot'
+    htmlUrl: https://listen.sonymusic-podcasts.link/vNYA5y8Y
+    xmlUrl: https://feeds.megaphone.fm/fringenetwork
+
+  - title: Abortion, Every Day
+    htmlUrl: https://jessica.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/11153.rss
+
+  - title: The Ezra Klein Show
+    htmlUrl: https://www.nytimes.com/ezra-klein-podcast
+    xmlUrl: https://feeds.simplecast.com/82FI35Px
+
+  - title: The Daily
+    htmlUrl: https://www.nytimes.com/the-daily
+    xmlUrl: https://feeds.simplecast.com/54nAGcIl
+
+  - title: The Girls Who Went Away
+    htmlUrl: https://www.thegirlswhowentaway.com/
+    xmlUrl: null
 
 - name: Top Food Review Podcasts
   opml: earbuds-podcast-recommendations-top-food-review-podcasts.opml
