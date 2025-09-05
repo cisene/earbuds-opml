@@ -2711,9 +2711,29 @@ issues:
 
 - name: Spiritual Trauma Podcasts
   opml: earbuds-podcast-recommendations-spiritual-trauma-podcasts.opml
-  date: 1970-01-01
+  date: 2023-08-20
   htmlUrl: https://newsletter.earbuds.audio/p/spiritual-trauma-podcasts
   podcasts:
+
+  - title: Dear Alana,
+    htmlUrl: http://dearalana.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/edf8da6f-41bb-4c0f-89b1-b050016df7b4/beeac361-764a-49d5-b888-b050016e462d/podcast.rss
+
+  - title: 'The Turning: The Sisters Who Left'
+    htmlUrl: https://www.iheart.com/podcast/1119-the-turning-the-sisters-w-82262169/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/5589adee-13bb-4f79-addc-ae280172b2e4/6c08baac-6944-4433-8ce5-af82014de5e5/podcast.rss
+
+  - title: The Rise and Fall of Mars Hill
+    htmlUrl: https://www.christianitytoday.com/ct/podcasts
+    xmlUrl: https://feeds.megaphone.fm/riseandfall
+
+  - title: The Liturgists Podcast
+    htmlUrl: https://podcasters.spotify.com/pod/show/the-liturgists-podcast
+    xmlUrl: https://anchor.fm/s/56ea1e78/podcast/rss
+
+  - title: 'Queerology: A Podcast on Belief and Being'
+    htmlUrl: https://redcircle.com/shows/queerology-a-podcast-on-belief-and-being
+    xmlUrl: https://feeds.redcircle.com/a02ba1aa-9012-42dd-915f-cb34f12c2411
 
 - name: 'To Grad School and Beyond: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-to-grad-school-and-beyond-podcast-recommendations.opml
