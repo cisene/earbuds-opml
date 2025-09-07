@@ -3075,9 +3075,29 @@ issues:
 
 - name: 'Highly-Focused Oddball Entertainment: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-highly-focused-oddball-entertainment-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2023-05-14
   htmlUrl: https://newsletter.earbuds.audio/p/highlyfocused-oddball-entertainment-podcast-recommendations
   podcasts:
+
+  - title: I'm A Sophisticate and So Can You!
+    htmlUrl: https://imasophisticate.com/
+    xmlUrl: https://feeds.acast.com/public/shows/61e7aadbd8346b00132f75a6
+
+  - title: Beer‘d Al Podcast
+    htmlUrl: https://www.spreaker.com/show/beer-d-al-podcast
+    xmlUrl: https://www.spreaker.com/show/5439475/episodes/feed
+
+  - title: Every Rom Com
+    htmlUrl: https://every-rom-com.castos.com/
+    xmlUrl: https://feeds.castos.com/6wz7v
+
+  - title: A Strange Arrangement
+    htmlUrl: https://astrangearrangement.podbean.com/
+    xmlUrl: https://feed.podbean.com/astrangearrangement/feed.xml
+
+  - title: Songs My Ex Ruined
+    htmlUrl: https://art19.com/shows/songs-my-ex-ruined
+    xmlUrl: https://rss.art19.com/songs-my-ex-ruined
 
 - name: 'Podcasts On: Burnout'
   opml: earbuds-podcast-recommendations-podcasts-on-burnout.opml
