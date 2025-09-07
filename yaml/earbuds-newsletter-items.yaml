@@ -3295,9 +3295,29 @@ issues:
 
 - name: 'Women''s History Month: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-womens-history-month-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2023-03-19
   htmlUrl: https://newsletter.earbuds.audio/p/womens-history-month-podcast-recommendations
   podcasts:
+
+  - title: Modern Mom Probs
+    htmlUrl: https://bleav.com/shows/modern-mom-probs/
+    xmlUrl: https://feeds.simplecast.com/lth1fPf8
+
+  - title: Bitch, You Doin' A Good Job
+    htmlUrl: https://www.buzzsprout.com/2125053
+    xmlUrl: https://feeds.buzzsprout.com/2125053.rss
+
+  - title: The Motherhood Village Podcast
+    htmlUrl: https://www.themotherhoodvillage.com/
+    xmlUrl: https://mamasknowbest3.libsyn.com/rss
+
+  - title: The Inner Edit
+    htmlUrl: https://christierocha.com/
+    xmlUrl: https://sasssays13.libsyn.com/rss
+
+  - title: What's New, Mama? Podcast
+    htmlUrl: https://www.whatsnewmamapodcast.com/
+    xmlUrl: https://feeds.buzzsprout.com/2077232.rss
 
 - name: Mental Health & Mindfulness Podcasts for Kids
   opml: earbuds-podcast-recommendations-mental-health-mindfulness-podcasts-for-kids.opml
