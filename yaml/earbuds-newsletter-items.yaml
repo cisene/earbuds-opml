@@ -3321,9 +3321,29 @@ issues:
 
 - name: Mental Health & Mindfulness Podcasts for Kids
   opml: earbuds-podcast-recommendations-mental-health-mindfulness-podcasts-for-kids.opml
-  date: 1970-01-01
+  date: 2023-03-13
   htmlUrl: https://newsletter.earbuds.audio/p/mental-health-mindfulness-podcasts-kids
   podcasts:
+
+  - title: Dorktales Storytime
+    htmlUrl: https://jonincharacter.com/dorktales-storytime-podcast/
+    xmlUrl: https://feeds.buzzsprout.com/1267991.rss
+
+  - title: Peace Out Podcast
+    htmlUrl: https://www.chaneltsang.com/
+    xmlUrl: https://peaceoutpodcast.libsyn.com/rss
+
+  - title: The Adventures of Power Dog in Dogland!
+    htmlUrl: https://linktr.ee/powerdogadventures
+    xmlUrl: https://anchor.fm/s/66dd37e8/podcast/rss
+
+  - title: The Ten News, News For Curious Kids
+    htmlUrl: http://www.thetennews.com/
+    xmlUrl: https://feeds.megaphone.fm/SBMM3380444788
+
+  - title: 'Like You: Mindfulness for Kids'
+    htmlUrl: https://www.likeyoupodcast.com/
+    xmlUrl: https://anchor.fm/s/912c03e4/podcast/rss
 
 - name: 'Helping Kids Find Their Calm: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-helping-kids-find-their-calm-podcast-recommendations.opml
