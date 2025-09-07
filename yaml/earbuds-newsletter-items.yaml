@@ -3373,9 +3373,29 @@ issues:
 
 - name: Female-focused Health & Well-being
   opml: earbuds-podcast-recommendations-female-focused-health-well-being.opml
-  date: 1970-01-01
+  date: 2023-03-05
   htmlUrl: https://newsletter.earbuds.audio/p/femalefocused-health-wellbeing
   podcasts:
+
+  - title: Food For Thought
+    htmlUrl: http://rhitrition.com/
+    xmlUrl: https://feeds.acast.com/public/shows/1640a403-c464-48ff-a3ee-cf5b472f2e37
+
+  - title: Real Integrative Medicine with Dr. Jordan Robertson ND
+    htmlUrl: http://www.confidentclinicianclub.com/
+    xmlUrl: https://anchor.fm/s/100cc67c0/podcast/rss
+
+  - title: The ADHD Women's Wellbeing Podcast
+    htmlUrl: https://www.spreaker.com/podcast/the-adhd-women-s-wellbeing-podcast--6497691
+    xmlUrl: https://www.spreaker.com/show/6497691/episodes/feed
+
+  - title: Wellness Women Radio
+    htmlUrl: https://wellnesswomenradio.podbean.com/
+    xmlUrl: https://feed.podbean.com/wellnesswomenradio/feed.xml
+
+  - title: Brown Women Health
+    htmlUrl: https://podcasters.spotify.com/pod/show/brownwomenhealth
+    xmlUrl: https://anchor.fm/s/48e0f090/podcast/rss
 
 - name: 'Female Focused Health & Well-being: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-female-focused-health-well-being-podcast-recommendations.opml
