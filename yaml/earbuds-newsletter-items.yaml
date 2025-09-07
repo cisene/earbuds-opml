@@ -3101,9 +3101,29 @@ issues:
 
 - name: 'Podcasts On: Burnout'
   opml: earbuds-podcast-recommendations-podcasts-on-burnout.opml
-  date: 1970-01-01
+  date: 2023-05-07
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-burnout
   podcasts:
+
+  - title: Life Kit
+    htmlUrl: https://www.npr.org/podcasts/510338/all-guides
+    xmlUrl: https://feeds.npr.org/510338/podcast.xml
+
+  - title: Unlocking Us with Brené Brown
+    htmlUrl: https://brenebrown.com/
+    xmlUrl: https://feeds.megaphone.fm/GLT4889391284
+
+  - title: Working Smarter
+    htmlUrl: https://blog.dropbox.com/podcast/working-smarter
+    xmlUrl: https://feeds.simplecast.com/oFUBEhnI
+
+  - title: On Being with Krista Tippett
+    htmlUrl: https://onbeing.org/
+    xmlUrl: https://feeds.simplecast.com/AuAxH_Bf
+
+  - title: Worklife with Adam Grant
+    htmlUrl: https://www.ted.com/podcasts/worklife
+    xmlUrl: https://feeds.feedburner.com/WorklifeWithAdamGrant
 
 - name: 'In Loving Memory: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-in-loving-memory-podcast-recommendations.opml
