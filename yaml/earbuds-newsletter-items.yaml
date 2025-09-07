@@ -3263,9 +3263,29 @@ issues:
 
 - name: Are you comically well? Podcast Recommendations
   opml: earbuds-podcast-recommendations-are-you-comically-well-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2023-03-26
   htmlUrl: https://newsletter.earbuds.audio/p/comically-well-podcast-recommendations
   podcasts:
+
+  - title: 'Checking-In: A Self Help Book Club'
+    htmlUrl: https://linktr.ee/checking.in.podcast/
+    xmlUrl: https://anchor.fm/s/c35e0c18/podcast/rss
+
+  - title: Self-Helpless
+    htmlUrl: https://art19.com/shows/selfhelpless
+    xmlUrl: https://rss.art19.com/selfhelpless
+
+  - title: Hot Mess-Terpiece Theatre
+    htmlUrl: https://www.instagram.com/hotmessterpiecepod/
+    xmlUrl: https://feeds.megaphone.fm/ADL2130612008
+
+  - title: You Made It Weird with Pete Holmes
+    htmlUrl: https://youmadeitweird.libsyn.com/ 
+    xmlUrl: https://feeds.feedburner.com/YouMadeItWeird
+
+  - title: Duncan Trussell Family Hour
+    htmlUrl: http://www.duncantrussell.com/
+    xmlUrl: https://audioboom.com/channels/4954758.rss
 
 - name: Comedic Wellness Podcast Recommendations
   opml: earbuds-podcast-recommendations-comedic-wellness-podcast-recommendations.opml
