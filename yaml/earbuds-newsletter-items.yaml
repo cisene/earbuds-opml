@@ -3211,9 +3211,29 @@ issues:
 
 - name: 'Games and Our Feelings: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-games-and-our-feelings-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2023-04-09
   htmlUrl: https://newsletter.earbuds.audio/p/games-feelings-podcast-recommendations
   podcasts:
+
+  - title: Games and Feelings
+    htmlUrl: https://art19.com/shows/games-and-feelings
+    xmlUrl: https://rss.art19.com/games-and-feelings
+
+  - title: Three Black Halflings | A Dungeons & Dragons Podcast
+    htmlUrl: https://art19.com/shows/three-black-halflings
+    xmlUrl: https://feeds.megaphone.fm/GLSS3172013789
+
+  - title: The MinnMax Show
+    htmlUrl: https://minnmax.com/
+    xmlUrl: https://pinecast.com/feed/the-minnmax-show
+
+  - title: Basketball Illuminati
+    htmlUrl: https://www.instagram.com/basketballilluminati/
+    xmlUrl: https://feeds.megaphone.fm/basketballilluminati
+
+  - title: Gameplay
+    htmlUrl: https://gameplay.co/
+    xmlUrl: https://feeds.lawson.media/gameplay
 
 - name: 'Changing Your Tech Point of View: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-changing-your-tech-point-of-view-podcast-recommendations.opml
