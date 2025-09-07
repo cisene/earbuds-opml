@@ -3237,9 +3237,29 @@ issues:
 
 - name: 'Changing Your Tech Point of View: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-changing-your-tech-point-of-view-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2023-03-31
   htmlUrl: https://newsletter.earbuds.audio/p/changing-tech-point-view-podcast-recommendations
   podcasts:
+
+  - title: 'The Tech Jawn: Black Tech Enthusiasts Covering The Week''s Tech News And How Tech Affects Black Culture'
+    htmlUrl: http://www.thetechjawn.com/
+    xmlUrl: https://rss.acast.com/the-tech-jawn
+
+  - title: Tech's Message
+    htmlUrl: http://www.uktechshow.com/
+    xmlUrl: http://rss.acast.com/techsmessage
+
+  - title: NosillaCast Apple Podcast
+    htmlUrl: https://www.podfeet.com/
+    xmlUrl: https://www.podfeet.com/NosillaCast/rss.xml
+
+  - title: BBQandTech
+    htmlUrl: https://bbqandtech.com/
+    xmlUrl: https://feeds.acast.com/public/shows/f84a7af7-52cd-4d79-a798-7eaef7a707e2
+
+  - title: snobOS
+    htmlUrl: https://www.snoboscast.com/episodes/
+    xmlUrl: https://anchor.fm/s/1043b9f70/podcast/rss
 
 - name: Are you comically well? Podcast Recommendations
   opml: earbuds-podcast-recommendations-are-you-comically-well-podcast-recommendations.opml
