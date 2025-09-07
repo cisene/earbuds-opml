@@ -2997,9 +2997,29 @@ issues:
 
 - name: 'A Reflection On Love In Our Modern Era: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-a-reflection-on-love-in-our-modern-era-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2023-06-04
   htmlUrl: https://newsletter.earbuds.audio/p/reflection-love-modern-era-podcast-recommendations
   podcasts:
+
+  - title: Have You Heard George's Podcast?
+    htmlUrl: http://www.bbc.co.uk/programmes/p07915kd
+    xmlUrl: https://podcasts.files.bbci.co.uk/p07915kd.rss
+
+  - title: MOONFACE
+    htmlUrl: https://overtones.fm/
+    xmlUrl: https://feeds.acast.com/public/shows/664f8e787c6b20001352489c
+
+  - title: Love Items
+    htmlUrl: https://shows.acast.com/love-items
+    xmlUrl: https://feeds.acast.com/public/shows/6455096b6868b800116d71c1
+
+  - title: No Country For Young Women
+    htmlUrl: http://www.bbc.co.uk/programmes/p063zy3c
+    xmlUrl: https://podcasts.files.bbci.co.uk/p063zy3c.rss
+
+  - title: Modern Love
+    htmlUrl: https://www.nytimes.com/column/modern-love-podcast
+    xmlUrl: https://feeds.simplecast.com/0N8Hs1MH
 
 - name: Our Bodies
   opml: earbuds-podcast-recommendations-our-bodies.opml
