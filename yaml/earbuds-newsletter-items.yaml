@@ -3053,6 +3053,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-sex-death-spirituality
   podcasts:
 
+  - title: Dying For Sex
+    htmlUrl: https://wondery.com/shows/Dying-For-Sex/
+    xmlUrl: https://rss.art19.com/dying-for-sex
+
+  - title: Sex, Drugs, and Jesus
+    htmlUrl: https://www.sexdrugsandjesus.com/
+    xmlUrl: https://feeds.buzzsprout.com/2183400.rss
+
+  - title: The Naughtylicious Sex Podcast
+    htmlUrl: https://sites.libsyn.com/404180
+    xmlUrl: https://feeds.libsyn.com/404180/rss
+
+  - title: Talk Tantra to Me with Leola
+    htmlUrl: https://leola.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/1488109.rss
+
+  - title: Hookup Horror Stories with Demi Wylde
+    htmlUrl: https://podcasters.spotify.com/pod/show/hookuphorrorstories
+    xmlUrl: https://anchor.fm/s/78589abc/podcast/rss
+
 - name: 'Highly-Focused Oddball Entertainment: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-highly-focused-oddball-entertainment-podcast-recommendations.opml
   date: 1970-01-01
