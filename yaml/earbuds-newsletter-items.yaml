@@ -3023,13 +3023,33 @@ issues:
 
 - name: Our Bodies
   opml: earbuds-podcast-recommendations-our-bodies.opml
-  date: 1970-01-01
+  date: 2023-05-29
   htmlUrl: https://newsletter.earbuds.audio/p/bodies
   podcasts:
 
+  - title: Articles of Interest
+    htmlUrl: https://play.prx.org/listen?uf=https%3A%2F%2Ffeed.articlesofinterest.club%2F
+    xmlUrl: https://feed.articlesofinterest.club/
+
+  - title: Here Be Monsters
+    htmlUrl: https://www.hbmpodcast.com/
+    xmlUrl: http://feeds.feedburner.com/herebemonsterspodcast/
+
+  - title: Embodied
+    htmlUrl: https://www.wunc.org/podcast/embodied-podcast
+    xmlUrl: https://embodied.feed.wunc.org/
+
+  - title: This Is Uncomfortable
+    htmlUrl: https://www.marketplace.org/shows/this-is-uncomfortable-reema-khrais
+    xmlUrl: https://feeds.publicradio.org/public_feeds/this-is-uncomfortable
+
+  - title: Bodies
+    htmlUrl: https://www.kcrw.com/culture/shows/bodies?utm_source=KCRW&utm_medium=RSS&utm_campaign=kcrw-show-rss
+    xmlUrl: https://feed.cdnstream1.com/zjb/feed/download/13/11/5b/13115b0f-63fb-44f7-9289-9dfde6512840.xml
+
 - name: 'Podcasts On: Sex, Death, & Spirituality'
   opml: earbuds-podcast-recommendations-podcasts-on-sex-death-spirituality.opml
-  date: 1970-01-01
+  date: 2023-05-22
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-sex-death-spirituality
   podcasts:
 
