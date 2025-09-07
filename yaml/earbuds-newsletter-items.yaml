@@ -1,5 +1,5 @@
 global:
-  ownerName: EarBuds Podcast Recommendations
+  ownerName: EarBuds Podcast Collective
   ownerEmail: info@earbuds.audio
   url: https://earbuds.audio/
   title: EarBuds Podcast Recommendations
@@ -2951,9 +2951,29 @@ issues:
 
 - name: 'Music For Your 30s: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-music-for-your-30s-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2023-06-11
   htmlUrl: https://newsletter.earbuds.audio/p/music-30s-podcast-recommendations
   podcasts:
+
+  - title: Switched on Pop
+    htmlUrl: http://www.switchedonpop.com/
+    xmlUrl: https://feeds.megaphone.fm/switchedonpop
+
+  - title: Bandsplain
+    htmlUrl: https://www.theringer.com/
+    xmlUrl: https://feeds.megaphone.fm/bandsplain
+
+  - title: The Song Will Go On
+    htmlUrl: https://thesongwillgoon.com/
+    xmlUrl: https://feeds.captivate.fm/the-song-will-go-on/
+
+  - title: NO SKIPS with Jinx and Shea
+    htmlUrl: https://podcasters.spotify.com/pod/show/no-skips
+    xmlUrl: https://anchor.fm/s/58a24ccc/podcast/rss
+
+  - title: 60 Songs That Explain the '90s
+    htmlUrl: https://www.theringer.com/
+    xmlUrl: https://feeds.megaphone.fm/60-songs
 
 - name: 'A Reflection On Love In Our Modern Era: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-a-reflection-on-love-in-our-modern-era-podcast-recommendations.opml
