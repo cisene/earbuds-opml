@@ -3185,9 +3185,29 @@ issues:
 
 - name: 'Reframing the Unexpected: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-reframing-the-unexpected-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2023-04-16
   htmlUrl: https://newsletter.earbuds.audio/p/reframing-unexpected-podcast-recommendations-0521
   podcasts:
+
+  - title: 'The Chey and Pav Show: Teachers Talking Teaching'
+    htmlUrl: https://cheyandpav.com/
+    xmlUrl: https://anchor.fm/s/dc2d870/podcast/rss
+
+  - title: Rethink Moments with Rachel Botsman
+    htmlUrl: https://podcasters.spotify.com/pod/show/rethink-moments
+    xmlUrl: https://anchor.fm/s/d910bc7c/podcast/rss
+
+  - title: Unladylike
+    htmlUrl: https://art19.com/shows/-unladylike-
+    xmlUrl: https://rss.art19.com/-unladylike-
+
+  - title: Dear Lonely Writer
+    htmlUrl: https://edenboudreau.com/podcast/
+    xmlUrl: https://anchor.fm/s/d512fd4c/podcast/rss
+
+  - title: Reframeables
+    htmlUrl: https://reframeables.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/1826949.rss
 
 - name: 'Games and Our Feelings: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-games-and-our-feelings-podcast-recommendations.opml
