@@ -3127,9 +3127,29 @@ issues:
 
 - name: 'In Loving Memory: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-in-loving-memory-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2023-04-30
   htmlUrl: https://newsletter.earbuds.audio/p/loving-memory-podcast-recommendations
   podcasts:
+
+  - title: Art Heals All Wounds
+    htmlUrl: https://arthealsallwoundspodcast.com/
+    xmlUrl: https://feeds.buzzsprout.com/2053590.rss
+
+  - title: 'Forgotten: Women of Juárez'
+    htmlUrl: https://www.iheart.com/podcast/1119-forgotten-the-women-of-ju-63028149/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c85e4c83-04a1-479d-a291-afe900f64501/7505c916-cab9-424c-829f-afe900f6dd08/podcast.rss
+
+  - title: 'Black Girl Gone: A True Crime Podcast'
+    htmlUrl: https://www.blackgirlgonepodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/HSW5077891380
+
+  - title: 'We Are Resilient: An MMIP True Crime Podcast'
+    htmlUrl: http://www.war-podcast.com/
+    xmlUrl: https://feeds.buzzsprout.com/1876592.rss
+
+  - title: Radiolab
+    htmlUrl: https://www.wnycstudios.org/podcasts/radiolab/projects/podcasts
+    xmlUrl: https://feeds.feedburner.com/radiolab
 
 - name: 'Podcasts On: Beauty Standards'
   opml: earbuds-podcast-recommendations-podcasts-on-beauty-standards.opml
