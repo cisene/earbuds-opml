@@ -2945,9 +2945,29 @@ issues:
 
 - name: Celebrating Juneteenth
   opml: earbuds-podcast-recommendations-celebrating-juneteenth.opml
-  date: 1970-01-01
+  date: 2023-06-18
   htmlUrl: https://newsletter.earbuds.audio/p/celebrating-juneteenth
   podcasts:
+
+  - title: 'Truth Be Told: Time to Thrive'
+    htmlUrl: https://www.deartbt.com/
+    xmlUrl: https://feeds.publicradio.org/public_feeds/truth-be-told
+
+  - title: Slow Burn
+    htmlUrl: https://slate.com/slowburn
+    xmlUrl: https://feeds.megaphone.fm/watergate
+
+  - title: The Plot Thickens
+    htmlUrl: http://tcm.com/
+    xmlUrl: https://feeds.megaphone.fm/WMHY6125191767
+
+  - title: 'Larry Wilmore: Black on the Air'
+    htmlUrl: https://www.theringer.com/
+    xmlUrl: https://feeds.megaphone.fm/larry-wilmore
+
+  - title: Started from the Bottom
+    htmlUrl: https://www.pushkin.fm/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/457c60e7-56d7-4366-882a-af35013db4b6/b371cfec-69ff-4164-877f-af35013e003b/podcast.rss
 
 - name: 'Music For Your 30s: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-music-for-your-30s-podcast-recommendations.opml
