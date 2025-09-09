@@ -3177,12 +3177,6 @@ issues:
     htmlUrl: https://www.siriusxm.com/
     xmlUrl: https://feeds.simplecast.com/FO6kxYGj
 
-- name: 'Beauty Standards: Podcast Recommendations'
-  opml: earbuds-podcast-recommendations-beauty-standards-podcast-recommendations.opml
-  date: 1970-01-01
-  htmlUrl: https://newsletter.earbuds.audio/p/beauty-standards-podcast-recommendations
-  podcasts:
-
 - name: 'Reframing the Unexpected: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-reframing-the-unexpected-podcast-recommendations.opml
   date: 2023-04-16
@@ -3286,12 +3280,6 @@ issues:
   - title: Duncan Trussell Family Hour
     htmlUrl: http://www.duncantrussell.com/
     xmlUrl: https://audioboom.com/channels/4954758.rss
-
-- name: Comedic Wellness Podcast Recommendations
-  opml: earbuds-podcast-recommendations-comedic-wellness-podcast-recommendations.opml
-  date: 1970-01-01
-  htmlUrl: https://newsletter.earbuds.audio/p/comedic-wellness-podcast-recommendations
-  podcasts:
 
 - name: 'Women''s History Month: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-womens-history-month-podcast-recommendations.opml
@@ -3397,227 +3385,235 @@ issues:
     htmlUrl: https://podcasters.spotify.com/pod/show/brownwomenhealth
     xmlUrl: https://anchor.fm/s/48e0f090/podcast/rss
 
-- name: 'Female Focused Health & Well-being: Podcast Recommendations'
-  opml: earbuds-podcast-recommendations-female-focused-health-well-being-podcast-recommendations.opml
-  date: 1970-01-01
-  htmlUrl: https://newsletter.earbuds.audio/p/female-focused-health-wellbeing-podcast-recommendations
-  podcasts:
-
 - name: 'Great Writing for the Ear: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-great-writing-for-the-ear-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2023-02-24
   htmlUrl: https://newsletter.earbuds.audio/p/great-writing-ear-podcast-recommendations-90ad
   podcasts:
 
+  - title: Serial
+    htmlUrl: https://serialpodcast.org/
+    xmlUrl: https://feeds.simplecast.com/xl36XBC2
+
+  - title: Floodlines
+    htmlUrl: https://www.theatlantic.com/podcasts/floodlines
+    xmlUrl: https://feeds.megaphone.fm/floodlines
+
+  - title: Wind of Change
+    htmlUrl: https://crooked.com/podcast-series/wind-of-change/
+    xmlUrl: https://feeds.megaphone.fm/wind-of-change-wide
+
+  - title: Deliberate Indifference
+    htmlUrl: https://www.deliberateindifference.org/episodes/
+    xmlUrl: https://www.deliberateindifference.org/episodes?format=rss
+
+  - title: Detention By Design
+    htmlUrl: https://www.wlrn.org/
+    xmlUrl: https://feeds.megaphone.fm/WLRN2492148227
+
 - name: 'Black History Month: Pop Culture Podcasts'
   opml: earbuds-podcast-recommendations-black-history-month-pop-culture-podcasts.opml
-  date: 1970-01-01
+  date: 2023-02-19
   htmlUrl: https://newsletter.earbuds.audio/p/black-history-month-pop-culture-podcasts-de28
   podcasts:
 
+  - title: Pop Culture Happy Hour
+    htmlUrl: https://www.npr.org/podcasts/510282/pop-culture-happy-hour
+    xmlUrl: https://feeds.npr.org/510282/podcast.xml
+
+  - title: The Business of Fashion Podcast
+    htmlUrl: https://www.businessoffashion.com/podcasts?search
+    xmlUrl: https://feeds.acast.com/public/shows/6355d904dd5e0e0012da88d1
+
+  - title: They Did That
+    htmlUrl: 
+    xmlUrl: https://feeds.megaphone.fm/theydidthat
+
+  - title: The Cut
+    htmlUrl: http://www.thecut.com/
+    xmlUrl: https://feeds.megaphone.fm/thecut
+
+  - title: Oprah's Super Soul
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/N0SFSFAS
+
 - name: 'Black History Transcends Time: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-black-history-transcends-time-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2023-02-12
   htmlUrl: https://newsletter.earbuds.audio/p/black-history-transcends-time-podcast-recommendations
   podcasts:
 
-- name: Black History Transcends Time
-  opml: earbuds-podcast-recommendations-black-history-transcends-time.opml
-  date: 1970-01-01
-  htmlUrl: https://newsletter.earbuds.audio/p/black-history-transcends-time
-  podcasts:
+  - title: Toure Show
+    htmlUrl: https://www.dcpofficial.com/toureshow
+    xmlUrl: https://feeds.megaphone.fm/DCP6638374085
+
+  - title: 'Black HIV in the South: How Did We Get Here?'
+    htmlUrl: https://play.disctopia.com/podcasts/black_hiv_in_the_south_how_did_we_get_here
+    xmlUrl: https://play.disctopia.com/podcast/rss?channel=black_hiv_in_the_south_how_did_we_get_here
+
+  - title: 'Unreformed: the Story of the Alabama Industrial School for Negro Children'
+    htmlUrl: https://www.iheart.com/podcast/1119-unreformed-the-story-of-t-107005437/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e97164cd-0a47-4feb-a90e-af2500e248bc/9e2dc21b-fa6e-4b7c-8f58-af2500e2a77e/podcast.rss
+
+  - title: Werk Stories
+    htmlUrl: https://shows.acast.com/werk-stories
+    xmlUrl: https://feeds.acast.com/public/shows/613a8da9c983290012be45fc
 
 - name: Canadian Black History & Futures
   opml: earbuds-podcast-recommendations-canadian-black-history-futures.opml
-  date: 1970-01-01
+  date: 2023-02-03
   htmlUrl: https://newsletter.earbuds.audio/p/canadian-black-history-futures-c278
   podcasts:
 
-  - title: Canadian Black History & Futures
-    htmlUrl: null
-    xmlUrl: null
-
   - title: Rights Back At You
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://art19.com/shows/rights-back-at-you
+    xmlUrl: https://rss.art19.com/rights-back-at-you
 
   - title: Africville Forever
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://africville-forever.simplecast.com/
+    xmlUrl: https://feeds.transistor.fm/africville-forever
 
   - title: Strong and Free
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: 
+    xmlUrl: https://feeds.transistor.fm/strong-and-free
 
   - title: Seen
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://seenthepodcast.com/
+    xmlUrl: https://audioboom.com/channels/4997581.rss
+
+  - title: The Secret Life of Canada
+    htmlUrl: https://www.cbc.ca/secretlifeofcanada
+    xmlUrl: https://www.cbc.ca/podcasting/includes/secretlifeofcanada.xml
 
 - name: 'BLM: Black, History-Making Podcasters'
   opml: earbuds-podcast-recommendations-blm-black-history-making-podcasters.opml
-  date: 1970-01-01
+  date: 2023-01-29
   htmlUrl: https://newsletter.earbuds.audio/p/blm-black-historymaking-podcasters-30cc
   podcasts:
 
-  - title: 'Black History Month:'
-    htmlUrl: null
-    xmlUrl: null
-
   - title: Reality with The King
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://kingdomreignent.com/links/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a1735c70-f70f-4045-805b-b302010c5b8c/5db0a3af-13d8-4a16-974c-b302010c5bb4/podcast.rss
 
-  - title: Ratchet and Respectable with Demetria L. Lucas
-    htmlUrl: null
-    xmlUrl: null
+  - title: Ratchet & Respectable
+    htmlUrl: https://www.studio71.com/us/podcasts/
+    xmlUrl: https://feeds.megaphone.fm/ratchetandrespectable
 
-  - title: Oooh, Those "Effin' C-Words!"
-    htmlUrl: null
-    xmlUrl: null
+  - title: The Change Coach Presents...
+    htmlUrl: https://marceiacork.com/
+    xmlUrl: https://anchor.fm/s/a3c787a8/podcast/rss
 
-  - title: Brown Ambition with Mandy and Tiffany
-    htmlUrl: null
-    xmlUrl: null
+  - title: Brown Ambition
+    htmlUrl: http://brownambitionpodcast.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4b894cc7-34cc-4155-8d9e-b2aa01086686/09b4fe67-f731-4362-8519-b2aa010866a1/podcast.rss
 
-  - title: Therapy For Black Girls
-    htmlUrl: null
-    xmlUrl: null
+  - title: Therapy for Black Girls
+    htmlUrl: https://therapyforblackgirls.com/podcast
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2a22ac04-0eb4-4aad-8dc2-ae270179efb9/2d42d89c-4962-4760-a616-ae270179efd5/podcast.rss
 
 - name: 'Light and Dark: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-light-and-dark-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2023-01-13
   htmlUrl: https://newsletter.earbuds.audio/p/light-dark-podcast-recommendations-a25f
   podcasts:
 
-  - title: Five podcast episodes on a theme, each week curated by a different person
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: 'Light and Dark: Podcast Recommendations'
-    htmlUrl: null
-    xmlUrl: null
-
   - title: Small Town Dicks
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.smalltowndicks.com/
+    xmlUrl: https://audioboom.com/channels/5151707.rss
 
-  - title: i Spy
-    htmlUrl: null
-    xmlUrl: null
+  - title: I Spy
+    htmlUrl: https://foreignpolicy.com/
+    xmlUrl: https://feeds.megaphone.fm/FGP7241363441
 
-  - title: 'Alec Mapa: Host Mess with Matthew Dempsey Psychotherapist'
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'Alec Mapa: Hot Mess with Matthew Dempsey Psychotherapist'
+    htmlUrl: http://www.matthewjdempsey.com/
+    xmlUrl: https://feeds.megaphone.fm/hotmess
 
-  - title: 'Brené Brown: Unlocking Us'
-    htmlUrl: null
-    xmlUrl: null
+  - title: Unlocking Us with Brené Brown
+    htmlUrl: https://brenebrown.com/
+    xmlUrl: https://feeds.megaphone.fm/GLT4889391284
 
-  - title: Comedy Gold Minds with Kevin Hart
-    htmlUrl: null
-    xmlUrl: null
+  - title: Gold Minds with Kevin Hart
+    htmlUrl: 
+    xmlUrl: https://feeds.megaphone.fm/IMP1790784214
 
 - name: Queens From History Who Made The Mark
   opml: earbuds-podcast-recommendations-queens-from-history-who-made-the-mark.opml
-  date: 1970-01-01
+  date: 2023-01-08
   htmlUrl: https://newsletter.earbuds.audio/p/queens-history-made-mark
   podcasts:
 
-  - title: Five podcast episodes on a theme, each week curated by a different person
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Queens From History Who Made The Mark👑
-    htmlUrl: null
-    xmlUrl: null
-
   - title: Ancient History Fangirl
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.ancienthistoryfangirl.com/
+    xmlUrl: https://feeds.megaphone.fm/ancienthistoryfangirl
 
-  - title: Drinks With Great Minds In History
-    htmlUrl: null
-    xmlUrl: null
+  - title: Drinks with Great Minds in History
+    htmlUrl: https://www.podpage.com/drinks-with-great-minds-in-history/
+    xmlUrl: https://feeds.buzzsprout.com/989749.rss
 
   - title: Noble Blood
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.iheart.com/podcast/139-noble-blood-46601390
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/55B20558-9ADD-4D0B-8C42-AE300188D1AA/0BFDBA5F-FCCA-4C2F-8772-AE300188D1B8/podcast.rss
+
+  - title: Ridiculous Romance
+    htmlUrl: https://www.iheart.com/podcast/1119-ridiculous-romance-82443650/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/1e432729-5ffe-4419-87a2-ae3900816eb1/be1d4652-58b5-4a58-bac1-ae3900816eba/podcast.rss
 
   - title: Queens Podcast
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://queenshistorypodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/ARML9284247102
 
 - name: Game Show Podcast Recommendations
   opml: earbuds-podcast-recommendations-game-show-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2023-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/game-show-podcast-recommendations-0c3a
   podcasts:
 
-  - title: Five podcast episodes on a theme, each week curated by a different person
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Game Show Podcast Recommendations🎲
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Spectacle
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'Spectacle: True Crime'
+    htmlUrl: http://neonhum.com/
+    xmlUrl: https://feeds.megaphone.fm/spectacle
 
   - title: This American Life
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.thisamericanlife.org/podcast/rss.xml
+    xmlUrl: https://www.thisamericanlife.org/podcast/rss.xml
 
   - title: Family Road Trip Trivia Podcast
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.familyroadtriptriviapodcast.com/podcast/
+    xmlUrl: https://feeds.megaphone.fm/ARML3371399296
+
+  - title: Wait Wait... Don't Tell Me!
+    htmlUrl: https://www.npr.org/podcasts/344098539/wait-wait-don-t-tell-me
+    xmlUrl: https://feeds.npr.org/344098539/podcast.xml
 
   - title: Queen of Hearts
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: New in 2023
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.wondery.com/shows/queen-of-hearts/
+    xmlUrl: https://rss.art19.com/queen-of-hearts
 
 - name: 'You''re Getting Sleepy: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-youre-getting-sleepy-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2022-12-22
   htmlUrl: https://newsletter.earbuds.audio/p/youre-getting-sleepy-podcast-recommendations-2335
   podcasts:
 
-  - title: Five podcast episodes on a theme, each week curated by a different person
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: 'You''re Getting Sleepy💤: Podcast Recommendations'
-    htmlUrl: null
-    xmlUrl: null
-
   - title: The Quiet Journeys of Professor Atwood
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://whitecatentertainment.com/
+    xmlUrl: https://professoratwood.libsyn.com/rss
 
-  - title: Nothing Much Happens
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'Nothing much happens: bedtime stories to help you sleep'
+    htmlUrl: https://www.nothingmuchhappens.com/
+    xmlUrl: https://feeds.megaphone.fm/SSM2868305742
 
   - title: Sleep With Me
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.sleepwithmepodcast.com/
+    xmlUrl: https://feed.sleepwithmepodcast.com/
 
   - title: Welcome to Night Vale
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://welcometonightvale.com/
+    xmlUrl: https://feeds.megaphone.fm/SBP4591212513
 
-  - title: Get Sleepy
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Don't just edit your ummms...wear them!
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'Get Sleepy: Sleep meditation and stories'
+    htmlUrl: https://getsleepy.com/
+    xmlUrl: https://feeds.megaphone.fm/SGP8517078272
 
 - name: 'BIPOC Women in Business: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-bipoc-women-in-business-podcast-recommendations.opml
