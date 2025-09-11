@@ -3617,101 +3617,55 @@ issues:
 
 - name: 'BIPOC Women in Business: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-bipoc-women-in-business-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2022-12-15
   htmlUrl: https://newsletter.earbuds.audio/p/bipoc-women-business-podcast-recommendations
   podcasts:
 
-  - title: Five podcast episodes on a theme, each week curated by a different person
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: 'BIPOC: Women in Business💼'
-    htmlUrl: null
-    xmlUrl: null
-
   - title: Mistakes That Made Me
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://emancopyco.com/podcast
+    xmlUrl: https://podcasts.helloaudio.fm/podcast/820a52e8-c8b5-4cb6-a02a-f1d2d6909a73/UkJG4wHjcw
 
-  - title: The Get Paid Podcast
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'The Get Paid Podcast: The Stark Reality of Entrepreneurship and Being Your Own Boss'
+    htmlUrl: http://clairepells.libsyn.com/podcast
+    xmlUrl: https://clairepells.libsyn.com/rss
 
-  - title: Hello Seven
-    htmlUrl: null
-    xmlUrl: null
+  - title: Hello Seven Podcast
+    htmlUrl: https://helloseven.co/pod
+    xmlUrl: https://feeds.buzzsprout.com/2508840.rss
 
-  - title: The Lie That Binds
-    htmlUrl: null
-    xmlUrl: null
+  - title: Ready Enough
+    htmlUrl: http://readyenoughpodcast.com/
+    xmlUrl: https://readyenough.libsyn.com/rss
 
-  - title: The Electorette
-    htmlUrl: null
-    xmlUrl: null
+  - title: The Black Girl Business Bar
+    htmlUrl: https://khalidadubose.com/
+    xmlUrl: https://feeds.transistor.fm/the-black-girl-business-bar
 
-- name: The Story Behind Women's Healthcare🩺 [with the Vocaster]
+- name: The Story Behind Women's Healthcare 🩺 [with the Vocaster]
   opml: earbuds-podcast-recommendations-the-story-behind-womens-healthcare-with-the-vocaster.opml
-  date: 1970-01-01
+  date: 2022-12-11
   htmlUrl: https://newsletter.earbuds.audio/p/story-behind-womens-healthcare-vocaster
   podcasts:
 
-  - title: Five podcast episodes on a theme, each week curated by a different person
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: The Story Behind Women's Healthcare🩺
-    htmlUrl: null
-    xmlUrl: null
-
   - title: The Story of Woman
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.thestoryofwomanpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/the-story-of-woman
 
-  - title: Natal
-    htmlUrl: null
-    xmlUrl: null
+  - title: NATAL
+    htmlUrl: http://www.natalstories.com/listen
+    xmlUrl: https://feeds.simplecast.com/oUcYVtnR
 
   - title: Hormonal
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://helloclue.com/podcast/hormonal-podcast-clue
+    xmlUrl: https://hormonal-clue.libsyn.com/rss
 
   - title: The Lie That Binds
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://the-lie-that-binds.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/nHcLm2RI
 
-  - title: The Electorette
-    htmlUrl: null
-    xmlUrl: null
-
-- name: The Story Behind Women's Healthcare🩺
-  opml: earbuds-podcast-recommendations-the-story-behind-womens-healthcare.opml
-  date: 1970-01-01
-  htmlUrl: https://newsletter.earbuds.audio/p/story-behind-womens-healthcare
-  podcasts:
-
-  - title: The Story Behind Women's Healthcare🩺
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: The Story of Woman
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Natal
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Hormonal
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: The Lie That Binds
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: The Electorette
-    htmlUrl: null
-    xmlUrl: null
+  - title: The Electorette Podcast
+    htmlUrl: https://www.electorette.com/podcast
+    xmlUrl: https://feeds.megaphone.fm/ADV9983865756
 
 - name: Thanks for entering the Focusrite Vocaster contest
   opml: earbuds-podcast-recommendations-thanks-for-entering-the-focusrite-vocaster-contest.opml
@@ -3719,107 +3673,83 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/thanks-entering-focusrite-vocaster-contest
   podcasts:
 
-- name: 'Entertainment in the Spotlight: Podcast Picks🎥'
+- name: 'Entertainment in the Spotlight: Podcast Picks 🎥'
   opml: earbuds-podcast-recommendations-entertainment-in-the-spotlight-podcast-picks.opml
-  date: 1970-01-01
+  date: 2022-12-04
   htmlUrl: https://newsletter.earbuds.audio/p/entertainment-spotlight-podcast-picks
   podcasts:
 
-  - title: Entertainment in the Spotlight🎥
-    htmlUrl: null
-    xmlUrl: null
-
   - title: Skytalkers
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://skytalkers.com/
+    xmlUrl: https://feeds.megaphone.fm/EERMB6974412028
 
-  - title: 'Let''s Talk: Marvel Fan Theories'
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'Sisters Assembled: A Marvel Theory Podcast'
+    htmlUrl: https://sistersassembled.wordpress.com/
+    xmlUrl: https://anchor.fm/s/5d5492d4/podcast/rss
 
   - title: National Treasure Hunt
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://nthuntpodcast.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:839883346/sounds.rss
 
   - title: All Songs Considered
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.npr.org/podcasts/510019/all-songs-considered
+    xmlUrl: https://feeds.npr.org/510019/podcast.xml
 
   - title: Pop Culture Happy Hour
-    htmlUrl: null
-    xmlUrl: null
-
-- name: Entertainment in the Spotlight 🎥
-  opml: earbuds-podcast-recommendations-entertainment-in-the-spotlight.opml
-  date: 1970-01-01
-  htmlUrl: https://newsletter.earbuds.audio/p/entertainment-spotlight
-  podcasts:
-
-  - title: Skytalkers
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: 'Let''s Talk Marvel: Fan Theories'
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: National Treasure Hunt
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: All Songs Considered
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Pop Culture Happy Hour
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.npr.org/podcasts/510282/pop-culture-happy-hour
+    xmlUrl: https://feeds.npr.org/510282/podcast.xml
 
 - name: Documentary-style podcast recommendations 💭
   opml: earbuds-podcast-recommendations-documentary-style-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2022-11-28
   htmlUrl: https://newsletter.earbuds.audio/p/documentarystyle-podcast-recommendations
   podcasts:
 
+  - title: Floodlines
+    htmlUrl: https://www.theatlantic.com/podcasts/floodlines
+    xmlUrl: https://feeds.megaphone.fm/floodlines
+
+  - title: The Experiment
+    htmlUrl: https://www.wnycstudios.org/podcasts/experiment
+    xmlUrl: https://feeds.feedburner.com/experiment_podcast
+
+  - title: The Sum of Us
+    htmlUrl: https://art19.com/shows/the-sum-of-us
+    xmlUrl: https://rss.art19.com/the-sum-of-us
+
   - title: 'Bundyville: The Remnant'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.opb.org/news/article/bundyville-occupation-podcast/
+    xmlUrl: https://www.spreaker.com/show/2909285/episodes/feed
 
-  - title: Making
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'Making: Stories Without End'
+    htmlUrl: https://www.wbez.org/shows/making/71b8de57-b2be-4e03-8481-683258de3ec1
+    xmlUrl: https://wbez-rss.streamguys1.com/making/making.xml
 
-- name: 'Thinky Documentaries: Podcast Recommendations 💭'
-  opml: earbuds-podcast-recommendations-thinky-documentaries-podcast-recommendations.opml
-  date: 1970-01-01
-  htmlUrl: https://newsletter.earbuds.audio/p/thinky-documentaries-podcast-recommendations
-  podcasts:
-
-  - title: Bundyville
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Making
-    htmlUrl: null
-    xmlUrl: null
-
-- name: Listen to Canadians, eh?🍁
+- name: Listen to Canadians, eh? ss🍁
   opml: earbuds-podcast-recommendations-listen-to-canadians-eh.opml
-  date: 1970-01-01
+  date: 2022-11-20
   htmlUrl: https://newsletter.earbuds.audio/p/listen-canadians-eh
   podcasts:
 
-  - title: Playing with Marbles
-    htmlUrl: null
-    xmlUrl: null
+  - title: Playing With Marbles
+    htmlUrl: https://playing-with-marbles.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/7Xc0rdsG
+
+  - title: Darts and Letters
+    htmlUrl: https://dartsandletters.ca/
+    xmlUrl: https://dartsandletters.ca/category/podcast/feed/podcast/
+
+  - title: Pullback
+    htmlUrl: https://www.pullback.org/
+    xmlUrl: https://feed.podbean.com/pullback/feed.xml
 
   - title: We Really Like Her!
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.spreaker.com/podcast/we-really-like-her--2984196
+    xmlUrl: https://www.spreaker.com/show/2984196/episodes/feed
 
-  - title: Métis in Space
-    htmlUrl: null
-    xmlUrl: null
+  - title: Métis In Space
+    htmlUrl: https://soundcloud.com/m-tis-in-space
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:107311030/sounds.rss
 
 - name: 'Climate in Disguise: Podcast Recommendations 🌏'
   opml: earbuds-podcast-recommendations-climate-in-disguise-podcast-recommendations.opml
