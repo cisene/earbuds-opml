@@ -3753,233 +3753,159 @@ issues:
 
 - name: 'Climate in Disguise: Podcast Recommendations 🌏'
   opml: earbuds-podcast-recommendations-climate-in-disguise-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2022-11-10
   htmlUrl: https://newsletter.earbuds.audio/p/climate-disguise-podcast-recommendations
   podcasts:
 
   - title: Reveal
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.revealnews.org/
+    xmlUrl: https://feeds.revealradio.org/revealpodcast
+
+  - title: Behind the Bastards
+    htmlUrl: https://www.iheart.com/podcast/105-behind-the-bastards-29236323/
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/E5F91208-CC7E-4726-A312-AE280140AD11/D64F756D-6D5E-4FAE-B24F-AE280140AD36/podcast.rss
+
+  - title: Floodlines
+    htmlUrl: https://www.theatlantic.com/podcasts/floodlines
+    xmlUrl: https://feeds.megaphone.fm/floodlines
 
   - title: Scene on Radio
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.sceneonradio.org/
+    xmlUrl: https://feeds.sceneonradio.org/SceneOnRadio
 
   - title: This Land
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://crooked.com/
+    xmlUrl: https://feeds.simplecast.com/HfcT5ZOx
 
 - name: 'For Bleat''s Sake: Animals Podcast Recommendations'
   opml: earbuds-podcast-recommendations-for-bleats-sake-animals-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2022-11-06
   htmlUrl: https://newsletter.earbuds.audio/p/bleats-sake-animals-podcast-recommendations
   podcasts:
 
   - title: Cidiot
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.cidiot.com/
+    xmlUrl: https://anchor.fm/s/5362310/podcast/rss
+
+  - title: 'The Dogist: Talking Dogs'
+    htmlUrl: https://thedogisttalkingdogs.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/1648495.rss
+
+  - title: Herd Around the Barn
+    htmlUrl: https://casanctuary.org/
+    xmlUrl: https://feeds.blubrry.com/feeds/catskill_conversations.xml
 
   - title: Ologies with Alie Ward
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/FO6kxYGj
 
-  - title: Azure Farm
-    htmlUrl: null
-    xmlUrl: null
-
-- name: 'For Bleat''s Sake: Animals!'
-  opml: earbuds-podcast-recommendations-for-bleats-sake-animals.opml
-  date: 1970-01-01
-  htmlUrl: https://newsletter.earbuds.audio/p/bleats-sake-animals
-  podcasts:
-
-  - title: Cidiot
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Ologies with Alie Ward
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Azure Farm
-    htmlUrl: null
-    xmlUrl: null
+  - title: Happy Farmily
+    htmlUrl: https://azurefarm.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/BQg11wnF
 
 - name: Spooky Funny Fun Podcast Recommendations for Halloween 🎃
   opml: earbuds-podcast-recommendations-spooky-funny-fun-podcast-recommendations-for-halloween.opml
-  date: 1970-01-01
+  date: 2022-10-30
   htmlUrl: https://newsletter.earbuds.audio/p/spooky-funny-fun-podcast-recommendations-halloween
   podcasts:
 
-  - title: 2 Spooky 2 Handle
-    htmlUrl: null
-    xmlUrl: null
+  - title: Earwolf Presents
+    htmlUrl: http://www.earwolf.com/show/earwolf-presents/
+    xmlUrl: https://feeds.simplecast.com/ZlSGqqQ5
+
+  - title: How Did This Get Made?
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/Ao0C24M8
+
+  - title: The Atlas Obscura Podcast
+    htmlUrl: http://siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/xKJ93w_w
 
   - title: The Big Picture
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.theringer.com/
+    xmlUrl: https://feeds.megaphone.fm/the-big-picture
 
-  - title: Las Culturistas
-    htmlUrl: null
-    xmlUrl: null
-
-- name: 'Spooky Funny Fun Theme: Podcast Recommendations'
-  opml: earbuds-podcast-recommendations-spooky-funny-fun-theme-podcast-recommendations.opml
-  date: 1970-01-01
-  htmlUrl: https://newsletter.earbuds.audio/p/spooky-funny-fun-theme-podcast-recommendations
-  podcasts:
-
-  - title: 2 Spooky 2 Handle
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: The Big Picture
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Las Culturistas
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: 'Dropping TOMORROW, exclusively on '
-    htmlUrl: null
-    xmlUrl: null
+  - title: Las Culturistas with Matt Rogers and Bowen Yang
+    htmlUrl: https://twitter.com/LasCulturistas
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/F6816727-C503-47AC-A7AC-AE2700391B1E/935C500F-8BB0-436B-BA7F-AE2700391B49/podcast.rss
 
 - name: 'Inside Cults: Podcast Recommendations 😬'
   opml: earbuds-podcast-recommendations-inside-cults-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2022-10-23
   htmlUrl: https://newsletter.earbuds.audio/p/inside-cults-podcast-recommendations
   podcasts:
 
-  - title: The Influence Continuum with Dr. Steven Hassan
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'Cult Conversations: The Influence Continuum with Dr. Steve Hassan'
+    htmlUrl: https://freedomofmind.com/
+    xmlUrl: https://feeds.megaphone.fm/PDR2548929483
+
+  - title: Worldwide
+    htmlUrl: https://www.buzzsprout.com/1986654
+    xmlUrl: https://feeds.buzzsprout.com/1986654.rss
+
+  - title: A Little Bit Culty
+    htmlUrl: https://art19.com/shows/a-little-bit-culty
+    xmlUrl: https://rss.pdrl.fm/894de1/feeds.libsyn.com/477021/rss
 
   - title: Heaven's Gate
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/_fgFt7Dr
 
   - title: Twin Flames
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://wondery.com/shows/twin-flames/
+    xmlUrl: https://rss.art19.com/twin-flames
 
 - name: Climate Podcasts That'll Change You 🌍
   opml: earbuds-podcast-recommendations-climate-podcasts-thatll-change-you.opml
-  date: 1970-01-01
+  date: 2022-10-16
   htmlUrl: https://newsletter.earbuds.audio/p/climate-podcasts-thatll-change
   podcasts:
 
   - title: Hazard NJ
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://hazardnj.podbean.com/
+    xmlUrl: https://feed.podbean.com/HazardNJ/feed.xml
+
+  - title: Threshold
+    htmlUrl: http://www.thresholdpodcast.org/
+    xmlUrl: https://feeds.captivate.fm/threshold/
 
   - title: Damages
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.criticalfrequency.org/
+    xmlUrl: https://feeds.megaphone.fm/CFQ6859908749
 
   - title: Indigenous Climate Action Pod
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.indigenousclimateaction.com/
+    xmlUrl: https://indigenousclimateactionpod.libsyn.com/rss
 
-  - title: Climate Change and Environmental Racism
-    htmlUrl: null
-    xmlUrl: null
-
-- name: 'Listening is Powerful: Climate Podcasts That Will Leave You Changed'
-  opml: earbuds-podcast-recommendations-listening-is-powerful-climate-podcasts-that-will-leave-you-changed.opml
-  date: 1970-01-01
-  htmlUrl: https://newsletter.earbuds.audio/p/listening-powerful-climate-podcasts-will-leave-changed
-  podcasts:
-
-  - title: Hazard NJ
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Damages
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Indigenous Climate Action Pod
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Climate Change and Environmental Racism
-    htmlUrl: null
-    xmlUrl: null
-
-- name: 'Listening is Powerful: Podcast Recommendations🎧'
-  opml: earbuds-podcast-recommendations-listening-is-powerful-podcast-recommendations.opml
-  date: 1970-01-01
-  htmlUrl: https://newsletter.earbuds.audio/p/listening-powerful-podcast-recommendations
-  podcasts:
-
-  - title: Hazard NJ
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Damages
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Indigenous Climate Action Pod
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Climate Change and Environmental Racism
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'Environmental Racism: A Conversation From the Point of View of Kids W/ Amelia T-W and Lucy Yu'
+    htmlUrl: https://anchor.fm/lucy-yu7
+    xmlUrl: https://anchor.fm/s/534aa60c/podcast/rss
 
 - name: 'More Than Interviews with Musicians: Podcast Recommendations 🎹'
   opml: earbuds-podcast-recommendations-more-than-interviews-with-musicians-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2022-10-09
   htmlUrl: https://newsletter.earbuds.audio/p/interviews-musicians-podcast-recommendations
   podcasts:
 
   - title: The Ballad of Billy Balls
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.iheart.com/podcast/1119-the-ballad-of-billy-balls-96938834/
+    xmlUrl: http://feeds.feedburner.com/rfk-tapes
 
-  - title: About a Girl
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Waiting for Impact
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Fresh Off the Spaceship
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Lived Through That
-    htmlUrl: null
-    xmlUrl: null
-
-- name: 'More than Interview with Musicians: Podcast Recommendations'
-  opml: earbuds-podcast-recommendations-more-than-interview-with-musicians-podcast-recommendations.opml
-  date: 1970-01-01
-  htmlUrl: https://newsletter.earbuds.audio/p/interview-musicians-podcast-recommendations
-  podcasts:
-
-  - title: The Ballad of Billy Balls
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: About a Girl
-    htmlUrl: null
-    xmlUrl: null
+  - title: About A Girl
+    htmlUrl: https://www.iheart.com/podcast/1119-about-a-girl-74231097/
+    xmlUrl: https://feeds.megaphone.fm/DEP6712378524
 
   - title: Waiting for Impact
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.exactlyrightmedia.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/1eaf8183-c7a0-4180-8607-b24c01166a91/a829e3b9-91d7-47cc-a60f-b24c01166aa8/podcast.rss
 
-  - title: Fresh Off the Spaceship
-    htmlUrl: null
-    xmlUrl: null
+  - title: Fresh off the Spaceship
+    htmlUrl: https://www.kexp.org/fresh-off-the-spaceship/
+    xmlUrl: https://www.omnycontent.com/d/playlist/bad5d079-8dcb-4630-8770-aa090049131d/542fd613-90d6-469c-96f6-ae40016f4e30/dda37ebf-408d-48a9-9027-ae40017133da/podcast.rss
 
   - title: Lived Through That
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.hipphoto.com/
+    xmlUrl: https://feeds.megaphone.fm/livedthroughthat
 
 - name: 'When Someone You ❤️ Has Breast Cancer: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-when-someone-you-love-has-breast-cancer-podcast-recommendations.opml
