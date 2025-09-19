@@ -5,6 +5,58 @@ global:
   title: EarBuds Podcast Recommendations
 issues:
 
+- name: 5 Niche History Podcasts📜
+  opml: earbuds-podcast-recommendations-5-niche-history-podcasts.opml
+  date: 2025-09-14
+  htmlUrl: https://newsletter.earbuds.audio/p/5-niche-history-podcast-recommendations
+  podcasts:
+
+  - title: Southern Gothic
+    htmlUrl: https://www.southerngothicmedia.com/
+    xmlUrl: https://feeds.megaphone.fm/ARML5182692989
+
+  - title: Who Was She?
+    htmlUrl: https://shows.acast.com/who-was-she-podcast
+    xmlUrl: https://feeds.acast.com/public/shows/5ffc97d0e392c8181f6435ea
+
+  - title: Dark History
+    htmlUrl: https://audioboom.com/channels/5052009
+    xmlUrl: https://audioboom.com/channels/5052009.rss
+
+  - title: Redacted History
+    htmlUrl: https://www.tiktok.com/@blackkout___
+    xmlUrl: https://feeds.megaphone.fm/ARML1766556837
+
+  - title: You Must Remember This
+    htmlUrl: http://youmustrememberthispodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/YMRT7068253588
+
+- name: 5 Comedy Podcasts That Roast Late-Stage Capitalism 💸
+  opml: earbuds-podcast-recommendations-5-comedy-podcasts-that-roast-late-stage-capitalism.opml
+  date: 2025-09-07
+  htmlUrl: https://newsletter.earbuds.audio/p/5-comedy-podcasts-that-roast-late-stage-capitalism
+  podcasts:
+
+  - title: StanLand
+    htmlUrl: https://shows.acast.com/stanland
+    xmlUrl: https://feeds.acast.com/public/shows/6761ab1bf4445443731a441c
+
+  - title: Srsly Wrong
+    htmlUrl: https://srslywrong.com/category/podcast/
+    xmlUrl: http://feeds.feedburner.com/SrslyWrong
+
+  - title: Trillbilly Worker's Party
+    htmlUrl: https://soundcloud.com/user-972848621-463073718
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:300222802/sounds.rss
+
+  - title: Evil Men
+    htmlUrl: https://www.spreaker.com/show/evil-men
+    xmlUrl: https://www.spreaker.com/show/4957269/episodes/feed
+
+  - title: Fake the Nation
+    htmlUrl: https://headgum.com/fake-the-nation
+    xmlUrl: https://rss.art19.com/fake-the-nation
+
 - name: 5 Podcasts To Feed Your Nostalgia
   opml: earbuds-podcast-recommendations-5-podcasts-to-feed-your-nostalgia.opml
   date: 2025-09-01
