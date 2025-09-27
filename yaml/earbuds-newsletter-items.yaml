@@ -4013,29 +4013,29 @@ issues:
 
 - name: 'More Than a Stereotype: Podcasts Celebrating Latine Heritage Month'
   opml: earbuds-podcast-recommendations-more-than-a-stereotype-podcasts-celebrating-latine-heritage-month.opml
-  date: 1970-01-01
+  date: 2022-09-25
   htmlUrl: https://newsletter.earbuds.audio/p/stereotype-podcasts-celebrating-latine-heritage-month
   podcasts:
 
-  - title: The Pulso Podcast
-    htmlUrl: null
-    xmlUrl: null
+  - title: In Confianza
+    htmlUrl: https://projectpulso.org/podcast/
+    xmlUrl: https://feeds.captivate.fm/in-confianza-podcast/
 
-  - title: Anything for Selena
-    htmlUrl: null
-    xmlUrl: null
+  - title: Anything For Selena
+    htmlUrl: https://www.wbur.org/podcasts/anythingforselena
+    xmlUrl: https://rss.wbur.org/anythingforselena/podcast
 
-  - title: 'Con Todo Presents: Brown Love Podcast'
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'Con Todo: Brown Love'
+    htmlUrl: https://www.netflix.com/tudum/podcasts
+    xmlUrl: https://feeds.megaphone.fm/NETFLIX7507446558
 
   - title: Latinas From The Block To The Boardroom
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.latinasb2b.com/
+    xmlUrl: https://audioboom.com/channels/4994199.rss
 
-  - title: How to Talk to [Mamí & Papí about Anything
-    htmlUrl: null
-    xmlUrl: null
+  - title: How to Talk to [Mamí & Papí] about Anything
+    htmlUrl: https://talktomamipapi.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/WFtC2nwe
 
 - name: Podcasts of Nigerian Origin 🇳🇬
   opml: earbuds-podcast-recommendations-podcasts-of-nigerian-origin.opml
