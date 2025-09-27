@@ -5,6 +5,32 @@ global:
   title: EarBuds Podcast Recommendations
 issues:
 
+- name: Podcasts for kids that adults won't mind (maybe even enjoy)
+  opml: earbuds-podcast-recommendations-podcasts-for-kids-that-adults-wont-mind.opml
+  date: 2025-09-21
+  htmlUrl: https://newsletter.earbuds.audio/p/kids-podcasts-for-adults-too
+  podcasts:
+
+  - title: If Objects Could Talk
+    htmlUrl: https://www.getty.edu/podcasts/if-objects-could-talk/
+    xmlUrl: https://feeds.blubrry.com/feeds/3955145.xml
+
+  - title: Grimm, Grimmer, Grimmest
+    htmlUrl: https://pinna.fm/
+    xmlUrl: https://feeds.megaphone.fm/PNA9230679490
+
+  - title: Circle Round
+    htmlUrl: https://www.wbur.org/podcasts/circleround
+    xmlUrl: https://rss.wbur.org/circleround/podcast
+
+  - title: Smologies with Alie Ward
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/s1I4c1jt
+
+  - title: Live from Mount Olympus
+    htmlUrl: https://play.prx.org/listen?uf=https%3A%2F%2Ffeeds.feedburner.com%2FLiveFromMountOlympus
+    xmlUrl: https://feeds.feedburner.com/LiveFromMountOlympus
+
 - name: 5 Niche History Podcasts📜
   opml: earbuds-podcast-recommendations-5-niche-history-podcasts.opml
   date: 2025-09-14
