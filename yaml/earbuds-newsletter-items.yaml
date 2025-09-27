@@ -4039,29 +4039,29 @@ issues:
 
 - name: Podcasts of Nigerian Origin 🇳🇬
   opml: earbuds-podcast-recommendations-podcasts-of-nigerian-origin.opml
-  date: 1970-01-01
+  date: 2022-09-22
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-nigerian-origin
   podcasts:
 
   - title: YOUNG IN LOVE
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://linktr.ee/younginlovepodcast
+    xmlUrl: https://anchor.fm/s/e118b50/podcast/rss
 
   - title: Queen Raffy's Space
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.podpage.com/queen-raffys-space/
+    xmlUrl: https://anchor.fm/s/1da6de8/podcast/rss
 
   - title: Precious Moments
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://podcasters.spotify.com/pod/show/precious-samson
+    xmlUrl: https://anchor.fm/s/229b5c7c/podcast/rss
 
   - title: Cha Cha Music Review Podcast
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://jamit.app/podcast/cha-cha-music-review-podcast
+    xmlUrl: https://feed.jamit.app/0x4F945bC2EcC1fA3f5A78c4A30A8A240D97F8939E/rss
 
-  - title: The Tony Doe Podcast
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'The Tony Doe Podcast: Voices Behind Radio'
+    htmlUrl: https://afripods.com/podcast/the-tony-doe-podcast-voices-behi/the-tony-doe-podcast
+    xmlUrl: https://anchor.fm/s/6eaa398/podcast/rss
 
 - name: '✨ Spotlight On: Neurodivergent Podcasters'
   opml: earbuds-podcast-recommendations-spotlight-on-neurodivergent-podcasters.opml
