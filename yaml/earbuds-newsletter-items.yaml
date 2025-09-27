@@ -3987,29 +3987,29 @@ issues:
 
 - name: 'When Someone You ❤️ Has Breast Cancer: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-when-someone-you-love-has-breast-cancer-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2022-10-02
   htmlUrl: https://newsletter.earbuds.audio/p/someone-breast-cancer-podcast-recommendations
   podcasts:
 
   - title: Breast Cancer Stories
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.breastcancerstoriespodcast.com/
+    xmlUrl: https://www.spreaker.com/show/5812154/episodes/feed
 
-  - title: 'Handle With CARE: Cancer & Beyond'
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'Handle with CARE: Cancer & Beyond'
+    htmlUrl: https://www.spreaker.com/show/handle-with-care-breast-cancer-beyond
+    xmlUrl: https://www.spreaker.com/show/4516384/episodes/feed
 
   - title: Dear Cancer, I'm Beautiful
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.cancerfashionista.com/
+    xmlUrl: https://dearcancerimbeautiful.libsyn.com/rss
 
   - title: The Breast of Everything
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://thebreastofeverything.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/1428550.rss
 
   - title: The Burn
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.wildfirecommunity.org/the-burn
+    xmlUrl: https://feeds.captivate.fm/the-burn/
 
 - name: 'More Than a Stereotype: Podcasts Celebrating Latine Heritage Month'
   opml: earbuds-podcast-recommendations-more-than-a-stereotype-podcasts-celebrating-latine-heritage-month.opml
