@@ -4091,29 +4091,29 @@ issues:
 
 - name: Books & Reading 📚 Podcast Recommendations
   opml: earbuds-podcast-recommendations-books-reading-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2022-09-04
   htmlUrl: https://newsletter.earbuds.audio/p/books-reading-podcast-recommendations
   podcasts:
 
   - title: What Should I Read Next?
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://whatshouldireadnextpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/ARML2867767043
 
-  - title: Book Riot
-    htmlUrl: null
-    xmlUrl: null
+  - title: Book Riot - The Podcast
+    htmlUrl: https://bookriot.com/listen/shows/thepodcast/
+    xmlUrl: https://feeds.megaphone.fm/RNMG7301081241
 
   - title: Black Chick Lit
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://blackchicklit.com/series/black-chick-lit/
+    xmlUrl: https://blackchicklit.com/feed/podcast/black-chick-lit/
 
   - title: SFF Yeah!
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://bookriot.com/listen/shows/sffyeah/
+    xmlUrl: https://feeds.megaphone.fm/RNMG3903587800
 
-  - title: Reading and Writing Podcast
-    htmlUrl: null
-    xmlUrl: null
+  - title: Reading And Writing Podcast
+    htmlUrl: https://redcircle.com/shows/reading-and-writing-podcast
+    xmlUrl: https://feeds.redcircle.com/e65eaa2f-feda-4dde-b6fa-9f052e5926f8
 
 - name: Books, Reading, Books (TEST)
   opml: earbuds-podcast-recommendations-books-reading-books-test.opml
