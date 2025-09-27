@@ -4063,31 +4063,31 @@ issues:
     htmlUrl: https://afripods.com/podcast/the-tony-doe-podcast-voices-behi/the-tony-doe-podcast
     xmlUrl: https://anchor.fm/s/6eaa398/podcast/rss
 
-- name: '✨ Spotlight On: Neurodivergent Podcasters'
+- name: 'Spotlight On: Neurodivergent Podcasters ✨'
   opml: earbuds-podcast-recommendations-spotlight-on-neurodivergent-podcasters.opml
-  date: 1970-01-01
+  date: 2022-09-11
   htmlUrl: https://newsletter.earbuds.audio/p/spotlight-neurodivergent-podcasters
   podcasts:
 
   - title: Aut-Hour
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.buzzsprout.com/1820129
+    xmlUrl: https://anchor.fm/s/101ad05b4/podcast/rss
 
-  - title: Different Minds
-    htmlUrl: null
-    xmlUrl: null
+  - title: The Different Minds podcast series
+    htmlUrl: https://www.johnofford.com/
+    xmlUrl: https://anchor.fm/s/1efb9e88/podcast/rss
 
   - title: 'Catie and Erik''s Infinite Quest: An ADHD Adventure'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.infinitequestpodcast.com/
+    xmlUrl: https://anchor.fm/s/3ab87498/podcast/rss
 
-  - title: 21andsensory
-    htmlUrl: null
-    xmlUrl: null
+  - title: 21andsensory Podcast
+    htmlUrl: https://linktr.ee/21andsensory
+    xmlUrl: https://anchor.fm/s/be3944/podcast/rss
 
   - title: Neurodivergent Moments
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://shows.acast.com/neurodivergent-moments
+    xmlUrl: https://feeds.acast.com/public/shows/621d333e83ff8c00129de286
 
 - name: Books & Reading 📚 Podcast Recommendations
   opml: earbuds-podcast-recommendations-books-reading-podcast-recommendations.opml
