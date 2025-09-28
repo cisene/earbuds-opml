@@ -4115,32 +4115,6 @@ issues:
     htmlUrl: https://redcircle.com/shows/reading-and-writing-podcast
     xmlUrl: https://feeds.redcircle.com/e65eaa2f-feda-4dde-b6fa-9f052e5926f8
 
-- name: Books, Reading, Books (TEST)
-  opml: earbuds-podcast-recommendations-books-reading-books-test.opml
-  date: 1970-01-01
-  htmlUrl: https://newsletter.earbuds.audio/p/books-reading-books-test
-  podcasts:
-
-  - title: Switched on Pop
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Object of Sound
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Switched on Pop
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Dolly Parton's America
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: '1619'
-    htmlUrl: null
-    xmlUrl: null
-
 - name: Music Untold
   opml: earbuds-podcast-recommendations-music-untold.opml
   date: 1970-01-01
