@@ -164,7 +164,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [The Story Behind Women's Healthcare 🩺 [with the Vocaster]](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-the-story-behind-womens-healthcare-with-the-vocaster.opml) | 2022-12-11 |
 | [Entertainment in the Spotlight: Podcast Picks 🎥](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-entertainment-in-the-spotlight-podcast-picks.opml) | 2022-12-04 |
 | [Documentary-style podcast recommendations 💭](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-documentary-style-podcast-recommendations.opml) | 2022-11-28 |
-| [Listen to Canadians, eh? ss🍁](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-listen-to-canadians-eh.opml) | 2022-11-20 |
+| [Listen to Canadians, eh? 🍁](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-listen-to-canadians-eh.opml) | 2022-11-20 |
 | [Climate in Disguise: Podcast Recommendations 🌏](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-climate-in-disguise-podcast-recommendations.opml) | 2022-11-10 |
 | [For Bleat's Sake: Animals Podcast Recommendations](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-for-bleats-sake-animals-podcast-recommendations.opml) | 2022-11-06 |
 | [Spooky Funny Fun Podcast Recommendations for Halloween 🎃](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-spooky-funny-fun-podcast-recommendations-for-halloween.opml) | 2022-10-30 |
