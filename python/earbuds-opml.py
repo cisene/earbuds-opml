@@ -160,7 +160,7 @@ def main():
 
 
       if item_count >= 1:
-        filepath = f"../opml/{issue_opml}"
+        filepath = f"../{issue_opml}"
         if not os.path.isfile(filepath):
           opml_contents = etree.tostring(opml, pretty_print=True, xml_declaration=True, encoding='UTF-8').decode()
           writeOPML(filepath, opml_contents)
