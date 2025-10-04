@@ -5,6 +5,32 @@ global:
   title: EarBuds Podcast Recommendations
 issues:
 
+- name: 5 Podcasts for Halloween Season
+  opml: earbuds-podcast-recommendations-5-podcasts-for-halloween-season.opml
+  date: 2025-09-28
+  htmlUrl: https://newsletter.earbuds.audio/p/5-podcasts-for-halloween-2025
+  podcasts:
+
+  - title: Another Fucking Horror Podcast
+    htmlUrl: https://www.anotherfuckinghorrorpodcast.com/
+    xmlUrl: https://anchor.fm/s/41a880f4/podcast/rss
+
+  - title: Rattled & Shook
+    htmlUrl: http://rattledandshook.com/
+    xmlUrl: https://feeds.megaphone.fm/rattled-and-shook
+
+  - title: WHAT WENT WRONG
+    htmlUrl: https://art19.com/shows/what-went-wrong
+    xmlUrl: https://rss.art19.com/what-went-wrong
+
+  - title: Who Shat On The Floor At My Wedding? And Other Crimes
+    htmlUrl: https://www.whoshatontheflooratmywedding.com/
+    xmlUrl: https://feeds.acast.com/public/shows/5f9c2cf7e4bd0c0d0a4cd1c8
+
+  - title: Wisecrack
+    htmlUrl: https://www.iheart.com/podcast/1119-wisecrack-288632921/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/55483b4b-5ee3-4291-975a-b32f01315538/fd91a0a6-19d1-4082-b8f7-b32f01315de8/podcast.rss
+
 - name: Podcasts for kids that adults won't mind (maybe even enjoy)
   opml: earbuds-podcast-recommendations-podcasts-for-kids-that-adults-wont-mind.opml
   date: 2025-09-21
