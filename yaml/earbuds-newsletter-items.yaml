@@ -5,6 +5,32 @@ global:
   title: EarBuds Podcast Recommendations
 issues:
 
+- name: 5 Funny True Crime Podcasts 🕵️‍♀️
+  opml: earbuds-podcast-recommendations-5-funny-true-crime-podcasts.opml
+  date: 2025-10-12
+  htmlUrl: https://newsletter.earbuds.audio/p/5-funny-true-crime-podcasts
+  podcasts:
+
+  - title: Inside the Tent with Campside Media
+    htmlUrl: https://join.campsidemedia.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/2734084.rss
+
+  - title: The Shrink Next Door
+    htmlUrl: https://wondery.com/shows/shrink-next-door/
+    xmlUrl: https://rss.art19.com/the-shrink-next-door
+
+  - title: Wind of Change
+    htmlUrl: https://crooked.com/podcast-series/wind-of-change/
+    xmlUrl: https://feeds.megaphone.fm/wind-of-change-wide
+
+  - title: Ghost Story
+    htmlUrl: https://wondery.com/shows/ghost-story/
+    xmlUrl: https://rss.art19.com/ghost-story
+
+  - title: Who Shat On The Floor At My Wedding? And Other Crimes
+    htmlUrl: https://www.whoshatontheflooratmywedding.com/
+    xmlUrl: https://feeds.acast.com/public/shows/5f9c2cf7e4bd0c0d0a4cd1c8
+
 - name: 5 Podcasts Answering Your Midnight Mental Health Questions
   opml: earbuds-podcast-recommendations-5-podcasts-answering-your-midnight-mental-health-questions.opml
   date: 2025-10-05
