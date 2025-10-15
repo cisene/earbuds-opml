@@ -17,6 +17,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 
 | Weekly issus of the Earbuds Podcast Collective Newletters                           | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [5 Podcasts Answering Your Midnight Mental Health Questions](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-podcasts-answering-your-midnight-mental-health-questions.opml) | 2025-10-05 |
 | [5 Podcasts for Halloween Season](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-podcasts-for-halloween-season.opml) | 2025-09-28 |
 | [Podcasts for kids that adults won't mind (maybe even enjoy)](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-podcasts-for-kids-that-adults-wont-mind.opml) | 2025-09-21 |
 | [5 Niche History Podcasts📜](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-niche-history-podcasts.opml) | 2025-09-14 |

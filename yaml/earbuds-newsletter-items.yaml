@@ -5,6 +5,32 @@ global:
   title: EarBuds Podcast Recommendations
 issues:
 
+- name: 5 Podcasts Answering Your Midnight Mental Health Questions
+  opml: earbuds-podcast-recommendations-5-podcasts-answering-your-midnight-mental-health-questions.opml
+  date: 2025-10-05
+  htmlUrl: https://newsletter.earbuds.audio/p/therapy-mental-health-podcast-recommendations-2025
+  podcasts:
+
+  - title: What Your Therapist Thinks
+    htmlUrl: https://www.besttherapists.com/podcast
+    xmlUrl: https://feeds.captivate.fm/wytt/
+
+  - title: Unlocking Us with Brené Brown
+    htmlUrl: https://brenebrown.com/
+    xmlUrl: https://feeds.megaphone.fm/GLT4889391284
+
+  - title: Therapy for Black Girls
+    htmlUrl: https://therapyforblackgirls.com/podcast
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2a22ac04-0eb4-4aad-8dc2-ae270179efb9/2d42d89c-4962-4760-a616-ae270179efd5/podcast.rss
+
+  - title: The Bad Therapist Show
+    htmlUrl: https://the-bad-therapist-show.captivate.fm/
+    xmlUrl: https://feeds.captivate.fm/the-bad-therapist-show/
+
+  - title: Ask Kati Anything
+    htmlUrl: https://www.katimorton.com/
+    xmlUrl: https://feeds.megaphone.fm/TBIEA2181106623
+
 - name: 5 Podcasts for Halloween Season
   opml: earbuds-podcast-recommendations-5-podcasts-for-halloween-season.opml
   date: 2025-09-28
