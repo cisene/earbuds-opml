@@ -4221,29 +4221,29 @@ issues:
 
 - name: Episodes to make you fall in love with podcasts
   opml: earbuds-podcast-recommendations-episodes-to-make-you-fall-in-love-with-podcasts.opml
-  date: 1970-01-01
+  date: 2022-08-21
   htmlUrl: https://newsletter.earbuds.audio/p/episodes-make-fall-love-podcasts
   podcasts:
 
   - title: The Shadows
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.cbc.ca/radio/podcasts/the-shadows/https://www.cbc.ca/radiointeractives/podcasts/the-shadows
+    xmlUrl: https://www.cbc.ca/podcasting/includes/theshadows.xml
 
-  - title: Millennial
-    htmlUrl: null
-    xmlUrl: null
+  - title: Dear Millennial With Megan Tan
+    htmlUrl: http://millennialpodcast.org/
+    xmlUrl: http://feeds.millennialpodcast.org/millennialpodcast
 
   - title: Still Processing
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.nytimes.com/podcasts/still-processing
+    xmlUrl: https://feeds.simplecast.com/YXhATe6k
 
   - title: The Anthropocene Reviewed
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.wnycstudios.org/podcasts/anthropocene-reviewed
+    xmlUrl: https://feeds.simplecast.com/p7S4nr_h
 
   - title: Life Sentence
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://life-sentence.simplecast.com/
+    xmlUrl: https://feeds.transistor.fm/life-sentence
 
 - name: How to Fall in Love with Podcasts
   opml: earbuds-podcast-recommendations-how-to-fall-in-love-with-podcasts.opml
