@@ -4195,33 +4195,29 @@ issues:
 
 - name: Music Untold
   opml: earbuds-podcast-recommendations-music-untold.opml
-  date: 1970-01-01
+  date: 2022-08-22
   htmlUrl: https://newsletter.earbuds.audio/p/music-untold
   podcasts:
 
-  - title: We're saying hello to lots of new subscribers this week!
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'Shattering Gleam: A Podcast About Music and Gender'
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/cNcXdupV
 
-  - title: Shattering Gleam
-    htmlUrl: null
-    xmlUrl: null
-
-  - title: Object of Sound
-    htmlUrl: null
-    xmlUrl: null
+  - title: Object Of Sound
+    htmlUrl: https://object-of-sound.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/RsbopKI8
 
   - title: Switched on Pop
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.switchedonpop.com/
+    xmlUrl: https://feeds.megaphone.fm/switchedonpop
 
   - title: Dolly Parton's America
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.wnycstudios.org/podcasts/dolly-partons-america
+    xmlUrl: https://feeds.feedburner.com/dolly-partons-america
 
   - title: '1619'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://1619.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/6HzeyO6b
 
 - name: Episodes to make you fall in love with podcasts
   opml: earbuds-podcast-recommendations-episodes-to-make-you-fall-in-love-with-podcasts.opml
