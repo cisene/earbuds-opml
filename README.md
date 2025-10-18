@@ -180,6 +180,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [Books & Reading 📚 Podcast Recommendations](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-books-reading-podcast-recommendations.opml) | 2022-09-04 |
 | [Music Untold](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-music-untold.opml) | 2022-08-22 |
 | [Episodes to make you fall in love with podcasts](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-episodes-to-make-you-fall-in-love-with-podcasts.opml) | 2022-08-21 |
+| [Podcasts@Work](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-podcasts-work.opml) | 2022-08-14 |
 
 
 
