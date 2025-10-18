@@ -4272,30 +4272,30 @@ issues:
     xmlUrl: https://feeds.npr.org/510324/podcast.xml
 
 - name: Self-Acceptance & Self-Love
-  opml: earbuds-podcast-recommendations-self-acceptance-self-love.opml
-  date: 1970-01-01
+  opml: earbuds-podcast-recommendations-self-acceptance-and-self-love.opml
+  date: 2022-08-07
   htmlUrl: https://newsletter.earbuds.audio/p/selfacceptance-selflove
   podcasts:
 
   - title: Mind Love
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://soundcloud.com/mindlovepodcast
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:364268873/sounds.rss
 
-  - title: Highest Self Podcast
-    htmlUrl: null
-    xmlUrl: null
+  - title: Highest Self Podcast®
+    htmlUrl: http://highestself.libsyn.com/website
+    xmlUrl: https://highestself.libsyn.com/rss
 
-  - title: Awesome Inside Out Podcast
-    htmlUrl: null
-    xmlUrl: null
+  - title: Awesome Inside Out
+    htmlUrl: https://infoee.podbean.com/
+    xmlUrl: https://feed.podbean.com/infoee/feed.xml
 
   - title: Aubrey Marcus Podcast
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.aubreymarcus.com/
+    xmlUrl: https://anchor.fm/s/7dfcd3d4/podcast/rss
 
   - title: Hidden Brain
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/kwWc0lhf
 
 - name: Investigating Justice
   opml: earbuds-podcast-recommendations-investigating-justice.opml
