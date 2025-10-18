@@ -4299,29 +4299,29 @@ issues:
 
 - name: Investigating Justice
   opml: earbuds-podcast-recommendations-investigating-justice.opml
-  date: 1970-01-01
+  date: 2022-07-30
   htmlUrl: https://newsletter.earbuds.audio/p/investigating-justice
   podcasts:
 
   - title: The Kill List
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.cbc.ca/listen/cbc-podcasts
+    xmlUrl: https://www.cbc.ca/podcasting/includes/thekilllist.xml
 
-  - title: 'Stolen: Surviving St. Michael''s'
-    htmlUrl: null
-    xmlUrl: null
+  - title: Stolen
+    htmlUrl: 
+    xmlUrl: https://feeds.megaphone.fm/stolen-jermain-spot
 
   - title: Floodlines
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.theatlantic.com/podcasts/floodlines
+    xmlUrl: https://feeds.megaphone.fm/floodlines
 
   - title: Uncover
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.cbc.ca/radio/uncover
+    xmlUrl: https://www.cbc.ca/podcasting/includes/uncover.xml
 
-  - title: In The Dark
-    htmlUrl: null
-    xmlUrl: null
+  - title: APM Reports Documentaries
+    htmlUrl: https://www.apmreports.org/collection/documentaries
+    xmlUrl: https://feeds.publicradio.org/public_feeds/apm-reports-documentaries
 
 - name: Vibrant Matter
   opml: earbuds-podcast-recommendations-vibrant-matter.opml

@@ -182,6 +182,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [Episodes to make you fall in love with podcasts](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-episodes-to-make-you-fall-in-love-with-podcasts.opml) | 2022-08-21 |
 | [Podcasts@Work](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-podcasts-work.opml) | 2022-08-14 |
 | [Self-Acceptance & Self-Love](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-self-acceptance-and-self-love.opml) | 2022-08-07 |
+| [Investigating Justice](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-investigating-justice.opml) | 2022-07-30 |
 
 
 
