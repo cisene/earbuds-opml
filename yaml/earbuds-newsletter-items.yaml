@@ -4403,29 +4403,29 @@ issues:
 
 - name: Hopepunk Audio Dramas
   opml: earbuds-podcast-recommendations-hopepunk-audio-dramas.opml
-  date: 1970-01-01
+  date: 2022-07-15
   htmlUrl: https://newsletter.earbuds.audio/p/hopepunk-audio-dramas
   podcasts:
 
   - title: Null/Void
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://pocpodcasting.wixsite.com/pocpn/nullvoid
+    xmlUrl: https://pinecast.com/feed/null-void
 
   - title: Tales of the Echowood
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://echowoodpod.com/
+    xmlUrl: https://feeds.megaphone.fm/SBP6793888042
 
   - title: What Will Be Here?
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://wwbh.space/
+    xmlUrl: https://feeds.megaphone.fm/SBP8981458584
 
   - title: Desperado
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://desperadoradio.com/
+    xmlUrl: https://feeds.captivate.fm/desperado/
 
   - title: CARAVAN
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://art19.com/shows/caravan
+    xmlUrl: https://feeds.megaphone.fm/caravan
 
 - name: Hip-Hop History and Hustle
   opml: earbuds-podcast-recommendations-hip-hop-history-and-hustle.opml
