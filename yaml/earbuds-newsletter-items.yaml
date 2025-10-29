@@ -5,6 +5,32 @@ global:
   title: EarBuds Podcast Recommendations
 issues:
 
+- name: 5 Podcasts That Teach Us How to Build a Strong Community 💪
+  opml: earbuds-podcast-recommendations-5-podcasts-that-teach-us-how-to-build-a-strong-community.opml
+  date: 2025-10-19
+  htmlUrl: https://newsletter.earbuds.audio/p/5-podcasts-building-community-2025
+  podcasts:
+
+  - title: We Are North Nashville
+    htmlUrl: https://play.prx.org/listen?uf=https%3A%2F%2Fpublicfeeds.net%2Ff%2F8574%2Ffeed-rss.xml
+    xmlUrl: https://publicfeeds.net/f/8574/feed-rss.xml
+
+  - title: Mind Your Own with Lupita Nyong'o
+    htmlUrl: https://lemonadamedia.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/0e2277ec-19b2-4b33-b997-b1dc01457791/226ad1fb-173d-42e0-99f0-b1dc01477337/podcast.rss
+
+  - title: Movement with Meklit Hadero
+    htmlUrl: https://movementstories.com/
+    xmlUrl: https://publicfeeds.net/f/356/feed-rss.xml
+
+  - title: Code Switch
+    htmlUrl: https://www.npr.org/podcasts/510312/codeswitch
+    xmlUrl: https://feeds.npr.org/510312/podcast.xml
+
+  - title: 'Cultivating H.E.R. Space: Uplifting Conversations for the Black Woman'
+    htmlUrl: https://www.spreaker.com/podcast/cultivating-h-e-r-space-uplifting-conversations-for-the-black-woman--5470036
+    xmlUrl: https://www.spreaker.com/show/5470036/episodes/feed
+
 - name: 5 Funny True Crime Podcasts 🕵️‍♀️
   opml: earbuds-podcast-recommendations-5-funny-true-crime-podcasts.opml
   date: 2025-10-12
