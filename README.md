@@ -17,6 +17,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 
 | Weekly issus of the Earbuds Podcast Collective Newletters                           | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [5 Podcasts About The Mess Behind Success 🤕](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-podcasts-about-the-mess-behind-success.opml) | 2025-10-26 |
 | [5 Podcasts That Teach Us How to Build a Strong Community 💪](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-podcasts-that-teach-us-how-to-build-a-strong-community.opml) | 2025-10-19 |
 | [5 Funny True Crime Podcasts 🕵️‍♀️](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-funny-true-crime-podcasts.opml) | 2025-10-12 |
 | [5 Podcasts Answering Your Midnight Mental Health Questions](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-podcasts-answering-your-midnight-mental-health-questions.opml) | 2025-10-05 |

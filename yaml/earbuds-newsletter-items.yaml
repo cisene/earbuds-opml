@@ -5,6 +5,32 @@ global:
   title: EarBuds Podcast Recommendations
 issues:
 
+- name: 5 Podcasts About The Mess Behind Success 🤕
+  opml: earbuds-podcast-recommendations-5-podcasts-about-the-mess-behind-success.opml
+  date: 2025-10-26
+  htmlUrl: https://newsletter.earbuds.audio/p/5-business-podcasts-mess-success
+  podcasts:
+
+  - title: The Messy Parts
+    htmlUrl: https://themessypartspodcast.com/
+    xmlUrl: https://feeds.buzzsprout.com/2463801.rss
+
+  - title: How I Built This with Guy Raz
+    htmlUrl: https://wondery.com/shows/how-i-built-this/
+    xmlUrl: https://rss.art19.com/how-i-built-this
+
+  - title: No More Mondays
+    htmlUrl: https://careerbenders.com/nomoremondays
+    xmlUrl: https://nomoremondays.libsyn.com/rss
+
+  - title: The Unconventional Career Coach
+    htmlUrl: https://www.yourspacetothink.com/
+    xmlUrl: https://anchor.fm/s/dc1b7024/podcast/rss
+
+  - title: Wiser Than Me with Julia Louis-Dreyfus
+    htmlUrl: https://www.lemonadamedia.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/6bf95617-5ffc-4269-a957-afcc015a4d66/ca180b09-a8bc-4612-92fe-afcc015ae720/podcast.rss
+
 - name: 5 Podcasts That Teach Us How to Build a Strong Community 💪
   opml: earbuds-podcast-recommendations-5-podcasts-that-teach-us-how-to-build-a-strong-community.opml
   date: 2025-10-19
