@@ -46,11 +46,12 @@ def main():
 
   for issue in config['issues']:
     if "opml" in issue:
-      if str(issue['opml']) not in filenames:
-        filenames.append(str(issue['opml']))
-      else:
-        print(f"We found duplicate when attempted to add '{str(issue['opml'])}' to list")
-        exit(1)
+      if issue['opml'] != None:
+        if str(issue['opml']) not in filenames:
+          filenames.append(str(issue['opml']))
+        else:
+          print(f"We found duplicate when attempted to add '{str(issue['opml'])}' to list")
+          exit(1)
 
   issues_length = len(config['issues'])
   filenames_length = len(filenames)
