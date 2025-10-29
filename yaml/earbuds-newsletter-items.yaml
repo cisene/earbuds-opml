@@ -4429,29 +4429,29 @@ issues:
 
 - name: Hip-Hop History and Hustle
   opml: earbuds-podcast-recommendations-hip-hop-history-and-hustle.opml
-  date: 1970-01-01
+  date: 2022-07-10
   htmlUrl: https://newsletter.earbuds.audio/p/hiphop-history-hustle
   podcasts:
 
   - title: Louder Than A Riot
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.npr.org/podcasts/510357/louder-than-a-riot
+    xmlUrl: https://feeds.npr.org/510357/podcast.xml
 
   - title: What Had Happened Was
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://mikeeagle.net/stoneyisland
+    xmlUrl: https://feeds.megaphone.fm/whhw
 
   - title: 'Authentic: The Story Of Tablo'
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.iheart.com/podcast/1119-authentic-the-story-of-ta-92746732/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/7e73e21f-67ad-4bcb-a1cc-ae510011dbcc/16d1ad11-72db-4feb-b6fe-ae510011dbd5/podcast.rss
 
-  - title: Hip-Hop Can Save America
-    htmlUrl: null
-    xmlUrl: null
+  - title: Hip Hop Can Save America
+    htmlUrl: https://www.hiphopcansaveamerica.com/
+    xmlUrl: https://feeds.captivate.fm/hip-hop-can-save-america/
 
-  - title: Women in Hip Hop Podcast
-    htmlUrl: null
-    xmlUrl: null
+  - title: Women in Hip Hop Podcasts
+    htmlUrl: https://women-in-hip-hop-podcast.simplecast.com/
+    xmlUrl: https://feeds.megaphone.fm/RMTV7068368029
 
 - name: True Crime All Day
   opml: earbuds-podcast-recommendations-true-crime-all-day.opml
