@@ -57,19 +57,50 @@ def main():
     buffer.append(f"| ----------------------------------------------------------------------------------- | ---------- |")
 
     for issue in data['issues']:
-      #print(issue)
+      if "podcasts" in issue:
+        podcasts = issue['podcasts']
+        #print(podcasts, isinstance(podcasts, list))
 
-      if "podcasts" not in issue:
+        if podcasts == None:
+          continue
+
+        if isinstance(podcasts, list) == False:
+          continue
+
+        if len(podcasts) < 1:
+          continue
+
+        skip = False
+        for p in podcasts:
+          if p['title'] == None:
+            skip = True
+
+          if p['htmlUrl'] == None:
+            skip = True
+
+          if p['xmlUrl'] == None:
+            skip = True
+
+          if skip == True:
+            break
+
+        if skip == True:
+          continue
+
+        #print(podcasts)
+
+      else:
         continue
 
-      if issue['podcasts'] == None:
-        continue
-
-      if len(issue['podcasts']) < 1:
+      if "opml" in issue:
+        if len(str(issue['opml'])) < 1:
+          continue
+      else:
         continue
 
       if str(issue['date']) == "1970-01-01":
         continue
+
 
       line = []
     
