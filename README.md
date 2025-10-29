@@ -185,6 +185,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [Podcasts@Work](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-podcasts-work.opml) | 2022-08-14 |
 | [Self-Acceptance & Self-Love](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-self-acceptance-and-self-love.opml) | 2022-08-07 |
 | [Investigating Justice](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-investigating-justice.opml) | 2022-07-30 |
+| [Vibrant Matter](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-vibrant-matter.opml) | 2022-06-24 |
 
 
 

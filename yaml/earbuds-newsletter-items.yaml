@@ -4377,29 +4377,29 @@ issues:
 
 - name: Vibrant Matter
   opml: earbuds-podcast-recommendations-vibrant-matter.opml
-  date: 1970-01-01
+  date: 2022-06-24
   htmlUrl: https://newsletter.earbuds.audio/p/vibrant-matter
   podcasts:
 
   - title: Radio Atlas
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.radioatlas.org/series/radio-atlas/
+    xmlUrl: https://www.radioatlas.org/feed/podcast/
 
   - title: u+1f60c
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://www.jtgreen.me/u1f60c/
+    xmlUrl: https://james-green.squarespace.com/u1f60c?format=rss
 
-  - title: Immaterial
-    htmlUrl: null
-    xmlUrl: null
+  - title: 'Immaterial: 5,000 Years of Art, One Material at a Time'
+    htmlUrl: https://www.metmuseum.org/perspectives/series/immaterial-podcast
+    xmlUrl: https://www.omnycontent.com/d/playlist/f35d3ffe-1d69-46d6-89e7-b10000ed4148/84881ecc-61d8-41ac-b084-b14200fd0e2b/d06cbe75-01c5-4314-b12e-b14200fd0e39/podcast.rss
 
   - title: Constellations
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: https://constellationssounds.org/
+    xmlUrl: https://feed.podbean.com/constellations/feed.xml
 
   - title: Short Cuts
-    htmlUrl: null
-    xmlUrl: null
+    htmlUrl: http://www.bbc.co.uk/programmes/b01mk3f8
+    xmlUrl: https://podcasts.files.bbci.co.uk/b01mk3f8.rss
 
 - name: Hopepunk Audio Dramas
   opml: earbuds-podcast-recommendations-hopepunk-audio-dramas.opml
