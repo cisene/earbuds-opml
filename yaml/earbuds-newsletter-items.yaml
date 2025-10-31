@@ -5706,7 +5706,7 @@ issues:
 
 - name: Motherhood
   opml: earbuds-podcast-recommendations-motherhood.opml
-  date: 1970-01-01
+  date: 2021-12-13
   htmlUrl: https://newsletter.earbuds.audio/p/motherhood
   podcasts:
 
@@ -5730,9 +5730,15 @@ issues:
     htmlUrl: null
     xmlUrl: null
 
+- name: Motherhood
+  opml:
+  date: 2021-12-08
+  htmlUrl: https://newsletter.earbuds.audio/p/motherhood-254e
+  podcasts:
+
 - name: Divorce
   opml: earbuds-podcast-recommendations-divorce.opml
-  date: 1970-01-01
+  date: 2021-12-06
   htmlUrl: https://newsletter.earbuds.audio/p/divorce
   podcasts:
 
@@ -5756,9 +5762,15 @@ issues:
     htmlUrl: null
     xmlUrl: null
 
+- name: Divorce
+  opml:
+  date: 2021-12-03
+  htmlUrl: https://newsletter.earbuds.audio/p/divorce-551d
+  podcasts:
+
 - name: Caregivers Month
   opml: earbuds-podcast-recommendations-caregivers-month.opml
-  date: 1970-01-01
+  date: 2021-11-29
   htmlUrl: https://newsletter.earbuds.audio/p/caregivers-month
   podcasts:
 
@@ -5782,9 +5794,15 @@ issues:
     htmlUrl: null
     xmlUrl: null
 
+- name: Caregivers Month
+  opml:
+  date: 2021-11-26
+  htmlUrl: https://newsletter.earbuds.audio/p/caregivers-month-4f1f
+  podcasts:
+
 - name: thanksgiving mini list
   opml: earbuds-podcast-recommendations-thanksgiving-mini-list.opml
-  date: 1970-01-01
+  date: 2021-11-25
   htmlUrl: https://newsletter.earbuds.audio/p/thanksgiving-mini-list
   podcasts:
 
@@ -5804,9 +5822,15 @@ issues:
     htmlUrl: null
     xmlUrl: null
 
+- name: thanksgiving mini list
+  opml:
+  date: 2021-11-24
+  htmlUrl: https://newsletter.earbuds.audio/p/thanksgiving-mini-list-55ff
+  podcasts:
+
 - name: Feeling Thankful
   opml: earbuds-podcast-recommendations-feeling-thankful.opml
-  date: 1970-01-01
+  date: 2021-11-22
   htmlUrl: https://newsletter.earbuds.audio/p/feeling-thankful
   podcasts:
 
@@ -5830,9 +5854,21 @@ issues:
     htmlUrl: null
     xmlUrl: null
 
+- name: Feeling Thankful
+  opml:
+  date: 2021-11-18
+  htmlUrl: https://newsletter.earbuds.audio/p/feeling-thankful-d43d
+  podcasts:
+
+- name: Feeling Thankful
+  opml:
+  date: 2021-11-17
+  htmlUrl: https://newsletter.earbuds.audio/p/feeling-thankful-9888
+  podcasts:
+
 - name: Podcasts about the past
   opml: earbuds-podcast-recommendations-podcasts-about-the-past.opml
-  date: 1970-01-01
+  date: 2021-11-09
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-past
   podcasts:
 
@@ -5858,7 +5894,7 @@ issues:
 
 - name: Love and Meaning
   opml: earbuds-podcast-recommendations-love-and-meaning.opml
-  date: 1970-01-01
+  date: 2021-11-07
   htmlUrl: https://newsletter.earbuds.audio/p/love-meaning
   podcasts:
 
@@ -5884,7 +5920,7 @@ issues:
 
 - name: Native American Heritage Month
   opml: earbuds-podcast-recommendations-native-american-heritage-month.opml
-  date: 1970-01-01
+  date: 2021-10-31
   htmlUrl: https://newsletter.earbuds.audio/p/native-american-heritage-month
   podcasts:
 
@@ -5910,7 +5946,7 @@ issues:
 
 - name: Halloween mini list
   opml: earbuds-podcast-recommendations-halloween-mini-list.opml
-  date: 1970-01-01
+  date: 2021-10-27
   htmlUrl: https://newsletter.earbuds.audio/p/halloween-mini-list
   podcasts:
 
@@ -5936,7 +5972,7 @@ issues:
 
 - name: Internet Culture
   opml: earbuds-podcast-recommendations-internet-culture.opml
-  date: 1970-01-01
+  date: 2021-10-25
   htmlUrl: https://newsletter.earbuds.audio/p/internet-culture
   podcasts:
 
@@ -5960,9 +5996,15 @@ issues:
     htmlUrl: null
     xmlUrl: null
 
+- name: Internet Culture
+  opml:
+  date: 2021-10-21
+  htmlUrl: https://newsletter.earbuds.audio/p/internet-culture-7d40
+  podcasts:
+
 - name: Women Who Kill
   opml: earbuds-podcast-recommendations-women-who-kill.opml
-  date: 1970-01-01
+  date: 2021-10-18
   htmlUrl: https://newsletter.earbuds.audio/p/women-kill
   podcasts:
 
@@ -5986,9 +6028,15 @@ issues:
     htmlUrl: null
     xmlUrl: null
 
+- name: Women Who Kill
+  opml:
+  date: 2021-10-12
+  htmlUrl: https://newsletter.earbuds.audio/p/women-kill-31fe
+  podcasts:
+
 - name: PodFest Berlin
   opml: earbuds-podcast-recommendations-podfest-berlin.opml
-  date: 1970-01-01
+  date: 2021-10-10
   htmlUrl: https://newsletter.earbuds.audio/p/podfest-berlin
   podcasts:
 
@@ -6014,7 +6062,7 @@ issues:
 
 - name: Movies that make us think
   opml: earbuds-podcast-recommendations-movies-that-make-us-think.opml
-  date: 1970-01-01
+  date: 2021-10-04
   htmlUrl: https://newsletter.earbuds.audio/p/movies-make-us-think
   podcasts:
 
@@ -6040,7 +6088,7 @@ issues:
 
 - name: Podcasts for a Refreshing Take on Sustainability
   opml: earbuds-podcast-recommendations-podcasts-for-a-refreshing-take-on-sustainability.opml
-  date: 1970-01-01
+  date: 2021-10-03
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-refreshing-take-sustainability
   podcasts:
 
@@ -6062,7 +6110,7 @@ issues:
 
 - name: Podcast Recommendations for Thinking at the Movies
   opml: earbuds-podcast-recommendations-podcast-recommendations-for-thinking-at-the-movies.opml
-  date: 1970-01-01
+  date: 2021-10-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-recommendations-thinking-movies
   podcasts:
 
@@ -6088,7 +6136,7 @@ issues:
 
 - name: Abortion Rights Update - Podcast Recommendations
   opml: earbuds-podcast-recommendations-abortion-rights-update-podcast-recommendations.opml
-  date: 1970-01-01
+  date: 2021-09-27
   htmlUrl: https://newsletter.earbuds.audio/p/abortion-rights-update-podcast-recommendations
   podcasts:
 
@@ -6112,9 +6160,15 @@ issues:
     htmlUrl: null
     xmlUrl: null
 
+- name: Abortion Rights Update
+  opml:
+  date: 2021-09-24
+  htmlUrl: https://newsletter.earbuds.audio/p/abortion-rights-update
+  podcasts:
+
 - name: Celebrating Hispanic Heritage Month
   opml: earbuds-podcast-recommendations-celebrating-hispanic-heritage-month.opml
-  date: 1970-01-01
+  date: 2021-09-20
   htmlUrl: https://newsletter.earbuds.audio/p/celebrating-hispanic-heritage-month
   podcasts:
 
@@ -6140,7 +6194,7 @@ issues:
 
 - name: Celebrating Latinx Heritage Month - Advancing La Cultura
   opml: earbuds-podcast-recommendations-celebrating-latinx-heritage-month-advancing-la-cultura.opml
-  date: 1970-01-01
+  date: 2021-09-17
   htmlUrl: https://newsletter.earbuds.audio/p/celebrating-latinx-heritage-month-advancing-la-cultura
   podcasts:
 
@@ -6166,7 +6220,7 @@ issues:
 
 - name: Podcasts Out of This World
   opml: earbuds-podcast-recommendations-podcasts-out-of-this-world.opml
-  date: 1970-01-01
+  date: 2021-09-10
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-world
   podcasts:
 
@@ -6192,7 +6246,7 @@ issues:
 
 - name: Mom Entrepreneurs
   opml: earbuds-podcast-recommendations-mom-entrepreneurs.opml
-  date: 1970-01-01
+  date: 2021-09-03
   htmlUrl: https://newsletter.earbuds.audio/p/mom-entrepreneurs
   podcasts:
 
@@ -6222,7 +6276,7 @@ issues:
 
 - name: Understanding Our Digital Footprint
   opml: earbuds-podcast-recommendations-understanding-our-digital-footprint.opml
-  date: 1970-01-01
+  date: 2021-08-29
   htmlUrl: https://newsletter.earbuds.audio/p/understanding-digital-footprint
   podcasts:
 
@@ -6248,13 +6302,13 @@ issues:
 
 - name: Free Speech in Podcasting
   opml: earbuds-podcast-recommendations-free-speech-in-podcasting.opml
-  date: 1970-01-01
+  date: 2021-08-23
   htmlUrl: https://newsletter.earbuds.audio/p/free-speech-podcasting
   podcasts:
 
 - name: Science and Crime
   opml: earbuds-podcast-recommendations-science-and-crime.opml
-  date: 1970-01-01
+  date: 2021-08-20
   htmlUrl: https://newsletter.earbuds.audio/p/science-crime
   podcasts:
 
@@ -6284,7 +6338,7 @@ issues:
 
 - name: Podcast Recommendations For Giving a Shit
   opml: earbuds-podcast-recommendations-podcast-recommendations-for-giving-a-shit.opml
-  date: 1970-01-01
+  date: 2021-08-15
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-recommendations-giving-shit
   podcasts:
 
@@ -6314,7 +6368,7 @@ issues:
 
 - name: The Field of Health Design
   opml: earbuds-podcast-recommendations-the-field-of-health-design.opml
-  date: 1970-01-01
+  date: 2021-08-09
   htmlUrl: https://newsletter.earbuds.audio/p/field-health-design
   podcasts:
 
@@ -6344,7 +6398,7 @@ issues:
 
 - name: 'Podcast Recommendations: Arts in the Spotlight'
   opml: earbuds-podcast-recommendations-podcast-recommendations-arts-in-the-spotlight.opml
-  date: 1970-01-01
+  date: 2021-08-01
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-recommendations-arts-spotlight
   podcasts:
 
@@ -6374,7 +6428,7 @@ issues:
 
 - name: Podcasts On The Olympics & Sports Stories
   opml: earbuds-podcast-recommendations-podcasts-on-the-olympics-sports-stories.opml
-  date: 1970-01-01
+  date: 2021-07-22
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-olympics-sports-stories
   podcasts:
 
@@ -6400,7 +6454,7 @@ issues:
 
 - name: Micro-casts - Short Podcasts
   opml: earbuds-podcast-recommendations-micro-casts-short-podcasts.opml
-  date: 1970-01-01
+  date: 2021-07-19
   htmlUrl: https://newsletter.earbuds.audio/p/microcasts-short-podcasts
   podcasts:
 
@@ -6426,7 +6480,7 @@ issues:
 
 - name: The Best Movie Podcasts
   opml: earbuds-podcast-recommendations-the-best-movie-podcasts.opml
-  date: 1970-01-01
+  date: 2021-07-09
   htmlUrl: https://newsletter.earbuds.audio/p/best-movie-podcasts
   podcasts:
 
@@ -6452,7 +6506,7 @@ issues:
 
 - name: Southern and Jewish
   opml: earbuds-podcast-recommendations-southern-and-jewish.opml
-  date: 1970-01-01
+  date: 2021-07-01
   htmlUrl: https://newsletter.earbuds.audio/p/southern-jewish
   podcasts:
 
@@ -6474,7 +6528,7 @@ issues:
 
 - name: Music, Murder, and History
   opml: earbuds-podcast-recommendations-music-murder-and-history.opml
-  date: 1970-01-01
+  date: 2021-06-27
   htmlUrl: https://newsletter.earbuds.audio/p/music-murder-history
   podcasts:
 
@@ -6500,7 +6554,7 @@ issues:
 
 - name: Human Connection
   opml: earbuds-podcast-recommendations-human-connection.opml
-  date: 1970-01-01
+  date: 2021-06-18
   htmlUrl: https://newsletter.earbuds.audio/p/human-connection
   podcasts:
 
@@ -6526,7 +6580,7 @@ issues:
 
 - name: Looking Behind Walls
   opml: earbuds-podcast-recommendations-looking-behind-walls.opml
-  date: 1970-01-01
+  date: 2021-06-11
   htmlUrl: https://newsletter.earbuds.audio/p/looking-behind-walls
   podcasts:
 
@@ -6552,7 +6606,7 @@ issues:
 
 - name: Let's Talk About Alzheimers
   opml: earbuds-podcast-recommendations-lets-talk-about-alzheimers.opml
-  date: 1970-01-01
+  date: 2021-06-07
   htmlUrl: https://newsletter.earbuds.audio/p/lets-talk-alzheimers
   podcasts:
 
@@ -6578,7 +6632,7 @@ issues:
 
 - name: 'Underrepresented Voices: Diversity Matters'
   opml: earbuds-podcast-recommendations-underrepresented-voices-diversity-matters.opml
-  date: 1970-01-01
+  date: 2021-05-30
   htmlUrl: https://newsletter.earbuds.audio/p/underrepresented-voices-diversity-matters
   podcasts:
 
@@ -6604,7 +6658,7 @@ issues:
 
 - name: Understanding Conscious Evolution
   opml: earbuds-podcast-recommendations-understanding-conscious-evolution.opml
-  date: 1970-01-01
+  date: 2021-05-21
   htmlUrl: https://newsletter.earbuds.audio/p/understanding-conscious-evolution
   podcasts:
 
@@ -6634,7 +6688,7 @@ issues:
 
 - name: Podcasts for the Theater Lover
   opml: earbuds-podcast-recommendations-podcasts-for-the-theater-lover.opml
-  date: 1970-01-01
+  date: 2021-05-17
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-theater-lover
   podcasts:
 
@@ -6664,7 +6718,7 @@ issues:
 
 - name: Missing Live Theatre
   opml: earbuds-podcast-recommendations-missing-live-theatre.opml
-  date: 1970-01-01
+  date: 2021-05-14
   htmlUrl: https://newsletter.earbuds.audio/p/missing-live-theatre
   podcasts:
 
@@ -6694,7 +6748,7 @@ issues:
 
 - name: Podcasts for Coffee Lovers
   opml: earbuds-podcast-recommendations-podcasts-for-coffee-lovers.opml
-  date: 1970-01-01
+  date: 2021-05-09
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-coffee-lovers
   podcasts:
 
@@ -6724,7 +6778,7 @@ issues:
 
 - name: Finding A Sense of Purpose
   opml: earbuds-podcast-recommendations-finding-a-sense-of-purpose.opml
-  date: 1970-01-01
+  date: 2021-05-02
   htmlUrl: https://newsletter.earbuds.audio/p/finding-sense-purpose
   podcasts:
 
@@ -6750,7 +6804,7 @@ issues:
 
 - name: Impress At (Zoom) Parties
   opml: earbuds-podcast-recommendations-impress-at-zoom-parties.opml
-  date: 1970-01-01
+  date: 2021-04-26
   htmlUrl: https://newsletter.earbuds.audio/p/impress-zoom-parties
   podcasts:
 
@@ -6776,7 +6830,7 @@ issues:
 
 - name: Healing Mental Health
   opml: earbuds-podcast-recommendations-healing-mental-health.opml
-  date: 1970-01-01
+  date: 2021-04-18
   htmlUrl: https://newsletter.earbuds.audio/p/healing-mental-health
   podcasts:
 
@@ -6802,13 +6856,13 @@ issues:
 
 - name: Vote for us
   opml: earbuds-podcast-recommendations-vote-for-us.opml
-  date: 1970-01-01
+  date: 2021-04-13
   htmlUrl: https://newsletter.earbuds.audio/p/vote-us
   podcasts:
 
 - name: The Millennial Spiral
   opml: earbuds-podcast-recommendations-the-millennial-spiral.opml
-  date: 1970-01-01
+  date: 2021-04-08
   htmlUrl: https://newsletter.earbuds.audio/p/millennial-spiral
   podcasts:
 
