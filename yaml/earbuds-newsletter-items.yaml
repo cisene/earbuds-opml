@@ -5,6 +5,32 @@ global:
   title: EarBuds Podcast Recommendations
 issues:
 
+- name: 5 Podcasts on Bodies & How We See Ourselves
+  opml: earbuds-podcast-recommendations-5-podcasts-on-bodies-and-how-we-see-ourselves.opml
+  date: 2025-11-16
+  htmlUrl: https://newsletter.earbuds.audio/p/5-podcast-recommendations-fatness-body-image
+  podcasts:
+
+  - title: Weight For It
+    htmlUrl: https://www.spreaker.com/show/weight-for-it
+    xmlUrl: https://publicfeeds.net/f/4548/feed-rss.xml
+
+  - title: The Fat Guy Forum
+    htmlUrl: https://fatguyforum.podbean.com/
+    xmlUrl: https://anchor.fm/s/106da4a74/podcast/rss
+
+  - title: Maintenance Phase
+    htmlUrl: http://maintenancephase.com/
+    xmlUrl: https://rss.buzzsprout.com/1411126.rss
+
+  - title: Embodied
+    htmlUrl: https://www.wunc.org/podcast/embodied-podcast
+    xmlUrl: https://embodied.feed.wunc.org/
+
+  - title: Death, Sex & Money
+    htmlUrl: https://slate.com/podcasts/death-sex-money
+    xmlUrl: https://feeds.megaphone.fm/SLT2123367297
+
 - name: 5 Fiction Podcasts From Around the World 🌎
   opml: earbuds-podcast-recommendations-5-fiction-podcasts-from-around-the-world.opml
   date: 2025-11-09

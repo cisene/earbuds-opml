@@ -17,6 +17,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 
 | Weekly issus of the Earbuds Podcast Collective Newletters                           | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [5 Podcasts on Bodies & How We See Ourselves](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-podcasts-on-bodies-and-how-we-see-ourselves.opml) | 2025-11-16 |
 | [5 Fiction Podcasts From Around the World 🌎](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-fiction-podcasts-from-around-the-world.opml) | 2025-11-09 |
 | [5 Podcasts for Caregivers: Support, Inspiration, Empathy 🫂](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-podcasts-for-caregivers-support-inspiration-empathy.opml) | 2025-11-02 |
 | [5 Podcasts About The Mess Behind Success 🤕](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-podcasts-about-the-mess-behind-success.opml) | 2025-10-27 |
