@@ -3810,10 +3810,30 @@ issues:
     xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2a22ac04-0eb4-4aad-8dc2-ae270179efb9/2d42d89c-4962-4760-a616-ae270179efd5/podcast.rss
 
 - name: 'Just Dance: Podcast Recommendations'
-  opml:
-  date: 2023-01-23
-  htmlUrl: https://newsletter.earbuds.audio/p/just-dance-podcast-recommendations-d861
+  opml: earbuds-podcast-recommendations-just-dance-podcast-recommendations.opml
+  date: 2023-01-21
+  htmlUrl: https://newsletter.earbuds.audio/p/just-dance-podcast-recommendations
   podcasts:
+
+  - title: 'The Turning: Room of Mirrors'
+    htmlUrl: https://www.iheart.com/podcast/1119-the-turning-the-sisters-w-82262169/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/46c44372-57ad-4b0c-996c-b30c0109599f/13ee4fda-eb6b-4a7a-90d9-b30c010959af/podcast.rss
+
+  - title: UnStyled
+    htmlUrl: https://www.refinery29.com/en-us/unstyled
+    xmlUrl: https://feeds.acast.com/public/shows/0d3f6d72-3afb-4d06-b5f2-7cbab44fb6b8
+
+  - title: Seriously...
+    htmlUrl: http://www.bbc.co.uk/programmes/p02pc9qx
+    xmlUrl: https://podcasts.files.bbci.co.uk/p02pc9qx.rss
+
+  - title: This American Life
+    htmlUrl: https://www.thisamericanlife.org/podcast/rss.xml
+    xmlUrl: https://www.thisamericanlife.org/podcast/rss.xml
+
+  - title: Gold Minds with Kevin Hart
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.megaphone.fm/IMP1790784214
 
 - name: 'Light and Dark: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-light-and-dark-podcast-recommendations.opml
