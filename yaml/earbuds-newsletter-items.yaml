@@ -3991,12 +3991,6 @@ issues:
     htmlUrl: https://www.electorette.com/podcast
     xmlUrl: https://feeds.megaphone.fm/ADV9983865756
 
-- name: Thanks for entering the Focusrite Vocaster contest
-  opml: earbuds-podcast-recommendations-thanks-for-entering-the-focusrite-vocaster-contest.opml
-  date: 2022-12-08
-  htmlUrl: https://newsletter.earbuds.audio/p/thanks-entering-focusrite-vocaster-contest
-  podcasts:
-
 - name: 'Entertainment in the Spotlight: Podcast Picks 🎥'
   opml: earbuds-podcast-recommendations-entertainment-in-the-spotlight-podcast-picks.opml
   date: 2022-12-05
@@ -4569,22 +4563,10 @@ issues:
     htmlUrl: https://women-in-hip-hop-podcast.simplecast.com/
     xmlUrl: https://feeds.megaphone.fm/RMTV7068368029
 
-- name: Hip-Hop History and Hustle
-  opml:
-  date: 2022-07-07
-  htmlUrl: https://newsletter.earbuds.audio/p/hiphop-history-hustle-3046
-  podcasts:
-
 - name: True Crime All Day
   opml: earbuds-podcast-recommendations-true-crime-all-day.opml
   date: 2022-07-04
   htmlUrl: https://newsletter.earbuds.audio/p/true-crime-day
-  podcasts:
-
-- name: True Crime All Day
-  opml:
-  date: 2022-07-01
-  htmlUrl: https://newsletter.earbuds.audio/p/true-crime-day-0c95
   podcasts:
 
 - name: Alzheimer's and Dementia Caregiving
@@ -4593,40 +4575,16 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/alzheimers-dementia-caregiving
   podcasts:
 
-- name: 'Alzheimer''s and Dementia Caregiving'
-  opml:
-  date: 2022-06-25
-  htmlUrl: https://newsletter.earbuds.audio/p/alzheimers-dementia-caregiving-92da
-  podcasts:
-
 - name: The ~Podcast Musical~ Must Go On!
   opml: earbuds-podcast-recommendations-the-podcast-musical-must-go-on.opml
   date: 2022-06-20
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-musical-must-go
   podcasts:
 
-- name: The ~Podcast Musical~ Must Go On!
-  opml:
-  date: 2022-06-18
-  htmlUrl: https://newsletter.earbuds.audio/p/podcast-musical-must-go-0697
-  podcasts:
-
 - name: Women in Entertainment
   opml: earbuds-podcast-recommendations-women-in-entertainment.opml
   date: 2022-06-13
   htmlUrl: https://newsletter.earbuds.audio/p/women-entertainment
-  podcasts:
-
-- name: Women in Entertainment
-  opml:
-  date: 2022-06-09
-  htmlUrl: https://newsletter.earbuds.audio/p/women-entertainment
-  podcasts:
-
-- name: Pride is a Riot
-  opml:
-  date: 2022-06-06
-  htmlUrl: https://newsletter.earbuds.audio/p/pride-riot-40b5
   podcasts:
 
 - name: Pride is a Riot
@@ -4641,33 +4599,15 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/art-imitates-life-imitates-podcasts
   podcasts:
 
-- name: Art Imitates Life (Imitates Podcasts)
-  opml:
-  date: 2022-05-27
-  htmlUrl: https://newsletter.earbuds.audio/p/art-imitates-life-imitates-podcasts-15ed
-  podcasts:
-
 - name: Living in our Bodies
   opml: earbuds-podcast-recommendations-living-in-our-bodies.opml
   date: 2022-05-23
   htmlUrl: https://newsletter.earbuds.audio/p/living-bodies
   podcasts:
 
-- name: Living In Our Bodies
-  opml:
-  date: 2022-05-17
-  htmlUrl: https://newsletter.earbuds.audio/p/living-bodies-a1d9
-  podcasts:
-
 - name: Rewriting Black and Indigenous Histories
   opml: earbuds-podcast-recommendations-rewriting-black-and-indigenous-histories.opml
   date: 2022-05-16
-  htmlUrl: https://newsletter.earbuds.audio/p/rewriting-black-indigenous-histories
-  podcasts:
-
-- name: Rewriting Black and Indigenous Histories
-  opml:
-  date: 2022-05-11
   htmlUrl: https://newsletter.earbuds.audio/p/rewriting-black-indigenous-histories
   podcasts:
 
@@ -4677,21 +4617,9 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/raising-awareness-disabilities
   podcasts:
 
-- name: Raising Awareness About Disabilities
-  opml:
-  date: 2022-05-05
-  htmlUrl: https://newsletter.earbuds.audio/p/raising-awareness-disabilities
-  podcasts:
-
 - name: Unexpected, Smart Business
   opml: earbuds-podcast-recommendations-unexpected-smart-business.opml
   date: 2022-05-02
-  htmlUrl: https://newsletter.earbuds.audio/p/unexpected-smart-business
-  podcasts:
-
-- name: Unexpected, Smart Business
-  opml:
-  date: 2022-04-28
   htmlUrl: https://newsletter.earbuds.audio/p/unexpected-smart-business
   podcasts:
 
@@ -4701,40 +4629,16 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/stories-indelible-women
   podcasts:
 
-- name: Stories of Indelible Women
-  opml:
-  date: 2022-04-21
-  htmlUrl: https://newsletter.earbuds.audio/p/stories-indelible-women-c7e1
-  podcasts:
-
-- name: Stories of Indelible Women
-  opml:
-  date: 2022-04-21
-  htmlUrl: https://newsletter.earbuds.audio/p/stories-indelible-women
-  podcasts:
-
 - name: Sounds, Songs & Their Stories
   opml: earbuds-podcast-recommendations-sounds-songs-their-stories.opml
   date: 2022-04-18
   htmlUrl: https://newsletter.earbuds.audio/p/sounds-songs-stories
   podcasts:
 
-- name: Sounds, Stories, & Songs
-  opml: earbuds-podcast-recommendations-sounds-stories-songs.opml
-  date: 2022-04-14
-  htmlUrl: https://newsletter.earbuds.audio/p/sounds-stories-songs
-  podcasts:
-
 - name: 'Libraries: Not Just Books'
   opml: earbuds-podcast-recommendations-libraries-not-just-books.opml
   date: 2022-04-11
   htmlUrl: https://newsletter.earbuds.audio/p/libraries-not-just-books
-  podcasts:
-
-- name: 'Libraries: Not Just Books!'
-  opml:
-  date: 2022-04-07
-  htmlUrl: https://newsletter.earbuds.audio/p/libraries-not-just-books-764e
   podcasts:
 
 - name: Podcasts About Britney
@@ -4749,33 +4653,15 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/moodboosting-stories
   podcasts:
 
-- name: Mood-Boosting Stories
-  opml:
-  date: 2022-03-25
-  htmlUrl: https://newsletter.earbuds.audio/p/moodboosting-stories-9010
-  podcasts:
-
 - name: 💃🏽Women Leaders in Podcasting
   opml: earbuds-podcast-recommendations-women-leaders-in-podcasting.opml
   date: 2022-03-21
   htmlUrl: https://newsletter.earbuds.audio/p/women-leaders-podcasting
   podcasts:
 
-- name: 💃🏽Women Leaders in Podcasting
-  opml:
-  date: 2022-03-17
-  htmlUrl: https://newsletter.earbuds.audio/p/women-leaders-podcasting-59ab
-  podcasts:
-
 - name: Behind the Icons
   opml: earbuds-podcast-recommendations-behind-the-icons.opml
   date: 2022-03-14
-  htmlUrl: https://newsletter.earbuds.audio/p/behind-icons-d91c
-  podcasts:
-
-- name: Behind the Icons
-  opml:
-  date: 2022-03-10
   htmlUrl: https://newsletter.earbuds.audio/p/behind-icons
   podcasts:
 
@@ -4785,51 +4671,21 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/precedented-times
   podcasts:
 
-- name: Precedented Times
-  opml:
-  date: 2022-03-04
-  htmlUrl: https://newsletter.earbuds.audio/p/precedented-times-2c50
-  podcasts:
-
-- name: '🤖AI in Our Lives: Podcast Recommendations'
+- name: 'AI in Our Lives: Podcast Recommendations 🤖'
   opml: earbuds-podcast-recommendations-ai-in-our-lives-podcast-recommendations.opml
   date: 2022-02-28
   htmlUrl: https://newsletter.earbuds.audio/p/ai-lives-podcast-recommendations
   podcasts:
 
-- name: AI in Our Lives
-  opml:
-  date: 2022-02-26
-  htmlUrl: https://newsletter.earbuds.audio/p/ai-lives
-  podcasts:
-
-- name: 📽️Film History Podcast Recommendations
+- name: Film History Podcast Recommendations 📽️
   opml: earbuds-podcast-recommendations-film-history-podcast-recommendations.opml
   date: 2022-02-21
   htmlUrl: https://newsletter.earbuds.audio/p/film-history-podcast-recommendations
   podcasts:
 
-- name: Film History Podcasts
-  opml: earbuds-podcast-recommendations-film-history-podcasts.opml
-  date: 2022-02-19
-  htmlUrl: https://newsletter.earbuds.audio/p/film-history-podcasts
-  podcasts:
-
 - name: Wood You Celebrate With Us? EarBuds Turns 5!
   opml: earbuds-podcast-recommendations-wood-you-celebrate-with-us-earbuds-at-5-years.opml
   date: 2022-02-13
-  htmlUrl: https://newsletter.earbuds.audio/p/wood-celebrate-us-earbuds-5-years
-  podcasts:
-
-- name: Wood You Celebrate With Us? EarBuds Turns 5!
-  opml:
-  date: 2022-02-12
-  htmlUrl: https://newsletter.earbuds.audio/p/wood-celebrate-us-earbuds-turns-5
-  podcasts:
-
-- name: Wood You Celebrate With Us? EarBuds at 5 Years
-  opml:
-  date: 2022-02-11
   htmlUrl: https://newsletter.earbuds.audio/p/wood-celebrate-us-earbuds-5-years
   podcasts:
 
@@ -4839,28 +4695,10 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/minds-sit
   podcasts:
 
-- name: Minds to Sit With
-  opml:
-  date: 2022-02-04
-  htmlUrl: https://newsletter.earbuds.audio/p/minds-sit
-  podcasts:
-
 - name: Why Black History Matters
   opml: earbuds-podcast-recommendations-why-black-history-matters.opml
   date: 2022-01-31
   htmlUrl: https://newsletter.earbuds.audio/p/black-history-matters
-  podcasts:
-
-- name: Why Black History Matters
-  opml:
-  date: 2022-01-28
-  htmlUrl: https://newsletter.earbuds.audio/p/black-history-matters-d22a
-  podcasts:
-
-- name: Why Black History Matters
-  opml:
-  date: 2022-01-28
-  htmlUrl: https://newsletter.earbuds.audio/p/black-history-matters-a934
   podcasts:
 
 - name: Asian Experiences in the U.S.
@@ -4869,21 +4707,9 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/asian-experiences-us
   podcasts:
 
-- name: Asian Experiences in the U.S.
-  opml:
-  date: 2022-01-17
-  htmlUrl: https://newsletter.earbuds.audio/p/asian-experiences-us-7c1e
-  podcasts:
-
 - name: How Do You Feel?
   opml: earbuds-podcast-recommendations-how-do-you-feel.opml
   date: 2022-01-17
-  htmlUrl: https://newsletter.earbuds.audio/p/feel
-  podcasts:
-
-- name: How Do You Feel?
-  opml:
-  date: 2022-01-13
   htmlUrl: https://newsletter.earbuds.audio/p/feel
   podcasts:
 
@@ -4893,22 +4719,10 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/expat-lens
   podcasts:
 
-- name: Through an Expat Lens
-  opml:
-  date: 2022-01-06
-  htmlUrl: https://newsletter.earbuds.audio/p/expat-lens-b3a8
-  podcasts:
-
 - name: A Good Cry
   opml: earbuds-podcast-recommendations-a-good-cry.opml
   date: 2022-01-02
   htmlUrl: https://newsletter.earbuds.audio/p/good-cry
-  podcasts:
-
-- name: A good cry
-  opml:
-  date: 2021-12-31
-  htmlUrl: https://newsletter.earbuds.audio/p/good-cry-2215
   podcasts:
 
 - name: Inspiration from Everyday Women
@@ -4917,21 +4731,9 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/inspiration-everyday-women
   podcasts:
 
-- name: Inspiration from Everyday Women
-  opml:
-  date: 2021-12-24
-  htmlUrl: https://newsletter.earbuds.audio/p/inspiration-everyday-women-ad5b
-  podcasts:
-
 - name: Memoirs
   opml: earbuds-podcast-recommendations-memoirs.opml
   date: 2021-12-20
-  htmlUrl: https://newsletter.earbuds.audio/p/memoirs
-  podcasts:
-
-- name: Memoirs
-  opml:
-  date: 2021-12-16
   htmlUrl: https://newsletter.earbuds.audio/p/memoirs
   podcasts:
 
@@ -4941,22 +4743,10 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/motherhood
   podcasts:
 
-- name: Motherhood
-  opml:
-  date: 2021-12-08
-  htmlUrl: https://newsletter.earbuds.audio/p/motherhood-254e
-  podcasts:
-
 - name: Divorce
   opml: earbuds-podcast-recommendations-divorce.opml
   date: 2021-12-06
   htmlUrl: https://newsletter.earbuds.audio/p/divorce
-  podcasts:
-
-- name: Divorce
-  opml:
-  date: 2021-12-03
-  htmlUrl: https://newsletter.earbuds.audio/p/divorce-551d
   podcasts:
 
 - name: Caregivers Month
@@ -4965,40 +4755,16 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/caregivers-month
   podcasts:
 
-- name: Caregivers Month
-  opml:
-  date: 2021-11-26
-  htmlUrl: https://newsletter.earbuds.audio/p/caregivers-month-4f1f
-  podcasts:
-
 - name: thanksgiving mini list
   opml: earbuds-podcast-recommendations-thanksgiving-mini-list.opml
   date: 2021-11-25
   htmlUrl: https://newsletter.earbuds.audio/p/thanksgiving-mini-list
   podcasts:
 
-- name: thanksgiving mini list
-  opml:
-  date: 2021-11-24
-  htmlUrl: https://newsletter.earbuds.audio/p/thanksgiving-mini-list-55ff
-  podcasts:
-
 - name: Feeling Thankful
   opml: earbuds-podcast-recommendations-feeling-thankful.opml
   date: 2021-11-22
   htmlUrl: https://newsletter.earbuds.audio/p/feeling-thankful
-  podcasts:
-
-- name: Feeling Thankful
-  opml:
-  date: 2021-11-18
-  htmlUrl: https://newsletter.earbuds.audio/p/feeling-thankful-d43d
-  podcasts:
-
-- name: Feeling Thankful
-  opml:
-  date: 2021-11-17
-  htmlUrl: https://newsletter.earbuds.audio/p/feeling-thankful-9888
   podcasts:
 
 - name: Podcasts about the past
@@ -5031,22 +4797,10 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/internet-culture
   podcasts:
 
-- name: Internet Culture
-  opml:
-  date: 2021-10-21
-  htmlUrl: https://newsletter.earbuds.audio/p/internet-culture-7d40
-  podcasts:
-
 - name: Women Who Kill
   opml: earbuds-podcast-recommendations-women-who-kill.opml
   date: 2021-10-18
   htmlUrl: https://newsletter.earbuds.audio/p/women-kill
-  podcasts:
-
-- name: Women Who Kill
-  opml:
-  date: 2021-10-12
-  htmlUrl: https://newsletter.earbuds.audio/p/women-kill-31fe
   podcasts:
 
 - name: PodFest Berlin
@@ -5079,22 +4833,10 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/abortion-rights-update-podcast-recommendations
   podcasts:
 
-- name: Abortion Rights Update
-  opml:
-  date: 2021-09-24
-  htmlUrl: https://newsletter.earbuds.audio/p/abortion-rights-update
-  podcasts:
-
 - name: Celebrating Hispanic Heritage Month
   opml: earbuds-podcast-recommendations-celebrating-hispanic-heritage-month.opml
   date: 2021-09-20
   htmlUrl: https://newsletter.earbuds.audio/p/celebrating-hispanic-heritage-month
-  podcasts:
-
-- name: Celebrating Latinx Heritage Month - Advancing La Cultura
-  opml: earbuds-podcast-recommendations-celebrating-latinx-heritage-month-advancing-la-cultura.opml
-  date: 2021-09-17
-  htmlUrl: https://newsletter.earbuds.audio/p/celebrating-latinx-heritage-month-advancing-la-cultura
   podcasts:
 
 - name: Podcasts Out of This World
@@ -5271,12 +5013,6 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-recommendations-magical-stories
   podcasts:
 
-- name: Magical Stories
-  opml:
-  date: 2021-03-22
-  htmlUrl: https://newsletter.earbuds.audio/p/magical-stories
-  podcasts:
-
 - name: 'Podcasts On: The Creative Musical Mind'
   opml: earbuds-podcast-recommendations-podcasts-on-the-creative-musical-mind.opml
   date: 2021-03-14
@@ -5302,7 +5038,7 @@ issues:
   podcasts:
 
 - name: Emotionally Naked Strangers
-  opml:
+  opml: earbuds-podcast-recommendations-emotionally-naked-strangers.opml
   date: 2021-02-21
   htmlUrl: https://newsletter.earbuds.audio/p/emotionally-naked-strangers
   podcasts:
@@ -5338,7 +5074,7 @@ issues:
   podcasts:
 
 - name: The People Behind The Mic
-  opml:
+  opml: earbuds-podcast-recommendations-the-people-behind-the-mic.opml
   date: 2021-01-31
   htmlUrl: https://newsletter.earbuds.audio/p/people-behind-mic
   podcasts:
@@ -5612,7 +5348,6 @@ issues:
   date: 2020-05-18
   htmlUrl: https://newsletter.earbuds.audio/p/movies-head
   podcasts:
-
 
 - name: Satire in Strange Times
   opml: earbuds-podcast-recommendations-satire-in-strange-times.opml
