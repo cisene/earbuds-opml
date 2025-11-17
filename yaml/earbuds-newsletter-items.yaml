@@ -5,6 +5,32 @@ global:
   title: EarBuds Podcast Recommendations
 issues:
 
+- name: '5 Podcasts for Caregivers: Support, Inspiration, Empathy 🫂'
+  opml: earbuds-podcast-recommendations-5-podcasts-for-caregivers-support-inspiration-empathy.opml
+  date: 2025-11-02
+  htmlUrl: https://newsletter.earbuds.audio/p/5-podcasts-for-caregivers-support-inspiration-empathy
+  podcasts:
+
+  - title: The Cancer Caregiver
+    htmlUrl: https://www.cancercaregiverpodcast.com/
+    xmlUrl: https://feeds.captivate.fm/thecancercaregiver/
+
+  - title: In Sickness
+    htmlUrl: https://fasttwitch.wixsite.com/my-site-3
+    xmlUrl: https://feeds.blubrry.com/feeds/3713794.xml
+
+  - title: 'Working Caregivers: The Invisible Employees'
+    htmlUrl: https://workingcaregivers.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/2401927.rss
+
+  - title: The Heart of Hospice Podcast
+    htmlUrl: http://theheartofhospice.libsyn.com/podcast
+    xmlUrl: https://feed.pod.co/the-heart-of-hospice-podcast
+
+  - title: 'Life on Repeat: A Dementia Caregiver Podcast'
+    htmlUrl: https://www.lifeonrepeatpodcast.com/
+    xmlUrl: https://feeds.captivate.fm/life-on-repeat/
+
 - name: 5 Podcasts About The Mess Behind Success 🤕
   opml: earbuds-podcast-recommendations-5-podcasts-about-the-mess-behind-success.opml
   date: 2025-10-27
