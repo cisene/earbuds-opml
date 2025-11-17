@@ -5,6 +5,32 @@ global:
   title: EarBuds Podcast Recommendations
 issues:
 
+- name: 5 Fiction Podcasts From Around the World 🌎
+  opml: earbuds-podcast-recommendations-5-fiction-podcasts-from-around-the-world.opml
+  date: 2025-11-09
+  htmlUrl: https://newsletter.earbuds.audio/p/fiction-podcasts-around-the-world-2025
+  podcasts:
+
+  - title: catskull
+    htmlUrl: https://art19.com/shows/catskull
+    xmlUrl: https://rss.art19.com/catskull
+
+  - title: 'Dos: After You'
+    htmlUrl: https://www.faustiannonsense.com/dos-after-you
+    xmlUrl: https://feeds.captivate.fm/dos-after-you/
+
+  - title: Hi Nay
+    htmlUrl: https://shows.acast.com/hi-nay
+    xmlUrl: https://feeds.acast.com/public/shows/hi-nay
+
+  - title: Private Affairs
+    htmlUrl: https://www.privateaffairspod.com/
+    xmlUrl: https://feeds.acast.com/public/shows/61e8aa7d9d44930014880b1a
+
+  - title: Andas Presents
+    htmlUrl: https://art19.com/shows/andas-presents
+    xmlUrl: https://rss.art19.com/andas-presents
+
 - name: '5 Podcasts for Caregivers: Support, Inspiration, Empathy 🫂'
   opml: earbuds-podcast-recommendations-5-podcasts-for-caregivers-support-inspiration-empathy.opml
   date: 2025-11-02
