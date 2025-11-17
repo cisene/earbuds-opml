@@ -6928,12 +6928,6 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-mississippi
   podcasts:
 
-- name: 'Just Dance: Podcast Recommendations'
-  opml: earbuds-podcast-recommendations-just-dance-podcast-recommendations.opml
-  date: 1970-01-01
-  htmlUrl: https://newsletter.earbuds.audio/p/just-dance-podcast-recommendations
-  podcasts:
-
 - name: Someone You ❤️ Has Breast Cancer
   opml: earbuds-podcast-recommendations-someone-you-love-has-breast-cancer.opml
   date: 1970-01-01
