@@ -6871,12 +6871,6 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/dont-know-aging
   podcasts:
 
-- name: Emotionally Naked Strangers
-  opml: earbuds-podcast-recommendations-emotionally-naked-strangers.opml
-  date: 1970-01-01
-  htmlUrl: https://newsletter.earbuds.audio/p/emotionally-naked-strangers
-  podcasts:
-
 - name: Test
   opml: earbuds-podcast-recommendations-test.opml
   date: 1970-01-01
