@@ -5,6 +5,32 @@ global:
   title: EarBuds Podcast Recommendations
 issues:
 
+- name: '5 Fantasy Podcasts: for when you need to escape to another world'
+  opml: earbuds-podcast-recommendations-5-fantasy-podcasts-for-when-you-need-to-escape-to-another-world.opml
+  date: 2025-11-23
+  htmlUrl: https://newsletter.earbuds.audio/p/5-fantasy-podcast-recommendations-2025
+  podcasts:
+
+  - title: Absolutely No Adventures
+    htmlUrl: https://noadventurespod.com/
+    xmlUrl: https://pinecast.com/feed/absolutely-no-adventures
+
+  - title: Inn Between
+    htmlUrl: http://www.thegoblinshead.com/
+    xmlUrl: https://feeds.libsyn.com/122656
+
+  - title: Stories from Ylelmore
+    htmlUrl: https://itmepodcast.com/storiesfromylelmore/
+    xmlUrl: https://itmepodcast.com/storiesfromylelmore/?format=rss
+
+  - title: Starfall
+    htmlUrl: https://starfallpod.carrd.co/
+    xmlUrl: https://pinecast.com/feed/starfall
+
+  - title: Sidequesting
+    htmlUrl: http://sidequestingpod.com/
+    xmlUrl: https://feeds.megaphone.fm/SBP5496629043
+
 - name: 5 Podcasts on Bodies & How We See Ourselves
   opml: earbuds-podcast-recommendations-5-podcasts-on-bodies-and-how-we-see-ourselves.opml
   date: 2025-11-16
