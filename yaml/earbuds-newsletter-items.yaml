@@ -4643,9 +4643,29 @@ issues:
 
 - name: The ~Podcast Musical~ Must Go On!
   opml: earbuds-podcast-recommendations-the-podcast-musical-must-go-on.opml
-  date: 2022-06-20
+  date: 2022-06-19
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-musical-must-go
   podcasts:
+
+  - title: 'Anthem: Homunculus'
+    htmlUrl: https://www.topic.com/anthem
+    xmlUrl: https://rss.acast.com/anthem
+
+  - title: Asking For It
+    htmlUrl: https://www.cbc.ca/listen/cbc-podcasts/409-asking-for-it
+    xmlUrl: https://www.cbc.ca/podcasting/includes/askingforit.xml
+
+  - title: 'In Strange Woods: A Musical Podcast'
+    htmlUrl: https://art19.com/shows/in-strange-woods
+    xmlUrl: https://rss.art19.com/in-strange-woods
+
+  - title: Sonic Leap
+    htmlUrl: https://sonic-leap.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/ojtkmU6A
+
+  - title: Newts!
+    htmlUrl: https://www.newtspod.com/
+    xmlUrl: https://feeds.feedburner.com/newtspodcast
 
 - name: Women in Entertainment
   opml: earbuds-podcast-recommendations-women-in-entertainment.opml
@@ -4719,7 +4739,7 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/moodboosting-stories
   podcasts:
 
-- name: 💃🏽Women Leaders in Podcasting
+- name: Women Leaders in Podcasting 💃🏽
   opml: earbuds-podcast-recommendations-women-leaders-in-podcasting.opml
   date: 2022-03-21
   htmlUrl: https://newsletter.earbuds.audio/p/women-leaders-podcasting

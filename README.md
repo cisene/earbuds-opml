@@ -183,6 +183,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [Hip-Hop History and Hustle](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-hip-hop-history-and-hustle.opml) | 2022-07-10 |
 | [True Crime All Day](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-true-crime-all-day.opml) | 2022-07-04 |
 | [Alzheimer's and Dementia Caregiving](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-alzheimers-and-dementia-caregiving.opml) | 2022-06-26 |
+| [The ~Podcast Musical~ Must Go On!](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-the-podcast-musical-must-go-on.opml) | 2022-06-19 |
 
 
 
