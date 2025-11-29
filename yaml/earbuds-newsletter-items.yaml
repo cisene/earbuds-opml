@@ -4721,9 +4721,29 @@ issues:
 
 - name: Art Imitates Life (Imitates Podcasts)
   opml: earbuds-podcast-recommendations-art-imitates-life-imitates-podcasts.opml
-  date: 2022-05-30
+  date: 2022-05-29
   htmlUrl: https://newsletter.earbuds.audio/p/art-imitates-life-imitates-podcasts
   podcasts:
+
+  - title: My Modern Met Top Artist Podcast
+    htmlUrl: https://podcast.mymodernmet.com/
+    xmlUrl: https://mymodernmet.libsyn.com/rss
+
+  - title: ArtCurious Podcast
+    htmlUrl: http://www.artcuriouspodcast.com/artcuriouspodcast/
+    xmlUrl: https://feeds.megaphone.fm/artcuriouspodcast
+
+  - title: Savvy Painter Podcast with Antrese Wood
+    htmlUrl: http://savvypainter.com/
+    xmlUrl: https://rss.buzzsprout.com/2424109.rss
+
+  - title: 'The Jealous Curator : ART FOR YOUR EAR'
+    htmlUrl: http://thejealouscurator.libsyn.com/podcast
+    xmlUrl: https://thejealouscurator.libsyn.com/rss
+
+  - title: Clever with Amy Devers
+    htmlUrl: http://www.cleverpodcast.com/
+    xmlUrl: https://rss.acast.com/clever
 
 - name: Living in our Bodies
   opml: earbuds-podcast-recommendations-living-in-our-bodies.opml
