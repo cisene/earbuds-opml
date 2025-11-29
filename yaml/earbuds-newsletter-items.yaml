@@ -4595,6 +4595,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/true-crime-day
   podcasts:
 
+  - title: Defense Diaries
+    htmlUrl: https://art19.com/shows/defense-diaries
+    xmlUrl: https://rss.art19.com/defense-diaries
+
+  - title: LOVE MURDER
+    htmlUrl: https://art19.com/shows/love-murder
+    xmlUrl: https://rss.art19.com/love-murder
+
+  - title: Crimelines® True Crime
+    htmlUrl: https://art19.com/shows/crimelines-true-crime
+    xmlUrl: https://rss.art19.com/crimelines-true-crime
+
+  - title: Murder, She Told
+    htmlUrl: https://murdershetold.com/
+    xmlUrl: https://feeds.megaphone.fm/CTL3944216911
+
+  - title: True Consequences - True Crime
+    htmlUrl: https://www.spreaker.com/show/true-consequences
+    xmlUrl: https://www.spreaker.com/show/4347262/episodes/feed
+
 - name: Alzheimer's and Dementia Caregiving
   opml: earbuds-podcast-recommendations-alzheimers-and-dementia-caregiving.opml
   date: 2022-06-27
