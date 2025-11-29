@@ -4747,9 +4747,29 @@ issues:
 
 - name: Living in our Bodies
   opml: earbuds-podcast-recommendations-living-in-our-bodies.opml
-  date: 2022-05-23
+  date: 2022-05-22
   htmlUrl: https://newsletter.earbuds.audio/p/living-bodies
   podcasts:
+
+  - title: Rebel Eaters Club
+    htmlUrl: http://www.rebeleatersclub.com/
+    xmlUrl: https://rss.pdrl.fm/87d486/www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4c41e20d-ce9e-42be-846e-af15017a4e72/f266a17c-a72e-46dc-a4ac-af15017a4e97/podcast.rss
+
+  - title: Weirdly Helpful (formerly The Best Advice Show)
+    htmlUrl: https://weirdlyhelpful.show/
+    xmlUrl: https://feeds.megaphone.fm/TPG9577137849
+
+  - title: 'Harsh Reality: The Story of Miriam Rivera'
+    htmlUrl: https://wondery.com/shows/the-story-of-miriam-rivera/%20%E2%80%8E
+    xmlUrl: https://rss.art19.com/harsh-reality-the-story-of-miriam-rivera
+
+  - title: Well-Read Black Girl with Glory Edim
+    htmlUrl: https://www.pushkin.fm/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0b032a63-ffbe-42bd-9221-ae3c0021f28c/de8a2554-4be3-4400-be0f-ae3c0021f29a/podcast.rss
+
+  - title: Ologies with Alie Ward
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/FO6kxYGj
 
 - name: Rewriting Black and Indigenous Histories
   opml: earbuds-podcast-recommendations-rewriting-black-and-indigenous-histories.opml

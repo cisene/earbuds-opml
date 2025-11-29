@@ -187,6 +187,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [Women in Entertainment](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-women-in-entertainment.opml) | 2022-06-09 |
 | [Pride is a Riot](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-pride-is-a-riot.opml) | 2022-06-04 |
 | [Art Imitates Life (Imitates Podcasts)](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-art-imitates-life-imitates-podcasts.opml) | 2022-05-29 |
+| [Living in our Bodies](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-living-in-our-bodies.opml) | 2022-05-22 |
 
 
 
