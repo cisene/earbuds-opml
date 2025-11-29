@@ -4699,6 +4699,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/pride-riot
   podcasts:
 
+  - title: Woke AF Daily
+    htmlUrl: https://www.iheart.com/podcast/1119-woke-af-daily-80448242
+    xmlUrl: https://www.omnycontent.com/d/playlist/3abaf917-f970-4817-941a-af47016d2d26/e382d1dc-f3b8-44e1-b861-af4801431b7c/504bb308-6fdd-4c68-b5b3-af4801431b9d/podcast.rss
+
+  - title: Edges
+    htmlUrl: https://www.dcpofficial.com/edges
+    xmlUrl: https://feeds.megaphone.fm/DCP6183351345
+
+  - title: AfroQueer
+    htmlUrl: https://afroqueerpodcast.podbean.com/
+    xmlUrl: https://feed.podbean.com/afroqueerpodcast/feed.xml
+
+  - title: Date With Daddy
+    htmlUrl: https://art19.com/shows/date-with-daddy
+    xmlUrl: https://rss.art19.com/date-with-daddy
+
+  - title: TransLash Podcast with Imara Jones
+    htmlUrl: http://www.translash.org/
+    xmlUrl: https://feeds.acast.com/public/shows/6c44f4c8-fa7e-43de-982c-1c1eadc88a30
+
 - name: Art Imitates Life (Imitates Podcasts)
   opml: earbuds-podcast-recommendations-art-imitates-life-imitates-podcasts.opml
   date: 2022-05-30
