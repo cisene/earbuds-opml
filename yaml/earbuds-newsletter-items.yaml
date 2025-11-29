@@ -4617,9 +4617,29 @@ issues:
 
 - name: Alzheimer's and Dementia Caregiving
   opml: earbuds-podcast-recommendations-alzheimers-and-dementia-caregiving.opml
-  date: 2022-06-27
+  date: 2022-06-26
   htmlUrl: https://newsletter.earbuds.audio/p/alzheimers-dementia-caregiving
   podcasts:
+
+  - title: 'AlzAuthors: Untangling Alzheimer''s & Dementia'
+    htmlUrl: https://alzauthors.com/
+    xmlUrl: https://feed.pod.co/alzauthors-untangling-alzheimers-dementia
+
+  - title: Well I Know Now with Pippa Kelly
+    htmlUrl: https://pippakelly.co.uk/
+    xmlUrl: https://feeds.acast.com/public/shows/5ed7ed6d5d02832b4cb8dd59
+
+  - title: 'Daughterhood The Podcast: For Caregivers'
+    htmlUrl: https://thewholecarenetwork.com/daughterhood-the-podcast/
+    xmlUrl: https://feed.pod.co/daughterhood-the-podcast-for-caregivers
+
+  - title: Love Conquers Alz
+    htmlUrl: https://loveconquersalz.buzzsprout.com/
+    xmlUrl: https://rss.buzzsprout.com/728654.rss
+
+  - title: Rodger That
+    htmlUrl: https://www.rodgerthat.show/
+    xmlUrl: https://feeds.megaphone.fm/THEAGILEBRAND8327556369
 
 - name: The ~Podcast Musical~ Must Go On!
   opml: earbuds-podcast-recommendations-the-podcast-musical-must-go-on.opml
