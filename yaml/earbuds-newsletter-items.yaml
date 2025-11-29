@@ -4773,9 +4773,29 @@ issues:
 
 - name: Rewriting Black and Indigenous Histories
   opml: earbuds-podcast-recommendations-rewriting-black-and-indigenous-histories.opml
-  date: 2022-05-16
+  date: 2022-05-11
   htmlUrl: https://newsletter.earbuds.audio/p/rewriting-black-indigenous-histories
   podcasts:
+
+  - title: Into the Depths
+    htmlUrl: https://www.nationalgeographic.com/intothedepths
+    xmlUrl: https://feeds.megaphone.fm/ESP8032342643
+
+  - title: 'SAPIENS: A Podcast for Everything Human'
+    htmlUrl: http://www.sapiens.org/
+    xmlUrl: https://podcast.sapiens.org/
+
+  - title: Become A Good Ancestor
+    htmlUrl: https://becomeagoodancestor.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/1960152.rss
+
+  - title: All My Relations Podcast
+    htmlUrl: http://www.allmyrelationspodcast.com/
+    xmlUrl: https://rss.buzzsprout.com/262196.rss
+
+  - title: Emergence Magazine Podcast
+    htmlUrl: http://www.emergencemagazine.org/
+    xmlUrl: https://feeds.megaphone.fm/LIT1443896445
 
 - name: Raising Awareness About Disabilities
   opml: earbuds-podcast-recommendations-raising-awareness-about-disabilities.opml
