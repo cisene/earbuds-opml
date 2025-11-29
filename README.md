@@ -184,6 +184,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [True Crime All Day](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-true-crime-all-day.opml) | 2022-07-04 |
 | [Alzheimer's and Dementia Caregiving](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-alzheimers-and-dementia-caregiving.opml) | 2022-06-26 |
 | [The ~Podcast Musical~ Must Go On!](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-the-podcast-musical-must-go-on.opml) | 2022-06-19 |
+| [Women in Entertainment](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-women-in-entertainment.opml) | 2022-06-09 |
 
 
 

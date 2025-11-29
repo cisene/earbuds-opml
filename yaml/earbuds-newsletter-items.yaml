@@ -4669,9 +4669,29 @@ issues:
 
 - name: Women in Entertainment
   opml: earbuds-podcast-recommendations-women-in-entertainment.opml
-  date: 2022-06-13
+  date: 2022-06-09
   htmlUrl: https://newsletter.earbuds.audio/p/women-entertainment
   podcasts:
+
+  - title: 'Mentors on the Mic: Your guide to pursuing a career in the Entertainment industry'
+    htmlUrl: https://www.mentorsonthemic.com/
+    xmlUrl: https://anchor.fm/s/2462e804/podcast/rss
+
+  - title: SmartLess
+    htmlUrl: https://www.smartless.com/
+    xmlUrl: https://feeds.simplecast.com/hNaFxXpO
+
+  - title: Awards Chatter
+    htmlUrl: https://www.hollywoodreporter.com/topic/awards-chatter-podcast
+    xmlUrl: https://feeds.megaphone.fm/PMC8622505598
+
+  - title: Feel The Good with Shawl
+    htmlUrl: https://feelthegood.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/1174712.rss
+
+  - title: ZimExcellence
+    htmlUrl: https://zimexcellence.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/1791151.rss
 
 - name: Pride is a Riot
   opml: earbuds-podcast-recommendations-pride-is-a-riot.opml
