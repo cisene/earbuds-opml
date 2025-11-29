@@ -6877,12 +6877,6 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/test
   podcasts:
 
-- name: The People Behind The Mic
-  opml: earbuds-podcast-recommendations-the-people-behind-the-mic.opml
-  date: 1970-01-01
-  htmlUrl: https://newsletter.earbuds.audio/p/people-behind-mic
-  podcasts:
-
 - name: Women Who Run
   opml: earbuds-podcast-recommendations-women-who-run.opml
   date: 1970-01-01
