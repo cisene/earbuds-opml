@@ -164,7 +164,6 @@ def main():
       # Close body
       opml.append(body)
 
-
       if item_count >= 1:
         filepath = f"../{issue_opml}"
         archivepath = f"../opml/{issue_opml}"
@@ -178,8 +177,6 @@ def main():
           print(f"Wrote {filepath} ..")
           issue_count += 1
 
-      #if issue_count >= 1:
-      #  break
 
 if __name__ == '__main__':
   main()
