@@ -4944,9 +4944,29 @@ issues:
 
 - name: Sounds, Songs & Their Stories
   opml: earbuds-podcast-recommendations-sounds-songs-their-stories.opml
-  date: 2022-04-18
+  date: 2022-04-17
   htmlUrl: https://newsletter.earbuds.audio/p/sounds-songs-stories
   podcasts:
+
+  - title: Punch Up The Jam
+    htmlUrl: https://headgum.com/punch-up-the-jam
+    xmlUrl: https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/521fed49-f593-41fb-9069-ad89013aaf4e/eab71b8f-bf37-4983-8081-ad89013aaf6f/podcast.rss
+
+  - title: Song Exploder
+    htmlUrl: http://www.songexploder.net/
+    xmlUrl: https://feed.songexploder.net/SongExploder
+
+  - title: Teen Creeps
+    htmlUrl: https://www.teencreepspod.com/
+    xmlUrl: https://feeds.acast.com/public/shows/681932c0eb146d8e35eee2ed
+
+  - title: 'Lizard People: Comedy and Conspiracy Theories'
+    htmlUrl: http://lizardpeoplepodcast.libsyn.com/website
+    xmlUrl: https://lizardpeoplepodcast.libsyn.com/rss
+
+  - title: Get Played
+    htmlUrl: https://art19.com/shows/get-played
+    xmlUrl: https://rss.art19.com/get-played
 
 - name: 'Libraries: Not Just Books'
   opml: earbuds-podcast-recommendations-libraries-not-just-books.opml
