@@ -397,7 +397,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/SBP9328962318
 
 - name: What does the future of work look like? 👩‍💻💼
-  opml:
+  opml: earbuds-podcast-recommendations-what-does-the-future-of-work-look-like.opml
   date: 2025-08-24
   htmlUrl: https://newsletter.earbuds.audio/p/the-future-of-jobs-careers-podcasts
   podcasts:
@@ -1443,7 +1443,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/VMP1684715893
 
 - name: The Perfect Holiday Gift for Podcasters. Love, EarBuds 🎁
-  opml:
+  opml: earbuds-podcast-recommendations-the-perfect-holiday-gift-for-podcasters.opml
   date: 2024-11-11
   htmlUrl: https://newsletter.earbuds.audio/p/perfect-holiday-gift-podcasters-2024
   podcasts:
@@ -3555,7 +3555,7 @@ issues:
     xmlUrl: https://feeds.simplecast.com/FO6kxYGj
 
 - name: 'Reframing the Unexpected: Podcast Recommendations'
-  opml:
+  opml: earbuds-podcast-recommendations-reframing-the-unexpected.opml
   date: 2023-04-13
   htmlUrl: https://newsletter.earbuds.audio/p/reframing-unexpected-podcast-recommendations
   podcasts:
@@ -5584,12 +5584,6 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/amplifying-black-voices
   podcasts:
 
-- name: Facial Recognition and Privacy
-  opml:
-  date: 2020-06-06
-  htmlUrl: https://newsletter.earbuds.audio/p/facial-recognition-privacy-fb45
-  podcasts:
-
 - name: One-Stop Reality Escapes
   opml: earbuds-podcast-recommendations-one-stop-reality-escapes.opml
   date: 2020-06-01
@@ -6388,12 +6382,6 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/minority-mental-health
   podcasts:
 
-- name: Let's Talk Mental Health
-  opml:
-  date: 2018-07-09
-  htmlUrl: https://newsletter.earbuds.audio/p/lets-talk-mental-health-4809
-  podcasts:
-
 - name: EarBuds Live Invite
   opml: earbuds-podcast-recommendations-earbuds-live-invite.opml
   date: 2018-07-05
@@ -6416,12 +6404,6 @@ issues:
   opml: earbuds-podcast-recommendations-grab-your-earbuds-live-in-los-angeles-tickets.opml
   date: 2018-06-30
   htmlUrl: https://newsletter.earbuds.audio/p/grab-earbuds-live-los-angeles-tickets
-  podcasts:
-
-- name: Leisure Activities
-  opml:
-  date: 2018-06-29
-  htmlUrl: https://newsletter.earbuds.audio/p/leisure-activities-5a59
   podcasts:
 
 - name: Let's Go Local
@@ -6604,12 +6586,6 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-mothers-quest
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Food. Drink. Mirth*'
-  opml:
-  date: 2017-12-24
-  htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-food-drink-mirth-c1e7
-  podcasts:
-
 - name: Love EarBuds? Become a contributing member!
   opml: earbuds-podcast-recommendations-love-earbuds-become-a-contributing-member.opml
   date: 2017-12-21
@@ -6698,12 +6674,6 @@ issues:
   opml: earbuds-podcast-recommendations-earbuds-mini-list-d-c-podcasts.opml
   date: 2017-10-30
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-minilist-dc-podcasts
-  podcasts:
-
-- name: 'EarBuds Podcast Collective: *Diabetes Awareness Month*'
-  opml:
-  date: 2017-10-30
-  htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-diabetes-awareness-month-eb53
   podcasts:
 
 - name: 'Event Announcement: *EarBuds Live in LA*'

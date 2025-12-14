@@ -71,6 +71,11 @@ def main():
       issue_pubDate = issue['date']
       issue_htmlUrl = issue['htmlUrl']
 
+      if issue_opml == None:
+        print(f"NULL value found of OPML path")
+        print(f"Hint: {issue_title} .. {issue_htmlUrl}")
+        exit(1)
+
       opml_fullpath = f"../opml/{issue_opml}"
 
       # Skip is file exists already
