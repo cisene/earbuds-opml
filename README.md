@@ -193,6 +193,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [Living in our Bodies](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-living-in-our-bodies.opml) | 2022-05-22 |
 | [Rewriting Black and Indigenous Histories](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-rewriting-black-and-indigenous-histories.opml) | 2022-05-11 |
 | [Raising Awareness About Disabilities](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-raising-awareness-about-disabilities.opml) | 2022-05-05 |
+| [Unexpected, Smart Business](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-unexpected-smart-business.opml) | 2022-04-28 |
 
 
 

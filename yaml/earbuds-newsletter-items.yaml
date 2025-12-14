@@ -1462,12 +1462,6 @@ issues:
     htmlUrl: https://nymag.com/
     xmlUrl: https://feeds.megaphone.fm/VMP1684715893
 
-- name: The Perfect Holiday Gift for Podcasters. Love, EarBuds 🎁
-  opml: earbuds-podcast-recommendations-the-perfect-holiday-gift-for-podcasters.opml
-  date: 2024-11-11
-  htmlUrl: https://newsletter.earbuds.audio/p/perfect-holiday-gift-podcasters-2024
-  podcasts:
-
 - name: Podcasts on (Usually) Off-The-Table Topics 🍽️
   opml: earbuds-podcast-recommendations-podcasts-on-usually-off-the-table-topics.opml
   date: 2024-11-11
@@ -4898,9 +4892,29 @@ issues:
 
 - name: Unexpected, Smart Business
   opml: earbuds-podcast-recommendations-unexpected-smart-business.opml
-  date: 2022-05-02
+  date: 2022-04-28
   htmlUrl: https://newsletter.earbuds.audio/p/unexpected-smart-business
   podcasts:
+
+  - title: Non-Technical
+    htmlUrl: https://redcircle.com/shows/non-technical
+    xmlUrl: https://feeds.redcircle.com/3f5d7ac4-585e-48b6-a720-815eddcbd587
+
+  - title: 'The Juggernaut Interviews: Founders'
+    htmlUrl: https://www.thejuggernaut.com/
+    xmlUrl: https://feeds.megaphone.fm/TPG9532259071
+
+  - title: The a16z Show
+    htmlUrl: https://a16z.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/JGE3yC0V
+
+  - title: Sway
+    htmlUrl: https://www.nytimes.com/column/hard-fork
+    xmlUrl: https://feeds.simplecast.com/ZJt36p4I
+
+  - title: Hello Monday with Jessi Hempel
+    htmlUrl: https://www.linkedin.com/
+    xmlUrl: https://feeds.megaphone.fm/LI2346399949
 
 - name: Stories of Indelible Women
   opml: earbuds-podcast-recommendations-stories-of-indelible-women.opml
