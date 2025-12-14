@@ -4918,9 +4918,29 @@ issues:
 
 - name: Stories of Indelible Women
   opml: earbuds-podcast-recommendations-stories-of-indelible-women.opml
-  date: 2022-04-25
+  date: 2022-04-21
   htmlUrl: https://newsletter.earbuds.audio/p/stories-indelible-women
   podcasts:
+
+  - title: Uncivil
+    htmlUrl: http://uncivil.show/
+    xmlUrl: https://feeds.megaphone.fm/uncivil
+
+  - title: Sweet Bobby
+    htmlUrl: https://shows.acast.com/sweet-bobby-new
+    xmlUrl: https://feeds.acast.com/public/shows/64e5c027d3554a001131c921
+
+  - title: Snap Judgment
+    htmlUrl: http://snapjudgment.org/
+    xmlUrl: https://snap.feed.snapjudgment.org/
+
+  - title: The Just Enough Family
+    htmlUrl: https://www.sonymusic.com/podcasts/
+    xmlUrl: https://feeds.megaphone.fm/justenough
+
+  - title: The Moth
+    htmlUrl: http://themoth.org/
+    xmlUrl: https://feeds.feedburner.com/themothpodcast
 
 - name: Sounds, Songs & Their Stories
   opml: earbuds-podcast-recommendations-sounds-songs-their-stories.opml
