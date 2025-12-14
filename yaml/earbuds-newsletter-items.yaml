@@ -3,7 +3,34 @@ global:
   ownerEmail: info@earbuds.audio
   url: https://earbuds.audio/
   title: EarBuds Podcast Recommendations
+
 issues:
+
+- name: Historical Legacies in Motion
+  opml: earbuds-podcast-recommendations-historical-legacies-in-motion.opml
+  date: 2025-11-30
+  htmlUrl: https://newsletter.earbuds.audio/p/historical-legacies-in-motion-podcasts
+  podcasts:
+
+  - title: Echoes In The First Person
+    htmlUrl: https://www.echoesinthefirstperson.com/
+    xmlUrl: https://rss.buzzsprout.com/2544506.rss
+
+  - title: Trapped History
+    htmlUrl: https://www.trappedhistory.com/
+    xmlUrl: https://feeds.captivate.fm/trappedhistory/
+
+  - title: Stuff You Missed in History Class
+    htmlUrl: https://www.iheart.com/podcast/stuff-you-missed-in-history-cl-21124503/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/fb626e1f-112c-4246-a40d-ae2701747e7d/podcast.rss
+
+  - title: AfroQueer
+    htmlUrl: https://afroqueerpodcast.podbean.com/
+    xmlUrl: https://feed.podbean.com/afroqueerpodcast/feed.xml
+
+  - title: Telling Our Twisted Histories
+    htmlUrl: https://www.cbc.ca/news/indigenous
+    xmlUrl: https://www.cbc.ca/podcasting/includes/twistedhistories.xml
 
 - name: '5 Fantasy Podcasts: for when you need to escape to another world'
   opml: earbuds-podcast-recommendations-5-fantasy-podcasts-for-when-you-need-to-escape-to-another-world.opml

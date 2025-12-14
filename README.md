@@ -17,6 +17,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 
 | Weekly issus of the Earbuds Podcast Collective Newletters                           | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [Historical Legacies in Motion](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-historical-legacies-in-motion.opml) | 2025-11-30 |
 | [5 Fantasy Podcasts: for when you need to escape to another world](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-fantasy-podcasts-for-when-you-need-to-escape-to-another-world.opml) | 2025-11-23 |
 | [5 Podcasts on Bodies & How We See Ourselves](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-podcasts-on-bodies-and-how-we-see-ourselves.opml) | 2025-11-16 |
 | [5 Fiction Podcasts From Around the World 🌎](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-fiction-podcasts-from-around-the-world.opml) | 2025-11-09 |
