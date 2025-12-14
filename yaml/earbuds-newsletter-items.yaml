@@ -402,6 +402,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/the-future-of-jobs-careers-podcasts
   podcasts:
 
+  - title: 'Shifting Schools: Conversations for K12 Educators'
+    htmlUrl: http://www.shiftingschools.com/
+    xmlUrl: https://shiftingourschools.libsyn.com/rss
+
+  - title: Masters of Scale
+    htmlUrl: http://www.mastersofscale.com/
+    xmlUrl: https://rss.art19.com/masters-of-scale
+
+  - title: Hidden Brain
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/kwWc0lhf
+
+  - title: Mistakes That Made Me
+    htmlUrl: https://emancopyco.com/podcast
+    xmlUrl: https://podcasts.helloaudio.fm/podcast/820a52e8-c8b5-4cb6-a02a-f1d2d6909a73/UkJG4wHjcw
+
+  - title: TED Radio Hour
+    htmlUrl: https://www.npr.org/podcasts/510298/ted-radio-hour
+    xmlUrl: https://feeds.npr.org/510298/podcast.xml
+
 - name: AI & the Future of Humanity
   opml: earbuds-podcast-recommendations-ai-the-future-of-humanity.opml
   date: 2025-08-17

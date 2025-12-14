@@ -32,6 +32,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [5 Niche History Podcasts 📜](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-niche-history-podcasts.opml) | 2025-09-15 |
 | [5 Comedy Podcasts That Roast Late-Stage Capitalism 💸](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-comedy-podcasts-that-roast-late-stage-capitalism.opml) | 2025-09-08 |
 | [5 Podcasts To Feed Your Nostalgia](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-podcasts-to-feed-your-nostalgia.opml) | 2025-09-01 |
+| [What does the future of work look like? 👩‍💻💼](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-what-does-the-future-of-work-look-like.opml) | 2025-08-24 |
 | [AI & the Future of Humanity](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-ai-the-future-of-humanity.opml) | 2025-08-17 |
 | [5 podcasts on our bodies: resistance, empowerment, acceptance 🗣️](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-podcasts-on-our-bodies-resistance-empowerment-acceptance.opml) | 2025-08-11 |
 | [The Bad Bunny Podcast Recommendation List 📣🇵🇷](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-the-bad-bunny-podcast-recommendation-list.opml) | 2025-08-03 |
@@ -145,7 +146,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [Podcasts On: Burnout](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-podcasts-on-burnout.opml) | 2023-05-08 |
 | [In Loving Memory: Podcast Recommendations](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-in-loving-memory-podcast-recommendations.opml) | 2023-04-30 |
 | [Podcasts On: Beauty Standards](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-podcasts-on-beauty-standards.opml) | 2023-04-24 |
-| [Reframing the Unexpected: Podcast Recommendations](https://b19.se/data/opml/earbuds/None) | 2023-04-13 |
+| [Reframing the Unexpected: Podcast Recommendations](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-reframing-the-unexpected.opml) | 2023-04-13 |
 | [Games and Our Feelings: Podcast Recommendations](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-games-and-our-feelings-podcast-recommendations.opml) | 2023-04-10 |
 | [Changing Your Tech Point of View: Podcast Recommendations](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-changing-your-tech-point-of-view-podcast-recommendations.opml) | 2023-04-01 |
 | [Are you comically well? Podcast Recommendations](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-are-you-comically-well-podcast-recommendations.opml) | 2023-03-26 |
