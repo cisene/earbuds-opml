@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: Keeping the past present through music podcasts
+  opml: earbuds-podcast-recommendations-keeping-the-past-present-through-music-podcasts.opml
+  date: 2025-12-07
+  html: https://newsletter.earbuds.audio/p/keeping-the-past-present-through-music-podcasts
+  podcasts:
+
+  - title: ReCurrent
+    htmlUrl: https://www.getty.edu/podcasts/recurrent/
+    xmlUrl: https://feeds.blubrry.com/feeds/3915082.xml
+
+  - title: Song Exploder
+    htmlUrl: http://www.songexploder.net/
+    xmlUrl: https://feed.songexploder.net/SongExploder
+
+  - title: Latino USA
+    htmlUrl: http://www.latinousa.org/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/eba15fe4-c3fd-4e63-a8f9-b2dc01092685/a324c6a1-2e41-486b-b538-b2dc010926c5/podcast.rss
+
+  - title: 'Lost Notes: Groupies'
+    htmlUrl: https://www.kcrw.com/culture/shows/lost-notes?utm_source=KCRW&utm_medium=RSS&utm_campaign=kcrw-show-rss
+    xmlUrl: https://feed.cdnstream1.com/zjb/feed/download/2a/54/3c/2a543c76-a959-494d-bbb8-8981aea5909d.xml
+
+  - title: Alt.Latino
+    htmlUrl: https://www.npr.org/podcasts/510305/alt-latino
+    xmlUrl: https://feeds.npr.org/510305/podcast.xml
+
 - name: Historical Legacies in Motion
   opml: earbuds-podcast-recommendations-historical-legacies-in-motion.opml
   date: 2025-11-30
@@ -4826,9 +4852,29 @@ issues:
 
 - name: Raising Awareness About Disabilities
   opml: earbuds-podcast-recommendations-raising-awareness-about-disabilities.opml
-  date: 2022-05-09
+  date: 2022-05-05
   htmlUrl: https://newsletter.earbuds.audio/p/raising-awareness-disabilities
   podcasts:
+
+  - title: Proud Stutter
+    htmlUrl: https://redcircle.com/shows/proud-stutter
+    xmlUrl: https://feeds.redcircle.com/0810a3a4-e004-4747-ad5c-60a5aed665ac
+
+  - title: The Enabled Disabled Podcast
+    htmlUrl: https://www.enableddisabled.com/
+    xmlUrl: https://anchor.fm/s/567f0f70/podcast/rss
+
+  - title: Disability Visibility
+    htmlUrl: https://disabilityvisibilityproject.com/
+    xmlUrl: https://disabilityvisibilityproject.com/feed/podcast/
+
+  - title: Youth Organizing X
+    htmlUrl: https://www.youthorganizingxpod.com/
+    xmlUrl: https://youthorganizingx.libsyn.com/rss
+
+  - title: The Politics of Disability
+    htmlUrl: https://thepoliticsofdisability.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/1771229.rss
 
 - name: Unexpected, Smart Business
   opml: earbuds-podcast-recommendations-unexpected-smart-business.opml

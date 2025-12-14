@@ -17,6 +17,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 
 | Weekly issus of the Earbuds Podcast Collective Newletters                           | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [Keeping the past present through music podcasts](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-keeping-the-past-present-through-music-podcasts.opml) | 2025-12-07 |
 | [Historical Legacies in Motion](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-historical-legacies-in-motion.opml) | 2025-11-30 |
 | [5 Fantasy Podcasts: for when you need to escape to another world](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-fantasy-podcasts-for-when-you-need-to-escape-to-another-world.opml) | 2025-11-23 |
 | [5 Podcasts on Bodies & How We See Ourselves](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-podcasts-on-bodies-and-how-we-see-ourselves.opml) | 2025-11-16 |
@@ -190,6 +191,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [Art Imitates Life (Imitates Podcasts)](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-art-imitates-life-imitates-podcasts.opml) | 2022-05-29 |
 | [Living in our Bodies](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-living-in-our-bodies.opml) | 2022-05-22 |
 | [Rewriting Black and Indigenous Histories](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-rewriting-black-and-indigenous-histories.opml) | 2022-05-11 |
+| [Raising Awareness About Disabilities](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-raising-awareness-about-disabilities.opml) | 2022-05-05 |
 
 
 
