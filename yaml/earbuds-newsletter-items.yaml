@@ -5100,9 +5100,29 @@ issues:
 
 - name: Women Leaders in Podcasting 💃🏽
   opml: earbuds-podcast-recommendations-women-leaders-in-podcasting.opml
-  date: 2022-03-21
+  date: 2022-03-20
   htmlUrl: https://newsletter.earbuds.audio/p/women-leaders-podcasting
   podcasts:
+
+  - title: 'The Thought Card: Smart Travel Tips & Vacation Planning For Financially Savvy Travelers'
+    htmlUrl: https://thoughtcard.com/
+    xmlUrl: https://thoughtcard.libsyn.com/rss
+
+  - title: 'The Pod Broads: A Podcast About Women in Podcasting'
+    htmlUrl: https://www.poddraland.com/the-pod-broads-a-podcast-about-women-in-podcasting
+    xmlUrl: https://feed.ausha.co/kk4nQS6J30md
+
+  - title: Entreprenista
+    htmlUrl: https://entreprenista.com/
+    xmlUrl: https://feeds.megaphone.fm/RRINS2799016907
+
+  - title: The Proffitt Podcast
+    htmlUrl: https://www.krystalproffitt.com/podcast
+    xmlUrl: https://feeds.buzzsprout.com/186317.rss
+
+  - title: Mind Of A Mentor
+    htmlUrl: https://www.spreaker.com/show/mind-of-a-mentor
+    xmlUrl: https://www.spreaker.com/show/5815761/episodes/feed
 
 - name: Behind the Icons
   opml: earbuds-podcast-recommendations-behind-the-icons.opml
