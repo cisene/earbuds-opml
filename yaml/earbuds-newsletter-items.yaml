@@ -5126,9 +5126,29 @@ issues:
 
 - name: Behind the Icons
   opml: earbuds-podcast-recommendations-behind-the-icons.opml
-  date: 2022-03-14
+  date: 2022-03-10
   htmlUrl: https://newsletter.earbuds.audio/p/behind-icons
   podcasts:
+
+  - title: Finding Raffi
+    htmlUrl: https://www.iheart.com/podcast/1119-finding-fred-51090582/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f7113f18-d795-4ba4-9280-ae39004e9e79/7c0f989c-abd4-437c-aae4-ae39004e9e9a/podcast.rss
+
+  - title: You're Wrong About
+    htmlUrl: https://www.buzzsprout.com/1112270
+    xmlUrl: https://rss.buzzsprout.com/1112270.rss
+
+  - title: 'The Turning: The Sisters Who Left'
+    htmlUrl: https://www.iheart.com/podcast/1119-the-turning-the-sisters-w-82262169/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a2b6c785-968f-4390-a9de-b30c01091aaa/ffe000e5-94b7-4ac2-b366-b30c01091ac1/podcast.rss
+
+  - title: Decoder Ring
+    htmlUrl: https://slate.com/podcasts/decoder-ring
+    xmlUrl: https://feeds.megaphone.fm/decoderring
+
+  - title: Anything For Selena
+    htmlUrl: https://www.wbur.org/podcasts/anythingforselena
+    xmlUrl: https://rss.wbur.org/anythingforselena/podcast
 
 - name: Precedented Times
   opml: earbuds-podcast-recommendations-precedented-times.opml
