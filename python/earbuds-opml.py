@@ -9,6 +9,8 @@ from datetime import datetime
 import yaml
 from lxml import etree
 
+DEBUG = False
+
 
 SOURCE_YAML = '../yaml/earbuds-newsletter-items.yaml'
 
@@ -63,13 +65,36 @@ def main():
   for issue in config['issues']:
     if "podcasts" in issue:
 
+      if "name" not in issue:
+        if DEBUG:
+          print(f"Skipped on non-existant Name")
+        continue
+
+      if "opml" not in issue:
+        if DEBUG:
+          print(f"Skipped on non-existant OPML")
+        continue
+
       if "htmlUrl" not in issue:
+        if DEBUG:
+          print(f"Skipped on non-existant htmlUrl")
+        continue
+
+      if "date" not in issue:
+        if DEBUG:
+          print(f"Skipped on non-existant date")
+        continue
+
+      if "podcasts" not in issue:
+        if DEBUG:
+          print(f"Skipped on non-existant podcast")
         continue
 
       issue_title = issue['name']
       issue_opml = issue['opml']
       issue_pubDate = issue['date']
       issue_htmlUrl = issue['htmlUrl']
+      issue_podcasts = issue['podcasts']
 
       if issue_opml == None:
         print(f"NULL value found of OPML path")
@@ -78,11 +103,40 @@ def main():
 
       opml_fullpath = f"../opml/{issue_opml}"
 
+      if issue_title == None:
+        if DEBUG:
+          print(f"Skipped on empty/null title")
+        continue
+
+      if issue_opml == None:
+        if DEBUG:
+          print(f"Skipped on empty/null opml")
+        continue
+
+      if issue_pubDate == None:
+        if DEBUG:
+          print(f"Skipped on empty/null date")
+        continue
+      else:
+        if issue_pubDate == '1970-01-01':
+          continue
+
+      if issue_podcasts == None:
+        if DEBUG:
+          print(f"Skipped on empty/null podcasts")
+        continue
+      else:
+        if len(issue_podcasts) < 1:
+          print(" ... skipping, fewer than 1 podcasts")
+          continue
+
+
       # Skip is file exists already
-      #if os.path.isfile(opml_fullpath):
-      #  continue
-
-
+      if os.path.isfile(opml_fullpath):
+        #print(f"Skipped {opml_fullpath} as it exists")
+        continue
+      else:
+        print(f"Writing {opml_fullpath}")
 
       # Open OPML
       opml = etree.Element("opml", version = "2.0")
@@ -132,34 +186,33 @@ def main():
       body = etree.Element("body")
 
       item_count = 0
-      if "podcasts" in issue:
-        if issue['podcasts'] != None:
-          if len(issue['podcasts']) > 0:
-            for podcast in issue['podcasts']:
 
-              if podcast['xmlUrl'] == None:
-                continue
+      #for podcast in issue['podcasts']:
+      for podcast in issue_podcasts:
 
-              if podcast['htmlUrl'] == None:
-                continue
-                
-              podcast_title = podcast['title']
-              podcast_htmlUrl = podcast['htmlUrl']
-              podcast_xmlUrl = podcast['xmlUrl']
+        if podcast['xmlUrl'] == None:
+          continue
 
-              Outline = etree.Element("outline")
-              Outline.set("type", "link")
-              Outline.set("version", "RSS")
-              Outline.set("language", "en")
+        if podcast['htmlUrl'] == None:
+          continue
+          
+        podcast_title = podcast['title']
+        podcast_htmlUrl = podcast['htmlUrl']
+        podcast_xmlUrl = podcast['xmlUrl']
 
-              Outline.set("title", str(podcast_title))
-              Outline.set("text", str(podcast_title))
+        Outline = etree.Element("outline")
+        Outline.set("type", "link")
+        Outline.set("version", "RSS")
+        Outline.set("language", "en")
 
-              Outline.set("htmlUrl", str(podcast_htmlUrl))
-              Outline.set("xmlUrl", str(podcast_xmlUrl))
+        Outline.set("title", str(podcast_title))
+        Outline.set("text", str(podcast_title))
 
-              body.append(Outline)
-              item_count += 1
+        Outline.set("htmlUrl", str(podcast_htmlUrl))
+        Outline.set("xmlUrl", str(podcast_xmlUrl))
+
+        body.append(Outline)
+        item_count += 1
 
       # Close body
       opml.append(body)
