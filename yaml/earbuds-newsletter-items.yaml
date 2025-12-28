@@ -5230,9 +5230,29 @@ issues:
 
 - name: Wood You Celebrate With Us? EarBuds Turns 5!
   opml: earbuds-podcast-recommendations-wood-you-celebrate-with-us-earbuds-at-5-years.opml
-  date: 2022-02-13
+  date: 2022-02-10
   htmlUrl: https://newsletter.earbuds.audio/p/wood-celebrate-us-earbuds-5-years
   podcasts:
+
+  - title: Secretly Incredibly Fascinating
+    htmlUrl: https://maximumfun.org/podcasts/secretly-incredibly-fascinating/
+    xmlUrl: https://feeds.simplecast.com/_WI4mhWl
+
+  - title: Ologies with Alie Ward
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/FO6kxYGj
+
+  - title: The Woodpreneur Podcast
+    htmlUrl: http://stashinc.libsyn.com/podcast
+    xmlUrl: https://feed.pod.co/the-woodpreneur-podcast-1
+
+  - title: The Food Podcast
+    htmlUrl: https://lindsaycameronwilson.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/281794.rss
+
+  - title: Brains On! Science podcast for kids
+    htmlUrl: http://www.brainson.org/
+    xmlUrl: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/88254a5e-7dce-483b-9e89-b375010d435a/20172af1-ae6b-4b68-90d7-b375010d4361/podcast.rss
 
 - name: Minds to Sit With
   opml: earbuds-podcast-recommendations-minds-to-sit-with.opml
