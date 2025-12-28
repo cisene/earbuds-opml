@@ -9,7 +9,7 @@ issues:
 - name: 5 Podcasts on Messy Women
   opml: earbuds-podcast-recommendations-5-podcasts-on-messy-women.opml
   date: 2025-12-14
-  html: https://newsletter.earbuds.audio/p/five-messy-women-podcast-recs
+  htmlUrl: https://newsletter.earbuds.audio/p/five-messy-women-podcast-recs
   podcasts:
 
   - title: 'Limousine: A podcast for readers and writers'
@@ -35,7 +35,7 @@ issues:
 - name: Keeping the past present through music podcasts
   opml: earbuds-podcast-recommendations-keeping-the-past-present-through-music-podcasts.opml
   date: 2025-12-07
-  html: https://newsletter.earbuds.audio/p/keeping-the-past-present-through-music-podcasts
+  htmlUrl: https://newsletter.earbuds.audio/p/keeping-the-past-present-through-music-podcasts
   podcasts:
 
   - title: ReCurrent
@@ -6596,38 +6596,38 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/actualplay-roleplaying
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Y''all, Listen Here*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-yall-listen-here.opml
+- name: 'Y''all, Listen Here'
+  opml: earbuds-podcast-recommendations-yall-listen-here.opml
   date: 2018-04-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-yall-listen
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Speaking Social Justice*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-speaking-social-justice.opml
+- name: 'Speaking Social Justice'
+  opml: earbuds-podcast-recommendations-speaking-social-justice.opml
   date: 2018-03-25
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-speaking-social-justice
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Different Forms of Community*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-different-forms-of-community.opml
+- name: 'Different Forms of Community'
+  opml: earbuds-podcast-recommendations-different-forms-of-community.opml
   date: 2018-03-18
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-different-forms-community
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Empowering Women*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-empowering-women.opml
+- name: 'Empowering Women'
+  opml: earbuds-podcast-recommendations-empowering-women.opml
   date: 2018-03-05
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-empowering-women
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Migration Patterns*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-migration-patterns.opml
+- name: 'Migration Patterns'
+  opml: earbuds-podcast-recommendations-migration-patterns.opml
   date: 2018-02-26
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-migration-patterns
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Sustainable Living +*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-sustainable-living.opml
+- name: 'Sustainable Living +'
+  opml: earbuds-podcast-recommendations-sustainable-living.opml
   date: 2018-02-19
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-sustainable-living
   podcasts:
@@ -6638,50 +6638,44 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/happy-one-year-earbuds
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *First Anniversary Gifts*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-first-anniversary-gifts.opml
+- name: 'First Anniversary Gifts'
+  opml: earbuds-podcast-recommendations-first-anniversary-gifts.opml
   date: 2018-02-11
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-first-anniversary-gifts
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Reclaiming Your Sensual Self*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-reclaiming-your-sensual-self.opml
+- name: 'Reclaiming Your Sensual Self'
+  opml: earbuds-podcast-recommendations-reclaiming-your-sensual-self.opml
   date: 2018-02-05
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-reclaiming-sensual-self
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Laughing & Learning with Ladies*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-laughing-learning-with-ladies.opml
+- name: 'Laughing & Learning with Ladies'
+  opml: earbuds-podcast-recommendations-laughing-learning-with-ladies.opml
   date: 2018-01-29
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-laughing-learning-ladies
   podcasts:
 
-- name: Laughing & Learning with Ladies
-  opml: earbuds-podcast-recommendations-laughing-learning-with-ladies.opml
-  date: 2018-01-29
-  htmlUrl: https://newsletter.earbuds.audio/p/laughing-learning-ladies
-  podcasts:
-
-- name: 'EarBuds Podcast Collective: *Leaving Your Comfort Zone*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-leaving-your-comfort-zone.opml
+- name: 'Leaving Your Comfort Zone'
+  opml: earbuds-podcast-recommendations-leaving-your-comfort-zone.opml
   date: 2018-01-22
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-leaving-comfort-zone
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Passion Pirates*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-passion-pirates.opml
+- name: 'Passion Pirates'
+  opml: earbuds-podcast-recommendations-passion-pirates.opml
   date: 2018-01-15
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-passion-pirates
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Go Sports!*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-go-sports.opml
+- name: 'Go Sports!'
+  opml: earbuds-podcast-recommendations-go-sports.opml
   date: 2018-01-08
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-go-sports
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Mothers on a Quest*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-mothers-on-a-quest.opml
+- name: 'Mothers on a Quest'
+  opml: earbuds-podcast-recommendations-mothers-on-a-quest.opml
   date: 2018-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-mothers-quest
   podcasts:
@@ -6698,20 +6692,20 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/become-earbuds-member
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Food. Drink. Mirth*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-food-drink-mirth.opml
+- name: 'Food. Drink. Mirth'
+  opml: earbuds-podcast-recommendations-food-drink-mirth.opml
   date: 2017-12-19
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-food-drink-mirth
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Women in STEM*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-women-in-stem.opml
+- name: 'Women in STEM'
+  opml: earbuds-podcast-recommendations-women-in-stem.opml
   date: 2017-12-17
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-women-stem
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Koseligcasts*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-koseligcasts.opml
+- name: 'Koseligcasts'
+  opml: earbuds-podcast-recommendations-koseligcasts.opml
   date: 2017-12-11
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-koseligcasts
   podcasts:
@@ -6728,8 +6722,8 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/transcend-podcast-preview-survey
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Best Podcast Episodes of 2017*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-best-podcast-episodes-of-2017.opml
+- name: 'Best Podcast Episodes of 2017'
+  opml: earbuds-podcast-recommendations-best-podcast-episodes-of-2017.opml
   date: 2017-12-03
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-best-podcast-episodes-2017
   podcasts:
@@ -6740,8 +6734,8 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/cant-wait-see-earbuds-live-la
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Can We Get Along?*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-can-we-get-along.opml
+- name: 'Can We Get Along?'
+  opml: earbuds-podcast-recommendations-can-we-get-along.opml
   date: 2017-11-27
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-can-get-along
   podcasts:
@@ -6752,20 +6746,20 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-live-la-december-9th-tickets
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Celebrate Teachers & Books*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-celebrate-teachers-books.opml
+- name: 'Celebrate Teachers & Books'
+  opml: earbuds-podcast-recommendations-celebrate-teachers-books.opml
   date: 2017-11-18
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-celebrate-teachers-books
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Historical Breakdowns*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-historical-breakdowns.opml
+- name: 'Historical Breakdowns'
+  opml: earbuds-podcast-recommendations-historical-breakdowns.opml
   date: 2017-11-13
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-historical-breakdowns
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Spooky Grab Bag*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-spooky-grab-bag.opml
+- name: 'Spooky Grab Bag'
+  opml: earbuds-podcast-recommendations-spooky-grab-bag.opml
   date: 2017-11-06
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-spooky-grab-bag
   podcasts:
@@ -6782,176 +6776,176 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/event-announcement-earbuds-live-la
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Diabetes Awareness Month*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-diabetes-awareness-month.opml
+- name: 'Diabetes Awareness Month'
+  opml: earbuds-podcast-recommendations-diabetes-awareness-month.opml
   date: 2017-10-25
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-diabetes-awareness-month
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Fictional Podcasts*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-fictional-podcasts.opml
+- name: 'Fictional Podcasts'
+  opml: earbuds-podcast-recommendations-fictional-podcasts.opml
   date: 2017-10-22
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-fictional-podcasts
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *History & Humor*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-history-humor.opml
+- name: 'History & Humor'
+  opml: earbuds-podcast-recommendations-history-humor.opml
   date: 2017-10-15
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-history-humor
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *History with a Sense of Humor*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-history-with-a-sense-of-humor.opml
+- name: 'History with a Sense of Humor'
+  opml: earbuds-podcast-recommendations-history-with-a-sense-of-humor.opml
   date: 2017-10-10
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-history-sense-humor
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Podcasts Just for Kids!*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-podcasts-just-for-kids.opml
+- name: 'Podcasts Just for Kids!'
+  opml: earbuds-podcast-recommendations-podcasts-just-for-kids.opml
   date: 2017-10-09
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-podcasts-just-kids
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Mind Blowing Science*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-mind-blowing-science.opml
+- name: 'Mind Blowing Science'
+  opml: earbuds-podcast-recommendations-mind-blowing-science.opml
   date: 2017-10-02
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-mind-blowing-science
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *The Prison System*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-the-prison-system.opml
+- name: 'The Prison System'
+  opml: earbuds-podcast-recommendations-the-prison-system.opml
   date: 2017-09-24
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-prison-system
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Black Hollywood*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-black-hollywood.opml
+- name: 'Black Hollywood'
+  opml: earbuds-podcast-recommendations-black-hollywood.opml
   date: 2017-09-18
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-black-hollywood
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *(Not So) Great Expectations*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-not-so-great-expectations.opml
+- name: '(Not So) Great Expectations'
+  opml: earbuds-podcast-recommendations-not-so-great-expectations.opml
   date: 2017-09-10
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-not-great-expectations
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Power to the Period*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-power-to-the-period.opml
+- name: 'Power to the Period'
+  opml: earbuds-podcast-recommendations-power-to-the-period.opml
   date: 2017-09-04
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-power-period
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Mysteries*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-mysteries.opml
+- name: 'Mysteries'
+  opml: earbuds-podcast-recommendations-mysteries.opml
   date: 2017-08-28
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-mysteries
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Mancasts*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-mancasts.opml
+- name: 'Mancasts'
+  opml: earbuds-podcast-recommendations-mancasts.opml
   date: 2017-08-21
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-mancasts
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Funny, Female-Hosted Podcasts*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-funny-female-hosted-podcasts.opml
+- name: 'Funny, Female-Hosted Podcasts'
+  opml: earbuds-podcast-recommendations-funny-female-hosted-podcasts.opml
   date: 2017-08-14
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-funny-femalehosted-podcasts
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Unreliable Narrators*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-unreliable-narrators.opml
+- name: 'Unreliable Narrators'
+  opml: earbuds-podcast-recommendations-unreliable-narrators.opml
   date: 2017-08-07
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-unreliable-narrators
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Food & Cooking*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-food-cooking.opml
+- name: 'Food & Cooking'
+  opml: earbuds-podcast-recommendations-food-cooking.opml
   date: 2017-07-31
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-food-cooking
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Religion and Society*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-religion-and-society.opml
+- name: 'Religion and Society'
+  opml: earbuds-podcast-recommendations-religion-and-society.opml
   date: 2017-07-24
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-religion-society
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Religion*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-religion.opml
+- name: 'Religion'
+  opml: earbuds-podcast-recommendations-religion.opml
   date: 2017-07-23
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-religion
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Mirth, Chortle, and Guffaw*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-mirth-chortle-and-guffaw.opml
+- name: 'Mirth, Chortle, and Guffaw'
+  opml: earbuds-podcast-recommendations-mirth-chortle-and-guffaw.opml
   date: 2017-07-17
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-mirth-chortle-guffaw
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Understanding Grief*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-understanding-grief.opml
+- name: 'Understanding Grief'
+  opml: earbuds-podcast-recommendations-understanding-grief.opml
   date: 2017-07-09
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-understanding-grief
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Future of Media*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-future-of-media.opml
+- name: 'Future of Media'
+  opml: earbuds-podcast-recommendations-future-of-media.opml
   date: 2017-07-03
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-future-media
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Empathy*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-empathy.opml
+- name: 'Empathy'
+  opml: earbuds-podcast-recommendations-empathy.opml
   date: 2017-06-26
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-empathy
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *What Are We Thinking?*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-what-are-we-thinking.opml
+- name: 'What Are We Thinking?'
+  opml: earbuds-podcast-recommendations-what-are-we-thinking.opml
   date: 2017-06-19
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-thinking
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Unexpected Pairings*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-unexpected-pairings.opml
+- name: 'Unexpected Pairings'
+  opml: earbuds-podcast-recommendations-unexpected-pairings.opml
   date: 2017-06-12
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-unexpected-pairings
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Audio Dramarama*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-audio-dramarama.opml
+- name: 'Audio Dramarama'
+  opml: earbuds-podcast-recommendations-audio-dramarama.opml
   date: 2017-06-05
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-audio-dramarama
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Relationships*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-relationships.opml
+- name: 'Relationships'
+  opml: earbuds-podcast-recommendations-relationships.opml
   date: 2017-05-29
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-relationships
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *TV on the Radio!*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-tv-on-the-radio.opml
+- name: 'TV on the Radio!'
+  opml: earbuds-podcast-recommendations-tv-on-the-radio.opml
   date: 2017-05-22
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-tv-radio
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Born to Explore: Space*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-born-to-explore-space.opml
+- name: 'Born to Explore: Space'
+  opml: earbuds-podcast-recommendations-born-to-explore-space.opml
   date: 2017-05-15
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-born-explore-space
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Flirting with Experimental*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-flirting-with-experimental.opml
+- name: 'Flirting with Experimental'
+  opml: earbuds-podcast-recommendations-flirting-with-experimental.opml
   date: 2017-05-08
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-flirting-experimental
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Mad Scientist Playlist*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-mad-scientist-playlist.opml
+- name: 'Mad Scientist Playlist'
+  opml: earbuds-podcast-recommendations-mad-scientist-playlist.opml
   date: 2017-05-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-mad-scientist-playlist
   podcasts:
@@ -6962,32 +6956,32 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcasting-lead-reminder
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Race and Society*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-race-and-society.opml
+- name: 'Race and Society'
+  opml: earbuds-podcast-recommendations-race-and-society.opml
   date: 2017-04-24
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-race-society
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Women''s Travel*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-womens-travel.opml
+- name: 'Women''s Travel'
+  opml: earbuds-podcast-recommendations-womens-travel.opml
   date: 2017-04-16
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-womens-travel
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Design & Innovation*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-design-innovation.opml
+- name: 'Design & Innovation'
+  opml: earbuds-podcast-recommendations-design-innovation.opml
   date: 2017-04-09
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-design-innovation
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Justice League*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-justice-league.opml
+- name: 'Justice League'
+  opml: earbuds-podcast-recommendations-justice-league.opml
   date: 2017-04-02
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-justice-league
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Mississippi*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-mississippi.opml
+- name: 'Mississippi'
+  opml: earbuds-podcast-recommendations-mississippi.opml
   date: 2017-03-27
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-mississippi
   podcasts:
@@ -7130,8 +7124,8 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/intimact
   podcasts:
 
-- name: 'EarBuds Podcast Collective: *Alternative Perspectives on Reality*'
-  opml: earbuds-podcast-recommendations-earbuds-podcast-collective-alternative-perspectives-on-reality.opml
+- name: 'Alternative Perspectives on Reality'
+  opml: earbuds-podcast-recommendations-alternative-perspectives-on-reality.opml
   date: 1970-01-01
   htmlUrl: https://newsletter.earbuds.audio/p/earbuds-podcast-collective-alternative-perspectives-reality
   podcasts:
