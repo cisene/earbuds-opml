@@ -5178,9 +5178,29 @@ issues:
 
 - name: 'AI in Our Lives: Podcast Recommendations 🤖'
   opml: earbuds-podcast-recommendations-ai-in-our-lives-podcast-recommendations.opml
-  date: 2022-02-28
+  date: 2022-02-27
   htmlUrl: https://newsletter.earbuds.audio/p/ai-lives-podcast-recommendations
   podcasts:
+
+  - title: A.I. Nation
+    htmlUrl: https://whyy.org/programs/a-i-nation/
+    xmlUrl: https://whyy.org/wp-content/uploads/rss/aination.rss
+
+  - title: Flash Forward
+    htmlUrl: https://www.flashforwardpod.com/
+    xmlUrl: https://feeds.transistor.fm/flash-forward
+
+  - title: How AI Happens
+    htmlUrl: https://howaihappens.com/
+    xmlUrl: https://feeds.simplecast.com/qc2rXup_
+
+  - title: The TWIML AI Podcast (formerly This Week in Machine Learning & Artificial Intelligence)
+    htmlUrl: https://twimlai.com/
+    xmlUrl: https://feeds.megaphone.fm/MLN2155636147
+
+  - title: The Pulse
+    htmlUrl: https://whyy.org/programs/the-pulse/
+    xmlUrl: https://publicfeeds.net/f/12369/thepulse.xml
 
 - name: Film History Podcast Recommendations 📽️
   opml: earbuds-podcast-recommendations-film-history-podcast-recommendations.opml
