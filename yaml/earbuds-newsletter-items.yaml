@@ -6,6 +6,33 @@ global:
 
 issues:
 
+
+- name: 5 Podcasts on Messy Women
+  opml: earbuds-podcast-recommendations-5-podcasts-on-messy-women.opml
+  date: 2025-12-14
+  html: https://newsletter.earbuds.audio/p/five-messy-women-podcast-recs
+  podcasts:
+
+  - title: 'Limousine: A podcast for readers and writers'
+    htmlUrl: https://podcasters.spotify.com/pod/show/limousine-reading-series
+    xmlUrl: https://anchor.fm/s/f31d6ed0/podcast/rss
+
+  - title: StraightioLab
+    htmlUrl: https://www.iheart.com/podcast/263-straightiolab-97815943/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0c221bad-4dc8-419f-b554-aee6011ef1a7/f6ada493-0cfd-44b6-ac5c-aee6011ef1ee/podcast.rss
+
+  - title: Critics at Large | The New Yorker
+    htmlUrl: https://www.newyorker.com/podcast/critics-at-large
+    xmlUrl: https://publicfeeds.net/f/5868/critics-at-large
+
+  - title: Good Noticings
+    htmlUrl: https://www.goodnoticings.com/
+    xmlUrl: https://feeds.megaphone.fm/HOOSWTABSGLOBALLLC7896801906
+
+  - title: Know Your Enemy
+    htmlUrl: https://know-your-enemy-1682b684.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/MQHnVVgK
+
 - name: Keeping the past present through music podcasts
   opml: earbuds-podcast-recommendations-keeping-the-past-present-through-music-podcasts.opml
   date: 2025-12-07
