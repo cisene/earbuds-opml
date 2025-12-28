@@ -5078,6 +5078,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/moodboosting-stories
   podcasts:
 
+  - title: Invisibilia
+    htmlUrl: https://www.npr.org/podcasts/510307/invisibilia
+    xmlUrl: https://feeds.npr.org/510307/podcast.xml
+
+  - title: Belle Makes Twelve
+    htmlUrl: http://www.meetcute.com/
+    xmlUrl: https://feeds.simplecast.com/W6uBRhXC
+
+  - title: Womanica
+    htmlUrl: https://www.iheart.com/podcast/966-womanica-45926723/
+    xmlUrl: https://feeds.acast.com/public/shows/68cb1eb40f8ecbdab5fe0fad
+
+  - title: Radio Headspace
+    htmlUrl: https://www.headspace.com/
+    xmlUrl: https://feeds.megaphone.fm/ADL5417720568
+
+  - title: Call Your Girlfriend
+    htmlUrl: https://www.callyourgirlfriend.com/episodes
+    xmlUrl: https://www.omnycontent.com/d/playlist/2a15ad0f-779b-4334-bfba-af1d00e28029/d729c59d-9a7c-4e3a-8e0d-af1d00e50f2d/8884db02-3309-4a58-9b6a-af1d00e50f44/podcast.rss
+
 - name: Women Leaders in Podcasting 💃🏽
   opml: earbuds-podcast-recommendations-women-leaders-in-podcasting.opml
   date: 2022-03-21
