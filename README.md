@@ -203,6 +203,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [Mood-Boosting Stories](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-mood-boosting-stories.opml) | 2022-03-28 |
 | [Women Leaders in Podcasting 💃🏽](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-women-leaders-in-podcasting.opml) | 2022-03-20 |
 | [Behind the Icons](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-behind-the-icons.opml) | 2022-03-10 |
+| [Precedented Times](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-precedented-times.opml) | 2022-03-06 |
 
 
 
