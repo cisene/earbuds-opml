@@ -17,6 +17,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 
 | Weekly issus of the Earbuds Podcast Collective Newletters                           | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [5 Kindness Podcasts That'll Start 2026 on a Positive Note](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-kindness-podcasts-thatll-start-2026-on-a-poitive-note.opml) | 2025-12-21 |
 | [5 Podcasts on Messy Women](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-podcasts-on-messy-women.opml) | 2025-12-14 |
 | [Keeping the past present through music podcasts](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-keeping-the-past-present-through-music-podcasts.opml) | 2025-12-07 |
 | [Historical Legacies in Motion](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-historical-legacies-in-motion.opml) | 2025-11-30 |

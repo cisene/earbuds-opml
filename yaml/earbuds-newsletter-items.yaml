@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: 5 Kindness Podcasts That'll Start 2026 on a Positive Note
+  opml: earbuds-podcast-recommendations-5-kindness-podcasts-thatll-start-2026-on-a-poitive-note.opml
+  date: 2025-12-21
+  htmlUrl: https://newsletter.earbuds.audio/p/5-podcasts-on-kindness-2026
+  podcasts:
+
+  - title: 'The Art of Kindness: Pop Culture & Positivity with Robert Peterpaul'
+    htmlUrl: https://broadwaypodcastnetwork.com/podcasts/the-art-of-kindness-with-robert-peterpaul/
+    xmlUrl: https://feeds.megaphone.fm/theartofkindness
+
+  - title: Why Kindness?
+    htmlUrl: https://why-kindness.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/nIpmmoWH
+
+  - title: A Cozy Christmas Podcast
+    htmlUrl: http://cozychristmas.libsyn.com/website
+    xmlUrl: https://cozychristmas.libsyn.com/rss
+
+  - title: The Morgan Harper Nichols Podcast
+    htmlUrl: https://anchor.fm/morganharpernichols
+    xmlUrl: https://feeds.simplecast.com/JYKFADNb
+
+  - title: Good Hang with Amy Poehler
+    htmlUrl: https://www.theringer.com/
+    xmlUrl: https://feeds.megaphone.fm/good-hang-with-amy-poehler
+
 - name: 5 Podcasts on Messy Women
   opml: earbuds-podcast-recommendations-5-podcasts-on-messy-women.opml
   date: 2025-12-14
