@@ -5204,9 +5204,29 @@ issues:
 
 - name: Film History Podcast Recommendations 📽️
   opml: earbuds-podcast-recommendations-film-history-podcast-recommendations.opml
-  date: 2022-02-21
+  date: 2022-02-20
   htmlUrl: https://newsletter.earbuds.audio/p/film-history-podcast-recommendations
   podcasts:
+
+  - title: You Must Remember This
+    htmlUrl: https://youmustrememberthispodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/YMRT7068253588
+
+  - title: The Plot Thickens
+    htmlUrl: http://tcm.com/
+    xmlUrl: https://feeds.megaphone.fm/WMHY6125191767
+
+  - title: The Secret History Of Hollywood
+    htmlUrl: https://www.attaboyclarence.com/the-secret-history-of-hollywood/
+    xmlUrl: https://feeds.megaphone.fm/ARML3575407172
+
+  - title: Gene and Roger Talk Movies
+    htmlUrl: https://castbox.fm/ch/4976101
+    xmlUrl: https://rss.castbox.fm/everest/f633e4ea7f9947368d574284eff35e4d.xml
+
+  - title: The Originals
+    htmlUrl: https://theoriginals.libsyn.com/website
+    xmlUrl: https://theoriginals.libsyn.com/rss
 
 - name: Wood You Celebrate With Us? EarBuds Turns 5!
   opml: earbuds-podcast-recommendations-wood-you-celebrate-with-us-earbuds-at-5-years.opml
