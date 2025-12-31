@@ -208,6 +208,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [Film History Podcast Recommendations 📽️](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-film-history-podcast-recommendations.opml) | 2022-02-20 |
 | [Wood You Celebrate With Us? EarBuds Turns 5!](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-wood-you-celebrate-with-us-earbuds-at-5-years.opml) | 2022-02-10 |
 | [Minds to Sit With](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-minds-to-sit-with.opml) | 2022-02-04 |
+| [Why Black History Matters](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-why-black-history-matters.opml) | 2022-01-30 |
 
 
 

@@ -5282,9 +5282,29 @@ issues:
 
 - name: Why Black History Matters
   opml: earbuds-podcast-recommendations-why-black-history-matters.opml
-  date: 2022-01-31
+  date: 2022-01-30
   htmlUrl: https://newsletter.earbuds.audio/p/black-history-matters
   podcasts:
+
+  - title: Let's Go Together
+    htmlUrl: http://travelandleisure.com/podcast
+    xmlUrl: https://feeds.megaphone.fm/travelleisure
+
+  - title: 'Black History Buff: Uncovering Untold Stories'
+    htmlUrl: https://redcircle.com/shows/black-history-buff-uncovering-untold-stories
+    xmlUrl: https://feeds.redcircle.com/5a1d6004-4b60-4b01-8e00-76b744e852de
+
+  - title: '1619'
+    htmlUrl: https://1619.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/6HzeyO6b
+
+  - title: Assorted Goods
+    htmlUrl: http://disinformed.ca/
+    xmlUrl: https://feeds.transistor.fm/assorted-goods
+
+  - title: Black History in Two Minutes (or so)
+    htmlUrl: https://blackhistoryintwominutes.com/
+    xmlUrl: https://blackhistoryintwominutes.com/feed/
 
 - name: Asian Experiences in the U.S.
   opml: earbuds-podcast-recommendations-asian-experiences-in-the-u-s.opml
