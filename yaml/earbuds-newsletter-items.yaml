@@ -5308,9 +5308,29 @@ issues:
 
 - name: Asian Experiences in the U.S.
   opml: earbuds-podcast-recommendations-asian-experiences-in-the-u-s.opml
-  date: 2022-01-24
+  date: 2022-01-23
   htmlUrl: https://newsletter.earbuds.audio/p/asian-experiences-us
   podcasts:
+
+  - title: Dear Asian Americans
+    htmlUrl: http://www.dearasianamericans.com/
+    xmlUrl: https://feeds.transistor.fm/dearasianamericans
+
+  - title: F*ck Saving Face
+    htmlUrl: https://www.wildheartedwords.com/podcast
+    xmlUrl: https://feeds.buzzsprout.com/1577977.rss
+
+  - title: What Do You Mean By That?
+    htmlUrl: http://whatdoyoumeanbythat.com/
+    xmlUrl: https://dearwhitewomen.libsyn.com/rss
+
+  - title: Reel Asian Podcast
+    htmlUrl: https://www.reelasianpodcast.com/
+    xmlUrl: https://anchor.fm/s/f15329a0/podcast/rss
+
+  - title: Yellow Glitter
+    htmlUrl: https://yellowglitterpodcast.com/
+    xmlUrl: https://yellowglitter.libsyn.com/rss
 
 - name: How Do You Feel?
   opml: earbuds-podcast-recommendations-how-do-you-feel.opml
