@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: Alex Honnold's Favorite Podcasts & Episodes of 2025
+  opml: earbuds-podcast-recommendations-alex-honnolds-favorite-podcasts-and-episodes-of-2025.opml
+  date: 2025-12-28
+  htmlUrl: https://newsletter.earbuds.audio/p/alex-honnolds-favorite-podcasts-2025
+  podcasts:
+
+  - title: Planet Visionaries
+    htmlUrl: https://www.rolex.org/environment/perpetual-planet
+    xmlUrl: https://feeds.megaphone.fm/planetvisionaries
+
+  - title: Climbing Gold
+    htmlUrl: http://www.climbinggold.com/
+    xmlUrl: https://feeds.megaphone.fm/climbinggold
+
+  - title: Founders
+    htmlUrl: https://www.founderspodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/DSLLC6297708582
+
+  - title: The Rich Roll Podcast
+    htmlUrl: https://www.richroll.com/blog/
+    xmlUrl: https://www.richroll.com/?feed=podcast
+
+  - title: Huberman Lab
+    htmlUrl: https://www.spreaker.com/podcast/huberman-lab--5956723
+    xmlUrl: https://www.spreaker.com/show/5956723/episodes/feed
+
 - name: 5 Kindness Podcasts That'll Start 2026 on a Positive Note
   opml: earbuds-podcast-recommendations-5-kindness-podcasts-thatll-start-2026-on-a-poitive-note.opml
   date: 2025-12-21
