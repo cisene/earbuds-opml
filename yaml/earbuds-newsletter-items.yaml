@@ -5490,9 +5490,29 @@ issues:
 
 - name: Motherhood
   opml: earbuds-podcast-recommendations-motherhood.opml
-  date: 2021-12-13
+  date: 2021-12-12
   htmlUrl: https://newsletter.earbuds.audio/p/motherhood
   podcasts:
+
+  - title: Motherhood Sessions
+    htmlUrl: https://www.gimletmedia.com/motherhood-sessions
+    xmlUrl: https://feeds.megaphone.fm/motherhoodsessions
+
+  - title: No One is Coming to Save Us
+    htmlUrl: https://www.lemonadamedia.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/85e42826-0c8b-42d6-b620-ad17017ece88/18b42920-a513-4e09-b547-ad1701816ff8/podcast.rss
+
+  - title: Our Student Loan Secrets (Death, Sex & Money)
+    htmlUrl: https://www.wnycstudios.org/podcasts/deathsexmoney/projects/death-sex-money-our-student-loan-secrets
+    xmlUrl: https://www.wnycstudios.org/feeds/series/deathsexmoney/death-sex-money-our-student-loan-secrets
+
+  - title: Snap Judgment
+    htmlUrl: http://snapjudgment.org/
+    xmlUrl: https://snap.feed.snapjudgment.org/
+
+  - title: Ladies, We Need To Talk
+    htmlUrl: https://www.abc.net.au/listen/programs/ladies-we-need-to-talk/
+    xmlUrl: https://www.abc.net.au/feeds/8804158/podcast.xml
 
 - name: Divorce
   opml: earbuds-podcast-recommendations-divorce.opml
