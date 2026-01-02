@@ -5438,9 +5438,29 @@ issues:
 
 - name: Inspiration from Everyday Women
   opml: earbuds-podcast-recommendations-inspiration-from-everyday-women.opml
-  date: 2021-12-27
+  date: 2021-12-26
   htmlUrl: https://newsletter.earbuds.audio/p/inspiration-everyday-women
   podcasts:
+
+  - title: Stories of Inspiring Joy
+    htmlUrl: https://storiesofinspiringjoy.podbean.com/
+    xmlUrl: https://feed.podbean.com/storiesofinspiringjoy/feed.xml
+
+  - title: Imperfectly Phenomenal Woman
+    htmlUrl: https://www.ipwomanpodcast.com/
+    xmlUrl: https://ipwomanpodcast.libsyn.com/rss
+
+  - title: The Compassionate Creative Podcast
+    htmlUrl: http://www.charlenedinger.com/
+    xmlUrl: https://anchor.fm/s/3795504c/podcast/rss
+
+  - title: The Social Impact Startup
+    htmlUrl: http://typaco.libsyn.com/website
+    xmlUrl: https://typaco.libsyn.com/rss
+
+  - title: Quest for New Inspiration Podcast
+    htmlUrl: https://www.newinspirationmedia.net/
+    xmlUrl: https://feeds.acast.com/public/shows/63a0b0ebfff9190011e62dcd
 
 - name: Memoirs
   opml: earbuds-podcast-recommendations-memoirs.opml
