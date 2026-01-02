@@ -5390,6 +5390,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/good-cry
   podcasts:
 
+  - title: Good Grief
+    htmlUrl: https://www.lemonadamedia.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/7704021d-33a2-44c3-bd52-ad670135e1d6/eba57ede-6005-4bed-8eda-ad67013f779d/podcast.rss
+
+  - title: 'The Turning: The Sisters Who Left'
+    htmlUrl: https://www.iheart.com/podcast/1119-the-turning-the-sisters-w-82262169/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a2b6c785-968f-4390-a9de-b30c01091aaa/ffe000e5-94b7-4ac2-b366-b30c01091ac1/podcast.rss
+
+  - title: No Feeling Is Final
+    htmlUrl: https://www.abc.net.au/listen/programs/no-feeling-is-final/
+    xmlUrl: https://www.abc.net.au/feeds/10241908/podcast.xml
+
+  - title: StoryCorps
+    htmlUrl: https://www.npr.org/podcasts/510200/storycorps
+    xmlUrl: https://feeds.npr.org/510200/podcast.xml
+
+  - title: 2 LIVES - Stories Of Transformation
+    htmlUrl: https://www.2lives.org/
+    xmlUrl: https://2livespodcast.libsyn.com/rss
+
 - name: Inspiration from Everyday Women
   opml: earbuds-podcast-recommendations-inspiration-from-everyday-women.opml
   date: 2021-12-27
