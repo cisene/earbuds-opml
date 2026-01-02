@@ -5464,9 +5464,29 @@ issues:
 
 - name: Memoirs
   opml: earbuds-podcast-recommendations-memoirs.opml
-  date: 2021-12-20
+  date: 2021-12-16
   htmlUrl: https://newsletter.earbuds.audio/p/memoirs
   podcasts:
+
+  - title: The Stacks
+    htmlUrl: http://www.thestackspodcast.com/
+    xmlUrl: https://rss.art19.com/the-stacks
+
+  - title: Moms Don't Have Time to Read Books
+    htmlUrl: https://shows.acast.com/moms-dont-have-time-to-read-books
+    xmlUrl: https://feeds.acast.com/public/shows/dd9bf09f-c85c-5b84-8fc6-ac7c8574cacc
+
+  - title: Thoughts from a Page Podcast
+    htmlUrl: https://www.thoughtsfromapage.com/
+    xmlUrl: https://feeds.megaphone.fm/thoughtsfromapage
+
+  - title: The Shit No One Tells You About Writing
+    htmlUrl: https://redcircle.com/shows/the-shit-no-one-tells-you-about-writing
+    xmlUrl: https://feeds.redcircle.com/92e239f2-2203-408a-956f-bca63701eced
+
+  - title: The Downtown Writers Jam
+    htmlUrl: http://www.thewritersjam.com/
+    xmlUrl: https://feeds.megaphone.fm/thedowntownwritersjam
 
 - name: Motherhood
   opml: earbuds-podcast-recommendations-motherhood.opml
