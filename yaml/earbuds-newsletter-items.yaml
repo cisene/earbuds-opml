@@ -5360,9 +5360,29 @@ issues:
 
 - name: Through an Expat Lens
   opml: earbuds-podcast-recommendations-through-an-expat-lens.opml
-  date: 2022-01-10
+  date: 2022-01-09
   htmlUrl: https://newsletter.earbuds.audio/p/expat-lens
   podcasts:
+
+  - title: The Bangkok Podcast
+    htmlUrl: http://www.bangkokpodcast.com/
+    xmlUrl: https://thaifaq.libsyn.com/rss
+
+  - title: The Global Chatter with Amanda Bates
+    htmlUrl: https://redcircle.com/shows/the-global-chatter
+    xmlUrl: https://feeds.redcircle.com/d9aaf9c7-77e0-40ae-b45b-10d7ee67d70c
+
+  - title: Saigoneer Podcast
+    htmlUrl: https://saigoneer.com/
+    xmlUrl: https://anchor.fm/s/f82160a8/podcast/rss
+
+  - title: Black Broads Abroad
+    htmlUrl: https://podcasters.spotify.com/pod/show/blackbroadsabroad
+    xmlUrl: https://anchor.fm/s/d183410/podcast/rss
+
+  - title: Geopats Abroad
+    htmlUrl: https://www.coffeelikemedia.com/
+    xmlUrl: https://rss.buzzsprout.com/2039972.rss
 
 - name: A Good Cry
   opml: earbuds-podcast-recommendations-a-good-cry.opml
