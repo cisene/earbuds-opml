@@ -5334,9 +5334,29 @@ issues:
 
 - name: How Do You Feel?
   opml: earbuds-podcast-recommendations-how-do-you-feel.opml
-  date: 2022-01-17
+  date: 2022-01-13
   htmlUrl: https://newsletter.earbuds.audio/p/feel
   podcasts:
+
+  - title: Why Do I Feel?
+    htmlUrl: https://shows.acast.com/why-do-i-feel
+    xmlUrl: https://feeds.acast.com/public/shows/61168c8c79bb2e0015a8ead9
+
+  - title: The Happiness Lab with Dr. Laurie Santos
+    htmlUrl: https://www.pushkin.fm/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/d623ef0b-3fee-4c26-b815-ae32006cd739/podcast.rss
+
+  - title: The Wellcome Collection Podcast
+    htmlUrl: https://wellcomecollection.org/
+    xmlUrl: https://wellcomecollection.libsyn.com/rss
+
+  - title: Brown Baby Podcast
+    htmlUrl: http://nikesh-shukla.com/
+    xmlUrl: https://feeds.acast.com/public/shows/5777c2fc-df61-4477-8084-6c1a974520be
+
+  - title: On the Ward
+    htmlUrl: http://www.stah.org/
+    xmlUrl: https://feeds.buzzsprout.com/553780.rss
 
 - name: Through an Expat Lens
   opml: earbuds-podcast-recommendations-through-an-expat-lens.opml
