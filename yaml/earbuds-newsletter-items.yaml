@@ -5712,9 +5712,29 @@ issues:
 
 - name: Internet Culture
   opml: earbuds-podcast-recommendations-internet-culture.opml
-  date: 2021-10-25
+  date: 2021-10-24
   htmlUrl: https://newsletter.earbuds.audio/p/internet-culture
   podcasts:
+
+  - title: Decoder Ring
+    htmlUrl: https://slate.com/podcasts/decoder-ring
+    xmlUrl: https://feeds.megaphone.fm/decoderring
+
+  - title: Follow Friday
+    htmlUrl: https://followfridaypodcast.com/
+    xmlUrl: https://feeds.captivate.fm/follow-friday/
+
+  - title: Underunderstood
+    htmlUrl: https://underunderstood.com/
+    xmlUrl: https://anchor.fm/s/7e5e9c4/podcast/rss
+
+  - title: ICYMI
+    htmlUrl: https://slate.com/podcasts/icymi
+    xmlUrl: https://feeds.megaphone.fm/icymi
+
+  - title: The Content Mines
+    htmlUrl: https://www.thecontentmines.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/765970.rss
 
 - name: Women Who Kill
   opml: earbuds-podcast-recommendations-women-who-kill.opml
