@@ -5768,6 +5768,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/podfest-berlin
   podcasts:
 
+  - title: Flicks ''n'' Scoops Podcast
+    htmlUrl: https://flicksnscoops.podbean.com/
+    xmlUrl: https://feed.podbean.com/flicksnscoops/feed.xml
+
+  - title: 'Beyond Asian: Stories of the Third Culture'
+    htmlUrl: http://beyondasian.com/
+    xmlUrl: https://www.spreaker.com/show/4344576/episodes/feed
+
+  - title: Radio Spaetkauf Berlin
+    htmlUrl: http://www.radiospaetkauf.com/
+    xmlUrl: https://radiospaetkauf.libsyn.com/rss
+
+  - title: Common Ground Berlin
+    htmlUrl: https://commongroundberlin.com/
+    xmlUrl: https://feeds.transistor.fm/commongroundberlin
+
+  - title: Couch Ya Salame!
+    htmlUrl: https://www.buzzsprout.com/1037995
+    xmlUrl: https://rss.buzzsprout.com/1037995.rss
+
 - name: Movies that make us think
   opml: earbuds-podcast-recommendations-movies-that-make-us-think.opml
   date: 2021-10-04
