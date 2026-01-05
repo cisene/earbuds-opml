@@ -5590,9 +5590,29 @@ issues:
 
 - name: Feeling Thankful
   opml: earbuds-podcast-recommendations-feeling-thankful.opml
-  date: 2021-11-22
+  date: 2021-11-18
   htmlUrl: https://newsletter.earbuds.audio/p/feeling-thankful
   podcasts:
+
+  - title: Let''s Coach with Carolyn - Career Strategist, Leadership and Life Coach
+    htmlUrl: https://letscoach.buzzsprout.com/
+    xmlUrl: https://feeds.buzzsprout.com/2131790.rss
+
+  - title: WomenWhoBuildEmpires
+    htmlUrl: https://emikirschner.com/podcast/
+    xmlUrl: https://feeds.libsyn.com/145634/rss
+
+  - title: Raise Your Game
+    htmlUrl: https://www.bfm.my/
+    xmlUrl: https://www.omnycontent.com/d/playlist/de62ff84-6498-49d0-a266-a9d50120c712/892ab38e-b31b-4e44-bed9-ab09005883c9/4f5b0793-f92b-4c31-b336-ab09005883cd/podcast.rss
+
+  - title: Heart Glow CEO®
+    htmlUrl: https://www.heartglowceo.com/podcasts/heart-glow-ceo
+    xmlUrl: https://app.kajabi.com/podcasts/2147493695/feed
+
+  - title: Voices of CX
+    htmlUrl: https://soundcloud.com/voices-of-cx
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:409131876/sounds.rss
 
 - name: Podcasts about the past
   opml: earbuds-podcast-recommendations-podcasts-about-the-past.opml
