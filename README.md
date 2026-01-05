@@ -228,6 +228,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [Internet Culture](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-internet-culture.opml) | 2021-10-24 |
 | [Women Who Kill](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-women-who-kill.opml) | 2021-10-18 |
 | [PodFest Berlin](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-podfest-berlin.opml) | 2021-10-10 |
+| [Movies that make us think](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-movies-that-make-us-think.opml) | 2021-10-03 |
 
 
 

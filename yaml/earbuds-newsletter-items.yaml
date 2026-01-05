@@ -5790,9 +5790,29 @@ issues:
 
 - name: Movies that make us think
   opml: earbuds-podcast-recommendations-movies-that-make-us-think.opml
-  date: 2021-10-04
+  date: 2021-10-03
   htmlUrl: https://newsletter.earbuds.audio/p/movies-make-us-think
   podcasts:
+
+  - title: Young Adult Movie Ministry
+    htmlUrl: https://yammpod.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/5260.rss
+
+  - title: Cows in the field
+    htmlUrl: https://redcircle.com/shows/cows-in-the-field
+    xmlUrl: https://feeds.redcircle.com/ab4faea6-5b21-4f4e-8a3b-b8472e30fe3c
+
+  - title: The Director’s Cut - A DGA Podcast
+    htmlUrl: https://thedirectorscutdga.podbean.com/
+    xmlUrl: https://feed.podbean.com/thedirectorscutadgapodcast/feed.xml
+
+  - title: Cinematic Underdogs
+    htmlUrl: https://letterboxd.com/synemastehsia/
+    xmlUrl: https://anchor.fm/s/235041dc/podcast/rss
+
+  - title: Blank Check with Griffin & David
+    htmlUrl: https://www.blankcheckpod.com/
+    xmlUrl: https://feeds.megaphone.fm/blank-check
 
 - name: Podcasts for a Refreshing Take on Sustainability
   opml: earbuds-podcast-recommendations-podcasts-for-a-refreshing-take-on-sustainability.opml
