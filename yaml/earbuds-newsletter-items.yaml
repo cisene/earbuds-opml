@@ -5842,9 +5842,29 @@ issues:
 
 - name: Celebrating Hispanic Heritage Month
   opml: earbuds-podcast-recommendations-celebrating-hispanic-heritage-month.opml
-  date: 2021-09-20
+  date: 2021-09-19
   htmlUrl: https://newsletter.earbuds.audio/p/celebrating-hispanic-heritage-month
   podcasts:
+
+  - title: DIFERENTE
+    htmlUrl: https://diferente.podbean.com/
+    xmlUrl: https://diferente.podbean.com/feed.xml
+
+  - title: De Pueblo, Católico y Gay
+    htmlUrl: https://www.instagram.com/depueblocatolicoygay/
+    xmlUrl: https://anchor.fm/s/3337a54/podcast/rss
+
+  - title: Café con Pam
+    htmlUrl: https://podcasts.apple.com/us/podcast/caf%C3%A9-con-pam/id1668711572
+    xmlUrl: https://anchor.fm/s/da01cdc4/podcast/rss
+
+  - title: The Mujerón Podcast
+    htmlUrl: https://www.mujeron.com/podcasts/the-mujeron-podcast
+    xmlUrl: https://app.kajabi.com/podcasts/2147508864/feed
+
+  - title: Latinx In Power
+    htmlUrl: https://medium.com/latinxinpower
+    xmlUrl: https://anchor.fm/s/5369b984/podcast/rss
 
 - name: Podcasts Out of This World
   opml: earbuds-podcast-recommendations-podcasts-out-of-this-world.opml

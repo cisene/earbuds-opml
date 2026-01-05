@@ -230,6 +230,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [PodFest Berlin](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-podfest-berlin.opml) | 2021-10-10 |
 | [Movies that make us think](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-movies-that-make-us-think.opml) | 2021-10-03 |
 | [Abortion Rights Update](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-abortion-rights-update.opml) | 2021-09-26 |
+| [Celebrating Hispanic Heritage Month](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-celebrating-hispanic-heritage-month.opml) | 2021-09-19 |
 
 
 
