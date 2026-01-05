@@ -5814,23 +5814,31 @@ issues:
     htmlUrl: https://www.blankcheckpod.com/
     xmlUrl: https://feeds.megaphone.fm/blank-check
 
-- name: Podcasts for a Refreshing Take on Sustainability
-  opml: earbuds-podcast-recommendations-podcasts-for-a-refreshing-take-on-sustainability.opml
-  date: 2021-10-03
-  htmlUrl: https://newsletter.earbuds.audio/p/podcasts-refreshing-take-sustainability
-  podcasts:
-
-- name: Podcast Recommendations for Thinking at the Movies
-  opml: earbuds-podcast-recommendations-podcast-recommendations-for-thinking-at-the-movies.opml
-  date: 2021-10-01
-  htmlUrl: https://newsletter.earbuds.audio/p/podcast-recommendations-thinking-movies
-  podcasts:
-
 - name: Abortion Rights Update - Podcast Recommendations
-  opml: earbuds-podcast-recommendations-abortion-rights-update-podcast-recommendations.opml
-  date: 2021-09-27
+  opml: earbuds-podcast-recommendations-abortion-rights-update.opml
+  date: 2021-09-26
   htmlUrl: https://newsletter.earbuds.audio/p/abortion-rights-update-podcast-recommendations
   podcasts:
+
+  - title: Amicus With Dahlia Lithwick | Law, justice, and the courts
+    htmlUrl: https://slate.com/podcasts/amicus
+    xmlUrl: https://feeds.megaphone.fm/slatesamicuswithdahlialithwick
+
+  - title: Fresh Air
+    htmlUrl: https://www.npr.org/podcasts/381444908/fresh-air
+    xmlUrl: https://feeds.npr.org/381444908/podcast.xml
+
+  - title: 'ACCESS: A Podcast About Abortion'
+    htmlUrl: https://a-podcast-about-abortion.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/VQEOvr5c
+
+  - title: Future Hindsight
+    htmlUrl: http://sites.libsyn.com/113012/site
+    xmlUrl: https://rss.libsyn.com/shows/113012/destinations/633662.xml
+
+  - title: The Takeaway
+    htmlUrl: https://www.wnycstudios.org/podcasts/takeaway
+    xmlUrl: https://feeds.feedburner.com/takeawaypodcast
 
 - name: Celebrating Hispanic Heritage Month
   opml: earbuds-podcast-recommendations-celebrating-hispanic-heritage-month.opml
