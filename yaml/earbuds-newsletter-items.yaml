@@ -5542,9 +5542,29 @@ issues:
 
 - name: Caregivers Month
   opml: earbuds-podcast-recommendations-caregivers-month.opml
-  date: 2021-11-29
+  date: 2021-11-28
   htmlUrl: https://newsletter.earbuds.audio/p/caregivers-month
   podcasts:
+
+  - title: Love Conquers Alz
+    htmlUrl: https://loveconquersalz.buzzsprout.com/
+    xmlUrl: https://rss.buzzsprout.com/728654.rss
+
+  - title: 'Fading Memories: Alzheimer''s/Dementia Support'
+    htmlUrl: https://fadingmemories.blubrry.net/
+    xmlUrl: https://fadingmemories.blubrry.net/feed/podcast
+
+  - title: Happy Healthy Caregiver
+    htmlUrl: https://thewholecarenetwork.com/happy-healthy-caregiver/
+    xmlUrl: https://feed.pod.co/happy-healthy-caregiver
+
+  - title: Healing Ties
+    htmlUrl: https://www.thewholecarenetwork.com/healingties/
+    xmlUrl: https://feed.pod.co/healing-ties
+
+  - title: 'AlzAuthors: Untangling Alzheimer''s & Dementia'
+    htmlUrl: https://alzauthors.com/
+    xmlUrl: https://feed.pod.co/alzauthors-untangling-alzheimers-dementia
 
 - name: thanksgiving mini list
   opml: earbuds-podcast-recommendations-thanksgiving-mini-list.opml
