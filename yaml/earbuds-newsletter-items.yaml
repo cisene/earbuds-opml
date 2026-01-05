@@ -5672,6 +5672,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/native-american-heritage-month
   podcasts:
 
+  - title: Coin Trick
+    htmlUrl: https://www.cointrick.net/
+    xmlUrl: https://feeds.buzzsprout.com/1799991.rss
+
+  - title: Young & Indigenous
+    htmlUrl: https://settingsunproductions.org/young-and-indigenous-podcast/
+    xmlUrl: https://settingsunproductions.org/young-and-indigenous-podcast?format=rss
+
+  - title: All My Relations Podcast
+    htmlUrl: http://www.allmyrelationspodcast.com/
+    xmlUrl: https://rss.buzzsprout.com/262196.rss
+
+  - title: Coffee With My Ma
+    htmlUrl: http://www.facebook.com/coffeewithmyma/
+    xmlUrl: https://feeds.buzzsprout.com/140716.rss
+
+  - title: Métis In Space
+    htmlUrl: https://metisinspace.libsyn.com/webpage
+    xmlUrl: https://metisinspace.libsyn.com/rss
+
 - name: Halloween mini list
   opml: earbuds-podcast-recommendations-halloween-mini-list.opml
   date: 2021-10-27
