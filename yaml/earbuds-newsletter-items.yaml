@@ -5646,6 +5646,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/love-meaning
   podcasts:
 
+  - title: Gravity
+    htmlUrl: https://gravity-27ccc098.simplecast.com/
+    xmlUrl: https://feeds.acast.com/public/shows/67ae11b8b859f4e0dbb74744
+
+  - title: We Can Do Hard Things
+    htmlUrl: http://wecandohardthingspodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/wcdht
+
+  - title: Heavyweight
+    htmlUrl: https://www.pushkin.fm/podcasts
+    xmlUrl: https://feeds.megaphone.fm/heavyweight-spot
+
+  - title: Modern Love
+    htmlUrl: https://www.nytimes.com/column/modern-love-podcast
+    xmlUrl: https://feeds.simplecast.com/0N8Hs1MH
+
+  - title: Invisibilia
+    htmlUrl: https://www.npr.org/podcasts/510307/invisibilia
+    xmlUrl: https://feeds.npr.org/510307/podcast.xml
+
 - name: Native American Heritage Month
   opml: earbuds-podcast-recommendations-native-american-heritage-month.opml
   date: 2021-10-31
