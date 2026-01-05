@@ -5572,6 +5572,22 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/thanksgiving-mini-list
   podcasts:
 
+  - title: Gastropod
+    htmlUrl: https://gastropod.com/
+    xmlUrl: https://feeds.megaphone.fm/VMP6255701211
+
+  - title: The Genius Recipe Tapes
+    htmlUrl: http://geniuspodcast.food52.com/
+    xmlUrl: https://feeds.simplecast.com/ujXpEaMF
+
+  - title: Brought to you by...
+    htmlUrl: http://www.businessinsider.com/household-name
+    xmlUrl: https://rss.art19.com/household-name
+
+  - title: Toasted Sister Podcast
+    htmlUrl: https://toastedsisterpodcast.com/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:13105426/sounds.rss
+
 - name: Feeling Thankful
   opml: earbuds-podcast-recommendations-feeling-thankful.opml
   date: 2021-11-22

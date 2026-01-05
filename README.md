@@ -219,6 +219,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [Motherhood](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-motherhood.opml) | 2021-12-12 |
 | [Divorce](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-divorce.opml) | 2021-12-05 |
 | [Caregivers Month](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-caregivers-month.opml) | 2021-11-28 |
+| [thanksgiving mini list](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-thanksgiving-mini-list.opml) | 2021-11-25 |
 
 
 
