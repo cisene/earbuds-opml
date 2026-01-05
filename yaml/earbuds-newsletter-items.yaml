@@ -5698,6 +5698,18 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/halloween-mini-list
   podcasts:
 
+  - title: Urban Legends with the Ghost Brothers
+    htmlUrl: https://www.discovery.com/
+    xmlUrl: https://feeds.acast.com/public/shows/64e688505dfc5d001106e337
+
+  - title: Stories with Sapphire
+    htmlUrl: https://www.storieswithsapphire.com/
+    xmlUrl: https://feeds.megaphone.fm/PHTE7321757837
+
+  - title: 'Homespun Haints: True Ghost Stories'
+    htmlUrl: https://www.spreaker.com/show/homespun-haints
+    xmlUrl: https://rss.buzzsprout.com/310550.rss
+
 - name: Internet Culture
   opml: earbuds-podcast-recommendations-internet-culture.opml
   date: 2021-10-25

@@ -224,6 +224,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [Podcasts about the past](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-podcasts-about-the-past.opml) | 2021-11-08 |
 | [Love and Meaning](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-love-and-meaning.opml) | 2021-11-07 |
 | [Native American Heritage Month](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-native-american-heritage-month.opml) | 2021-10-31 |
+| [Halloween mini list](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-halloween-mini-list.opml) | 2021-10-27 |
 
 
 
