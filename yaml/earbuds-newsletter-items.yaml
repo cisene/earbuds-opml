@@ -5516,9 +5516,29 @@ issues:
 
 - name: Divorce
   opml: earbuds-podcast-recommendations-divorce.opml
-  date: 2021-12-06
+  date: 2021-12-05
   htmlUrl: https://newsletter.earbuds.audio/p/divorce
   podcasts:
+
+  - title: Forever is a Long Time
+    htmlUrl: https://play.prx.org/listen?uf=https%3A%2F%2Ffeeds.feedburner.com%2Fforeverisalongtimepodcast
+    xmlUrl: http://feeds.feedburner.com/foreverisalongtimepodcast
+
+  - title: This American Life
+    htmlUrl: https://www.thisamericanlife.org/podcast/rss.xml
+    xmlUrl: https://www.thisamericanlife.org/podcast/rss.xml
+
+  - title: Appearances
+    htmlUrl: https://mermaidpalace.org/Appearances
+    xmlUrl: https://feeds.feedburner.com/appearancespodcast
+
+  - title: Modern Love
+    htmlUrl: https://www.nytimes.com/column/modern-love-podcast
+    xmlUrl: https://feeds.simplecast.com/0N8Hs1MH
+
+  - title: Love Letters
+    htmlUrl: https://loveletters.boston.com/
+    xmlUrl: https://feeds.megaphone.fm/TPG3393929278
 
 - name: Caregivers Month
   opml: earbuds-podcast-recommendations-caregivers-month.opml
