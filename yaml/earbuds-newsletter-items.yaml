@@ -5814,7 +5814,7 @@ issues:
     htmlUrl: https://www.blankcheckpod.com/
     xmlUrl: https://feeds.megaphone.fm/blank-check
 
-- name: Abortion Rights Update - Podcast Recommendations
+- name: Abortion Rights Update
   opml: earbuds-podcast-recommendations-abortion-rights-update.opml
   date: 2021-09-26
   htmlUrl: https://newsletter.earbuds.audio/p/abortion-rights-update-podcast-recommendations
