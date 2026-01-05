@@ -5742,6 +5742,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/women-kill
   podcasts:
 
+  - title: Legally Judgy
+    htmlUrl: https://legallyjudgy.buzzsprout.com/
+    xmlUrl: https://anchor.fm/s/9b8f4b48/podcast/rss
+
+    title: Female Serial Killers
+    htmlUrl: https://femalekillers.com/
+    xmlUrl: https://rss.buzzsprout.com/254375.rss
+
+  - title: Once Upon A Crime
+    htmlUrl: https://art19.com/shows/once-upon-a-crime
+    xmlUrl: https://rss.art19.com/once-upon-a-crime
+
+  - title: Criminal Broads
+    htmlUrl: https://www.iheart.com/podcast/269-criminal-broads-30847713/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a23437d3-e1d6-4131-b55e-b39a014b885b/a3caf29b-7cf1-4453-8b31-b39a014b8867/podcast.rss
+
+  - title: Crime Junkie
+    htmlUrl: https://audiochuck.com/
+    xmlUrl: https://feeds.simplecast.com/qm_9xx0g
+
 - name: PodFest Berlin
   opml: earbuds-podcast-recommendations-podfest-berlin.opml
   date: 2021-10-10
