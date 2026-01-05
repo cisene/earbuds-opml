@@ -221,6 +221,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [Caregivers Month](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-caregivers-month.opml) | 2021-11-28 |
 | [thanksgiving mini list](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-thanksgiving-mini-list.opml) | 2021-11-25 |
 | [Feeling Thankful](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-feeling-thankful.opml) | 2021-11-18 |
+| [Podcasts about the past](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-podcasts-about-the-past.opml) | 2021-11-08 |
 
 
 

@@ -5616,9 +5616,29 @@ issues:
 
 - name: Podcasts about the past
   opml: earbuds-podcast-recommendations-podcasts-about-the-past.opml
-  date: 2021-11-09
+  date: 2021-11-08
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-past
   podcasts:
+
+  - title: Obscure History
+    htmlUrl: https://www.spreaker.com/show/all-the-people-you-should-know
+    xmlUrl: https://www.spreaker.com/show/4912883/episodes/feed
+
+  - title: The Unusual History of Every Thing
+    htmlUrl: https://www.musecuratorial.com/
+    xmlUrl: https://unusualhistoryofeverything.libsyn.com/rss
+
+  - title: One Mic Black History
+    htmlUrl: https://www.onemichistory.com/
+    xmlUrl: https://anchor.fm/s/108b01928/podcast/rss
+
+  - title: 'Black History Buff: Uncovering Untold Stories'
+    htmlUrl: https://redcircle.com/shows/black-history-buff-uncovering-untold-stories
+    xmlUrl: https://feeds.redcircle.com/5a1d6004-4b60-4b01-8e00-76b744e852de
+
+  - title: Assorted Goods
+    htmlUrl: http://disinformed.ca/
+    xmlUrl: https://feeds.transistor.fm/assorted-goods
 
 - name: Love and Meaning
   opml: earbuds-podcast-recommendations-love-and-meaning.opml
