@@ -5970,17 +5970,31 @@ issues:
     htmlUrl: https://medium.com/@sustainabilityexplored
     xmlUrl: https://anchor.fm/s/9105960/podcast/rss
 
-- name: Free Speech in Podcasting
-  opml: earbuds-podcast-recommendations-free-speech-in-podcasting.opml
-  date: 2021-08-23
-  htmlUrl: https://newsletter.earbuds.audio/p/free-speech-podcasting
-  podcasts:
-
 - name: Science and Crime
   opml: earbuds-podcast-recommendations-science-and-crime.opml
   date: 2021-08-20
   htmlUrl: https://newsletter.earbuds.audio/p/science-crime
   podcasts:
+
+  - title: Algorithm
+    htmlUrl: https://www.iheart.com/podcast/1119-algorithm-83051915/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f6863ce3-cac7-40c9-9880-ae2d0142ac89/f9915bc2-d2fa-44fe-8277-ae2d0142ac92/podcast.rss
+
+  - title: Science Vs
+    htmlUrl: https://gimletmedia.com/science-vs/
+    xmlUrl: https://feeds.megaphone.fm/sciencevs
+
+  - title: Bear Brook
+    htmlUrl: https://www.nhpr.org/
+    xmlUrl: https://feeds.megaphone.fm/TPG7540613670
+
+  - title: Probable Causation
+    htmlUrl: https://probablecausation.podbean.com/
+    xmlUrl: https://feed.podbean.com/probablecausation/feed.xml
+
+  - title: Talking Research
+    htmlUrl: https://twitter.com/talk_research
+    xmlUrl: https://feeds.transistor.fm/talking-research
 
 - name: Podcast Recommendations For Giving a Shit
   opml: earbuds-podcast-recommendations-podcast-recommendations-for-giving-a-shit.opml

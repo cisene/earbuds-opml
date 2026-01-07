@@ -235,6 +235,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [Podcasts Out of This World](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-podcasts-out-of-this-world.opml) | 2021-09-10 |
 | [Mom Entrepreneurs](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-mom-entrepreneurs.opml) | 2021-09-02 |
 | [Understanding Our Digital Footprint](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-understanding-our-digital-footprint.opml) | 2021-08-29 |
+| [Science and Crime](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-science-and-crime.opml) | 2021-08-20 |
 
 
 
