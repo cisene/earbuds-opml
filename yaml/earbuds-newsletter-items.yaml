@@ -5950,6 +5950,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/understanding-digital-footprint
   podcasts:
 
+  - title: Constant Variables
+    htmlUrl: https://constantvariables.net/
+    xmlUrl: https://constantvariables.libsyn.com/rss
+
+  - title: Tech Tip Tuesdays
+    htmlUrl: https://purrgroup.com/
+    xmlUrl: https://anchor.fm/s/4d3c8924/podcast/rss
+
+  - title: Climate Solutions
+    htmlUrl: https://www.eib.org/climate-podcast
+    xmlUrl: https://feeds.acast.com/public/shows/climate-podcast
+
+  - title: Sustrain Daily Podcast
+    htmlUrl: https://podcasters.spotify.com/pod/show/sustrain-daily
+    xmlUrl: https://anchor.fm/s/24ced35c/podcast/rss
+
+  - title: Sustainability Explored
+    htmlUrl: https://medium.com/@sustainabilityexplored
+    xmlUrl: https://anchor.fm/s/9105960/podcast/rss
+
 - name: Free Speech in Podcasting
   opml: earbuds-podcast-recommendations-free-speech-in-podcasting.opml
   date: 2021-08-23
