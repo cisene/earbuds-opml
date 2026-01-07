@@ -6024,9 +6024,29 @@ issues:
 
 - name: The Field of Health Design
   opml: earbuds-podcast-recommendations-the-field-of-health-design.opml
-  date: 2021-08-09
+  date: 2021-08-08
   htmlUrl: https://newsletter.earbuds.audio/p/field-health-design
   podcasts:
+
+  - title: The Visible Voices
+    htmlUrl: https://thevisiblevoicespodcast.podbean.com/
+    xmlUrl: https://feed.podbean.com/thevisiblevoicespodcast/feed.xml
+
+  - title: Revision Path
+    htmlUrl: https://www.youtube.com/@revisionpath
+    xmlUrl: https://podcasts.apple.com/us/podcast/revision-path/id834173190
+
+  - title: Shared Space
+    htmlUrl: https://podcasters.spotify.com/pod/show/erinpeavey
+    xmlUrl: https://anchor.fm/s/2077fb30/podcast/rss
+
+  - title: Therapy for Black Girls
+    htmlUrl: https://therapyforblackgirls.com/podcast
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2a22ac04-0eb4-4aad-8dc2-ae270179efb9/2d42d89c-4962-4760-a616-ae270179efd5/podcast.rss
+
+  - title: Explore The Space
+    htmlUrl: https://www.explorethespaceshow.com/podcasting/
+    xmlUrl: https://www.explorethespaceshow.com/podcasting/feed/podcast/
 
 - name: 'Podcast Recommendations: Arts in the Spotlight'
   opml: earbuds-podcast-recommendations-podcast-recommendations-arts-in-the-spotlight.opml
