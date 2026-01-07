@@ -6002,6 +6002,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-recommendations-giving-shit
   podcasts:
 
+  - title: Ologies with Alie Ward
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/FO6kxYGj
+
+  - title: Drilled
+    htmlUrl: https://www.drilled.media/
+    xmlUrl: https://feeds.megaphone.fm/CFQ4717310530
+
+  - title: How to Save a Planet
+    htmlUrl: https://gimletmedia.com/shows/howtosaveaplanet
+    xmlUrl: https://feeds.megaphone.fm/howtosaveaplanet
+
+  - title: The Ezra Klein Show
+    htmlUrl: https://www.nytimes.com/ezra-klein-podcast
+    xmlUrl: https://feeds.simplecast.com/82FI35Px
+
+  - title: The Most Important Question
+    htmlUrl: https://podcast.importantnotimportant.com/
+    xmlUrl: https://feeds.captivate.fm/the-most-important-question/
+
 - name: The Field of Health Design
   opml: earbuds-podcast-recommendations-the-field-of-health-design.opml
   date: 2021-08-09
