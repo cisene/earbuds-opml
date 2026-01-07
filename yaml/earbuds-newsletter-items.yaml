@@ -5898,6 +5898,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-world
   podcasts:
 
+  - title: Girl In Space
+    htmlUrl: https://www.girlinspacepodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/girlinspace
+
+  - title: WeMartians Podcast
+    htmlUrl: https://www.wemartians.com/
+    xmlUrl: https://feeds.simplecast.com/kCA68cgb
+
+  - title: Eye On Sci-Fi
+    htmlUrl: https://www.the7thmatrix.com/
+    xmlUrl: https://roderick-faulkner.squarespace.com/eosfpodcast?format=rss
+
+  - title: Astronomy Cast
+    htmlUrl: http://www.astronomycast.com/
+    xmlUrl: https://astronomycast.libsyn.com/rss
+
+  - title: Seldon Crisis – The Podcast
+    htmlUrl: https://joelmckinnon.substack.com/podcast
+    xmlUrl: https://feeds.transistor.fm/seldon-crisis-the-podcast
+
 - name: Mom Entrepreneurs
   opml: earbuds-podcast-recommendations-mom-entrepreneurs.opml
   date: 2021-09-03
