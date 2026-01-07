@@ -5920,9 +5920,29 @@ issues:
 
 - name: Mom Entrepreneurs
   opml: earbuds-podcast-recommendations-mom-entrepreneurs.opml
-  date: 2021-09-03
+  date: 2021-09-02
   htmlUrl: https://newsletter.earbuds.audio/p/mom-entrepreneurs
   podcasts:
+
+  - title: Why Are We Shouting? with Jill Salzman
+    htmlUrl: https://jillsalzman.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/1107467.rss
+
+  - title: Hear I Am
+    htmlUrl: https://www.reginacarey.com/
+    xmlUrl: https://anchor.fm/s/17f98d48/podcast/rss
+
+  - title: Roxtalks Show
+    htmlUrl: https://www.roxannewilson.com/
+    xmlUrl: https://feeds.buzzsprout.com/1978859.rss
+
+  - title: 'The Support Squad: A Podcast for Virtual Assistants'
+    htmlUrl: http://thesupportsquad.libsyn.com/website
+    xmlUrl: https://thesupportsquad.libsyn.com/rss
+
+  - title: Startup Parent
+    htmlUrl: https://startupparent.com/
+    xmlUrl: https://feeds.megaphone.fm/startupparent
 
 - name: Understanding Our Digital Footprint
   opml: earbuds-podcast-recommendations-understanding-our-digital-footprint.opml
