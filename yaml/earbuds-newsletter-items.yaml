@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: 5 podcasts to make 2026 the year of FUN!
+  opml: earbuds-podcast-recommendations-5-podcasts-to-make-2026-the-year-of-FUN.opml
+  date: 2026-01-05
+  htmlUrl: https://newsletter.earbuds.audio/p/5-podcasts-to-make-2026-the-year-of-fun
+  podcasts:
+
+  - title: Finding Fun Experiment. Cracking your Code to Health and Wellness.
+    htmlUrl: https://www.minddoodles.ca/
+    xmlUrl: https://anchor.fm/s/104864e94/podcast/rss
+
+  - title: Growing Joy with Plants - Wellness Rooted in Nature, Houseplants, Gardening and Plant Care
+    htmlUrl: http://www.growingjoywithmaria.com/podcast
+    xmlUrl: https://feeds.simplecast.com/a4toMiCB
+
+  - title: The Mel Robbins Podcast
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/UCwaTX1J
+
+  - title: Dish
+    htmlUrl: https://www.acoldglass.com/
+    xmlUrl: https://feeds.megaphone.fm/dish
+
+  - title: How to Be a Better Human
+    htmlUrl: https://play.prx.org/listen?uf=https%3A%2F%2Ffeeds.feedburner.com%2FHowToBeABetterHuman
+    xmlUrl: https://feeds.feedburner.com/HowToBeABetterHuman
+
 - name: Alex Honnold's Favorite Podcasts & Episodes of 2025
   opml: earbuds-podcast-recommendations-alex-honnolds-favorite-podcasts-and-episodes-of-2025.opml
   date: 2025-12-28
