@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: 5 History Podcasts That Expose Power and Secrecy
+  opml: earbuds-podcast-recommendations-5-history-podcasts-that-expose-power-and-secrecy.opml
+  date: 2026-01-12
+  htmlUrl: https://newsletter.earbuds.audio/p/5-history-podcasts-expose-power-secrecy
+  podcasts:
+
+  - title: 'Riccardo: The Man Who Blew Up the Pope'
+    htmlUrl: https://www.riccardopodcast.com/
+    xmlUrl: https://feeds.acast.com/public/shows/68a048018f8e6e84613a43c0
+
+  - title: Slow Burn
+    htmlUrl: https://slate.com/slowburn
+    xmlUrl: https://feeds.acast.com/public/shows/6965759d79fe7d554545528a
+
+  - title: You Must Remember This
+    htmlUrl: http://youmustrememberthispodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/YMRT7068253588
+
+  - title: The Rest Is History
+    htmlUrl: http://therestishistory.com/
+    xmlUrl: https://feeds.megaphone.fm/GLT4787413333
+
+  - title: American Scandal
+    htmlUrl: https://wondery.com/shows/American-Scandal/
+    xmlUrl: https://rss.art19.com/american-scandal
+
 - name: 5 podcasts to make 2026 the year of FUN!
   opml: earbuds-podcast-recommendations-5-podcasts-to-make-2026-the-year-of-FUN.opml
   date: 2026-01-05
