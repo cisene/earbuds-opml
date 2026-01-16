@@ -6106,6 +6106,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-olympics-sports-stories
   podcasts:
 
+  - title: Blind Landing
+    htmlUrl: https://www.blindlanding.com/
+    xmlUrl: https://feeds.megaphone.fm/blindlanding
+
+  - title: 30 for 30 Podcasts
+    htmlUrl: http://espnradio.espn.com/espnradio/index
+    xmlUrl: https://feeds.megaphone.fm/ESP5765452710
+
+  - title: The Narrative
+    htmlUrl: https://www.ccv.org/
+    xmlUrl: https://www.omnycontent.com/d/playlist/33c44237-06bc-4485-b9b1-ab5901842440/f9c033fb-268f-48e0-bf64-ad42014e73ca/26e09a66-ea94-4871-8d34-ad420150e0a4/podcast.rss
+
+  - title: Fresh Air
+    htmlUrl: https://www.npr.org/podcasts/381444908/fresh-air
+    xmlUrl: https://feeds.npr.org/381444908/podcast.xml
+
+  - title: This American Life
+    htmlUrl: https://www.thisamericanlife.org/podcast/rss.xml
+    xmlUrl: https://www.thisamericanlife.org/podcast/rss.xml
+
 - name: Micro-casts - Short Podcasts
   opml: earbuds-podcast-recommendations-micro-casts-short-podcasts.opml
   date: 2021-07-19
