@@ -239,6 +239,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [Science and Crime](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-science-and-crime.opml) | 2021-08-20 |
 | [Podcast Recommendations For Giving a Shit](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-podcast-recommendations-for-giving-a-shit.opml) | 2021-08-15 |
 | [The Field of Health Design](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-the-field-of-health-design.opml) | 2021-08-08 |
+| [Podcast Recommendations: Arts in the Spotlight](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-podcast-recommendations-arts-in-the-spotlight.opml) | 2021-08-01 |
 
 
 

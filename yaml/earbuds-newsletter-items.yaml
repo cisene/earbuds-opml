@@ -6080,6 +6080,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-recommendations-arts-spotlight
   podcasts:
 
+  - title: The Culture Bar
+    htmlUrl: https://www.spreaker.com/podcast/the-culture-bar--4507183
+    xmlUrl: https://www.spreaker.com/show/4507183/episodes/feed
+
+  - title: Where''s My Freaking Dressing Room?!
+    htmlUrl: http://www.wheresmyfreakingdressingroom.com/
+    xmlUrl: https://feeds.acast.com/public/shows/wheresmyfreakingdressingroom
+
+  - title: Stance Podcast with Chrystal Genesis
+    htmlUrl: http://stancepodcast.com/
+    xmlUrl: https://stancepodcast.libsyn.com/rss
+
+  - title: Young People in the Arts Podcast
+    htmlUrl: https://podcasters.spotify.com/pod/show/youngpeopleinthearts
+    xmlUrl: https://anchor.fm/s/fac5ecc/podcast/rss
+
+  - title: Meet Me at the Museum
+    htmlUrl: https://www.artfund.org/MeetMe
+    xmlUrl: https://feeds.acast.com/public/shows/0ec8ccfd-716b-4149-a665-449a9faa989d
+
 - name: Podcasts On The Olympics & Sports Stories
   opml: earbuds-podcast-recommendations-podcasts-on-the-olympics-sports-stories.opml
   date: 2021-07-22
