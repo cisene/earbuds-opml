@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: Cultural Histories & Mysteries
+  opml: earbuds-podcast-recommendations-cultural-histories-and-mysteries.opml
+  date: 2026-01-19
+  htmlUrl: https://newsletter.earbuds.audio/p/cultural-histories-mysteries-2026
+  podcasts:
+
+  - title: One Year
+    htmlUrl: https://slate.com/podcasts/one-year
+    xmlUrl: https://feeds.megaphone.fm/SLT7210881615
+
+  - title: 99% Invisible
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/BqbsxVfO
+
+  - title: Decoder Ring
+    htmlUrl: https://slate.com/podcasts/decoder-ring
+    xmlUrl: https://feeds.acast.com/public/shows/696572d375c092ac4e159c27
+
+  - title: Code Switch
+    htmlUrl: https://www.npr.org/podcasts/510312/codeswitch
+    xmlUrl: https://feeds.npr.org/510312/podcast.xml
+
+  - title: 'Think Twice: Michael Jackson'
+    htmlUrl: https://wondery.com/shows/think-twice-michael-jackson/%20%E2%80%8E
+    xmlUrl: https://rss.art19.com/think-twice-michael-jackson
+
 - name: 5 History Podcasts That Expose Power and Secrecy
   opml: earbuds-podcast-recommendations-5-history-podcasts-that-expose-power-and-secrecy.opml
   date: 2026-01-12
