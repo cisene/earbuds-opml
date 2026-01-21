@@ -6154,9 +6154,29 @@ issues:
 
 - name: Micro-casts - Short Podcasts
   opml: earbuds-podcast-recommendations-micro-casts-short-podcasts.opml
-  date: 2021-07-19
+  date: 2021-07-18
   htmlUrl: https://newsletter.earbuds.audio/p/microcasts-short-podcasts
   podcasts:
+
+  - title: The Instagram Stories Podcast
+    htmlUrl: https://www.instagram.com/danielhillmedia
+    xmlUrl: https://anchor.fm/s/b76a8e04/podcast/rss
+
+  - title: 'The Gaming Observer: Daily Video Games News'
+    htmlUrl: https://thegamingobserver.com/
+    xmlUrl: https://pinecast.com/feed/thegamingobserver
+
+  - title: The Pitch with Amy Summers
+    htmlUrl: https://amysummersnyc.podbean.com/
+    xmlUrl: https://feedpress.me/thepitchitunesgoogle
+
+  - title: Voice Marketing with Emily Binder
+    htmlUrl: https://emilybinder.com/podcast
+    xmlUrl: https://feed.pippa.io/public/shows/5bb3c34841b240784593315f
+
+  - title: Everyday Positivity
+    htmlUrl: https://linktr.ee/everydaypositivity
+    xmlUrl: https://feeds.acast.com/public/shows/67a9c2843ef0b176eaa02397
 
 - name: The Best Movie Podcasts
   opml: earbuds-podcast-recommendations-the-best-movie-podcasts.opml
