@@ -6184,6 +6184,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/best-movie-podcasts
   podcasts:
 
+  - title: Movie Lovers
+    htmlUrl: https://www.movieloverspod.com/
+    xmlUrl: https://feeds.buzzsprout.com/1691107.rss
+
+  - title: The Rewatchables
+    htmlUrl: https://www.theringer.com/
+    xmlUrl: https://feeds.megaphone.fm/the-rewatchables
+
+  - title: Nerd of Mouth
+    htmlUrl: https://www.lastpodcastnetwork.com/
+    xmlUrl: https://feeds.simplecast.com/D_jSW6qW
+
+  - title: Happily Ever Aftermath
+    htmlUrl: http://heamcast.libsyn.com/website
+    xmlUrl: https://heamcast.libsyn.com/rss
+
+  - title: 'Shat the Movies: 80''s & 90''s Best Film Review'
+    htmlUrl: https://shatpod.com/movies/
+    xmlUrl: https://shatthemovies.libsyn.com/rss
+
 - name: Southern and Jewish
   opml: earbuds-podcast-recommendations-southern-and-jewish.opml
   date: 2021-07-01
