@@ -6258,9 +6258,29 @@ issues:
 
 - name: Music, Murder, and History
   opml: earbuds-podcast-recommendations-music-murder-and-history.opml
-  date: 2021-06-27
+  date: 2021-06-24
   htmlUrl: https://newsletter.earbuds.audio/p/music-murder-history
   podcasts:
+
+  - title: Dolly Parton''s America
+    htmlUrl: https://www.wnycstudios.org/podcasts/dolly-partons-america
+    xmlUrl: https://feeds.feedburner.com/dolly-partons-america
+
+  - title: Song Exploder
+    htmlUrl: http://www.songexploder.net/
+    xmlUrl: https://feed.songexploder.net/SongExploder
+
+  - title: Have You Heard This One?
+    htmlUrl: https://nevermind.fm/shows/have-you-heard-this-one/
+    xmlUrl: https://rss.art19.com/songs-in-the-key-of-death
+
+  - title: You''re Wrong About
+    htmlUrl: https://www.buzzsprout.com/1112270
+    xmlUrl: https://rss.buzzsprout.com/1112270.rss
+
+  - title: Lost Notes
+    htmlUrl: https://www.kcrw.com/culture/shows/lost-notes?utm_source=KCRW&utm_medium=RSS&utm_campaign=kcrw-show-rss
+    xmlUrl: https://feed.cdnstream1.com/zjb/feed/download/2a/54/3c/2a543c76-a959-494d-bbb8-8981aea5909d.xml
 
 - name: Human Connection
   opml: earbuds-podcast-recommendations-human-connection.opml
