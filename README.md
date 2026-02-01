@@ -247,6 +247,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [The Best Movie Podcasts](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-the-best-movie-podcasts.opml) | 2021-07-09 |
 | [Southern and Jewish](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-southern-and-jewish.opml) | 2021-07-02 |
 | [Music, Murder, and History](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-music-murder-and-history.opml) | 2021-06-24 |
+| [Human Connection](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-human-connection.opml) | 2021-06-19 |
 
 
 

@@ -6284,9 +6284,29 @@ issues:
 
 - name: Human Connection
   opml: earbuds-podcast-recommendations-human-connection.opml
-  date: 2021-06-18
+  date: 2021-06-19
   htmlUrl: https://newsletter.earbuds.audio/p/human-connection
   podcasts:
+
+  - title: Appearances
+    htmlUrl: https://mermaidpalace.org/Appearances
+    xmlUrl: https://feeds.feedburner.com/appearancespodcast
+
+  - title: MOONFACE
+    htmlUrl: https://overtones.fm/
+    xmlUrl: https://feeds.acast.com/public/shows/664f8e787c6b20001352489c
+
+  - title: Constellation Prize
+    htmlUrl: https://constellationprize.podbean.com/
+    xmlUrl: https://feed.podbean.com/constellationprize/feed.xml
+
+  - title: No Feeling Is Final
+    htmlUrl: https://www.abc.net.au/listen/programs/no-feeling-is-final/
+    xmlUrl: https://www.abc.net.au/feeds/10241908/podcast.xml
+
+  - title: The Shadows
+    htmlUrl: https://www.cbc.ca/radio/podcasts/the-shadows/https://www.cbc.ca/radiointeractives/podcasts/the-shadows
+    xmlUrl: https://www.cbc.ca/podcasting/includes/theshadows.xml
 
 - name: Looking Behind Walls
   opml: earbuds-podcast-recommendations-looking-behind-walls.opml
