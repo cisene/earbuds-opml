@@ -6340,6 +6340,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/lets-talk-alzheimers
   podcasts:
 
+  - title: 'Fading Memories: Alzheimer''s/Dementia Support'
+    htmlUrl: https://fadingmemories.blubrry.net/
+    xmlUrl: https://fadingmemories.blubrry.net/feed/podcast
+
+  - title: Alz In The Fam
+    htmlUrl: https://alzinthefampodcast.com/
+    xmlUrl: https://feed.podbean.com/alzinthefam/feed.xml
+
+  - title: Awkward Story
+    htmlUrl: https://awkwardstory.libsyn.com/
+    xmlUrl: https://feeds.libsyn.com/162473/rss
+
+  - title: Dementia Matters
+    htmlUrl: https://dementiamatters.podbean.com/
+    xmlUrl: https://dementiamatters.podbean.com/feed.xml
+
+  - title: Zestful Aging
+    htmlUrl: https://www.zestfulaging.com/
+    xmlUrl: https://ca-ns-1.bulkstorage.ca/v1/AUTH_0d09c87549084f4ba4ad4a9e807d0d76/11036/feeds/3GRYD.xml?temp_url_sig=2134c527bf7fc964a876988b960f79f347411cb7&temp_url_expires=1904182039&inline
+
 - name: 'Underrepresented Voices: Diversity Matters'
   opml: earbuds-podcast-recommendations-underrepresented-voices-diversity-matters.opml
   date: 2021-05-30
