@@ -6314,6 +6314,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/looking-behind-walls
   podcasts:
 
+  - title: 'The Turning: The Sisters Who Left'
+    htmlUrl: https://www.iheart.com/podcast/1119-the-turning-the-sisters-w-82262169/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a2b6c785-968f-4390-a9de-b30c01091aaa/ffe000e5-94b7-4ac2-b366-b30c01091ac1/podcast.rss
+
+  - title: Into the Zone
+    htmlUrl: https://www.pushkin.fm/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e6088582-e717-48ed-a574-ae3900554ff9/d9632d1a-d37e-4b0c-bb0f-ae390055501f/podcast.rss
+
+  - title: Love and Radio
+    htmlUrl: https://loveandradio.org/
+    xmlUrl: http://feed.loveandradio.org/loveplusradio
+
+  - title: Snap Judgment
+    htmlUrl: http://snapjudgment.org/
+    xmlUrl: https://snap.feed.snapjudgment.org/
+
+  - title: Scattered
+    htmlUrl: https://www.wnycstudios.org/podcasts/scattered
+    xmlUrl: https://feeds.feedburner.com/scattered-podcast
+
 - name: Let's Talk About Alzheimers
   opml: earbuds-podcast-recommendations-lets-talk-about-alzheimers.opml
   date: 2021-06-07
