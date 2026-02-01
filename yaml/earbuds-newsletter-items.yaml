@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: 5 True Crime Podcasts with a Trauma-Informed Approach
+  opml: earbuds-podcast-recommendations-5-true-crime-podcasts-with-a-trauma-informed-approach.opml
+  date: 2026-01-25
+  htmlUrl: https://newsletter.earbuds.audio/p/5-trauma-informed-true-crime-podcasts
+  podcasts:
+
+  - title: Truer Crime
+    htmlUrl: https://www.truercrimepodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/TFT6352151279
+
+  - title: 'In Her Defence: 50th Street'
+    htmlUrl: https://in-her-defence.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/rUa_m6ta
+
+  - title: Island Crime
+    htmlUrl: https://islandcrime.ca/
+    xmlUrl: https://feeds.acast.com/public/shows/675b33c6619022857c8fd06a
+
+  - title: Crime Story
+    htmlUrl: https://www.cbc.ca/podcasts
+    xmlUrl: https://www.cbc.ca/podcasting/includes/crimestory.xml
+
+  - title: Canadian True Crime
+    htmlUrl: http://www.canadiantruecrime.ca/
+    xmlUrl: https://feeds.acast.com/public/shows/e3736df1-0f3e-41f3-a009-2ab3d6dddc52
+
 - name: Cultural Histories & Mysteries
   opml: earbuds-podcast-recommendations-cultural-histories-and-mysteries.opml
   date: 2026-01-19

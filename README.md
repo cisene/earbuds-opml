@@ -17,6 +17,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 
 | Weekly issus of the Earbuds Podcast Collective Newletters                           | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [5 True Crime Podcasts with a Trauma-Informed Approach](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-true-crime-podcasts-with-a-trauma-informed-approach.opml) | 2026-01-25 |
 | [Cultural Histories & Mysteries](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-cultural-histories-and-mysteries.opml) | 2026-01-19 |
 | [5 History Podcasts That Expose Power and Secrecy](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-history-podcasts-that-expose-power-and-secrecy.opml) | 2026-01-12 |
 | [5 podcasts to make 2026 the year of FUN!](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-podcasts-to-make-2026-the-year-of-FUN.opml) | 2026-01-05 |
