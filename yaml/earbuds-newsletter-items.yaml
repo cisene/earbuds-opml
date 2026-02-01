@@ -6232,9 +6232,29 @@ issues:
 
 - name: Southern and Jewish
   opml: earbuds-podcast-recommendations-southern-and-jewish.opml
-  date: 2021-07-01
+  date: 2021-07-02
   htmlUrl: https://newsletter.earbuds.audio/p/southern-jewish
   podcasts:
+
+  - title: Gravy
+    htmlUrl: http://www.southernfoodways.org/gravy
+    xmlUrl: https://feeds.megaphone.fm/TPG7691102500
+
+  - title: Gravy
+    htmlUrl: http://www.southernfoodways.org/gravy
+    xmlUrl: https://feeds.megaphone.fm/TPG7691102500
+
+  - title: Schmaltzy
+    htmlUrl: https://schmaltzy.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/8O7ckFvQ
+
+  - title: Americana Music Profiles
+    htmlUrl: https://americana-music-profiles.simplecast.com/
+    xmlUrl: https://feeds.megaphone.fm/americana
+
+  - title: Gravy
+    htmlUrl: http://www.southernfoodways.org/gravy
+    xmlUrl: https://feeds.megaphone.fm/TPG7691102500
 
 - name: Music, Murder, and History
   opml: earbuds-podcast-recommendations-music-murder-and-history.opml
