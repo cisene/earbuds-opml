@@ -32,7 +32,6 @@ issues:
     htmlUrl: https://crooked.com/podcast-series/wind-of-change/
     xmlUrl: https://feeds.megaphone.fm/wind-of-change-wide
 
-
 - name: 5 True Crime Podcasts with a Trauma-Informed Approach
   opml: earbuds-podcast-recommendations-5-true-crime-podcasts-with-a-trauma-informed-approach.opml
   date: 2026-01-25
@@ -6389,9 +6388,29 @@ issues:
 
 - name: 'Underrepresented Voices: Diversity Matters'
   opml: earbuds-podcast-recommendations-underrepresented-voices-diversity-matters.opml
-  date: 2021-05-30
+  date: 2021-05-31
   htmlUrl: https://newsletter.earbuds.audio/p/underrepresented-voices-diversity-matters
   podcasts:
+
+  - title: Picked Last in Gym Class
+    htmlUrl: https://www.dcpofficial.com/picked-last-in-gym-class
+    xmlUrl: https://feeds.megaphone.fm/DCP4900882645
+
+  - title: Make It Plain MIP with Rev. Mark Thompson
+    htmlUrl: https://redcircle.com/shows/makeitplain
+    xmlUrl: https://feeds.redcircle.com/1271a4f1-d8bc-4b07-9ff6-d80f013172d4
+
+  - title: democracy-ish
+    htmlUrl: https://www.dcpofficial.com/democracy-ish
+    xmlUrl: https://feeds.acast.com/public/shows/650492e14e79c00011b3dc25
+
+  - title: Politics of Food
+    htmlUrl: https://www.dcpofficial.com/politics-of-food
+    xmlUrl: https://feeds.megaphone.fm/DCP9017651382
+
+  - title: Say Their Name
+    htmlUrl: https://www.dcpofficial.com/saytheirname
+    xmlUrl: https://feeds.megaphone.fm/DCP1153872791
 
 - name: Understanding Conscious Evolution
   opml: earbuds-podcast-recommendations-understanding-conscious-evolution.opml
