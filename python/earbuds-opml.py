@@ -136,7 +136,8 @@ def main():
         #print(f"Skipped {opml_fullpath} as it exists")
         continue
       else:
-        print(f"Writing {opml_fullpath}")
+        #print(f"Writing {opml_fullpath}")
+        pass
 
       # Open OPML
       opml = etree.Element("opml", version = "2.0")
