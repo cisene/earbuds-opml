@@ -254,6 +254,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [Underrepresented Voices: Diversity Matters](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-underrepresented-voices-diversity-matters.opml) | 2021-05-31 |
 | [Understanding Conscious Evolution](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-understanding-conscious-evolution.opml) | 2021-05-21 |
 | [Podcasts for the Theater Lover](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-podcasts-for-the-theater-lover.opml) | 2021-05-17 |
+| [Podcasts for Coffee Lovers](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-podcasts-for-coffee-lovers.opml) | 2021-05-10 |
 
 
 

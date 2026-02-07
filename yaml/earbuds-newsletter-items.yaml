@@ -6464,17 +6464,31 @@ issues:
     htmlUrl: https://broadwaypodcastnetwork.com/podcast/you-cant-say-that/
     xmlUrl: https://feeds.megaphone.fm/youcantsaythat
 
-- name: Missing Live Theatre
-  opml: earbuds-podcast-recommendations-missing-live-theatre.opml
-  date: 2021-05-14
-  htmlUrl: https://newsletter.earbuds.audio/p/missing-live-theatre
-  podcasts:
-
 - name: Podcasts for Coffee Lovers
   opml: earbuds-podcast-recommendations-podcasts-for-coffee-lovers.opml
-  date: 2021-05-09
+  date: 2021-05-10
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-coffee-lovers
   podcasts:
+
+  - title: Throughline
+    htmlUrl: https://www.npr.org/podcasts/510333/throughline
+    xmlUrl: https://feeds.npr.org/510333/podcast.xml
+
+  - title: Filter Stories - Coffee Documentaries
+    htmlUrl: https://www.filterstories.org/
+    xmlUrl: https://feed.podbean.com/hellobib/feed.xml
+
+  - title: The Kitchen Sisters Present
+    htmlUrl: https://www.kitchensisters.org/present/
+    xmlUrl: https://feeds.fugitivewaves.org/fugitivewaves
+
+  - title: Adventures In Coffee
+    htmlUrl: https://caffeinepodcast.co.uk/
+    xmlUrl: https://www.spreaker.com/show/4742579/episodes/feed
+
+  - title: Containers
+    htmlUrl: https://soundcloud.com/containersfmg
+    xmlUrl: https://feeds.megaphone.fm/PPY8156500299
 
 - name: Finding A Sense of Purpose
   opml: earbuds-podcast-recommendations-finding-a-sense-of-purpose.opml
