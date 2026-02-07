@@ -6,6 +6,33 @@ global:
 
 issues:
 
+- name: 5 History Podcasts That’ll Make You Rethink What You Thought You Knew
+  opml: earbuds-podcast-recommendations-5-history-podcasts-thatll-make-you-rethink-what-you-thought-you-knew.opml
+  date: 2026-02-01
+  htmlUrl: https://newsletter.earbuds.audio/p/5-history-podcasts-rethink-what-you-thought-you-knew
+  podcasts:
+
+  - title: The History Bureau
+    htmlUrl: https://www.bbc.co.uk/programmes/m002q5dk
+    xmlUrl: https://podcasts.files.bbci.co.uk/m002q5dk.rss
+
+  - title: '1619'
+    htmlUrl: https://1619.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/6HzeyO6b
+
+  - title: Three Million
+    htmlUrl: https://www.bbc.co.uk/programmes/m001wr57
+    xmlUrl: https://podcasts.files.bbci.co.uk/m001wr57.rss
+
+  - title: Throughline
+    htmlUrl: https://www.npr.org/podcasts/510333/throughline
+    xmlUrl: https://feeds.npr.org/510333/podcast.xml
+
+  - title: Wind of Change
+    htmlUrl: https://crooked.com/podcast-series/wind-of-change/
+    xmlUrl: https://feeds.megaphone.fm/wind-of-change-wide
+
+
 - name: 5 True Crime Podcasts with a Trauma-Informed Approach
   opml: earbuds-podcast-recommendations-5-true-crime-podcasts-with-a-trauma-informed-approach.opml
   date: 2026-01-25
