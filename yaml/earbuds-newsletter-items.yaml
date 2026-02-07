@@ -6418,6 +6418,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/understanding-conscious-evolution
   podcasts:
 
+  - title: Conscious Evolution Podcast
+    htmlUrl: https://www.spreaker.com/show/conscious-evolution-podcast
+    xmlUrl: https://www.spreaker.com/show/4577610/episodes/feed
+
+  - title: Future Thinkers
+    htmlUrl: https://futurethinkers.org/
+    xmlUrl: https://futurethinkers.org/feed/
+
+  - title: The Jim Rutt Show
+    htmlUrl: https://www.jimruttshow.com/
+    xmlUrl: https://jimruttshow.blubrry.net/feed/podcast/
+
+  - title: Accidental Gods
+    htmlUrl: https://accidentalgods.life/
+    xmlUrl: https://feeds.transistor.fm/accidental-gods
+
+  - title: Future Thinkers
+    htmlUrl: https://futurethinkers.org/
+    xmlUrl: https://futurethinkers.org/feed/
+
 - name: Podcasts for the Theater Lover
   opml: earbuds-podcast-recommendations-podcasts-for-the-theater-lover.opml
   date: 2021-05-17
