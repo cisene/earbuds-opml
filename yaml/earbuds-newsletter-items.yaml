@@ -6444,6 +6444,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-theater-lover
   podcasts:
 
+  - title: 'Out for Blood: The Story of Carrie the Musical'
+    htmlUrl: https://outforbloodpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/outforblood
+
+  - title: The Salisha Show-Where Broadway Meets Culture
+    htmlUrl: https://the-salisha-show.captivate.fm/
+    xmlUrl: https://rss.buzzsprout.com/2526047.rss
+
+  - title: Big Diva Energy
+    htmlUrl: https://www.bigdivaenergy.com/
+    xmlUrl: https://www.bigdivaenergy.com/big-diva-energy?format=rss
+
+  - title: Broadway Backstory
+    htmlUrl: https://www.todaytix.com/broadwaybackstory
+    xmlUrl: https://broadwaybackstory.libsyn.com/rss
+
+  - title: You Can''t Say That!
+    htmlUrl: https://broadwaypodcastnetwork.com/podcast/you-cant-say-that/
+    xmlUrl: https://feeds.megaphone.fm/youcantsaythat
+
 - name: Missing Live Theatre
   opml: earbuds-podcast-recommendations-missing-live-theatre.opml
   date: 2021-05-14
