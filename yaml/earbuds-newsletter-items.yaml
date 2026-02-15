@@ -6548,6 +6548,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/impress-zoom-parties
   podcasts:
 
+  - title: Highbrow Drivel
+    htmlUrl: https://www.highbrowdrivel.com/
+    xmlUrl: https://feeds.buzzsprout.com/1525282.rss
+
+  - title: Friends Like Us
+    htmlUrl: https://marinafranklin.com/podcast/
+    xmlUrl: https://friendslikeus.libsyn.com/rss
+
+  - title: Beyond Founder-Led
+    htmlUrl: https://thedevaincollective.com/
+    xmlUrl: https://feeds.acast.com/public/shows/5acb7df6483d75cc2e0c9a20
+
+  - title: But Why Tho?
+    htmlUrl: https://butwhytho.captivate.fm/
+    xmlUrl: https://feeds.captivate.fm/butwhytho/
+
+  - title: Keep It!
+    htmlUrl: https://audioboom.com/channels/5166621
+    xmlUrl: https://audioboom.com/channels/5166621.rss
+
 - name: Healing Mental Health
   opml: earbuds-podcast-recommendations-healing-mental-health.opml
   date: 2021-04-18
