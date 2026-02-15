@@ -6626,6 +6626,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/hidden-forces
   podcasts:
 
+  - title: Radiolab
+    htmlUrl: https://www.radiolab.org/
+    xmlUrl: https://feeds.feedburner.com/radiolab
+
+  - title: Every Day is a Food Day
+    htmlUrl: https://yumday.co/podcast/
+    xmlUrl: https://feeds.buzzsprout.com/1456522.rss
+
+  - title: '1619'
+    htmlUrl: https://1619.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/6HzeyO6b
+
+  - title: Hidden Brain
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/kwWc0lhf
+
+  - title: Womanica
+    htmlUrl: https://wondermedianetwork.com/work/womanica/
+    xmlUrl: https://feeds.acast.com/public/shows/68cb1eb40f8ecbdab5fe0fad
+
 - name: 'We Need Diversity: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-we-need-diversity-podcast-recommendations.opml
   date: 2021-03-28

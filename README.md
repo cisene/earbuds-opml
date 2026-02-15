@@ -260,6 +260,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [Impress At (Zoom) Parties](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-impress-at-zoom-parties.opml) | 2021-04-26 |
 | [Healing Mental Health](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-healing-mental-health.opml) | 2021-04-19 |
 | [The Millennial Spiral](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-the-millennial-spiral.opml) | 2021-04-08 |
+| [Hidden Forces](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-hidden-forces.opml) | 2021-04-05 |
 
 
 
