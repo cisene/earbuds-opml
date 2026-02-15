@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: Podcasts for Pet Owners (with All The Right Movies podcast) 🍿🐶
+  opml: earbuds-podcast-recommendations-podcasts-for-pet-owners.opml
+  date: 2026-02-08
+  htmlUrl: https://newsletter.earbuds.audio/p/podcasts-for-pet-owners-2026
+  podcasts:
+
+  - title: Furball Confidential
+    htmlUrl: https://furballconfidential.com/
+    xmlUrl: https://feeds.acast.com/public/shows/689fe515aabbc2ace3bd6636
+
+  - title: Ologies with Alie Ward
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/FO6kxYGj
+
+  - title: Handsome
+    htmlUrl: https://art19.com/shows/handsome
+    xmlUrl: https://rss.art19.com/handsome
+
+  - title: Front Burner
+    htmlUrl: https://www.cbc.ca/frontburner
+    xmlUrl: https://www.cbc.ca/podcasting/includes/frontburner.xml
+
+  - title: Criminal
+    htmlUrl: https://thisiscriminal.com/
+    xmlUrl: https://feeds.megaphone.fm/VMP7924981569
+
 - name: 5 History Podcasts That’ll Make You Rethink What You Thought You Knew
   opml: earbuds-podcast-recommendations-5-history-podcasts-thatll-make-you-rethink-what-you-thought-you-knew.opml
   date: 2026-02-01
