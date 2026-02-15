@@ -6570,9 +6570,29 @@ issues:
 
 - name: Healing Mental Health
   opml: earbuds-podcast-recommendations-healing-mental-health.opml
-  date: 2021-04-18
+  date: 2021-04-19
   htmlUrl: https://newsletter.earbuds.audio/p/healing-mental-health
   podcasts:
+
+  - title: EXPANDED Podcast by To Be Magnetic™
+    htmlUrl: https://tobemagnetic.com/expanded-podcast
+    xmlUrl: https://feeds.simplecast.com/ujLshhme
+
+  - title: High Vibe Home
+    htmlUrl: https://www.nixiemarie.com/podcasts/high-vibe-home
+    xmlUrl: https://app.kajabi.com/podcasts/2147992046/feed
+
+  - title: Black Girl In Om
+    htmlUrl: https://www.blackgirlinom.com/
+    xmlUrl: https://feeds.simplecast.com/zeTBjoZs
+
+  - title: Oprah''s Super Soul
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/N0SFSFAS
+
+  - title: The OCD Stories
+    htmlUrl: https://theocdstories.com/
+    xmlUrl: https://theocdstories.libsyn.com/rss
 
 - name: Vote for us
   opml: earbuds-podcast-recommendations-vote-for-us.opml
