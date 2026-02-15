@@ -6594,17 +6594,31 @@ issues:
     htmlUrl: https://theocdstories.com/
     xmlUrl: https://theocdstories.libsyn.com/rss
 
-- name: Vote for us
-  opml: earbuds-podcast-recommendations-vote-for-us.opml
-  date: 2021-04-13
-  htmlUrl: https://newsletter.earbuds.audio/p/vote-us
-  podcasts:
-
 - name: The Millennial Spiral
   opml: earbuds-podcast-recommendations-the-millennial-spiral.opml
   date: 2021-04-08
   htmlUrl: https://newsletter.earbuds.audio/p/millennial-spiral
   podcasts:
+
+  - title: Strong Opinions
+    htmlUrl: https://www.prettythingla.com/
+    xmlUrl: https://anchor.fm/s/231a4398/podcast/rss
+
+  - title: The Read
+    htmlUrl: https://thisistheread.com/
+    xmlUrl: https://feeds.simplecast.com/hEYNk1fd
+
+  - title: Code Switch
+    htmlUrl: https://www.npr.org/podcasts/510312/codeswitch
+    xmlUrl: https://feeds.npr.org/510312/podcast.xml
+
+  - title: Thanks For Asking
+    htmlUrl: https://www.ttfa.org/
+    xmlUrl: https://feeds.megaphone.fm/IMP8080110213
+
+  - title: Mental - The Podcast to Destigmatise Mental Health
+    htmlUrl: https://mentalpodcast.co.uk/
+    xmlUrl: https://audioboom.com/channels/5001061.rss
 
 - name: Hidden Forces
   opml: earbuds-podcast-recommendations-hidden-forces.opml
