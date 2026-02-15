@@ -6518,9 +6518,29 @@ issues:
 
 - name: Finding A Sense of Purpose
   opml: earbuds-podcast-recommendations-finding-a-sense-of-purpose.opml
-  date: 2021-05-02
+  date: 2021-05-03
   htmlUrl: https://newsletter.earbuds.audio/p/finding-sense-purpose
   podcasts:
+
+  - title: Leadership On Purpose
+    htmlUrl: https://cothryve.co/
+    xmlUrl: https://anchor.fm/s/2d64a910/podcast/rss
+
+  - title: Growth Mindset Podcast
+    htmlUrl: https://growthmindsetpodcast.com/
+    xmlUrl: https://anchor.fm/s/55a9394/podcast/rss
+
+  - title: On Purpose with Jay Shetty
+    htmlUrl: https://www.iheart.com/podcast/867-on-purpose-with-jay-shetty-30589432/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/32f1779e-bc01-4d36-89e6-afcb01070c82/e0c8382f-48d4-42bb-89d5-afcb01075cb4/podcast.rss
+
+  - title: Black Entrepreneur Experience
+    htmlUrl: https://beepodcast.com/
+    xmlUrl: https://feeds.libsyn.com/97970/rss
+
+  - title: On Being with Krista Tippett
+    htmlUrl: https://onbeing.org/
+    xmlUrl: https://feeds.simplecast.com/AuAxH_Bf
 
 - name: Impress At (Zoom) Parties
   opml: earbuds-podcast-recommendations-impress-at-zoom-parties.opml
