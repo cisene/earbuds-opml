@@ -17,6 +17,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 
 | Weekly issus of the Earbuds Podcast Collective Newletters                           | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [BHM 2026: Showcasing Black Voices in Podcasting](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-bhm-2026-showcasing-black-voices-in-podcasting.opml) | 2026-02-16 |
 | [Podcasts for Pet Owners (with All The Right Movies podcast) 🍿🐶](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-podcasts-for-pet-owners.opml) | 2026-02-08 |
 | [5 History Podcasts That’ll Make You Rethink What You Thought You Knew](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-history-podcasts-thatll-make-you-rethink-what-you-thought-you-knew.opml) | 2026-02-01 |
 | [5 True Crime Podcasts with a Trauma-Informed Approach](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-true-crime-podcasts-with-a-trauma-informed-approach.opml) | 2026-01-25 |

@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: 'BHM 2026: Showcasing Black Voices in Podcasting'
+  opml: earbuds-podcast-recommendations-bhm-2026-showcasing-black-voices-in-podcasting.opml
+  date: 2026-02-16
+  htmlUrl: https://newsletter.earbuds.audio/p/bhm-2026-showcasing-black-voices-in-podcasting
+  podcasts:
+
+  - title: The Breakfast Club
+    htmlUrl: https://www.iheart.com/podcast/the-breakfast-club-24992238/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a6620428-68fa-4b5d-a5af-ae33005f660f/0660e13d-8aa3-45f5-90ef-ae33005f6621/podcast.rss
+
+  - title: Code Switch
+    htmlUrl: https://www.npr.org/podcasts/510312/codeswitch
+    xmlUrl: https://feeds.npr.org/510312/podcast.xml
+
+  - title: 7PM in Brooklyn with Carmelo Anthony
+    htmlUrl: https://www.youtube.com/@7PMinBrooklyn
+    xmlUrl: https://feeds.megaphone.fm/7pminbrooklyn
+
+  - title: Therapy for Black Girls
+    htmlUrl: https://therapyforblackgirls.com/podcast
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2a22ac04-0eb4-4aad-8dc2-ae270179efb9/2d42d89c-4962-4760-a616-ae270179efd5/podcast.rss
+
+  - title: The Read
+    htmlUrl: https://thisistheread.com/
+    xmlUrl: https://feeds.simplecast.com/hEYNk1fd
+
 - name: Podcasts for Pet Owners (with All The Right Movies podcast) 🍿🐶
   opml: earbuds-podcast-recommendations-podcasts-for-pet-owners.opml
   date: 2026-02-08
