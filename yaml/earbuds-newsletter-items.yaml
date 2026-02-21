@@ -6750,17 +6750,31 @@ issues:
     htmlUrl: https://www.npr.org/podcasts/510306/tiny-desk-concerts-audio
     xmlUrl: https://feeds.npr.org/510306/podcast.xml
 
-- name: 'Podcast Recommendations: Inside The Creative Mind'
-  opml: earbuds-podcast-recommendations-podcast-recommendations-inside-the-creative-mind.opml
-  date: 2021-03-10
-  htmlUrl: https://newsletter.earbuds.audio/p/podcast-recommendations-inside-creative-mind
-  podcasts:
-
 - name: 'Podcast Recommendations: Women''s History Month'
   opml: earbuds-podcast-recommendations-podcast-recommendations-womens-history-month.opml
-  date: 2021-03-07
+  date: 2021-03-08
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-recommendations-womens-history-month
   podcasts:
+
+  - title: Girl and The Gov, The Podcast
+    htmlUrl: https://redcircle.com/shows/girl-and-the-gov-the-podcast
+    xmlUrl: https://feeds.redcircle.com/4825c397-1ea7-4a5b-8059-975615d67613
+
+  - title: Pass The Mic
+    htmlUrl: https://passthemic.fireside.fm/
+    xmlUrl: https://feeds.megaphone.fm/CHRTDY5587901552
+
+  - title: Haute Takes
+    htmlUrl: https://www.buzzsprout.com/1053757
+    xmlUrl: https://feeds.buzzsprout.com/1053757.rss
+
+  - title: What''sHerName
+    htmlUrl: https://www.whatshernamepodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/NSR7999761010
+
+  - title: The Illuminate Podcast
+    htmlUrl: https://sandyboyproductions.com/
+    xmlUrl: https://sandyboyproductions.com/feed/the-illuminate-podcast/
 
 - name: What You Don't Know About Ageing
   opml: earbuds-podcast-recommendations-what-you-dont-know-about-ageing.opml
