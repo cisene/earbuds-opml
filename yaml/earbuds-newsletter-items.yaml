@@ -6782,6 +6782,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/dont-know-ageing
   podcasts:
 
+  - title: Modern Love
+    htmlUrl: https://www.nytimes.com/column/modern-love-podcast
+    xmlUrl: https://feeds.simplecast.com/eHEJ08b1
+
+  - title: Remember This
+    htmlUrl: https://rememberthispodcast.com/
+    xmlUrl: https://anchor.fm/s/1079cb654/podcast/rss
+
+  - title: Paradigm
+    htmlUrl: https://frequencypodcastnetwork.com/podcasts/paradigm/
+    xmlUrl: https://feeds.simplecast.com/X1Wb9VSB
+
+  - title: Our Student Loan Secrets (Death, Sex & Money)
+    htmlUrl: https://www.wnycstudios.org/podcasts/deathsexmoney/projects/death-sex-money-our-student-loan-secrets
+    xmlUrl: https://www.wnycstudios.org/feeds/series/deathsexmoney/death-sex-money-our-student-loan-secrets
+
+  - title: Call Your Grandmother
+    htmlUrl: https://www.iheart.com/podcast/1119-call-your-grandmother-76408252/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/1083ef9a-8ae7-4fdb-9374-ae27016ec2cc/b3a47450-1922-4664-ad32-ae27016ec2e4/podcast.rss
+
 - name: Emotionally Naked Strangers
   opml: earbuds-podcast-recommendations-emotionally-naked-strangers.opml
   date: 2021-02-21
