@@ -6882,6 +6882,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/people-behind-mic
   podcasts:
 
+  - title: The Pod Spotter
+    htmlUrl: https://www.thepodspotter.com/
+    xmlUrl: https://feeds.buzzsprout.com/1291970.rss
+
+  - title: Relative Unknown
+    htmlUrl: https://www.audacy.com/
+    xmlUrl: https://feeds.megaphone.fm/relative-unknown
+
+  - title: Conversations with People Who Hate Me
+    htmlUrl: https://www.conversationswithpeoplewhohateme.com/
+    xmlUrl: https://feeds.acast.com/public/shows/670453211a3de581c6843802
+
+  - title: Dead Eyes
+    htmlUrl: https://art19.com/shows/dead-eyes
+    xmlUrl: https://rss.art19.com/dead-eyes
+
+  - title: Spectacular Failures
+    htmlUrl: https://www.spectacularfailures.org/
+    xmlUrl: https://feeds.publicradio.org/public_feeds/spectacular-failures
+
 - name: Women Runners
   opml: earbuds-podcast-recommendations-women-runners.opml
   date: 2021-01-22
