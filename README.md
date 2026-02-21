@@ -264,6 +264,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [Hidden Forces](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-hidden-forces.opml) | 2021-04-05 |
 | [We Need Diversity: Podcast Recommendations](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-we-need-diversity-podcast-recommendations.opml) | 2021-03-29 |
 | [Podcast Recommendations: Magical Stories](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-podcast-recommendations-magical-stories.opml) | 2021-03-22 |
+| [Podcasts On: The Creative Musical Mind](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-podcasts-on-the-creative-musical-mind.opml) | 2021-03-15 |
 
 
 

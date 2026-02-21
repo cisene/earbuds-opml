@@ -6726,9 +6726,29 @@ issues:
 
 - name: 'Podcasts On: The Creative Musical Mind'
   opml: earbuds-podcast-recommendations-podcasts-on-the-creative-musical-mind.opml
-  date: 2021-03-14
+  date: 2021-03-15
   htmlUrl: https://newsletter.earbuds.audio/p/podcasts-creative-musical-mind
   podcasts:
+
+  - title: Switched on Pop
+    htmlUrl: https://www.switchedonpop.com/
+    xmlUrl: https://audioboom.com/channels/4574768.rss
+
+  - title: Song Chronicles
+    htmlUrl: https://songchronicles.podbean.com/
+    xmlUrl: https://www.songchroniclespodcast.com/feed.xml
+
+  - title: Dolly Parton''s America
+    htmlUrl: https://www.wnycstudios.org/podcasts/dolly-partons-america
+    xmlUrl: https://feeds.simplecast.com/kZ0W9vjc
+
+  - title: Pitch List
+    htmlUrl: https://www.pitchlistpodcast.com/
+    xmlUrl: https://feeds.simplecast.com/f8wL4ncn
+
+  - title: Tiny Desk Concerts - Audio
+    htmlUrl: https://www.npr.org/podcasts/510306/tiny-desk-concerts-audio
+    xmlUrl: https://feeds.npr.org/510306/podcast.xml
 
 - name: 'Podcast Recommendations: Inside The Creative Mind'
   opml: earbuds-podcast-recommendations-podcast-recommendations-inside-the-creative-mind.opml
