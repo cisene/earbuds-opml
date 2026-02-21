@@ -6856,9 +6856,25 @@ issues:
 
 - name: Blackberry The Masses
   opml: earbuds-podcast-recommendations-blackberry-the-masses.opml
-  date: 2021-02-07
+  date: 2021-02-05
   htmlUrl: https://newsletter.earbuds.audio/p/blackberry-masses
   podcasts:
+
+  - title: Seizing Freedom
+    htmlUrl: https://seizingfreedom.vpm.org/
+    xmlUrl: https://feeds.megaphone.fm/seizing-freedom
+
+  - title: The Promise
+    htmlUrl: https://thepromise.wpln.org/
+    xmlUrl: https://feeds.feedburner.com/thepromisewpln
+
+  - title: Being Seen
+    htmlUrl: https://www.beingseenpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/beingseen
+
+  - title: Versify
+    htmlUrl: https://versifypodcast.org/
+    xmlUrl: https://feeds.feedburner.com/versify-wpln
 
 - name: The People Behind The Mic
   opml: earbuds-podcast-recommendations-the-people-behind-the-mic.opml
