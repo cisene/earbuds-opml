@@ -6828,29 +6828,31 @@ issues:
     htmlUrl: https://igiveyoupermission.substack.com/podcast
     xmlUrl: https://api.substack.com/feed/podcast/1110617.rss
 
-- name: Emotionally Naked Podcasts
-  opml: earbuds-podcast-recommendations-emotionally-naked-podcasts.opml
-  date: 2021-02-18
-  htmlUrl: https://newsletter.earbuds.audio/p/emotionally-naked-podcasts
-  podcasts:
-
-- name: Emotionally Naked Podcasters
-  opml: earbuds-podcast-recommendations-emotionally-naked-podcasters.opml
-  date: 2021-02-16
-  htmlUrl: https://newsletter.earbuds.audio/p/emotionally-naked-podcasters
-  podcasts:
-
-- name: EarBuds 4th Anniversary Party
-  opml: earbuds-podcast-recommendations-earbuds-4th-anniversary-party.opml
-  date: 2021-02-13
-  htmlUrl: https://newsletter.earbuds.audio/p/earbuds-4th-anniversary-party
-  podcasts:
-
 - name: We're Going Through Changes
   opml: earbuds-podcast-recommendations-were-going-through-changes.opml
-  date: 2021-02-12
+  date: 2021-02-10
   htmlUrl: https://newsletter.earbuds.audio/p/going-changes
   podcasts:
+
+  - title: Change Agent
+    htmlUrl: https://change-agent.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/YOEjHJ71
+
+  - title: How''s Work? with Esther Perel
+    htmlUrl: https://gimletmedia.com/
+    xmlUrl: https://feeds.megaphone.fm/ep-hw
+
+  - title: Only One In The Room
+    htmlUrl: https://www.spreaker.com/show/the-only-one-in-the-room
+    xmlUrl: https://feeds.megaphone.fm/LAV2696308372
+
+  - title: Still Processing
+    htmlUrl: https://www.nytimes.com/podcasts/still-processing
+    xmlUrl: https://feeds.simplecast.com/YXhATe6k
+
+  - title: Radiolab
+    htmlUrl: https://www.radiolab.org/
+    xmlUrl: https://feeds.feedburner.com/radiolab
 
 - name: Blackberry The Masses
   opml: earbuds-podcast-recommendations-blackberry-the-masses.opml
