@@ -6674,9 +6674,29 @@ issues:
 
 - name: 'We Need Diversity: Podcast Recommendations'
   opml: earbuds-podcast-recommendations-we-need-diversity-podcast-recommendations.opml
-  date: 2021-03-28
+  date: 2021-03-29
   htmlUrl: https://newsletter.earbuds.audio/p/need-diversity-podcast-recommendations
   podcasts:
+
+  - title: Gyals On Road
+    htmlUrl: https://anchor.fm/gyalsonroad
+    xmlUrl: https://anchor.fm/s/2c060b40/podcast/rss
+
+  - title: I LIKE NETWORKING
+    htmlUrl: https://ilikenetworking.uk/
+    xmlUrl: https://anchor.fm/s/330a5798/podcast/rss
+
+  - title: Wanna Be
+    htmlUrl: https://contentisqueen.org/podcasts/
+    xmlUrl: https://feeds.acast.com/public/shows/8ae0333f-52ca-5049-8e6f-d590e3845686
+
+  - title: Keeping Track
+    htmlUrl: https://www.keeping-track.com/
+    xmlUrl: https://rss.buzzsprout.com/2513983.rss
+
+  - title: In Good Company
+    htmlUrl: https://womenwho.podbean.com/
+    xmlUrl: https://womenwho.podbean.com/feed.xml
 
 - name: 'Podcast Recommendations: Magical Stories'
   opml: earbuds-podcast-recommendations-podcast-recommendations-magical-stories.opml
