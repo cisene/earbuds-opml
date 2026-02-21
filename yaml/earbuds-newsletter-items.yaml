@@ -6704,6 +6704,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/podcast-recommendations-magical-stories
   podcasts:
 
+  - title: Unsolved Mysteries
+    htmlUrl: https://unsolved.com/
+    xmlUrl: https://feeds.megaphone.fm/unsolved-mysteries
+
+  - title: Higher Learning with Van Lathan and Rachel Lindsay
+    htmlUrl: https://theringer.com/
+    xmlUrl: https://feeds.megaphone.fm/higherlearning
+
+  - title: Add to Cart with Kulap Vilaysack & SuChin Pak
+    htmlUrl: https://art19.com/shows/add-to-cart
+    xmlUrl: https://rss.art19.com/add-to-cart
+
+  - title: S-Town
+    htmlUrl: https://stownpodcast.org/
+    xmlUrl: https://feeds.simplecast.com/CpvnpIaj
+
+  - title: Sustaining Creativity Podcast
+    htmlUrl: https://sustainingcreativity.buzzsprout.com/
+    xmlUrl: https://rss.buzzsprout.com/1028026.rss
+
 - name: 'Podcasts On: The Creative Musical Mind'
   opml: earbuds-podcast-recommendations-podcasts-on-the-creative-musical-mind.opml
   date: 2021-03-14

@@ -263,6 +263,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [The Millennial Spiral](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-the-millennial-spiral.opml) | 2021-04-08 |
 | [Hidden Forces](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-hidden-forces.opml) | 2021-04-05 |
 | [We Need Diversity: Podcast Recommendations](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-we-need-diversity-podcast-recommendations.opml) | 2021-03-29 |
+| [Podcast Recommendations: Magical Stories](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-podcast-recommendations-magical-stories.opml) | 2021-03-22 |
 
 
 
