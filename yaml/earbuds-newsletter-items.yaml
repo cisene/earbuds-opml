@@ -6808,6 +6808,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/emotionally-naked-strangers
   podcasts:
 
+  - title: Worthy Woman Podcast
+    htmlUrl: http://worthywoman.libsyn.com/
+    xmlUrl: https://rss.libsyn.com/shows/297500/destinations/2348852.xml
+
+  - title: Grief Recovery Now with Charlene Gorzela
+    htmlUrl: https://shows.acast.com/grief-recovery-now-with-charlene-gorzela
+    xmlUrl: https://feeds.acast.com/public/shows/5e8b1a463ee51a0462e7a02a
+
+  - title: Shaping the Shift Podcast
+    htmlUrl: https://shapingtheshift.libsyn.com/website
+    xmlUrl: https://feeds.libsyn.com/265769/rss
+
+  - title: 'From Sobriety To Recovery: An Addiction Recovery Podcast'
+    htmlUrl: https://fromsobrietytorecovery.podbean.com/
+    xmlUrl: https://fromsobrietytorecovery.podbean.com/feed.xml
+
+  - title: You Should Write A Book About That™
+    htmlUrl: https://igiveyoupermission.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/1110617.rss
+
 - name: Emotionally Naked Podcasts
   opml: earbuds-podcast-recommendations-emotionally-naked-podcasts.opml
   date: 2021-02-18
