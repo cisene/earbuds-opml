@@ -6934,6 +6934,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/women-runners
   podcasts:
 
+  - title: Keeping Track
+    htmlUrl: https://www.keeping-track.com/
+    xmlUrl: https://rss.buzzsprout.com/2513983.rss
+
+  - title: Ultrarunnerpodcast.com
+    htmlUrl: https://ultrarunnerpodcast.com/
+    xmlUrl: https://ultrarunnerpodcast.com/feed/podcast
+
+  - title: More Than Running with Dana Giordano
+    htmlUrl: https://podcasters.spotify.com/pod/show/more-than-running-podcast
+    xmlUrl: https://anchor.fm/s/1e338524/podcast/rss
+
+  - title: Women''s Running Stories
+    htmlUrl: https://womensrunningstories.com/
+    xmlUrl: https://feeds.megaphone.fm/womensrunningstories
+
+  - title: Tough Girl Podcast
+    htmlUrl: https://www.toughgirlchallenges.com/
+    xmlUrl: https://toughgirlchallenges.libsyn.com/rss
+
 - name: Social Justice
   opml: earbuds-podcast-recommendations-social-justice.opml
   date: 2021-01-17
