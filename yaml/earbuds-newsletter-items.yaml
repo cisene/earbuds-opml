@@ -6956,9 +6956,29 @@ issues:
 
 - name: Social Justice
   opml: earbuds-podcast-recommendations-social-justice.opml
-  date: 2021-01-17
+  date: 2021-01-14
   htmlUrl: https://newsletter.earbuds.audio/p/social-justice
   podcasts:
+
+  - title: Our Small Majority
+    htmlUrl: https://oursmallmajority.com/
+    xmlUrl: https://anchor.fm/s/1f718558/podcast/rss
+
+  - title: Ear Hustle
+    htmlUrl: https://www.earhustlesq.com/
+    xmlUrl: https://feeds.earhustlesq.com/earhustlesq
+
+  - title: Social Justice Matters
+    htmlUrl: https://socialjusticeireland.podbean.com/
+    xmlUrl: https://feedcdn.podbean.com/SocialJusticeIreland/feed.xml
+
+  - title: Pod Save the People
+    htmlUrl: https://audioboom.com/channels/5166625
+    xmlUrl: https://audioboom.com/channels/5166625.rss
+
+  - title: Bound For Justice
+    htmlUrl: https://boundforjustice.com/
+    xmlUrl: https://feeds.simplecast.com/SIC9wbWX
 
 - name: Great British Podcasts
   opml: earbuds-podcast-recommendations-great-british-podcasts.opml
