@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: Podcasts Examining Japanese American Incarceration During World War II
+  opml: earbuds-podcast-recommendations-podcasts-examining-japanese-american-incarceration-during-world-war-ii.opml
+  date: 2026-02-23
+  htmlUrl: https://newsletter.earbuds.audio/p/podcasts-japanese-american-incarceration-world-war-2
+  podcasts:
+
+  - title: History for the Reckoning
+    htmlUrl: https://www.historyforthereckoning.com/
+    xmlUrl: https://rss.buzzsprout.com/2531545.rss
+
+  - title: 'Rachel Maddow Presents: Burn Order'
+    htmlUrl: https://www.ms.now/
+    xmlUrl: https://feeds.simplecast.com/EMLnZ_Br
+
+  - title: Campu
+    htmlUrl: https://densho.org/campu
+    xmlUrl: https://www.spreaker.com/show/4665496/episodes/feed
+
+  - title: 'Look Toward the Mountain: Stories from Heart Mountain Incarceration Camp'
+    htmlUrl: https://podcasters.spotify.com/pod/show/heart-mountain
+    xmlUrl: https://anchor.fm/s/3841a068/podcast/rss
+
+  - title: Scapegoat Cities
+    htmlUrl: https://scapegoatcities.org/
+    xmlUrl: https://kelsea-bauer-khbx.squarespace.com/blog?format=rss
+
 - name: 'BHM 2026: Showcasing Black Voices in Podcasting'
   opml: earbuds-podcast-recommendations-bhm-2026-showcasing-black-voices-in-podcasting.opml
   date: 2026-02-16
