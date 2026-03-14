@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: 'Myth-Free History: 5 Podcast Recommendations'
+  opml: earbuds-podcast-recommendations-myth-free-history-5-podcast-recommendations.opml
+  date: 2026-03-08
+  htmlUrl: https://newsletter.earbuds.audio/p/myth-free-history-5-podcast-recommendations
+  podcasts:
+
+  - title: This Guy Sucked
+    htmlUrl: https://art19.com/shows/this-guy-sucked
+    xmlUrl: https://rss.art19.com/this-guy-sucked
+
+  - title: Lions Led By Donkeys Podcast
+    htmlUrl: https://www.patreon.com/lionsledbydonkeys
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:457245963/sounds.rss
+
+  - title: Revolutions
+    htmlUrl: https://www.revolutionspodcast.com/
+    xmlUrl: https://revolutionspodcast.libsyn.com/rss
+
+  - title: The History of Rome
+    htmlUrl: https://thehistoryofrome.typepad.com/the_history_of_rome/
+    xmlUrl: https://historyofrome.libsyn.com/rss
+
+  - title: Past Lives
+    htmlUrl: https://www.patreon.com/collection/1792041
+    xmlUrl: https://www.patreon.com/public-rss/2554997?show=1792041
+
 - name: 5 Podcast Recommendations on Mentorship in Arts and Culture
   opml: earbuds-podcast-recommendations-5-podcast-recommendations-on-mentorship-in-arts-and-culture.opml
   date: 2026-03-01

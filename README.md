@@ -17,6 +17,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 
 | Weekly issus of the Earbuds Podcast Collective Newletters                           | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [Myth-Free History: 5 Podcast Recommendations](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-myth-free-history-5-podcast-recommendations.opml) | 2026-03-08 |
 | [5 Podcast Recommendations on Mentorship in Arts and Culture](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-podcast-recommendations-on-mentorship-in-arts-and-culture.opml) | 2026-03-01 |
 | [Podcasts Examining Japanese American Incarceration During World War II](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-podcasts-examining-japanese-american-incarceration-during-world-war-ii.opml) | 2026-02-23 |
 | [BHM 2026: Showcasing Black Voices in Podcasting](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-bhm-2026-showcasing-black-voices-in-podcasting.opml) | 2026-02-16 |
