@@ -7034,9 +7034,29 @@ issues:
 
 - name: Great British Podcasts
   opml: earbuds-podcast-recommendations-great-british-podcasts.opml
-  date: 2021-01-11
+  date: 2021-01-06
   htmlUrl: https://newsletter.earbuds.audio/p/great-british-podcasts
   podcasts:
+
+  - title: Bad Hotel
+    htmlUrl: http://thebadhotel.com/
+    xmlUrl: https://thebadhotel.libsyn.com/rss
+
+  - title: Dilemmas with Jess Ellis
+    htmlUrl: https://www.soundrebel.co.uk/
+    xmlUrl: https://audioboom.com/channels/4983656.rss
+
+  - title: Evil Genius with Russell Kane
+    htmlUrl: https://www.bbc.co.uk/programmes/p0605sx6
+    xmlUrl: https://podcasts.files.bbci.co.uk/p0605sx6.rss
+
+  - title: Don''t Alert The Stans
+    htmlUrl: https://soundcloud.com/datspod
+    xmlUrl: https://anchor.fm/s/6cc148c/podcast/rss
+
+  - title: American Idiots Abroad
+    htmlUrl: http://www.americanidiotsabroad.libsyn.com/website
+    xmlUrl: https://americanidiotsabroad.libsyn.com/rss
 
 - name: Under-The-Radar Award Winners
   opml: earbuds-podcast-recommendations-under-the-radar-award-winners.opml
