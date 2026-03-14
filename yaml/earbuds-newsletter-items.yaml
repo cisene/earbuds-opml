@@ -7064,6 +7064,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/undertheradar-award-winners
   podcasts:
 
+  - title: Ologies with Alie Ward
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/FO6kxYGj
+
+  - title: The Amelia Project
+    htmlUrl: https://ameliapodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/amelia
+
+  - title: Punch Up The Jam
+    htmlUrl: https://headgum.com/punch-up-the-jam
+    xmlUrl: https://feeds.megaphone.fm/GBLL9984861462
+
+  - title: Spectacular Failures
+    htmlUrl: https://www.spectacularfailures.org/
+    xmlUrl: https://feeds.publicradio.org/public_feeds/spectacular-failures
+
+  - title: And That''s Why We Drink
+    htmlUrl: https://www.andthatswhywedrink.com/
+    xmlUrl: https://feeds.megaphone.fm/QCD7868197207
+
 - name: Stories from Oregon
   opml: earbuds-podcast-recommendations-stories-from-oregon.opml
   date: 2020-12-27
