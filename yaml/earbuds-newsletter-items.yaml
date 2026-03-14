@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: 5 Podcast Recommendations on Mentorship in Arts and Culture
+  opml: earbuds-podcast-recommendations-5-podcast-recommendations-on-mentorship-in-arts-and-culture.opml
+  date: 2026-03-01
+  htmlUrl: https://newsletter.earbuds.audio/p/5-podcasts-about-creative-mentorship-2026
+  podcasts:
+
+  - title: You Must Remember This
+    htmlUrl: https://youmustrememberthispodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/YMRT7068253588
+
+  - title: The Secret World of Roald Dahl
+    htmlUrl: https://www.listentoparallax.com/shows/secretworldofpodcast
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/56c1736b-308b-48e9-803a-b3cb0112d291/48090b89-a05d-49e6-9a6c-b3cb0112d6d4/podcast.rss
+
+  - title: Dolly Parton''s America
+    htmlUrl: https://www.wnycstudios.org/podcasts/dolly-partons-america
+    xmlUrl: https://feeds.feedburner.com/dolly-partons-america
+
+  - title: Revisionist History
+    htmlUrl: https://revisionisthistory.com/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/0d4cc74d-fff7-4b89-8818-ae32006cd7f0/podcast.rss
+
+  - title: Worklife with Adam Grant
+    htmlUrl: https://www.ted.com/podcasts/worklife
+    xmlUrl: https://feeds.feedburner.com/WorklifeWithAdamGrant
+
 - name: Podcasts Examining Japanese American Incarceration During World War II
   opml: earbuds-podcast-recommendations-podcasts-examining-japanese-american-incarceration-during-world-war-ii.opml
   date: 2026-02-23
