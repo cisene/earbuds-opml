@@ -6,10 +6,32 @@ global:
 
 issues:
 
+- name: 5 History Podcasts That'll Make You Laugh 🤭
+  opml: earbuds-podcast-recommendations-5-history-podcasts-thatll-make-you-laugh.opml
+  date: 2026-04-06
+  htmlUrl: https://newsletter.earbuds.audio/p/5-history-podcasts-that-make-you-laugh
+  podcasts:
+
+  - title: People of Agency
+    htmlUrl: https://peopleofagency.podbean.com/
+    xmlUrl: https://feed.podbean.com/peopleofagency/feed.xml
+
+  - title: Well, I Laughed
+    htmlUrl: https://bleav.com/shows/well-i-laughed/
+    xmlUrl: https://feeds.simplecast.com/gVKRwKM9
+
+  - title: What''sHerName
+    htmlUrl: https://www.whatshernamepodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/NSR7999761010
+
+  - title: 'The Constant: A History of Getting Things Wrong'
+    htmlUrl: https://www.constantpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/ADV8582947768
+
 - name: Going Somewhere? 5 Podcasts on UNESCO World Heritage Sites for Your Next Adventure 🌍
   opml: earbuds-podcast-recommendations-going-somewhere-5-podcasts-on-unesco-world-heritage-sites-for-your-next-adventure.opml
   date: 2026-03-30
-  htmlUrl: https://newsletter.earbuds.audio/p/podcasts-on-unesco-world-heritage-sites?utm_source=newsletter.earbuds.audio&utm_medium=newsletter&utm_campaign=going-somewhere-5-podcasts-on-unesco-world-heritage-sites-for-your-next-adventure
+  htmlUrl: https://newsletter.earbuds.audio/p/podcasts-on-unesco-world-heritage-sites
   podcasts:
 
   - title: Global Treasures
@@ -35,7 +57,7 @@ issues:
 - name: Podcasts about what happens when love stops working
   opml: earbuds-podcast-recommendations-podcasts-about-what-happens-when-love-stops-working.opml
   date: 2026-03-22
-  htmlUrl: https://newsletter.earbuds.audio/p/podcasts-about-love-romance-relationships-ending-grief?utm_source=newsletter.earbuds.audio&utm_medium=newsletter&utm_campaign=podcasts-about-what-happens-when-love-stops-working
+  htmlUrl: https://newsletter.earbuds.audio/p/podcasts-about-love-romance-relationships-ending-grief
   podcasts:
 
   - title: 'Lust to Dust: My Horny Dead Dad'
@@ -61,7 +83,7 @@ issues:
 - name: 'Wild On-The-Job Stories: 5 Podcast Episodes About Dangerous & Unbelievable Jobs'
   opml: earbuds-podcast-recommendations-wild-on-the-job-stories-5-podcast-episodes-about-dangerous-and-unbelievable-jobs.opml
   date: 2026-03-16
-  htmlUrl: https://newsletter.earbuds.audio/p/5-podcasts-unbelievable-on-the-job-stories?utm_source=newsletter.earbuds.audio&utm_medium=newsletter&utm_campaign=wild-on-the-job-stories-5-podcast-episodes-about-dangerous-unbelievable-jobs
+  htmlUrl: https://newsletter.earbuds.audio/p/5-podcasts-unbelievable-on-the-job-stories
   podcasts:
 
   - title: Ologies with Alie Ward
@@ -441,7 +463,7 @@ issues:
     xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/eba15fe4-c3fd-4e63-a8f9-b2dc01092685/a324c6a1-2e41-486b-b538-b2dc010926c5/podcast.rss
 
   - title: 'Lost Notes: Groupies'
-    htmlUrl: https://www.kcrw.com/culture/shows/lost-notes?utm_source=KCRW&utm_medium=RSS&utm_campaign=kcrw-show-rss
+    htmlUrl: https://www.kcrw.com/culture/shows/lost-notes
     xmlUrl: https://feed.cdnstream1.com/zjb/feed/download/2a/54/3c/2a543c76-a959-494d-bbb8-8981aea5909d.xml
 
   - title: Alt.Latino
@@ -2079,7 +2101,7 @@ issues:
     xmlUrl: https://podcasts.files.bbci.co.uk/p0fhzh45.rss
 
   - title: 'Canary: The Washington Post Investigates'
-    htmlUrl: https://www.washingtonpost.com/graphics/podcasts/canary/?utm_source=podcasts&utm_medium=referral&utm_campaign=canary
+    htmlUrl: https://www.washingtonpost.com/graphics/podcasts/canary/
     xmlUrl: https://podcast.posttv.com/itunes/canary.xml
 
   - title: Sweet Bobby
@@ -2365,7 +2387,7 @@ issues:
     xmlUrl: https://feeds.megaphone.fm/VMP9331026707
 
   - title: Moonrise
-    htmlUrl: https://www.washingtonpost.com/moonrise?utm_source=podcasts&utm_medium=referral&utm_campaign=moonrise
+    htmlUrl: https://www.washingtonpost.com/moonrise
     xmlUrl: https://podcast.posttv.com/itunes/moonrise.xml
 
   - title: The Last Archive
@@ -3851,7 +3873,7 @@ issues:
     xmlUrl: https://feeds.publicradio.org/public_feeds/this-is-uncomfortable
 
   - title: Bodies
-    htmlUrl: https://www.kcrw.com/culture/shows/bodies?utm_source=KCRW&utm_medium=RSS&utm_campaign=kcrw-show-rss
+    htmlUrl: https://www.kcrw.com/culture/shows/bodies
     xmlUrl: https://feed.cdnstream1.com/zjb/feed/download/13/11/5b/13115b0f-63fb-44f7-9289-9dfde6512840.xml
 
 - name: 'Podcasts On: Sex, Death, & Spirituality'
@@ -6513,7 +6535,7 @@ issues:
     xmlUrl: https://rss.buzzsprout.com/1112270.rss
 
   - title: Lost Notes
-    htmlUrl: https://www.kcrw.com/culture/shows/lost-notes?utm_source=KCRW&utm_medium=RSS&utm_campaign=kcrw-show-rss
+    htmlUrl: https://www.kcrw.com/culture/shows/lost-notes
     xmlUrl: https://feed.cdnstream1.com/zjb/feed/download/2a/54/3c/2a543c76-a959-494d-bbb8-8981aea5909d.xml
 
 - name: Human Connection
