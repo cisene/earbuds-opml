@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: Podcasts about what happens when love stops working
+  opml: earbuds-podcast-recommendations-podcasts-about-what-happens-when-love-stops-working.opml
+  date: 2026-03-22
+  htmlUrl: https://newsletter.earbuds.audio/p/podcasts-about-love-romance-relationships-ending-grief?utm_source=newsletter.earbuds.audio&utm_medium=newsletter&utm_campaign=podcasts-about-what-happens-when-love-stops-working
+  podcasts:
+
+  - title: 'Lust to Dust: My Horny Dead Dad'
+    htmlUrl: https://lusttodustpod.com/links
+    xmlUrl: https://anchor.fm/s/10d818a7c/podcast/rss
+
+  - title: Savage Lovecast
+    htmlUrl: https://www.savagelovecast.com/
+    xmlUrl: https://feeds.megaphone.fm/SLT6250292033
+
+  - title: Modern Love
+    htmlUrl: https://www.nytimes.com/column/modern-love-podcast
+    xmlUrl: https://feeds.simplecast.com/0N8Hs1MH
+
+  - title: Guys We F****d
+    htmlUrl: https://luminarypodcasts.com/listen/corinne-fisher-and-krystyna-hutchinson/guys-we-f-d/61ef47bf-07ce-4c3e-b175-e846e8f5707f
+    xmlUrl: https://rss.pdrl.fm/5ee0be/feeds.acast.com/public/shows/67894eae7095d15b31e3f226
+
+  - title: Death, Sex & Money
+    htmlUrl: https://slate.com/podcasts/death-sex-money
+    xmlUrl: https://my.slate.com/podcasts/feeds/death-sex-money/
+
 - name: 'Wild On-The-Job Stories: 5 Podcast Episodes About Dangerous & Unbelievable Jobs'
   opml: earbuds-podcast-recommendations-wild-on-the-job-stories-5-podcast-episodes-about-dangerous-and-unbelievable-jobs.opml
   date: 2026-03-16
