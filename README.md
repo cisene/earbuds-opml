@@ -17,6 +17,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 
 | Weekly issus of the Earbuds Podcast Collective Newletters                           | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [Going Somewhere? 5 Podcasts on UNESCO World Heritage Sites for Your Next Adventure 🌍](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-going-somewhere-5-podcasts-on-unesco-world-heritage-sites-for-your-next-adventure.opml) | 2026-03-30 |
 | [Podcasts about what happens when love stops working](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-podcasts-about-what-happens-when-love-stops-working.opml) | 2026-03-22 |
 | [Wild On-The-Job Stories: 5 Podcast Episodes About Dangerous & Unbelievable Jobs](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-wild-on-the-job-stories-5-podcast-episodes-about-dangerous-and-unbelievable-jobs.opml) | 2026-03-16 |
 | [Myth-Free History: 5 Podcast Recommendations](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-myth-free-history-5-podcast-recommendations.opml) | 2026-03-08 |

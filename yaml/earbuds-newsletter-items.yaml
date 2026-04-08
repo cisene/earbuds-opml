@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: Going Somewhere? 5 Podcasts on UNESCO World Heritage Sites for Your Next Adventure 🌍
+  opml: earbuds-podcast-recommendations-going-somewhere-5-podcasts-on-unesco-world-heritage-sites-for-your-next-adventure.opml
+  date: 2026-03-30
+  htmlUrl: https://newsletter.earbuds.audio/p/podcasts-on-unesco-world-heritage-sites?utm_source=newsletter.earbuds.audio&utm_medium=newsletter&utm_campaign=going-somewhere-5-podcasts-on-unesco-world-heritage-sites-for-your-next-adventure
+  podcasts:
+
+  - title: Global Treasures
+    htmlUrl: https://globaltreasures.podbean.com/
+    xmlUrl: https://feed.podbean.com/globaltreasures/feed.xml
+
+  - title: CNN 10
+    htmlUrl: https://www.cnn.com/audio/podcasts/cnn-10
+    xmlUrl: https://feeds.megaphone.fm/WMHY2232473209
+
+  - title: Travel with Amateur Traveler Podcast
+    htmlUrl: https://amateurtraveler.com/
+    xmlUrl: https://feeds.megaphone.fm/GLSS1857986358
+
+  - title: Talk Travel Asia
+    htmlUrl: https://soundcloud.com/talktravelasia
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:76158739/sounds.rss
+
+  - title: The Wondrous World
+    htmlUrl: https://rss.com/podcasts/thewondrousworld
+    xmlUrl: https://media.rss.com/thewondrousworld/feed.xml
+
 - name: Podcasts about what happens when love stops working
   opml: earbuds-podcast-recommendations-podcasts-about-what-happens-when-love-stops-working.opml
   date: 2026-03-22
