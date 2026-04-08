@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: 'Wild On-The-Job Stories: 5 Podcast Episodes About Dangerous & Unbelievable Jobs'
+  opml: earbuds-podcast-recommendations-wild-on-the-job-stories-5-podcast-episodes-about-dangerous-and-unbelievable-jobs.opml
+  date: 2026-03-16
+  htmlUrl: https://newsletter.earbuds.audio/p/5-podcasts-unbelievable-on-the-job-stories?utm_source=newsletter.earbuds.audio&utm_medium=newsletter&utm_campaign=wild-on-the-job-stories-5-podcast-episodes-about-dangerous-unbelievable-jobs
+  podcasts:
+
+  - title: Ologies with Alie Ward
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/FO6kxYGj
+
+  - title: No Ordinary Monday
+    htmlUrl: https://noordinarymonday.com/
+    xmlUrl: https://rss.buzzsprout.com/2517669.rss
+
+  - title: Pipeline
+    htmlUrl: https://shows.acast.com/mailinvestigates
+    xmlUrl: https://feeds.acast.com/public/shows/68543ced412e0f0fbf520462
+
+  - title: Snap Judgment
+    htmlUrl: https://snapjudgment.org/
+    xmlUrl: https://snap.feed.snapjudgment.org/
+
+  - title: Radiolab
+    htmlUrl: https://www.radiolab.org/
+    xmlUrl: https://feeds.feedburner.com/radiolab
+
 - name: 'Myth-Free History: 5 Podcast Recommendations'
   opml: earbuds-podcast-recommendations-myth-free-history-5-podcast-recommendations.opml
   date: 2026-03-08
