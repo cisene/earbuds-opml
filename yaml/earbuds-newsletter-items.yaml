@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: 'Big Names, Bigger Stories: Podcasts About Icons'
+  opml: earbuds-podcast-recommendations-big-names-bigger-stories-podcasts-about-icons.opml
+  date: 2026-04-13
+  htmlUrl: https://newsletter.earbuds.audio/p/big-names-bigger-stories-podcasts-about-icons
+  podcasts: 
+
+  - title: Big Lives
+    htmlUrl: https://www.pushkin.fm/podcasts
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/ae2faf08-9a91-4ec2-a43b-b3f001078f91/3006fbbd-79a1-47b7-87eb-b3f0010793c1/podcast.rss
+
+  - title: Radiolab
+    htmlUrl: https://www.radiolab.org/
+    xmlUrl: https://feeds.feedburner.com/radiolab
+
+  - title: Song Exploder
+    htmlUrl: https://www.songexploder.net/
+    xmlUrl: https://feed.songexploder.net/SongExploder
+
+  - title: Making
+    htmlUrl: https://www.wbez.org/shows/making/71b8de57-b2be-4e03-8481-683258de3ec1
+    xmlUrl: https://wbez-rss.streamguys1.com/making/making.xml
+
+  - title: Death, Sex & Money
+    htmlUrl: https://slate.com/podcasts/death-sex-money
+    xmlUrl: https://my.slate.com/podcasts/feeds/death-sex-money/
+
 - name: 5 History Podcasts That'll Make You Laugh 🤭
   opml: earbuds-podcast-recommendations-5-history-podcasts-thatll-make-you-laugh.opml
   date: 2026-04-06

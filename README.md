@@ -17,6 +17,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 
 | Weekly issus of the Earbuds Podcast Collective Newletters                           | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [Big Names, Bigger Stories: Podcasts About Icons](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-big-names-bigger-stories-podcasts-about-icons.opml) | 2026-04-13 |
 | [5 History Podcasts That'll Make You Laugh 🤭](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-history-podcasts-thatll-make-you-laugh.opml) | 2026-04-06 |
 | [Going Somewhere? 5 Podcasts on UNESCO World Heritage Sites for Your Next Adventure 🌍](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-going-somewhere-5-podcasts-on-unesco-world-heritage-sites-for-your-next-adventure.opml) | 2026-03-30 |
 | [Podcasts about what happens when love stops working](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-podcasts-about-what-happens-when-love-stops-working.opml) | 2026-03-22 |
