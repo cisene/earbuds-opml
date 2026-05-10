@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: Podcasts for Earth Day 2026🎋
+  opml: earbuds-podcast-recommendations-podcasts-for-earth-day-2026.opml
+  date: 2026-04-19
+  htmlUrl: https://newsletter.earbuds.audio/p/sustainability-initiatives-podcasts-for-earth-day-2026
+  podcasts:
+
+  - title: 'Building Bold: Blueprint For a Better Massachusetts'
+    htmlUrl: https://www.salemstate.edu/news/podcast-building-bold-blueprint-better-massachusetts
+    xmlUrl: https://www.youtube.com/playlist?list=PLQxGuebEB7jHohUfzjgpw1xHQr2Jzta_H
+
+  - title: The Climate Conversation
+    htmlUrl: https://communications7f.podbean.com/
+    xmlUrl: https://feed.podbean.com/communications7f/feed.xml
+
+  - title: People Places Planet
+    htmlUrl: https://www.eli.org/podcasts
+    xmlUrl: https://feeds.transistor.fm/people-places-planet-podcast
+
+  - title: Climate Rising
+    htmlUrl: https://www.hbs.edu/environment/podcast/Pages/default.aspx
+    xmlUrl: https://feeds.megaphone.fm/TPG7476737324
+
+  - title: Boiling Point
+    htmlUrl: https://boiling-point.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/tIb8uziO
+
 - name: 'Big Names, Bigger Stories: Podcasts About Icons'
   opml: earbuds-podcast-recommendations-big-names-bigger-stories-podcasts-about-icons.opml
   date: 2026-04-13
