@@ -7294,15 +7294,29 @@ issues:
 
 - name: Stories from Oregon
   opml: earbuds-podcast-recommendations-stories-from-oregon.opml
-  date: 2020-12-27
+  date: 2020-12-28
   htmlUrl: https://newsletter.earbuds.audio/p/stories-oregon
   podcasts:
 
-- name: Oregon Stories
-  opml: earbuds-podcast-recommendations-oregon-stories.opml
-  date: 2020-12-23
-  htmlUrl: https://newsletter.earbuds.audio/p/oregon-stories
-  podcasts:
+  - title: Timber Wars
+    htmlUrl: https://www.spreaker.com/podcast/timber-wars--4253584
+    xmlUrl: https://www.spreaker.com/show/4253584/episodes/feed
+
+  - title: The Racist Sandwich Podcast
+    htmlUrl: https://www.racistsandwich.com/episodes/
+    xmlUrl: https://racistsandwich.libsyn.com/rss
+
+  - title: It Did Happen Here
+    htmlUrl: https://itdidhappenherepodcast.wordpress.com/
+    xmlUrl: https://itdidhappenherepodcast.wordpress.com/category/podcasts/feed/
+
+  - title: 'Bundyville: The Remnant'
+    htmlUrl: https://www.opb.org/news/article/bundyville-occupation-podcast/
+    xmlUrl: https://www.spreaker.com/show/2909285/episodes/feed
+
+  - title: People of the Valley
+    htmlUrl: https://peopleofthevalley.libsyn.com/
+    xmlUrl: https://peopleofthevalley.libsyn.com/rss
 
 - name: Making Local News Better
   opml: earbuds-podcast-recommendations-making-local-news-better.opml
