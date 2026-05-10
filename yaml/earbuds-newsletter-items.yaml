@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: 5 Science Podcasts That Simplify the Big Stuff
+  opml: earbuds-podcast-recommendations-5-science-podcasts-that-simplify-the-big-stuff.opml
+  date: 2026-04-27
+  htmlUrl: https://newsletter.earbuds.audio/p/5-science-podcasts-that-simplify-complex-topics
+  podcasts:
+
+  - title: Tiny Matters
+    htmlUrl: https://art19.com/shows/tiny-matters
+    xmlUrl: https://rss.art19.com/tiny-matters
+
+  - title: Outside/In
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.megaphone.fm/TPG9719828981
+
+  - title: 'Normal Curves: Sexy Science, Serious Statistics'
+    htmlUrl: https://www.normalcurves.com/
+    xmlUrl: https://feeds.transistor.fm/normal-curves
+
+  - title: Future Ecologies
+    htmlUrl: https://www.futureecologies.net/
+    xmlUrl: https://feeds.captivate.fm/future-ecologies/
+
+  - title: Pale Blue Pod
+    htmlUrl: https://art19.com/shows/pale-blue-pod
+    xmlUrl: https://rss.art19.com/pale-blue-pod
+
 - name: Podcasts for Earth Day 2026🎋
   opml: earbuds-podcast-recommendations-podcasts-for-earth-day-2026.opml
   date: 2026-04-19
