@@ -7324,6 +7324,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/making-local-news-better
   podcasts:
 
+  - title: Democracy Works
+    htmlUrl: https://www.democracyworkspodcast.com/
+    xmlUrl: https://feeds.simplecast.com/r16ncsFm
+
+  - title: The Digiday Podcast
+    htmlUrl: https://www.digiday.com/
+    xmlUrl: https://feeds.megaphone.fm/DIGI5806832566
+
+  - title: The PRovoke Media Podcast
+    htmlUrl: https://provoke.podbean.com/
+    xmlUrl: https://feed.podbean.com/provoke/feed.xml
+
+  - title: The Journalism Salute
+    htmlUrl: https://redcircle.com/shows/the-journalism-salute
+    xmlUrl: https://feeds.redcircle.com/3321739a-247a-4730-a995-15faa82f68d4
+
+  - title: 'Out of the Echo Chamber: Conversations on Trust, Media and Democracy'
+    htmlUrl: https://www.spreaker.com/show/out-of-the-echo-chamber-rebuilding-trust-in-news
+    xmlUrl: https://www.spreaker.com/show/3501696/episodes/feed
+
 - name: We Contain Multitudes
   opml: earbuds-podcast-recommendations-we-contain-multitudes.opml
   date: 2020-12-13

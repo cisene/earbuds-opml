@@ -287,6 +287,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [Great British Podcasts](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-great-british-podcasts.opml) | 2021-01-06 |
 | [Under-The-Radar Award Winners](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-under-the-radar-award-winners.opml) | 2021-01-03 |
 | [Stories from Oregon](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-stories-from-oregon.opml) | 2020-12-28 |
+| [Making Local News Better](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-making-local-news-better.opml) | 2020-12-21 |
 
 
 
