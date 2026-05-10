@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: Podcast on Grief & Loss
+  opml: earbuds-podcast-recommendations-podcast-on-grief-and-loss-2026.opml
+  date: 2026-05-04
+  htmlUrl: https://newsletter.earbuds.audio/p/5-podcast-episodes-on-grief-and-loss-2026
+  podcasts:
+
+  - title: Dead Dads
+    htmlUrl: https://www.deaddadspodcast.com/
+    xmlUrl: https://feeds.cohostpodcasting.com/AXlzBabt
+
+  - title: All There Is with Anderson Cooper
+    htmlUrl: https://www.cnn.com/audio/podcasts/all-there-is-with-anderson-cooper
+    xmlUrl: https://feeds.megaphone.fm/WMHY6497875466
+
+  - title: Thanks For Asking
+    htmlUrl: https://feelingsand.co/podcasts/thanks-for-asking/
+    xmlUrl: https://rss.pdrl.fm/fa31ed/feeds.megaphone.fm/IMP8080110213
+
+  - title: Griefcast
+    htmlUrl: https://twitter.com/thegriefcast
+    xmlUrl: https://feeds.acast.com/public/shows/6b139f7b-0974-4b07-99fa-945390989fd8
+
+  - title: Everything Happens with Kate Bowler
+    htmlUrl: https://katebowler.com/everything-happens/
+    xmlUrl: https://feeds.megaphone.fm/LEME6986128900
+
 - name: 5 Science Podcasts That Simplify the Big Stuff
   opml: earbuds-podcast-recommendations-5-science-podcasts-that-simplify-the-big-stuff.opml
   date: 2026-04-27

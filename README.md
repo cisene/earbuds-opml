@@ -17,6 +17,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 
 | Weekly issus of the Earbuds Podcast Collective Newletters                           | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [Podcast on Grief & Loss](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-podcast-on-grief-and-loss-2026.opml) | 2026-05-04 |
 | [5 Science Podcasts That Simplify the Big Stuff](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-science-podcasts-that-simplify-the-big-stuff.opml) | 2026-04-27 |
 | [Podcasts for Earth Day 2026🎋](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-podcasts-for-earth-day-2026.opml) | 2026-04-19 |
 | [Big Names, Bigger Stories: Podcasts About Icons](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-big-names-bigger-stories-podcasts-about-icons.opml) | 2026-04-13 |
