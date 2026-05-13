@@ -7376,6 +7376,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/surreal-wrapup
   podcasts:
 
+  - title: 'One Strange Thing: True Paranormal Mysteries'
+    htmlUrl: https://art19.com/shows/one-strange-thing
+    xmlUrl: https://feeds.simplecast.com/i0I58_OH
+
+  - title: The Hidden Djinn
+    htmlUrl: https://www.iheart.com/podcast/1119-the-hidden-djinn-70559822/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2c414a56-c8d1-439a-9f1e-ae320005b757/ceff3b55-6622-4ec3-bde9-ae320005b765/podcast.rss
+
+  - title: The Conspirators Podcast
+    htmlUrl: https://audioboom.com/channel/theconspiratorspodcast
+    xmlUrl: https://feeds.megaphone.fm/ARML7840024233
+
+  - title: Pleasing Terrors
+    htmlUrl: https://pleasingterrors.libsyn.com/podcast
+    xmlUrl: https://pleasingterrors.libsyn.com/rss
+
+  - title: 'Snap Judgment Presents: Spooked'
+    htmlUrl: https://soundcloud.com/snapjudgment/sets/spooked
+    xmlUrl: https://feeds.soundcloud.com/playlists/soundcloud:sets:891247/sounds.rss
+
 - name: Retro Pop Culture
   opml: earbuds-podcast-recommendations-retro-pop-culture.opml
   date: 2020-11-29

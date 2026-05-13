@@ -289,6 +289,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [Stories from Oregon](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-stories-from-oregon.opml) | 2020-12-28 |
 | [Making Local News Better](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-making-local-news-better.opml) | 2020-12-21 |
 | [We Contain Multitudes](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-we-contain-multitudes.opml) | 2020-12-13 |
+| [A Surreal Wrap-Up](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-a-surreal-wrap-up.opml) | 2020-12-07 |
 
 
 
