@@ -7398,9 +7398,29 @@ issues:
 
 - name: Retro Pop Culture
   opml: earbuds-podcast-recommendations-retro-pop-culture.opml
-  date: 2020-11-29
+  date: 2020-11-30
   htmlUrl: https://newsletter.earbuds.audio/p/retro-pop-culture
   podcasts:
+
+  - title: The Retro Network Presents
+    htmlUrl: https://theretronetwork.com/podcasts
+    xmlUrl: https://feeds.transistor.fm/the-retro-network-presents
+
+  - title: Cult Film Club Podcast
+    htmlUrl: http://www.cultfilmclub.com/
+    xmlUrl: https://rss.libsyn.com/shows/40424/destinations/119578.xml
+
+  - title: 'The eclectik discussion podcast (#EDP)'
+    htmlUrl: https://soundcloud.com/eclectik-931707759
+    xmlUrl: https://feeds.feedburner.com/podcastEDP
+
+  - title: Retro Late Fee
+    htmlUrl: https://retrolatefee.com/
+    xmlUrl: https://feeds.transistor.fm/retro-late-fee
+
+  - title: WIZARDS The Podcast Guide To Comics
+    htmlUrl: https://theretronetwork.com/podcasts/
+    xmlUrl: https://feeds.transistor.fm/wizards-the-podcast-guide-to-comics
 
 - name: Strange Folk From History
   opml: earbuds-podcast-recommendations-strange-folk-from-history.opml
