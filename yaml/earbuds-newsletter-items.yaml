@@ -7350,6 +7350,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/contain-multitudes
   podcasts:
 
+  - title: Becoming the People Podcast with Prentis Hemphill
+    htmlUrl: https://becomingthepeople.buzzsprout.com/
+    xmlUrl: https://rss.buzzsprout.com/1108100.rss
+
+  - title: The Heart
+    htmlUrl: https://theheartradio.org/
+    xmlUrl: https://feeds.theheartradio.org/TheHeartRadio
+
+  - title: Appearances
+    htmlUrl: https://mermaidpalace.org/Appearances
+    xmlUrl: https://feeds.feedburner.com/appearancespodcast
+
+  - title: Weirdly Helpful (formerly The Best Advice Show)
+    htmlUrl: https://weirdlyhelpful.show/
+    xmlUrl: https://feeds.megaphone.fm/TPG9577137849
+
+  - title: You Made It Weird with Pete Holmes
+    htmlUrl: https://lemonadamedia.com/
+    xmlUrl: https://feeds.feedburner.com/YouMadeItWeird
+
 - name: A Surreal Wrap-Up
   opml: earbuds-podcast-recommendations-a-surreal-wrap-up.opml
   date: 2020-12-07
