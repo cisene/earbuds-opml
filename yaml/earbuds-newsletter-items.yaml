@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: '5 Podcasts: Complicated Narrative Stories with Unexpected Joyous Twists'
+  opml: earbuds-podcast-recommendations-5-podcasts-complicated-narrative-stories-with-unexpected-joyous-twists.opml
+  date: 2026-05-17
+  htmlUrl: https://newsletter.earbuds.audio/p/5-podcasts-unexpected-joy-and-complicated-twists
+  podcasts:
+
+  - title: The Obit Project
+    htmlUrl: https://www.theobitproject.org/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e09de6da-b14d-486a-8271-b19c00d572a0/e3c0351b-a6c4-45ff-ac15-b3fc00c064a0/0034ee29-5e31-42f9-9d8f-b3fc00c06bfa/podcast.rss
+
+  - title: 'Fela Kuti: Fear No Man'
+    htmlUrl: https://art19.com/shows/fela-kuti-fear-no-man
+    xmlUrl: https://rss.art19.com/fela-kuti-fear-no-man
+
+  - title: 'Outward: Slate''s LGBTQ podcast'
+    htmlUrl: https://slate.com/podcasts/outward
+    xmlUrl: https://feeds.acast.com/public/shows/695ea6f6a32e86d77583c599
+
+  - title: Believed
+    htmlUrl: https://www.npr.org/podcasts/510326/believed
+    xmlUrl: https://feeds.npr.org/510326/podcast.xml
+
+  - title: The Audio Flux Podcast
+    htmlUrl: https://play.prx.org/listen?uf=https%3A%2F%2Fpublicfeeds.net%2Ff%2F13755%2Faudioflux
+    xmlUrl: https://publicfeeds.net/f/13755/audioflux
+
 - name: 5 Podcasts for Life Tips Without the Hustle Culture
   opml: earbuds-podcast-recommendations-5-podcasts-for-life-tips-without-the-hustle-culture.opml
   date: 2026-05-11
