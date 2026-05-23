@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: 5 Podcasts for Life Tips Without the Hustle Culture
+  opml: earbuds-podcast-recommendations-5-podcasts-for-life-tips-without-the-hustle-culture.opml
+  date: 2026-05-11
+  htmlUrl: https://newsletter.earbuds.audio/p/5-productivity-and-life-hacks-tips-podcasts
+  podcasts:
+
+  - title: The Next Big Idea Daily
+    htmlUrl: https://nextbigideaclub.com/
+    xmlUrl: https://feeds.megaphone.fm/LI6195939129
+
+  - title: Daily Tips That May or May Not Help You
+    htmlUrl: https://redcircle.com/shows/daily-tips-podcast
+    xmlUrl: https://feeds.redcircle.com/71db5a0d-90bd-4ffb-9b8c-1c45994a18b1
+
+  - title: Life Kit
+    htmlUrl: https://www.npr.org/podcasts/510338/all-guides
+    xmlUrl: https://feeds.npr.org/510338/podcast.xml
+
+  - title: A Thought I Kept
+    htmlUrl: https://moregooddays.substack.com/podcast
+    xmlUrl: https://rss.buzzsprout.com/2521342.rss
+
+  - title: Just One Thing - with Michael Mosley
+    htmlUrl: https://www.bbc.co.uk/programmes/p09by3yy
+    xmlUrl: https://podcasts.files.bbci.co.uk/p09by3yy.rss
+
 - name: Podcast on Grief & Loss
   opml: earbuds-podcast-recommendations-podcast-on-grief-and-loss-2026.opml
   date: 2026-05-04
