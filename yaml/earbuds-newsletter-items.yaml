@@ -7480,6 +7480,26 @@ issues:
   htmlUrl: https://newsletter.earbuds.audio/p/strange-folk-history
   podcasts:
 
+  - title: The British History Podcast
+    htmlUrl: https://www.thebritishhistorypodcast.com/
+    xmlUrl: https://feeds.feedburner.com/TheBritishHistoryPodcast
+
+  - title: The Humanity Archive
+    htmlUrl: https://thehumanityarchive.com/
+    xmlUrl: https://rss.buzzsprout.com/1458226.rss
+
+  - title: The Dirt Podcast
+    htmlUrl: https://thedirtpod.com/
+    xmlUrl: https://feeds.captivate.fm/the-dirt-podcast/
+
+  - title: Noble Blood
+    htmlUrl: https://www.iheart.com/podcast/139-noble-blood-46601390
+    xmlUrl: https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/55B20558-9ADD-4D0B-8C42-AE300188D1AA/0BFDBA5F-FCCA-4C2F-8772-AE300188D1B8/podcast.rss
+
+  - title: Old Bones
+    htmlUrl: https://oldbones.co.uk/
+    xmlUrl: https://www.spreaker.com/show/3659218/episodes/feed
+
 - name: 'Podcast Recommendations: Trans* Perspectives and Experiences'
   opml: earbuds-podcast-recommendations-podcast-recommendations-trans-perspectives-and-experiences.opml
   date: 2020-11-15

@@ -293,6 +293,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 | [We Contain Multitudes](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-we-contain-multitudes.opml) | 2020-12-13 |
 | [A Surreal Wrap-Up](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-a-surreal-wrap-up.opml) | 2020-12-07 |
 | [Retro Pop Culture](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-retro-pop-culture.opml) | 2020-11-30 |
+| [Strange Folk From History](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-strange-folk-from-history.opml) | 2020-11-20 |
 
 
 
