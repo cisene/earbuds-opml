@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: 5 Pop Culture Podcasts
+  opml: earbuds-podcast-recommendations-5-popculture-podcasts.opml
+  date: 2026-05-25
+  htmlUrl: https://newsletter.earbuds.audio/p/5-pop-culture-podcasts-moments-you-might-have-missed
+  podcasts:
+
+  - title: Sentimental Garbage
+    htmlUrl: https://twitter.com/SentimentalPod
+    xmlUrl: https://feeds.acast.com/public/shows/edd6bde5-221e-4c07-bde8-2a0241ccc6e0
+
+  - title: Teen Creeps
+    htmlUrl: https://www.teencreepspod.com/
+    xmlUrl: https://feeds.acast.com/public/shows/681932c0eb146d8e35eee2ed
+
+  - title: The Stupid History Minute
+    htmlUrl: https://www.spreaker.com/show/the-stupid-history-minute
+    xmlUrl: https://www.spreaker.com/show/4965707/episodes/feed
+
+  - title: Rebel Ever After
+    htmlUrl: https://sites.libsyn.com/555132
+    xmlUrl: https://feeds.libsyn.com/555132/rss
+
+  - title: This Week In Fandom History
+    htmlUrl: https://www.thisweekinfandomhistory.com/
+    xmlUrl: https://feeds.libsyn.com/453702/rss
+
 - name: '5 Podcasts: Complicated Narrative Stories with Unexpected Joyous Twists'
   opml: earbuds-podcast-recommendations-5-podcasts-complicated-narrative-stories-with-unexpected-joyous-twists.opml
   date: 2026-05-17
