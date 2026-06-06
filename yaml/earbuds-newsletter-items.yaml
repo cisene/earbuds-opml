@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: Podcasts to Future-Proof Your Career
+  opml: earbuds-podcast-recommendations-5-podcasts-to-future-proof-your-career.opml
+  date: 2026-06-01
+  htmlUrl: https://newsletter.earbuds.audio/p/5-podcasts-to-future-proof-your-career
+  podcasts:
+
+  - title: We Are All Workerbees
+    htmlUrl: https://shows.acast.com/we-are-all-workerbees
+    xmlUrl: https://feeds.acast.com/public/shows/69d8040600eb02bda1b97db1
+
+  - title: Clock In with Emily Durham
+    htmlUrl: https://www.seekyoursounds.com/podcasts/clock-in
+    xmlUrl: https://feeds.simplecast.com/nvnwy_Tj
+
+  - title: Aspire with Emma Grede
+    htmlUrl: https://emmagrede.me/
+    xmlUrl: https://feeds.megaphone.fm/emma-grede
+
+  - title: Per My Last Email
+    htmlUrl: https://www.permylastemailshow.com/
+    xmlUrl: https://feeds.megaphone.fm/MOBI3448226780
+
+  - title: Happen To Your Career - Meaningful Work, Career Change, Career Design, & Job Search
+    htmlUrl: https://happentoyourcareer.com/podcast
+    xmlUrl: https://htycshow.libsyn.com/rss
+
 - name: 5 Pop Culture Podcasts
   opml: earbuds-podcast-recommendations-5-popculture-podcasts.opml
   date: 2026-05-25
