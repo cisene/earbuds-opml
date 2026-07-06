@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: "'90s Nostalgia Podcasts"
+  opml: earbuds-podcast-recommendations-90s-nostalgia-podcast-recommendations.opml
+  date: 2026-06-07
+  htmlUrl: https://newsletter.earbuds.audio/p/90s-nostalgia-podcast-recommendations
+  podcasts:
+
+  - title: Everybody Knows But Me
+    htmlUrl: https://www.nextchapterpodcasts.com/everybody-knows-but-me
+    xmlUrl: https://feeds.megaphone.fm/everybodyknowsbutme
+
+  - title: TalkGirl
+    htmlUrl: https://podcasters.spotify.com/pod/show/talkgirly2k
+    xmlUrl: https://anchor.fm/s/f98162b8/podcast/rss
+
+  - title: '1999: The Year That Rocked Cinema'
+    htmlUrl: https://podcasters.spotify.com/pod/show/1999-podcast
+    xmlUrl: https://anchor.fm/s/1f4d85b8/podcast/rss
+
+  - title: Pod Meets World
+    htmlUrl: https://www.iheart.com/podcast/1119-pod-meets-world-98589488/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9a432e8b-a377-4f7f-9474-aeb500ed9e5b/38417d40-704e-4842-92f3-aeb500ee2aba/podcast.rss
+
+  - title: Sentimental Garbage
+    htmlUrl: https://twitter.com/SentimentalPod
+    xmlUrl: https://feeds.acast.com/public/shows/edd6bde5-221e-4c07-bde8-2a0241ccc6e0
+
 - name: Podcasts to Future-Proof Your Career
   opml: earbuds-podcast-recommendations-5-podcasts-to-future-proof-your-career.opml
   date: 2026-06-01
