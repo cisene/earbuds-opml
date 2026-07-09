@@ -6,6 +6,52 @@ global:
 
 issues:
 
+- name: 10 Podcast Recommendations for Pride Month 2026
+  opml: earbuds-podcast-recommendations-10-podcast-recommendations-for-pride-month-2026.opml
+  date: 2026-06-28
+  htmlUrl: https://newsletter.earbuds.audio/p/10-podcast-recommendations-for-pride-month-2026
+  podcasts:
+
+  - title: The Gay Podcast for Everyone
+    htmlUrl: https://www.thegaypodcastforeveryone.com/
+    xmlUrl: https://rss.buzzsprout.com/1481272.rss
+
+  - title: Sista Brunch
+    htmlUrl: https://www.sistabrunch.com/
+    xmlUrl: https://anchor.fm/s/18e776c0/podcast/rss
+
+  - title: 'Outward: Slate''s LGBTQ podcast'
+    htmlUrl: https://slate.com/podcasts/outward
+    xmlUrl: https://feeds.acast.com/public/shows/695ea6f6a32e86d77583c599
+
+  - title: DJ Hesta Prynn''s Music is Therapy
+    htmlUrl: https://www.iheart.com/podcast/1119-dj-hesta-prynns-music-is-314213684/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/ba1743b1-6118-44b8-b911-b3bb010ebadc/01bd1abf-dff2-4861-b73e-b3bb010ebee1/podcast.rss
+
+  - title: Modern Dadhood | Unpacking Fatherhood + Parenting for Dads (and Moms!)
+    htmlUrl: https://moderndadhood.com/
+    xmlUrl: https://feeds.simplecast.com/PpglTPtc
+
+  - title: 'Spirits: Mythology, Legends, & Folklore'
+    htmlUrl: https://spiritspodcast.com/
+    xmlUrl: https://rss.art19.com/spirits
+
+  - title: Humans, On Rights
+    htmlUrl: https://art19.com/shows/humans-on-rights
+    xmlUrl: https://rss.art19.com/humans-on-rights
+
+  - title: 'Cultureful: Identity, Family, and Global History'
+    htmlUrl: https://linktr.ee/cultureful
+    xmlUrl: https://rss.buzzsprout.com/2271294.rss
+
+  - title: RedHanded
+    htmlUrl: https://audioboom.com/channels/5166531
+    xmlUrl: https://audioboom.com/channels/5166531.rss
+
+  - title: Consider This for Comfort
+    htmlUrl: https://podcasters.spotify.com/pod/show/eteng4
+    xmlUrl: https://rss.libsyn.com/shows/601435/destinations/5233820.xml
+
 - name: 5 Podcast Picks from Tribeca Festival 2026
   opml: earbuds-podcast-recommendations-5-podcast-picks-from-tribeca-festival-2026.opml
   date: 2026-06-21
