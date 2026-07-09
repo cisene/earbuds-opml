@@ -17,6 +17,8 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 
 | Weekly issus of the Earbuds Podcast Collective Newletters                           | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [Historical Objects & The Stories They Tell Us](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-historical-objects-and-the-stories-they-tell-us.opml) | 2026-06-14 |
+| ['90s Nostalgia Podcasts](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-90s-nostalgia-podcast-recommendations.opml) | 2026-06-07 |
 | [Podcasts to Future-Proof Your Career](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-podcasts-to-future-proof-your-career.opml) | 2026-06-01 |
 | [5 Pop Culture Podcasts](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-popculture-podcasts.opml) | 2026-05-25 |
 | [5 Podcasts: Complicated Narrative Stories with Unexpected Joyous Twists](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-podcasts-complicated-narrative-stories-with-unexpected-joyous-twists.opml) | 2026-05-17 |

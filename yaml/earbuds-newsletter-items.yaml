@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: Historical Objects & The Stories They Tell Us
+  opml: earbuds-podcast-recommendations-historical-objects-and-the-stories-they-tell-us.opml
+  date: 2026-06-14
+  htmlUrl: https://newsletter.earbuds.audio/p/podcasts-on-historical-objects-and-the-stories-they-tell-us
+  podcasts:
+
+  - title: What''s Your Map?
+    htmlUrl: https://oculi-mundi.com/
+    xmlUrl: https://audioboom.com/channels/5139633.rss
+
+  - title: Articles of Interest
+    htmlUrl: https://play.prx.org/listen?uf=https%3A%2F%2Ffeed.articlesofinterest.club%2F
+    xmlUrl: https://feed.articlesofinterest.club/
+
+  - title: The Curious History of Your Home
+    htmlUrl: https://www.noiser.com/
+    xmlUrl: https://feeds.megaphone.fm/thecurioushistoryofyourhome
+
+  - title: A History of the World in 100 Objects
+    htmlUrl: https://www.bbc.co.uk/programmes/b00nrtd2
+    xmlUrl: https://podcasts.files.bbci.co.uk/b00nrtd2.rss
+
+  - title: Not Just the Tudors
+    htmlUrl: https://www.historyhit.com/podcasts/
+    xmlUrl: https://access.acast.com/rss/b0ed85cc-f4ed-49e9-b860-0ba48481ae25
+
 - name: "'90s Nostalgia Podcasts"
   opml: earbuds-podcast-recommendations-90s-nostalgia-podcast-recommendations.opml
   date: 2026-06-07
