@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: 5 Essential Podcasts About Women's Health and Medical Advocacy
+  opml: earbuds-podcast-recommendations-5-essential-podcasts-about-womens-health-and-medical-advocacy.opml
+  date: 2026-07-05
+  htmlUrl: https://newsletter.earbuds.audio/p/5-womens-health-podcast-recommendations
+  podcasts:
+
+  - title: The Hairy Chin Podcast
+    htmlUrl: https://www.thehairychin.com/
+    xmlUrl: https://feeds.captivate.fm/the-hairy-chin-podcast/
+
+  - title: Test Those Breasts ®
+    htmlUrl: https://testthosebreasts.buzzsprout.com/
+    xmlUrl: https://api.riverside.fm/hosting/Wa19hm1o.rss
+
+  - title: ADHD Women''s Wellbeing Podcast
+    htmlUrl: https://www.adhdwomenswellbeing.co.uk/
+    xmlUrl: https://feeds.captivate.fm/the-adhd-womens-wellbe/
+
+  - title: Sleep is My Waking Passion
+    htmlUrl: https://sleepismywakingpassion.buzzsprout.com/
+    xmlUrl: https://rss.buzzsprout.com/2173002.rss
+
+  - title: Prowl The LAB Podcast
+    htmlUrl: https://www.prowlthelab.com/
+    xmlUrl: https://anchor.fm/s/1018294dc/podcast/rss
+
 - name: 10 Podcast Recommendations for Pride Month 2026
   opml: earbuds-podcast-recommendations-10-podcast-recommendations-for-pride-month-2026.opml
   date: 2026-06-28
