@@ -6,6 +6,234 @@ global:
 
 issues:
 
+- name: 5 Movie Podcasts That Defend the Flops
+  opml: earbuds-podcast-recommendations-5-movie-podcasts-that-defend-the-flops.opml
+  date: 2026-08-31
+  htmlUrl: https://newsletter.earbuds.audio/p/5-movie-podcasts-that-defend-the-flops
+  podcasts:
+
+  - title: Blank Check with Griffin & David
+    htmlUrl: https://www.patreon.com/cw/blankcheck
+    xmlUrl: https://feeds.megaphone.fm/blank-check
+
+  - title: You Must Remember This
+    htmlUrl: https://youmustrememberthispodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/YMRT7068253588
+
+  - title: The Rewatchables
+    htmlUrl: https://www.theringer.com/
+    xmlUrl: https://feeds.megaphone.fm/the-rewatchables
+
+  - title: I Hate It But I Love It
+    htmlUrl: https://hatelovepodcast.libsyn.com/podcast
+    xmlUrl: https://hatelovepodcast.com/rss
+
+  - title: Slept-On Cinema
+    htmlUrl: https://shows.acast.com/slept-on-cinema
+    xmlUrl: https://feeds.acast.com/public/shows/619437983a04890013fee7e6
+
+- name: 5 Podcasts to Help You Build Some Inner Peace
+  opml: earbuds-podcast-recommendations-5-podcasts-to-help-you-build-some-inner-peace.opml
+  date: 2026-08-24
+  htmlUrl: https://newsletter.earbuds.audio/p/5-podcasts-to-help-you-build-some-inner-peace
+  podcasts:
+
+  - title: Finding Treasures in the Trash
+    htmlUrl: https://www.bravedirections.com/
+    xmlUrl: https://feeds.captivate.fm/finding-treasures-in-the-trash/
+
+  - title: Circles | Edges
+    htmlUrl: https://circles-edges.captivate.fm/
+    xmlUrl: https://feeds.captivate.fm/circles-edges/
+
+  - title: Create Magic At Work®
+    htmlUrl: https://createmagicatwork.net/
+    xmlUrl: https://feeds.captivate.fm/create-magic-at-work-r/
+
+  - title: The Ballet of Empathy
+    htmlUrl: https://the-ballet-of-empathy.captivate.fm/
+    xmlUrl: https://feeds.captivate.fm/the-ballet-of-empathy/
+
+  - title: The Edge of Everyday with Sandra Bargman
+    htmlUrl: https://www.sandrabargman.com/podcast
+    xmlUrl: https://feeds.captivate.fm/the-edge-of-everyday/
+
+- name: 5 Nerdy Deep-Dive Podcasts to Fuel Your Escapism
+  opml: earbuds-podcast-recommendations-5-nerdy-deep-dive-podcasts-to-fuel-your-escapism.opml
+  date: 2026-08-17
+  htmlUrl: https://newsletter.earbuds.audio/p/5-podcasts-to-get-lost-in-fantasy-escape
+  podcasts:
+
+  - title: Hot and Bothered
+    htmlUrl: https://www.hotandbotheredrompod.com/
+    xmlUrl: https://feeds.acast.com/public/shows/8db78936-153d-56f6-b6d4-fa61364322f6
+
+  - title: House of R
+    htmlUrl: https://www.theringer.com/podcasts/house-of-r
+    xmlUrl: https://feeds.megaphone.fm/house-of-r
+
+  - title: Morbid
+    htmlUrl: https://morbid-53aa329e.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/ohmVlJZQ
+
+  - title: Fantasy Fangirls
+    htmlUrl: https://www.fantasyfangirls.com/
+    xmlUrl: https://rss.pdrl.fm/b18a20/feeds.acast.com/public/shows/681a593c1d28d623131601be
+
+  - title: 'Dragons in the Details: A Crescent City & Maasverse Deep Dive Podcast'
+    htmlUrl: https://www.dragonsinthedetails.com/
+    xmlUrl: https://anchor.fm/s/10156c2e4/podcast/rss
+
+- name: 'Build a Better Business: 5 Career & Business Podcast Recommendations'
+  opml: earbuds-podcast-recommendations-build-a-better-business-5-career-and-business-podcast-recommendations.opml
+  date: 2026-08-10
+  htmlUrl: https://newsletter.earbuds.audio/p/5-career-business-podcast-recommendations-acquired-work-life
+  podcasts:
+
+  - title: Acquired
+    htmlUrl: https://acquired.fm/
+    xmlUrl: https://feeds.transistor.fm/acquired
+
+  - title: Worklife with Molly Graham
+    htmlUrl: https://www.ted.com/podcasts/worklife
+    xmlUrl: https://feeds.feedburner.com/WorklifeWithAdamGrant
+
+  - title: The Meaningful Shift Podcast
+    htmlUrl: https://themeaningfulshift.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/3367446.rss
+
+  - title: CEO Podcast | The leaders shaping our world
+    htmlUrl: https://www.ceo.com/podcast/
+    xmlUrl: https://www.spreaker.com/show/5785430/episodes/feed
+
+  - title: Dots and Dreams
+    htmlUrl: https://dotsanddreamspodcast.substack.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/6949028.rss
+
+- name: 5 Podcasts That Give You Permission to Rest
+  opml: earbuds-podcast-recommendations-5-podcasts-that-give-you-permission-to-rest.opml
+  date: 2026-08-03
+  htmlUrl: https://newsletter.earbuds.audio/p/5-podcasts-that-give-you-permission-to-rest
+  podcasts:
+
+  - title: 'It''s About Time | Time Management & Productivity for Work Life & Balance'
+    htmlUrl: https://www.abouttimepodcast.com/
+    xmlUrl: https://feeds.libsyn.com/227531/rss
+
+  - title: Mindful Productivity Podcast
+    htmlUrl: https://www.sarahsteckler.com/
+    xmlUrl: https://rss.buzzsprout.com/1001887.rss
+
+  - title: Delicious Life™ - Self-Kindness, Less Servitude & Permission to Re-invent
+    htmlUrl: https://sites.libsyn.com/595905
+    xmlUrl: https://feeds.libsyn.com/595905/rss
+
+  - title: Mystical Sisterhood
+    htmlUrl: https://www.maureenspielman.com/
+    xmlUrl: https://feeds.captivate.fm/mystical-sisterhood/
+
+  - title: 'Seriously Funny: Women Who Humor and Change the Rules'
+    htmlUrl: https://www.keepingithuman.com/
+    xmlUrl: https://anchor.fm/s/8b1036b0/podcast/rss
+
+- name: 5 Outdoors Podcasts from NPR's American Storytelling Collection
+  opml: earbuds-podcast-recommendations-5-outdoors-podcasts-from-nprs-american-storytelling-collection.opml
+  date: 2026-07-27
+  htmlUrl: https://newsletter.earbuds.audio/p/5-outdoors-podcasts-npr-storytelling-collection
+  podcasts:
+
+  - title: Beyond the Shore
+    htmlUrl: https://play.prx.org/listen?uf=https%3A%2F%2Fpublicfeeds.net%2Ff%2F17187%2Fbeyond-the-shore
+    xmlUrl: https://publicfeeds.net/f/17187/beyond-the-shore
+
+  - title: How Wild
+    htmlUrl: https://www.npr.org/podcasts/510383/how-wild
+    xmlUrl: https://publicfeeds.net/f/16528/feed-rss.xml
+
+  - title: Howl
+    htmlUrl: https://play.prx.org/listen?uf=https%3A%2F%2Fpublicfeeds.net%2Ff%2F12567%2Ffeed-rss.xml
+    xmlUrl: https://publicfeeds.net/f/12567/feed-rss.xml
+
+  - title: Terra Firma
+    htmlUrl: https://www.cpr.org/podcast/terra-firma/
+    xmlUrl: https://pod.cpr.org/terrafirma/
+
+  - title: Bright Lit Place
+    htmlUrl: https://www.npr.org/podcasts/510373/bright-lit-place
+    xmlUrl: https://publicfeeds.net/f/10127/feed-rss.xml
+
+- name: 5 British Podcasts Worth Checking Out
+  opml: earbuds-podcast-recommendations-5-british-podcasts-worth-checking-out.opml
+  date: 2026-07-20
+  htmlUrl: https://newsletter.earbuds.audio/p/5-british-podcasts-worth-checking-out
+  podcasts:
+
+  - title: Athletico Mince
+    htmlUrl: https://athleticomince.com/
+    xmlUrl: https://feeds.acast.com/public/shows/512e6e5b-1328-4152-869e-16ad11c71e70
+
+  - title: No Such Thing As A Fish
+    htmlUrl: https://nosuchthingasafish.com/
+    xmlUrl: https://audioboom.com/channels/2399216.rss
+
+  - title: Kill List
+    htmlUrl: https://wondery.com/shows/kill-list/
+    xmlUrl: https://rss.art19.com/kill-list
+
+  - title: Elis James and John Robins
+    htmlUrl: https://shows.acast.com/elis-james-and-john-robins
+    xmlUrl: https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20
+
+  - title: 'Betwixt The Sheets: The History of Sex, Scandal & Society'
+    htmlUrl: https://play.acast.com/s/betwixt-the-sheets
+    xmlUrl: https://feeds.acast.com/public/shows/60032060-080e-42c5-ac26-f93fc2b4d612
+
+- name: 10 Podcasts on Space That Venture Beyond Earth
+  opml: earbuds-podcast-recommendations-10-podcasts-on-space-that-venture-beyond-earth.opml
+  date: 2020-07-13
+  htmlUrl: https://newsletter.earbuds.audio/p/10-podcasts-on-outer-space-2026
+  podcasts: 
+
+  - title: 'NASA''s Curious Universe'
+    htmlUrl: https://www.nasa.gov/podcasts/curious-universe/
+    xmlUrl: https://feeds.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8162188566
+
+  - title: Patches4Space with Dr. Sian Proctor and Beth Mund
+    htmlUrl: https://www.youtube.com/@DrSianProctor
+    xmlUrl: https://openrss.org/feed/www.youtube.com/@DrSianProctor/videos
+
+  - title: Ologies with Alie Ward
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/FO6kxYGj
+
+  - title: Radiolab
+    htmlUrl: https://www.radiolab.org/
+    xmlUrl: https://feeds.feedburner.com/radiolab
+
+  - title: Art Astra Podcast
+    htmlUrl: https://artastrapodcast.libsyn.com/
+    xmlUrl: https://feeds.libsyn.com/339212/rss
+
+  - title: Found in the Machine
+    htmlUrl: https://foundinthemachine.com/
+    xmlUrl: https://rss.buzzsprout.com/2597910.rss
+
+  - title: Stories from Space
+    htmlUrl: https://storiesfromspace.simplecast.com/
+    xmlUrl: https://feeds.simplecast.com/lULyMuAV
+
+  - title: American Hysteria
+    htmlUrl: https://www.americanhysteria.com/
+    xmlUrl: https://feeds.megaphone.fm/WIZD3928139307
+
+  - title: Very Special Episodes
+    htmlUrl: https://www.iheart.com/podcast/1119-very-special-episodes-145325754/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a9f8aaf1-b12b-40b8-85aa-b08f0126e2b6/1581fee1-5f5c-4277-9efe-b08f0127bab2/podcast.rss
+
+  - title: the memory palace
+    htmlUrl: https://thememorypalace.us/
+    xmlUrl: https://feeds.thememorypalace.us/thememorypalace
+
 - name: 5 Essential Podcasts About Women's Health and Medical Advocacy
   opml: earbuds-podcast-recommendations-5-essential-podcasts-about-womens-health-and-medical-advocacy.opml
   date: 2026-07-05

@@ -17,6 +17,14 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 
 | Weekly issus of the Earbuds Podcast Collective Newletters                           | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [5 Movie Podcasts That Defend the Flops](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-movie-podcasts-that-defend-the-flops.opml) | 2026-08-31 |
+| [5 Podcasts to Help You Build Some Inner Peace](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-podcasts-to-help-you-build-some-inner-peace.opml) | 2026-08-24 |
+| [5 Nerdy Deep-Dive Podcasts to Fuel Your Escapism](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-nerdy-deep-dive-podcasts-to-fuel-your-escapism.opml) | 2026-08-17 |
+| [Build a Better Business: 5 Career & Business Podcast Recommendations](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-build-a-better-business-5-career-and-business-podcast-recommendations.opml) | 2026-08-10 |
+| [5 Podcasts That Give You Permission to Rest](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-podcasts-that-give-you-permission-to-rest.opml) | 2026-08-03 |
+| [5 Outdoors Podcasts from NPR's American Storytelling Collection](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-outdoors-podcasts-from-nprs-american-storytelling-collection.opml) | 2026-07-27 |
+| [5 British Podcasts Worth Checking Out](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-british-podcasts-worth-checking-out.opml) | 2026-07-20 |
+| [10 Podcasts on Space That Venture Beyond Earth](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-10-podcasts-on-space-that-venture-beyond-earth.opml) | 2020-07-13 |
 | [5 Essential Podcasts About Women's Health and Medical Advocacy](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-essential-podcasts-about-womens-health-and-medical-advocacy.opml) | 2026-07-05 |
 | [10 Podcast Recommendations for Pride Month 2026](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-10-podcast-recommendations-for-pride-month-2026.opml) | 2026-06-28 |
 | [5 Podcast Picks from Tribeca Festival 2026](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-podcast-picks-from-tribeca-festival-2026.opml) | 2026-06-21 |
