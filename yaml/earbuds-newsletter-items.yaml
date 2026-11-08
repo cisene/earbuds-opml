@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: 'How to Get the Kids to Sleep: 6 Podcasts to Try'
+  opml: earbuds-podcast-recommendations-how-to-get-the-kids-to-sleep-6-podcasts-to-try.opml
+  date: 2026-09-27
+  htmlUrl: https://newsletter.earbuds.audio/p/6-podcasts-for-bedtime-kids-stories
+  podcasts:
+
+  - title: 'Little Stories for Tiny People: Anytime and bedtime stories for kids'
+    htmlUrl: https://www.littlestoriestinypeople.com/
+    xmlUrl: https://www.littlestoriestinypeople.com/podcast.xml
+
+  - title: Be Calm on Ahway Island | Bedtime Stories with Meditations for Kids
+    htmlUrl: https://redcircle.com/shows/be-calm-on-ahway-island
+    xmlUrl: https://feeds.redcircle.com/bfdb7e07-e420-4c28-bb64-7f2d02ae1738
+
+  - title: Bedtime Stories by Koala Moon
+    htmlUrl: https://koalamoon.fm/
+    xmlUrl: https://feeds.megaphone.fm/HAPPY1668236391
+
+  - title: 'Once Upon A Crescent: Muslim Kids Podcast'
+    htmlUrl: https://www.mrshashimi.com/
+    xmlUrl: https://anchor.fm/s/f17cf3ac/podcast/rss
+
+  - title: 'Kayo the Penguin: Calm Audio Stories for Kids'
+    htmlUrl: https://podcasters.spotify.com/pod/show/holaola-stories0
+    xmlUrl: https://anchor.fm/s/115fb28c0/podcast/rss
+
 - name: Podcasts I discovered at Podcast Movement
   opml: earbuds-podcast-recommendations-podcasts-i-discovered-at-podcast-movement.opml
   date: 2026-09-20
