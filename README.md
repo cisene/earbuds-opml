@@ -17,6 +17,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 
 | Weekly issus of the Earbuds Podcast Collective Newletters                           | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [5 Podcasts About the Resources We’re Flushing Away](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-podcasts-about-the-resources-we-are-flushing-away.opml) | 2026-10-04 |
 | [How to Get the Kids to Sleep: 6 Podcasts to Try](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-how-to-get-the-kids-to-sleep-6-podcasts-to-try.opml) | 2026-09-27 |
 | [Podcasts I discovered at Podcast Movement](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-podcasts-i-discovered-at-podcast-movement.opml) | 2026-09-20 |
 | [The Idea Disruption Podcast Playlist](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-the-idea-disruption-podcast-playlist.opml) | 2026-09-14 |

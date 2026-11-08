@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: 5 Podcasts About the Resources We’re Flushing Away
+  opml: earbuds-podcast-recommendations-5-podcasts-about-the-resources-we-are-flushing-away.opml
+  date: 2026-10-04
+  htmlUrl: https://newsletter.earbuds.audio/p/5-podcasts-on-rethinking-waste-and-sustainability
+  podcasts:
+
+  - title: Rear Vision — How History Shaped Today
+    htmlUrl: https://www.abc.net.au/listen/programs/rearvision/
+    xmlUrl: https://www.abc.net.au/feeds/2890034/podcast.xml
+
+  - title: Radiolab
+    htmlUrl: https://www.radiolab.org/
+    xmlUrl: https://feeds.feedburner.com/radiolab
+
+  - title: Circular Economy Podcast
+    htmlUrl: https://www.rethinkglobal.info/
+    xmlUrl: https://www.rethinkglobal.info/feed/podcast/
+
+  - title: Future Ecologies
+    htmlUrl: https://www.futureecologies.net/
+    xmlUrl: https://feeds.captivate.fm/future-ecologies/
+
+  - title: Scene on Radio
+    htmlUrl: http://www.sceneonradio.org/
+    xmlUrl: https://feeds.sceneonradio.org/SceneOnRadio
+
 - name: 'How to Get the Kids to Sleep: 6 Podcasts to Try'
   opml: earbuds-podcast-recommendations-how-to-get-the-kids-to-sleep-6-podcasts-to-try.opml
   date: 2026-09-27
