@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: Everybody loves (podcasts about) boobs
+  opml: earbuds-podcast-recommendations-everybody-loves-podcasts-about-boobs.opml
+  date: 2026-10-18
+  htmlUrl: https://newsletter.earbuds.audio/p/everybody-loves-podcasts-about-boobs-breast-cancer-awareness
+  podcasts:
+
+  - title: 'Everybody Loves Boobs: The Podcast'
+    htmlUrl: https://everybodylovesboobs.buzzsprout.com/
+    xmlUrl: https://rss.buzzsprout.com/2624247.rss
+
+  - title: Breast Cancer Conversations
+    htmlUrl: http://www.survivingbreastcancer.org/
+    xmlUrl: https://rss.buzzsprout.com/1144085.rss
+
+  - title: Breastcancer.org Podcast
+    htmlUrl: https://www.breastcancer.org/podcasts
+    xmlUrl: https://feeds.megaphone.fm/breastcancerorg-podcast
+
+  - title: Breast Cancer Resilience Radio
+    htmlUrl: https://breastcancerresilienceradio.buzzsprout.com/
+    xmlUrl: https://rss.buzzsprout.com/2421844.rss
+
+  - title: Real Pink
+    htmlUrl: https://realpink.komen.org/archive/
+    xmlUrl: https://feeds.fireside.fm/realpink/rss
+
 - name: 5 Podcasts About Families and Where We Come From
   opml: earbuds-podcast-recommendations-5-podcasts-about-families-and-where-we-come-from.opml
   date: 2026-10-12

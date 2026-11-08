@@ -17,6 +17,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 
 | Weekly issus of the Earbuds Podcast Collective Newletters                           | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [Everybody loves (podcasts about) boobs](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-everybody-loves-podcasts-about-boobs.opml) | 2026-10-18 |
 | [5 Podcasts About Families and Where We Come From](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-podcasts-about-families-and-where-we-come-from.opml) | 2026-10-12 |
 | [5 Podcasts About the Resources We’re Flushing Away](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-podcasts-about-the-resources-we-are-flushing-away.opml) | 2026-10-04 |
 | [How to Get the Kids to Sleep: 6 Podcasts to Try](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-how-to-get-the-kids-to-sleep-6-podcasts-to-try.opml) | 2026-09-27 |
