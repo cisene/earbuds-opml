@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: The Idea Disruption Podcast Playlist
+  opml: earbuds-podcast-recommendations-the-idea-disruption-podcast-playlist.opml
+  date: 2025-09-14
+  htmlUrl:
+  podcasts:
+
+  - title: The Wellness Mama Podcast
+    htmlUrl: https://www.buzzsprout.com/196948
+    xmlUrl: https://rss.buzzsprout.com/196948.rss
+
+  - title: Scene on Radio
+    htmlUrl: http://www.sceneonradio.org/
+    xmlUrl: https://feeds.sceneonradio.org/SceneOnRadio
+
+  - title: The Reality Between Us
+    htmlUrl: https://the-reality-between-us.captivate.fm/
+    xmlUrl: https://feeds.captivate.fm/the-reality-between-us/
+
+  - title: Hidden Brain
+    htmlUrl: https://www.siriusxm.com/
+    xmlUrl: https://feeds.simplecast.com/kwWc0lhf
+
+  - title: The Diary Of A CEO with Steven Bartlett
+    htmlUrl: https://steven.com/
+    xmlUrl: https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn
+
 - name: 5 Podcast Episodes Exploring the Power of Apology
   opml: earbuds-podcast-recommendations-5-podcast-episodes-exploring-the-power-of-apology.opml
   date: 2026-09-07
