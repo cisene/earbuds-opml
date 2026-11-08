@@ -17,7 +17,8 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 
 | Weekly issus of the Earbuds Podcast Collective Newletters                           | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
-| [The Idea Disruption Podcast Playlist](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-the-idea-disruption-podcast-playlist.opml) | 2025-09-14 |
+| [Podcasts I discovered at Podcast Movement](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-podcasts-i-discovered-at-podcast-movement.opml) | 2026-09-20 |
+| [The Idea Disruption Podcast Playlist](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-the-idea-disruption-podcast-playlist.opml) | 2026-09-14 |
 | [5 Podcast Episodes Exploring the Power of Apology](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-podcast-episodes-exploring-the-power-of-apology.opml) | 2026-09-07 |
 | [5 Movie Podcasts That Defend the Flops](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-movie-podcasts-that-defend-the-flops.opml) | 2026-08-31 |
 | [5 Podcasts to Help You Build Some Inner Peace](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-podcasts-to-help-you-build-some-inner-peace.opml) | 2026-08-24 |

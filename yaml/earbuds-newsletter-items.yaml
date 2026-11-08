@@ -6,10 +6,36 @@ global:
 
 issues:
 
+- name: Podcasts I discovered at Podcast Movement
+  opml: earbuds-podcast-recommendations-podcasts-i-discovered-at-podcast-movement.opml
+  date: 2026-09-20
+  htmlUrl: https://newsletter.earbuds.audio/p/podcasts-i-discovered-at-podcast-movement
+  podcasts:
+
+  - title: Plot Lab
+    htmlUrl: https://rss.com/podcasts/plot-lab
+    xmlUrl: https://media.rss.com/plot-lab/feed.xml
+
+  - title: Bearily Bear Reimagined Fairy Tales
+    htmlUrl: http://www.bearilybear.com/
+    xmlUrl: https://rss.buzzsprout.com/1903222.rss
+
+  - title: The Secret Life of TK Dutes
+    htmlUrl: https://feeds.transistor.fm/the-secret-life-of-tk
+    xmlUrl: https://feeds.transistor.fm/the-secret-life-of-tk
+
+  - title: 'American Nightmares: The Canal Murders'
+    htmlUrl: https://art19.com/shows/wtop-s-american-nightmare-series
+    xmlUrl: https://rss.pdrl.fm/30ba37/rss.art19.com/wtop-s-american-nightmare-series
+
+  - title: This Feels Familiar with Minaa B.
+    htmlUrl: https://www.minaab.com/
+    xmlUrl: https://feeds.megaphone.fm/LLUOO9339120130
+
 - name: The Idea Disruption Podcast Playlist
   opml: earbuds-podcast-recommendations-the-idea-disruption-podcast-playlist.opml
-  date: 2025-09-14
-  htmlUrl:
+  date: 2026-09-14
+  htmlUrl: https://newsletter.earbuds.audio/p/idea-disruption-podcast-playlist
   podcasts:
 
   - title: The Wellness Mama Podcast
