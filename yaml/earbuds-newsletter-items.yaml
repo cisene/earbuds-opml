@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: 5 Podcast Episodes Exploring the Power of Apology
+  opml: earbuds-podcast-recommendations-5-podcast-episodes-exploring-the-power-of-apology.opml
+  date: 2026-09-07
+  htmlUrl: https://newsletter.earbuds.audio/p/5-podcast-episodes-exploring-the-power-of-apology
+  podcasts:
+
+  - title: 'Radical Candor: Communication at Work'
+    htmlUrl: https://www.radicalcandor.com/candor-podcast/
+    xmlUrl: https://feeds.megaphone.fm/radicalcandor
+
+  - title: Asking For A Friend with TalkDoc
+    htmlUrl: https://afafpodcast.podbean.com/
+    xmlUrl: https://feed.podbean.com/afafpodcast/feed.xml
+
+  - title: The Jefferson Fisher Podcast
+    htmlUrl: https://www.jeffersonfisher.com/
+    xmlUrl: https://feeds.megaphone.fm/CIVILITYMEDIALLC9599576334
+
+  - title: This Week In Fandom History
+    htmlUrl: https://art19.com/shows/this-week-in-fandom-history
+    xmlUrl: https://rss.art19.com/this-week-in-fandom-history
+
+  - title: 'SUPER SORRY: Marvel Movie Reviews & Apologies'
+    htmlUrl: https://supersorry.com/
+    xmlUrl: https://feeds.captivate.fm/super-sorry/
+
 - name: 5 Movie Podcasts That Defend the Flops
   opml: earbuds-podcast-recommendations-5-movie-podcasts-that-defend-the-flops.opml
   date: 2026-08-31

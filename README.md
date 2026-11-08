@@ -17,6 +17,7 @@ All collections are browseable and downloadable at [b19.se/data/opml/earbuds/](h
 
 | Weekly issus of the Earbuds Podcast Collective Newletters                           | Date       |
 | ----------------------------------------------------------------------------------- | ---------- |
+| [5 Podcast Episodes Exploring the Power of Apology](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-podcast-episodes-exploring-the-power-of-apology.opml) | 2026-09-07 |
 | [5 Movie Podcasts That Defend the Flops](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-movie-podcasts-that-defend-the-flops.opml) | 2026-08-31 |
 | [5 Podcasts to Help You Build Some Inner Peace](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-podcasts-to-help-you-build-some-inner-peace.opml) | 2026-08-24 |
 | [5 Nerdy Deep-Dive Podcasts to Fuel Your Escapism](https://b19.se/data/opml/earbuds/earbuds-podcast-recommendations-5-nerdy-deep-dive-podcasts-to-fuel-your-escapism.opml) | 2026-08-17 |
