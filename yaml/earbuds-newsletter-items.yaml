@@ -6,6 +6,32 @@ global:
 
 issues:
 
+- name: 5 Podcasts About Families and Where We Come From
+  opml: earbuds-podcast-recommendations-5-podcasts-about-families-and-where-we-come-from.opml
+  date: 2026-10-12
+  htmlUrl: https://newsletter.earbuds.audio/p/5-family-journey-podcasts-about-where-we-come-from
+  podcasts:
+
+  - title: Short Cuts
+    htmlUrl: http://www.bbc.co.uk/programmes/b01mk3f8
+    xmlUrl: https://podcasts.files.bbci.co.uk/b01mk3f8.rss
+
+  - title: UnFictional
+    htmlUrl: https://www.kcrw.com/culture/shows/unfictional?utm_source=KCRW&utm_medium=RSS&utm_campaign=kcrw-show-rss
+    xmlUrl: https://feed.cdnstream1.com/zjb/feed/download/ec/64/e7/ec64e739-e116-4ce0-84c5-76917e52f4fa.xml
+
+  - title: Stolen
+    htmlUrl: https://feeds.megaphone.fm/stolen-jermain-spot
+    xmlUrl: https://feeds.megaphone.fm/stolen-jermain-spot
+
+  - title: Radio Ambulante
+    htmlUrl: https://www.iheart.com/podcast/7-radio-ambulante-28457191/
+    xmlUrl: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/b3c9b6e7-72ba-45c4-aff9-b1e7012d213b/092b66a8-4329-4183-bb12-b1e7012d216f/podcast.rss
+
+  - title: Short Cuts
+    htmlUrl: http://www.bbc.co.uk/programmes/b01mk3f8
+    xmlUrl: https://podcasts.files.bbci.co.uk/b01mk3f8.rss
+
 - name: 5 Podcasts About the Resources We’re Flushing Away
   opml: earbuds-podcast-recommendations-5-podcasts-about-the-resources-we-are-flushing-away.opml
   date: 2026-10-04
